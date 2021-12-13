@@ -196,51 +196,97 @@
   </header>
 
   <article>
-    <p><a href="https://carnap.io" target="_blank" rel="noopener noreferrer">Carnap.io</a> is logic software that runs in a browser. JohnsonSL is a propositional logic system that can be used with <em>forallx: the Mississippi State edition</em>; it is also similar to the system found in Allen and Hand’s <em>Logic Primer</em> (although it uses Fitch notation, not the Lemmon-style system that is in the <em>Logic Primer</em>).</p>
-
-<p>The system is called JohnsonSL, and an extension that includes some derived rules is called JohnsonSLPlus.</p>
+    <p><a href="https://carnap.io" target="_blank" rel="noopener noreferrer">Carnap.io</a> is logic software that runs in a browser. JohnsonSL is a propositional logic system for <em>forallx: Mississippi State</em> that can be use in Carnap.</p>
 
 <p>These are the rules of derivation in JohnsonSL:</p>
 
-<blockquote>
-  <p>conjunction-introduction (&amp;I): P, Q \(\vdash\) P &amp; Q</p>
+<ol>
+  <li>
+    <p>conjunction-introduction (&amp;I): P, Q \(\vdash\) P &amp; Q</p>
+  </li>
+  <li>
+    <p>conjunction-elimination (&amp;E): P &amp; Q \(\vdash\) P or P &amp; Q \(\vdash\) Q</p>
+  </li>
+  <li>
+    <p>disjunction-introduction (\(\vee\)I): P \(\vdash\) P \(\vee\) Q or P \(\vdash\) Q \(\vee\) P</p>
+  </li>
+  <li>
+    <p>disjunction-elimination (\(\vee\)E): P \(\vee\) Q, \(\neg\)P \(\vdash\) Q</p>
+  </li>
+  <li>
+    <p>conditional-elimination (\(\rightarrow\)E): P \(\rightarrow\) Q, P \(\vdash\) Q</p>
+  </li>
+  <li>
+    <p>biconditional-introduction (\(\leftrightarrow\)I): P \(\rightarrow\) Q, Q \(\rightarrow\) P \(\vdash\) P \(\leftrightarrow\) Q</p>
+  </li>
+  <li>
+    <p>biconditional-elimination (\(\leftrightarrow\)E): P \(\leftrightarrow\) Q, P \(\vdash\) Q or P \(\leftrightarrow\) Q, Q \(\vdash\) P</p>
+  </li>
+  <li>
+    <p>double-negation (DN): \(\neg\neg\)P \(\vdash\) P or P \(\vdash\) \(\neg\neg\)P</p>
+  </li>
+  <li>
+    <p>reiteration (R): P \(\vdash\) P</p>
+  </li>
+  <li>
+    <p>conditional-introduction (\(\rightarrow\)I): from a subproof beginning with the assumption A and ending with B, infer A \(\rightarrow\) B.</p>
+  </li>
+  <li>
+    <p>negation-introduction (\(\neg\)I or RAA): from a subproof beginning with the assumption A and ending with B and \(\neg\)B (or \(\neg\)B and B) on consecutive lines, infer \(\neg\)A.</p>
+  </li>
+  <li>
+    <p>negation-elimination (\(\neg\)E or RAA): from a subproof beginning with the assumption \(\neg\)A and ending with B and \(\neg\)B (or \(\neg\)B and B) on consecutive lines, infer A.</p>
+  </li>
+</ol>
 
-  <p>conjunction-elimination (&amp;E): P &amp; Q \(\vdash\) P or P &amp; Q \(\vdash\) Q</p>
+<p>The symbols for the logical operators are \(\neg\), &amp;, \(\vee\), \(\rightarrow\), and \(\leftrightarrow\), and they are typed with ~, &amp;, v, -&gt;, and &lt;-&gt;. Premises are labeled with ‘PR’. Other assumptions are labeled with ‘AS’. The parentheses dropping conventions are as follows. \(\vee\) binds more strongly than &amp;; &amp; binds more strongly than \(\rightarrow\) and \(\leftrightarrow\); \(\rightarrow\) and \(\leftrightarrow\) bind equally strongly.</p>
 
-  <p>disjunction-introduction (\(\vee\)I): P \(\vdash\) P \(\vee\) Q or P \(\vdash\) Q \(\vee\) P</p>
+<h5>Some further explanation</h5>
 
-  <p>disjunction-elimination (\(\vee\)E): P \(\vee\) Q, \(\neg\)P \(\vdash\) Q</p>
+<p>The disjunction-elimination rule requires the negation, not merely the denial, of one of the disjuncts. Consequently, to derive P from P \(\vee\) \(\neg\)Q and Q, the double-negation rule has to be used—for example, as shown below on the left.</p>
 
-  <p>conditional-elimination (\(\rightarrow\)E): P \(\rightarrow\) Q, P \(\vdash\) Q</p>
+<p>Following Allen and Hand, a reductio ad absurdum rule (RAA) can be used to derive the denial of an assumption. Alternatively, two different rules can be used, a negation-introduction rule and a negation-elimination rule. (Probably, students should only be told about the availability of one or the other.)</p>
 
-  <p>biconditional-introduction (\(\leftrightarrow\)I): P \(\rightarrow\) Q, Q \(\rightarrow\) P \(\vdash\) P \(\leftrightarrow\) Q</p>
+<p>The reiteration rule is included to facilitate using RAA or \(\neg\)I/\(\neg\)E with Fitch notation. (Not always, but often, one line of the contradiction will need to be moved down from somewhere else in the proof.)</p>
 
-  <p>biconditional-elimination (\(\leftrightarrow\)E): P \(\leftrightarrow\) Q, P \(\vdash\) Q or P \(\leftrightarrow\) Q, Q \(\vdash\) P</p>
+<p>In the example on the right, the reiteration rule is used to get the contradiction on consecutive lines at the end of the subproof. ‘\(\neg\)I’ in line 6 can be replaced with ‘RAA’ (while keeping everything else the same).</p>
 
-  <p>double-negation (DN): \(\neg\neg\)P \(\vdash\) P or P \(\vdash\) \(\neg\neg\)P</p>
+<div class="row">
+	<div class="col-sm mt-3 mt-md-0">
+		<picture>
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/carnap/carnap_dn.png" title="example image">
+</picture>
 
-  <p>reiteration (R): P \(\vdash\) P</p>
+	</div>
+	<div class="col-sm mt-3 mt-md-0">
+		<picture>
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/carnap/carnap_reit.png" title="example image">
+</picture>
 
-  <p>conditional-introduction (\(\rightarrow\)I): from a subproof beginning with the assumption A and ending with B, infer A \(\rightarrow\) B.</p>
+	</div>
+</div>
+<div class="caption">
+	Using the double negation rule (left) and reiternation rule (middle) in Carnap.
+</div>
 
-  <p>negation-introduction (\(\neg\)I or RAA): from a subproof beginning with the assumption A and ending with B and \(\neg\)B (or \(\neg\)B and B) on consecutive lines, infer \(\neg\)A.</p>
+<p>Carnap requires a colon before the PR, AS, or rule. Put the lines numbers being cited after the abbreviation for the rule. For example, as is shown here.</p>
 
-  <p>negation-elimination (\(\neg\)E or RAA): from a subproof beginning with the assumption \(\neg\)A and ending with B and \(\neg\)B (or \(\neg\)B and B) on consecutive lines, infer A.</p>
-</blockquote>
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <picture>
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/carnap/carnap_colon.png" title="example image">
+</picture>
 
-<p>The symbols for the logical operators are \(\neg\), &amp;, \(\vee\), \(\rightarrow\), and \(\leftrightarrow\), and they are typed with ~, &amp;, v, -&gt;, and &lt;-&gt;. Premises are labeled with ‘PR’. Other assumptions are labeled with ‘AS’. These are the parentheses dropping conventions: \(\vee\) binds more strongly than &amp;; &amp; binds more strongly than \(\rightarrow\) and \(\leftrightarrow\), which bind equally strongly.</p>
+    </div>
+</div>
+<div class="caption">
+    Separating the sentence from the rule cited in Carnap.
+</div>
 
-<p>(1) The disjunction-elimination rule requires the negation, not merely the denial, of one of the disjuncts. Consequently, to derive P from P \(\vee\) \(\neg\)Q and Q, the double-negation rule has to be used—for example, as shown here:</p>
-
-<p>(2) Following Allen and Hand, a reductio ad absurdum rule (RAA) can be used to derive the denial of an assumption. Alternatively, two rules can be used, a negation-introduction rule and a negation-elimination rule. (Probably, students should only be told about the availability of one or the other.)</p>
-
-<p>(3) The reiteration rule is included to facilitate using RAA or \(\neg\)I/\(\neg\)E with Fitch notation. (Not always, but often, one line of the contradiction will need to be moved down from somewhere else in the proof.)</p>
-
-<p>In this example, the reiteration rule is used to get the contradiction on consecutive lines at the end of the subproof. ‘\(\neg\)I’ in line 6 can be replaced with ‘RAA’ (while keeping everything else the same).</p>
-
-<p>You can try Carnap out here: https://carnap.io/shared/gregory.s.johnson@gmail.com/playground-AllenSL.txt (Put a colon before the PR, AS or rule, and put the lines numbers being cited after the abbreviation for the rule.) For example, like this:</p>
-
-<p>Derived Rules</p>
+<h5>Derived Rules</h5>
 
 <p>I don’t use any derived rules in my 1000-level logic course, but the following five are included in JohnsonSLPlus.</p>
 
@@ -256,8 +302,9 @@
 
 <p>You can try these out here: https://carnap.io/shared/gregory.s.johnson@gmail.com/playground-AllenSLPlus.txt</p>
 
-<p>Truth Tables
-For truth table problems, use system=”magnusSL”. That will display \(\neg\), &amp;, ∨, \(\rightarrow\), and \(\leftrightarrow\) for the logical operators, and it will assign the truth values for the operators in the standard way.</p>
+<h5>Truth Tables</h5>
+
+<p>For truth table problems, use <code class="language-plaintext highlighter-rouge">system="magnusSL"</code>, will display \(\neg\), &amp;, ∨, \(\rightarrow\), and \(\leftrightarrow\) for the logical operators, and will assign the truth values for the operators in the standard way.</p>
 
 <p>Textbook
 For further information about using Carnap, go here: https://carnap.io/shared/Documentation (and probably start with 1, 2, 3, and 4).</p>
