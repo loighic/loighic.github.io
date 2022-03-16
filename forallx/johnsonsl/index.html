@@ -116,6 +116,10 @@
           
           
           
+          
+          
+          
+          
           <li class="nav-item ">
               <a class="nav-link" href="/cv/">
                 curriculum vitae
@@ -241,7 +245,7 @@
 
 <p>The symbols for the logical operators are \(\neg\), &amp;, \(\vee\), \(\rightarrow\), and \(\leftrightarrow\), and they are typed with ~, &amp;, v, -&gt;, and &lt;-&gt;. Premises are labeled with ‘PR’. Other assumptions are labeled with ‘AS’. The parentheses dropping conventions are as follows. \(\vee\) binds more strongly than &amp;; &amp; binds more strongly than \(\rightarrow\) and \(\leftrightarrow\); \(\rightarrow\) and \(\leftrightarrow\) bind equally strongly.</p>
 
-<h5>Some further explanation</h5>
+<h5>Some further details</h5>
 
 <p>The disjunction-elimination rule requires the negation, not merely the denial, of one of the disjuncts. Consequently, to derive P from P \(\vee\) \(\neg\)Q and Q, the double-negation rule has to be used—for example, as shown below on the left.</p>
 
@@ -290,40 +294,31 @@ Creating a proof in Carnap.
 
 <p>I don’t use any derived rules in my 1000-level logic course, but the following five are included in JohnsonSLPlus.</p>
 
-<p>Hypothetical syllogism (HYP):, which is S16 on p. 29 in the Logic Primer.</p>
-
-<p>Dilemma (DIL), which is S25 on p. 29 in the Logic Primer.</p>
-
-<p>Modus tollens (MT), but only S12 on p. 29 in the Logic Primer.</p>
-
-<p>Material conditional (MC), which is Allen and Hand’s “wedge-arrow” but only S21 and S22 (in both directions).</p>
-
-<p>DeMorgan’s laws (DeM), but only S28 and S29.</p>
-
-<p>You can try these out here: https://carnap.io/shared/gregory.s.johnson@gmail.com/playground-AllenSLPlus.txt</p>
+<ol>
+  <li>
+    <p>Hypothetical syllogism (HYP): P \(\rightarrow\) Q, Q \(\rightarrow\) R \(\vdash\) P \(\rightarrow\) R</p>
+  </li>
+  <li>
+    <p>Dilemma (DIL): P \(\vee\) Q, P \(\rightarrow\) R, Q \(\rightarrow\) R \(\vdash\) R</p>
+  </li>
+  <li>
+    <p>Modus tollens (MT): P \(\rightarrow\) Q, \(\neg\)Q \(\vdash\) \(\neg\)P</p>
+  </li>
+  <li>
+    <p>Material conditional (MC): \(\neg\)P \(\vee\) Q \(\dashv\vdash\) P \(\rightarrow\) Q and P v Q \(\dashv\vdash\) \(\neg\)P \(\rightarrow\) Q</p>
+  </li>
+  <li>
+    <p>DeMorgan’s laws (DeM): \(\neg\)(P \(\vee\) Q) \(\dashv\vdash\) \(\neg\)P &amp; \(\neg\)Q and \(\neg\)(P &amp; Q) \(\neg\)P \(\vee\) \(\neg\)Q</p>
+  </li>
+</ol>
 
 <h5>Truth Tables</h5>
 
 <p>For truth table problems, use <code class="language-plaintext highlighter-rouge">system="magnusSL"</code>, will display \(\neg\), &amp;, ∨, \(\rightarrow\), and \(\leftrightarrow\) for the logical operators, and will assign the truth values for the operators in the standard way.</p>
 
-<p>Textbook
-For further information about using Carnap, go here: https://carnap.io/shared/Documentation (and probably start with 1, 2, 3, and 4).</p>
+<h5>First-order Logic</h5>
 
-<p>If you’ve been using the Logic Primer and you want to use AllenSL in Carnap, you, perhaps, don’t need a textbook at all. This one, however, is freely available to use: forall x: The Mississippi State edition (and can be modified if you’re familiar with LaTeX). You can also just use the two pages listing the propositional logic rules in the appendix if that’s all that you need.</p>
-
-<p>First-order Logic
-Although I used to cover first-order logic in my 1000-level logic course, I’ve stopped (and I don’t ever teach any other logic courses). I may go back to including it at some point, but, as it is, I haven’t used Carnap for first-order logic. Using the ForallxQL system in Carnap will work, however, at least to an extent. The universal-elim, universal-intro, existential-intro, existential-elim, identity-intro, and identity-elim rules are, essentially, the same as those in the Logic Primer (with the necessary adjustments for Fitch notation). The only issue is that the biconditional-introduction, double negation, and RAA rules will not available. Perhaps that can be changed in the future, but if you’re primarily focused on the FOL rules, maybe it won’t matter.</p>
-
-<p>For reference, here are some proofs using ForallxQL in Carnap. You can try it out yourself here: https://carnap.io/shared/gregory.s.johnson@gmail.com/playground-ForallxQL.txt (use ‘A’ for ‘∀’ and ‘E’ for ‘∃’.)</p>
-
-<p>The second example on p. 81 in the Logic Primer, ∀x(Fx \(\rightarrow\) Gx), ∀xFx ⊢ ∀xGx, becomes</p>
-
-<p>The example at the bottom of p. 83, ∃xFx ⊢ ∃x(Fx ∨ Gx), becomes</p>
-
-<p>The example at the top of p. 84, ∀xFxx, ∃x(Fxx \(\rightarrow\) Pb) ⊢ Pb, becomes</p>
-
-<p>And S88 on p. 87, ∀x(Fx \(\rightarrow\) \(\neg\)Hx), ∃x(Gx &amp; Fx) ⊢ ∃x\(\neg\)Hx, is</p>
-
+<p>Although I used to cover first-order logic in my 1000-level logic course, I’ve stopped (and I don’t ever teach any other logic courses). I may go back to including it at some point, but, as it is, I haven’t used Carnap for first-order logic.</p>
 
   </article>
 
