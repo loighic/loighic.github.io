@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Truth Table Generator</title>
+    <!-- 
+Truth Table GeneratorCopyright (C) 2014  Michael Rieppel <mrieppel at gmail dot com>This program is free software; you can redistribute it and/or modifyit under the terms of the GNU General Public License as published bythe Free Software Foundation; either version 2 of the License, or(at your option) any later version.This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See theGNU General Public License for more details.You should have received a copy of the GNU General Public License alongwith this program; if not, write to the Free Software Foundation, Inc.,51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA. -->
+    <script src="truthtable.js" type="text/javascript"></script>
+    <style type="text/css">
+
+body a {
+text-decoration:none;
+}
+
+body a:hover {
+text-decoration:underline;
+}
+
+#container {
+font-family: sans-serif;
+font-size:14px;
+width:960px;
+margin:15px auto 0px auto;
+position:relative;
+}
+
+#location {
+color:#999999;
+font-size:12px;
+position:absolute;
+}
+
+#location a {
+color:#999999;
+}
+
+#title {
+text-align:center;
+font-size:24px;
+}
+
+
+table.symbols {
+border:0;
+border-collapse: collapse;
+}
+
+table.symbols th {
+text-align: left;
+font-weight:bold;
+border:1px solid black;
+padding:.2em;
+}
+
+table.symbols td {
+text-align: left;
+border:1px solid black;
+padding:.2em;
+}
+
+table.symbols td:last-child {
+text-align:center;
+}
+
+td.space {
+width:1em;
+}
+
+
+#tt div.center {
+margin: 0 auto;
+display:table;
+}
+
+table.truth {
+border-collapse:collapse;
+margin:0 auto;
+}
+
+table.truth th {
+border-bottom:1px solid black;
+text-align: center;
+padding:.2em;
+font-weight: normal;
+}
+
+table.truth td {
+border:0;
+padding:.2em;
+}
+
+table.truth .dv {
+border-right:1px solid black;
+}
+
+table.truth .mc {
+color:red;
+}
+
+.auto-style1 {
+	color: #999999;
+}
+
+</style> </head>
+  <body>
+    <div id="container">
+      <p><span style="font-family: Courier New,Courier,monospace;"><a href="http://www.loighic.net">Home</a></span></p>
+      <span style="font-family: Courier New,Courier,monospace;"> </span>
+      <div>
+        <p style="text-align: center;"><strong><span style="font-family: Courier New,Courier,monospace;">Truth
+              Table Generator<span style="font-family: sans-serif;"><br>
+              </span></span></strong></p>
+      </div>
+      <span style="font-family: Courier New,Courier,monospace;"> </span>
+      <p> </p>
+      <span style="font-family: Courier New,Courier,monospace;"> </span>
+      <p><span style="font-family: Courier New,Courier,monospace;"><span class="auto-style1">by
+            </span> <a href="http://mrieppel.net/"> <span class="auto-style1">Michael
+              Rieppel</span></a></span></p>
+      <span style="font-family: Courier New,Courier,monospace;"> </span>
+      <p> </p>
+      <span style="font-family: Courier New,Courier,monospace;"> </span>
+      <p><span style="font-family: Courier New,Courier,monospace;">This page
+          contains a JavaScript program that will generate a truth table given a
+          well formed formula of sentential logic. Enter multiple formulas
+          separated by commas to include more than one formula in a single
+          table. Select "Full Table" to show all columns, "Main Connective Only"
+          to show only the column under the main connective, and "LaTeX Table"
+          to produce a table formatted for <a href="http://www.latex-project.org/">LaTeX</a>.
+        </span></p>
+      <span style="font-family: Courier New,Courier,monospace;"> </span>
+      <p> </p>
+      <span style="font-family: Courier New,Courier,monospace;"> </span>
+      <p><span style="font-family: Courier New,Courier,monospace;">For an
+          argument, do not use the turnstile (⊢ or |-). Just separate the
+          premises from the conclusion with another comma.</span></p>
+      <p><span style="font-family: Courier New,Courier,monospace;"><br>
+        </span></p>
+      <!--
+<p>An argument can, however, be represented as a conditional statment with the premises (separated by &s) as the antecedent and the conclusion as the consequent. So, this: A<->(BvC)), A, (~B->C) becomes this ((A<->(BvC)) &amp; A) -> (~B->C). If the conditional is true at every line, then the argument is valid; if not, it is invalid.</p>-->
+      <!--
+<p>(Go <a href='sheffer.html'>here</a> for a program that generates formulas containing only the <a href='http://en.wikipedia.org/wiki/Sheffer_stroke'>Sheffer Stroke</a>.)</p>-->
+      <table>
+        <tbody>
+          <tr>
+            <td> <span style="font-family: Lucida Sans;"> </span><span style="font-family: Lucida Sans;">
+              </span><span style="font-family: Lucida Sans;"> </span><span style="font-family: Lucida Sans;">
+              </span><span style="font-family: Lucida Sans;"> </span><span style="font-family: Lucida Sans;">
+              </span><span style="font-family: Lucida Sans;"> </span><span style="font-family: Lucida Sans;">
+              </span><span style="font-family: Lucida Sans;"> </span>
+              <table class="symbols">
+                <tbody>
+                  <tr>
+                    <th><span style="font-family: Lucida Sans;">Symbols</span></th>
+                    <th><span style="font-family: Lucida Sans;"><br>
+                      </span> </th>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">Negation</span></td>
+                    <td><span style="font-family: Lucida Sans;">~</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">Conjunction</span></td>
+                    <td><span style="font-family: Lucida Sans;">&amp;</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">Disjunction</span></td>
+                    <td><span style="font-family: Lucida Sans;">v</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">Conditional</span></td>
+                    <td><span style="font-family: Lucida Sans;">-&gt;</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">Biconditional</span></td>
+                    <td><span style="font-family: Lucida Sans;">&lt;-&gt;</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">Sheffer Stroke</span></td>
+                    <td><span style="font-family: Lucida Sans;">|</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">Absurdity</span></td>
+                    <td><span style="font-family: Lucida Sans;">#</span></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+            <td class="space"><br>
+            </td>
+            <td style="vertical-align:top;"> <span style="font-family: Lucida Sans;">
+              </span><span style="font-family: Lucida Sans;"> </span><span style="font-family: Lucida Sans;">
+              </span><span style="font-family: Lucida Sans;"> </span><span style="font-family: Lucida Sans;">
+              </span><span style="font-family: Lucida Sans;"> </span><span style="font-family: Lucida Sans;">
+              </span>
+              <table>
+                <tbody>
+                  <tr>
+                    <th style="text-align:left;"><span style="font-family: Lucida Sans;">Examples:</span></th>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">~A</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">(A &amp; B)</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">(# -&gt; (B v
+                        ~A))</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Lucida Sans;">A&lt;-&gt;(BvC),
+                        A, (~B-&gt;C)</span></td>
+                  </tr>
+                </tbody>
+              </table>
+              <span style="font-family: Lucida Sans;"> </span></td>
+            <td class="space"><span style="font-family: Lucida Sans;"><br>
+              </span> </td>
+            <td style="vertical-align:top;"> <span style="font-family: Lucida Sans;"><input
+                  id="in" size="45" type="text"></span> </td>
+            <td style="vertical-align:top;"> <span style="font-family: Lucida Sans;"><input
+value="Make Table" onclick="construct();" type="button"></span> </td>
+            <td style="vertical-align:top;"> <span style="font-family: Lucida Sans;"><input
+                  name="style" id="full" checked="checked" type="radio">Full
+                Table<br>
+              </span> <span style="font-family: Lucida Sans;"><input name="style"
+                  id="main" type="radio">Main Connective Only<br>
+              </span> <span style="font-family: Lucida Sans;"><input name="style"
+                  id="latex" type="radio">LaTeX Table<br>
+              </span> <span style="font-family: Lucida Sans;"><input name="style"
+                  id="text" type="radio">Text<br>
+              </span> </td>
+          </tr>
+        </tbody>
+      </table>
+      <span style="font-family: Lucida Sans;"> </span>
+      <div id="tt"><span style="font-family: Lucida Sans;">&nbsp;</span></div>
+      <br>
+    </div>
+  </body>
+</html>
