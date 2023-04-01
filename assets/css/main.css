@@ -28,7 +28,7 @@ body.sticky-bottom-footer { padding-bottom: 0; }
 /****************************************************************************** Publications */
 /***************************************************************************** Projects */
 /******************************************************************************* Styles for the base elements of the theme. */
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong { color: var(--global-text-color); font-family: 'Lato', sans-serif; }
+p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong { color: var(--global-text-color); font-family: 'Open Sans', sans-serif; }
 
 hr { border-top: 1px solid var(--global-divider-color); }
 
