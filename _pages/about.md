@@ -26,3 +26,5 @@ I am an instructor of philosophy and economics at Mississippi State University (
 
 I am also, currently, the co-chair for the History and Philosophy of Science Division in the Mississippi Academy of Sciences. The call for abstracts for the 2024 meeting is [here](assets/pdf/mas/CFA_MAS_2024.pdf).
 
+09/14/2023
+
