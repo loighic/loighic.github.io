@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/meetings/
-title: Greg Johnson's meeting times this semester
+title: MEETING TIMES | GREG JOHNSON
 nav: false
 ---
 
