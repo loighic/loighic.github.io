@@ -24,5 +24,5 @@ news: true  # includes a list of news items
 
 I am an instructor of philosophy and economics at Mississippi State University ([Meridian](https://www.meridian.msstate.edu/academics/arts-sciences/) & [Starkville](https://www.philosophyandreligion.msstate.edu)). My primary areas of research are philosophy of psychology and philosophy of neuroscience.
 
-I am also, currently, the co-chair for the History and Philosophy of Science Division in the Mississippi Academy of Sciences. The call for abstracts for the 2024 meeting is [here](assets/pdf/mas/CFA_MAS_2024.pdf). 
+I am also the co-chair for the History and Philosophy of Science Division in the Mississippi Academy of Sciences. The call for abstracts for the 2024 meeting is [here](assets/pdf/mas/CFA_MAS_2024.pdf). 
 
