@@ -16,14 +16,13 @@ Using Honorlock involves a few extra steps, but it's not too complicated.
 
 **3.** You need to have a strong enough and stable internet connection. Go here to do an Honorlock system check: [https://app.honorlock.com/support/msr-check](https://app.honorlock.com/support/msr-check). Clicking on "Run System Check" only checks your operating system and browser. You have to select "Test Internet Speed" and verify that you get, at least, 1.5 Mbps for download and 750 Kbps for upload.
 
-
-**4.** You can use the readings and your notes, but everything that you use has to be on paper. You won't be able to view anything besides the test on your screen, and you can't use a tablet, another computer, or a phone while you are taking the test.
+**4.** You can use the readings and your notes, but **everything that you use has to be on paper**. You won't be able to view anything besides the test on your screen, and you can't use a tablet, another computer, or a phone while you are taking the test.
 
 **5.** You can **_not_** write anything with a pen or pencil (sharpie, highlighter, etc.) while you are taking the test. You can **_not_** take bathroom breaks or leave your seat for any other reason.
 
 **6.** Take the test in a quiet place where you are alone. The webcam will record video and audio, and, like any other test, you can't talk to anyone while you are taking it.
 
-**7.** Below are all of the settings if you're curious. The darker blue circled checkmarks indicate the settings that I've selected. The faded ones are not selected. So, if you look under "Student Guidelines," you'll see that only open book and notes are allowed. The rest are not allowed.  
+**7.** Below are all of the settings if you're curious. The darker blue circled checkmarks indicate the settings that I've selected. The faded ones are not selected. So, if you look under "Student Guidelines," you'll see that only open book and notes are allowed. The rest are not allowed. (If it is needed, a calculator will be available in the test for tests in PHI 1113 and EC 2113.)
 
 **8.** Once you've completed the set up and begun the test, don't do anything suspicious and just do your best on the test. (As long as you don't do anything that the software flags as suspicious, a person isn't watching you while you are taking the test. But see 10.)
 
