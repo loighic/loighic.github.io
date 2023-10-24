@@ -18,7 +18,9 @@ Using Honorlock involves a few extra steps, but it's not too complicated.
 
 **4.** You can use the readings and your notes, but **everything that you use has to be on paper**. You won't be able to view anything besides the test on your screen, and you can't use a tablet, another computer, or a phone while you are taking the test.
 
-**5.** You can **_not_** write anything with a pen or pencil (sharpie, highlighter, etc.) while you are taking the test. You can **_not_** take bathroom breaks or leave your seat for any other reason. You can **_not_** stop sharing your screen at any time during the test. If you leave your seat or stop sharing your screen at any point, then that point will be counted as the completion of your test.
+**5.** You can **_not_** write anything with a pen or pencil (sharpie, highlighter, etc.) while you are taking the test. You can **_not_** take bathroom breaks or leave your seat for any other reason. You can **_not_** stop sharing your screen at any time during the test. 
+
+If you leave your seat or stop sharing your screen, then that point will be counted as the completion of your test.
 
 **6.** Take the test in a quiet place where you are alone. The webcam will record video and audio, and, like any other test, you can't talk to anyone while you are taking it.
 
