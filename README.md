@@ -1,12 +1,7 @@
-# al-folio
+# loighic.github.io
 
-[al-folio](https://github.com/alshedivat/al-folio) is a simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
+This repository contains the code for the [loighic.net](https://loighic.github.io/) website. It is built using [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme.
 
+The site is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
+The **al-folio** is based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
