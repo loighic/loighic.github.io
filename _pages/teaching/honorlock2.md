@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/honorlock2/
-title: Honorlock
+title: Honorlock Instructions
 nav: false
 ---
 
