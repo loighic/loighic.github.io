@@ -38,7 +38,8 @@ not until the early 1980s that global economic forces again became as
 important, relative to the size of the world economy, as they were
 before World War I.
 
-**20.1 Absolute and Comparative Advantage**
+&nbsp;
+##### Absolute and comparative advantage
 
 The American statesman Benjamin Franklin (1706--1790) once wrote, "No
 nation was ever ruined by trade." Many economists would express their
@@ -84,7 +85,8 @@ up less of good *A* to produce good *B*. The next subsection develops
 absolute and comparative advantage in greater detail and relates them to
 trade.
 
-**20.1.1 A numerical example of absolute and comparative advantage**
+&nbsp;
+##### A numerical example of absolute and comparative advantage
 
 Consider a hypothetical world with two countries, Saudi Arabia and the
 United States, and two products, oil and corn. Further, assume that
@@ -94,7 +96,7 @@ difference between corn or oil from either country. All corn producers
 supply the same corn, and all oil producers supply the same oil. Of
 course, both countries must have all of the resources for producing oil
 and corn, but we will imagine that labor is the only required resource,
-which we will count as "labor hours." Table 20.1 gives the barrels of
+which we will count as "labor hours." Table 1 gives the barrels of
 oil and the bushels of corn that can be produced by each country in one
 hour.
 
@@ -103,26 +105,25 @@ hour.
 <table class="styled-table">
     <thead>
         <tr>
-            <th>country</th>
+            <th style="text-align: left;">country</th>
             <th>oil (hours per barrel)</th>
 			<th>corn (hours per bushel)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Saudi Arabia</td>
-            <td style="text-align: center">1</td>
-			<td style="text-align: center">4</td>
+            <td style="text-align: left;">Saudi Arabia</td>
+            <td>1</td>
+			<td>4</td>
         </tr>
-        <tr class="active-row">
-            <td>United States</td>
-            <td style="text-align: center">2</td>
-			<td style="text-align: center">1</td>
+        <tr>
+            <td style="text-align: left;">United States</td>
+            <td>2</td>
+			<td>1</td>
         </tr>
-        <!-- and so on... -->
     </tbody>
     <caption>
-     The number of hours that it takes each country to produce oil and corn.
+     <strong>Table 1</strong> The number of hours that it takes each country to produce oil and corn.
     </caption>
 </table>
 
@@ -143,7 +144,7 @@ Saudi Arabia, 1 bushel takes 4 hours to produce, and so with 100 hours,
 if it uses all of its labor hours for that purpose, and it can produce
 100 bushels of corn if it uses all 100 hours there. These values and
 some of the possible combinations of both goods that each country can
-produce with its 100 labor hours are listed in table 20.2.
+produce with its 100 labor hours are listed in table 2.
 
 
 <table class="styled-table">
@@ -154,45 +155,45 @@ produce with its 100 labor hours are listed in table 20.2.
         </tr>
 		<tr>
 		<th>oil (barrels)</th>
-		<th style="text-align: center; border-right:1px solid #eeeeef">corn (bushels)</th>
-		<th style="text-align: center">oil (barrels)</th>
+		<th style="border-right:1px solid #eeeeef">corn (bushels)</th>
+		<th>oil (barrels)</th>
 		<th>corn (bushels)</th>
 		</tr>
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center">100</td>
-            <td style="text-align: center; border-right:1px solid #cacacc">0</td>
-			<td style="text-align: center">50 (100 hours)</td>
-			<td style="text-align: center">0</td>
+            <td>100</td>
+            <td style="border-right:1px solid #cacacc">0</td>
+			<td>50 (100 hours)</td>
+			<td>0</td>
         </tr>
         <tr>
-            <td style="text-align: center">60</td>
-            <td style="text-align: center; border-right:1px solid #cacacc">10 (40 hours)</td>
-			<td style="text-align: center">40 (80 hours)</td>
-			<td style="text-align: center">20</td>
+            <td><strong>60</strong></td>
+            <td style="border-right:1px solid #cacacc"><strong>10 (40 hours)</strong></td>
+			<td>40 (80 hours)</td>
+			<td>20</td>
         </tr>
 		<tr>
-            <td style="text-align: center">40</td>
-            <td style="text-align: center; border-right:1px solid #cacacc">15 (60 hours)</td>
-			<td style="text-align: center">20 (20 hours)</td>
-			<td style="text-align: center">60</td>
+            <td>40</td>
+            <td style="border-right:1px solid #cacacc">15 (60 hours)</td>
+			<td><strong>20 (40 hours)</strong></td>
+			<td><strong>60</strong></td>
         </tr>
 		<tr>
-            <td style="text-align: center">20</td>
-            <td style="text-align: center; border-right:1px solid #cacacc">20 (80 hours)</td>
-			<td style="text-align: center">10 (20 hours)</td>
-			<td style="text-align: center">80</td>
+            <td>20</td>
+            <td style="border-right:1px solid #cacacc">20 (80 hours)</td>
+			<td>10 (20 hours)</td>
+			<td>80</td>
         </tr>
 		<tr>
-            <td style="text-align: center">0</td>
-            <td style="text-align: center; border-right:1px solid #cacacc">25 (100 hours)</td>
-			<td style="text-align: center">0</td>
-			<td style="text-align: center">100</td>
+            <td>0</td>
+            <td style="border-right:1px solid #cacacc">25 (100 hours)</td>
+			<td>0</td>
+			<td>100</td>
         </tr>
     </tbody>
     <caption>
-table 20.2
+<strong>Table 2</strong>
     </caption>
 </table>
 
@@ -201,7 +202,7 @@ As you may recall from chapter 2, the **production possibility frontier
 (PPF)** is the curve that represents all of the possible combinations of
 two goods that a country can produce, given its limited resources. The
 production possibility frontiers for Saudi Arabia and the United States
-are given in figure [1](#CNX_Econ_C33_010).[^1]
+are given in figure 1.[^1]
 
 
 <div class="container">
@@ -211,13 +212,13 @@ are given in figure [1](#CNX_Econ_C33_010).[^1]
 	</div>
 </div>
 <div class="caption">
-Figure 20.1. The production possibility frontiers for Saudi Arabia (left) and the United States (right).
+<strong>Figure 1</strong> The production possibility frontiers for Saudi Arabia (left) and the United States (right).
 </div>
 </div>
 
 > 
 >
-> \(a\) If it produces only oil, then Saudi Arabia can produce 100
+> (**a**) If it produces only oil, then Saudi Arabia can produce 100
 > barrels of oil and zero bushels of corn (point A). Alternatively, if
 > it produces only corn, it can produce 25 bushels of corn and zero
 > barrels of oil (point B). It can also produce other combinations of
@@ -225,7 +226,7 @@ Figure 20.1. The production possibility frontiers for Saudi Arabia (left) and th
 > Here, it produces (and consumes) 60 barrels of oil, leaving 40 labor
 > hours that are spent on the production of 10 bushels of corn.
 >
-> \(b\) If the United States produces only oil, it can produce, at most,
+> (**b**) If the United States produces only oil, it can produce, at most,
 > 50 barrels. This is point A′. At the other extreme, it can produce 100
 > bushels of corn and no oil (point B′). Other combinations of both oil
 > and corn are possible, such as point C′.
@@ -238,11 +239,11 @@ Presumably, Saudi and U.S. consumers desire both oil and corn. Let's say
 that before trade occurs, both countries produce and consume at point C
 and C′. Thus, before trade, the Saudi Arabian economy will devote 60
 labor hours to producing oil, which will yield 60 barrels of oil (in
-bold on the left side of table 20.2). With the remaining 40 labor hour
+bold on the left side of table 2). With the remaining 40 labor hour
 (since it needs four hours to produce a bushel of corn), it can produce
 only 10 bushels. To be at point C′, the U.S. devotes 40 labor hours to
 producing 20 barrels of oil, and its remaining labor hours are used to
-produce 60 bushels of corn (in bold on the right side of table 20.2).
+produce 60 bushels of corn (in bold on the right side of table 2).
 
 Now, we want to think about the opportunity cost for each country of
 producing each good. Let's say that Saudi Arabia is producing only oil:
@@ -263,31 +264,31 @@ barrels of oil, or ¼ bushel of corn = 1 barrel of oil. In other words,
 the cost of producing 1 barrel of oil, for Saudi Arabia, is only ¼
 bushel of corn. (It gives up only ¼ bushel of corn every time it
 produces a barrel of oil.) These values and the opportunity costs for
-the United States are listed in table 20.3.
+the United States are listed in table 3.
 
 
 <table class="styled-table">
 <thead>
 <tr>
-	<th>Country</th>
-	<th style="width:190px;">opportunity cost of producing 1 unit of oil</th>
-	<th style="width:190px;">opportunity cost of producing 1 unit of corn</th>
+	<th style="text-align: left;">country</th>
+	<th style="width:190px; text-align: left;">opportunity cost of producing 1 unit of oil</th>
+	<th style="width:210px; text-align: left;">opportunity cost of producing 1 unit of corn</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<td>Saudi Arabia</td>
+	<td style="text-align: left;">Saudi Arabia</td>
 	<td><strong>¼ unit of corn</strong></td>
 	<td>4 units of oil</td>
 </tr>
 <tr>
-	<td>United States</td>
+	<td style="text-align: left;">United States</td>
 	<td>2 units of corn</td>
 	<td><strong>½ unit of oil</strong></td>
 </tr>
 </tbody>
 <caption>
-<strong>Table 20.3</strong> The lower opportunity costs are in bold.
+<strong>Table 3</strong> The lower opportunity costs are in bold.
 Saudi Arabia has a comparative advantage producing oil. (It can do so
 for a lower cost: .25 vs. 2 bushels of corn.) And the United States has
 a comparative advantage producing corn. (It can do so for a lower cost:
@@ -296,11 +297,10 @@ a comparative advantage producing corn. (It can do so for a lower cost:
 </table>
 
 
-
 We defined comparative advantage in terms of the opportunity cost of
 producing goods. The country with the comparative advantage in the
 production of a good is the one that incurs the lower cost (that is, the
-lower opportunity cost) to produce it. Looking at table 20.3, which
+lower opportunity cost) to produce it. Looking at table 3, which
 country can produce 1 barrel of oil at the lower opportunity cost? Saudi
 Arabia. When it produces a barrel of oil, it only gives up ¼ bushel of
 corn, while the United States gives up 2 bushels of corn. Hence, Saudi
@@ -318,14 +318,14 @@ and so it has an absolute advantage in oil production. It also gives up
 the least in terms of corn production to produce oil, and so it has a
 comparative advantage in oil production. At the same time, the United
 States has an absolute and a comparative advantage in corn production.
-Such symmetry is not always the case, as we will see in section 20.2.
+Such symmetry is not always the case, as we will see in section 2.
 Sometimes a country can have an absolute advantage in the production of
 both goods. It won't, however, have a comparative advantage for both.
 But, before we examine that situation, we must investigate the gains
 that these two countries will get from trading with each other.
 
-
-**20.1.2 Gains from trade**
+&nbsp;
+##### Gains from trade
 
 In the previous section, we put the actual production of oil and corn
 for Saudi Arabia and the United States at points C and C′. Saudi Arabia
@@ -335,60 +335,60 @@ corn. Now, let's say that they decide to trade.
 
 What will happen if they trade 20 bushels of corn for 20 barrels of oil?
 That is, the United States gives 20 bushels of corn to Saudi Arabia in
-exchange for 20 barrels of oil. The result is in table 20.4. Of course,
+exchange for 20 barrels of oil. The result is in table 4. Of course,
 the United States will end up with less corn (and more oil) and Saudi
 Arabia will end up with less oil (and more corn). After making this
 particular trade, however, both countries are better off because they
 now have a combination of oil and corn that they couldn't achieve on
 their own. In other words, both have a combination of these goods that
 is outside (i.e., to the right of) their production possibilities
-frontier. (See figure 20.2 for Saudi Arabia.) This is an important
+frontier. (See figure 2 for Saudi Arabia.) This is an important
 result because it shows that trading can make both countries better off
 than they otherwise would be.
 
 <table class="styled-table">
 <thead>
 <tr>
-	<th>before trade</th>
+	<th style="text-align: left;">before trade</th>
 	<th></th>
 	<th style="border-right:1px solid #eeeeef;"></th>
-	<th>after trade</th>
+	<th style="text-align: left;">after trade</th>
 	<th></th>
 	<th></th>
 	<th></th>
 </tr>
 <tr>
 	<th></th>
-	<th style="text-align: center">oil (barrels)</th>
-	<th style="text-align: center; border-right:1px solid #eeeeef;">corn (bushels)</th>
+	<th>oil (barrels)</th>
+	<th style="border-right:1px solid #eeeeef;">corn (bushels)</th>
 	<th></th>
-	<th style="text-align: center">oil (barrels)</th>
-	<th style="text-align: center">corn (bushels)</th>
+	<th>oil (barrels)</th>
+	<th>corn (bushels)</th>
 	<th>better off?</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<td>Saudi Arabia</td>
-	<td style="text-align: center;">60</td>
-	<td style="text-align: center; border-right:1px solid #cacacc;">10</td>
-	<td>Saudi Arabia</td>
-	<td style="text-align: center;">40</td>
-	<td style="text-align: center;">30</td>
-	<td style="text-align: center;">✓</td>
+	<td style="text-align: left;">Saudi Arabia</td>
+	<td>60</td>
+	<td style=" border-right:1px solid #cacacc;">10</td>
+	<td style="text-align: left;">Saudi Arabia</td>
+	<td>40</td>
+	<td>30</td>
+	<td>✓</td>
 </tr>
 <tr>
-	<td>United States</td>
-	<td style="text-align: center;">20</td>
-	<td style="text-align: center; border-right:1px solid #cacacc;">60</td>
-	<td>United States</td>
-	<td style="text-align: center;">40</td>
-	<td style="text-align: center;">40</td>
-	<td style="text-align: center;">✓</td>
+	<td style="text-align: left;">United States</td>
+	<td>20</td>
+	<td style="border-right:1px solid #cacacc;">60</td>
+	<td style="text-align: left;">United States</td>
+	<td>40</td>
+	<td>40</td>
+	<td>✓</td>
 </tr>
 </tbody>
 <caption>
-<strong>Table 20.4</strong> Before trading, each country has (and
+<strong>Table 4</strong> Before trading, each country has (and
 consumes) what it produces. After trading 20 barrels of oil for 20
 bushels of corn, they each have (and can consume) what is on the
 right.
@@ -399,12 +399,12 @@ right.
 
 <div class="container">
 <div class="row">
-	<div class="col-11">
+	<div class="col-9">
 		{% responsive_image path: assets/img/macro_fig/1_trade/Saudi-PPF.jpg class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption"><div align="left">
-Figure 20.2. Saudi Arabia's production possibilities frontier. Prior to trading, Saudi Arabia was at point C (10 bushels of corn and 60 barrels of oil). After trading, they are at point D (30 bushels of corn and 40 barrels of oil). Of course, it's up to Saudi Arabia to decide if D is a combination that they want (that is, to decide
+<strong>Figure 2</strong> Saudi Arabia's production possibilities frontier. Prior to trading, Saudi Arabia was at point C (10 bushels of corn and 60 barrels of oil). After trading, they are at point D (30 bushels of corn and 40 barrels of oil). Of course, it's up to Saudi Arabia to decide if D is a combination that they want (that is, to decide
 whether it achieves *allocative efficiency*). But, from our economic point of view, Saudi Arabia has gained from this trade because they now have a combination of corn and oil that they couldn't achieve on their own.
 </div></div>
 </div>
@@ -450,8 +450,8 @@ than ¼ and slightly less than 2 bushels of corn.
 
 ---
 
-
-**20.1.3 Specializing**
+&nbsp;
+##### Specializing
 
 Since both countries can end up with both goods, corn and oil, after
 trading, it is not necessary for them to produce both themselves.
@@ -465,52 +465,51 @@ barrels of oil for 50 bushels of corn.[^2]
 <table class="styled-table">
 <thead>
 <tr>
-	<th>before trade</th>
+	<th style="text-align: left;">before trade</th>
 	<th></th>
 	<th style="border-right:1px solid #eeeeef;"></th>
-	<th>after trade</th>
+	<th style="text-align: left;">after trade</th>
 	<th></th>
 	<th></th>
 	<th></th>
 </tr>
 <tr>
 	<th></th>
-	<th style="text-align: center;">oil (barrels)</th>
-	<th style="text-align: center; border-right:1px solid #eeeeef;">corn (bushels)</th>
+	<th>oil (barrels)</th>
+	<th style="border-right:1px solid #eeeeef;">corn (bushels)</th>
 	<th></th>
-	<th style="text-align: center">oil (barrels)</th>
-	<th style="text-align: center">corn (bushels)</th>
+	<th>oil (barrels)</th>
+	<th>corn (bushels)</th>
 	<th>better off?</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<td>Saudi Arabia</td>
-	<td style="text-align: center;">100</td>
-	<td style="text-align: center; border-right:1px solid #cacacc;">0</td>
-	<td>Saudi Arabia</td>
-	<td style="text-align: center;">60</td>
-	<td style="text-align: center;">50</td>
-	<td style="text-align: center;">✓</td>
+	<td style="text-align: left;">Saudi Arabia</td>
+	<td>100</td>
+	<td style="border-right:1px solid #cacacc;">0</td>
+	<td style="text-align: left;">Saudi Arabia</td>
+	<td>60</td>
+	<td>50</td>
+	<td>✓</td>
 </tr>
 <tr>
-	<td>United States</td>
-	<td style="text-align: center;">0</td>
-	<td style="text-align: center; border-right:1px solid #cacacc;">100</td>
-	<td>United States</td>
-	<td style="text-align: center;">40</td>
-	<td style="text-align: center;">50</td>
-	<td style="text-align: center;">✓</td>
+	<td style="text-align: left;">United States</td>
+	<td>0</td>
+	<td style="border-right:1px solid #cacacc;">100</td>
+	<td style="text-align: left;">United States</td>
+	<td>40</td>
+	<td>50</td>
+	<td>✓</td>
 </tr>
 </tbody>
 <caption>
-<strong>Table 20.5</strong> Before trading, each country is producing only the good
+<strong>Table 5</strong> Before trading, each country is producing only the good
 for which it has a comparative advantage (and, in this example, an
 absolute advantage). After trading 40 barrels of oil for 50 bushels of
 corn, they each have (and can consume) what is on the right.
 </caption>
 </table>
-
 
 
 Again, we see that, after the trade, both countries have a combination
@@ -519,7 +518,8 @@ frontier. Hence, both are better off that they would have been if they
 didn't trade and produced (for their own consumption only) a combination
 on their production possibilities frontier.
 
-**20.2 When a country has an absolute advantage in all goods**
+&nbsp;
+##### When a country has an absolute advantage in all goods
 
 What happens if one country has an absolute advantage in everything?
 This is typical for high-income countries that often have well-educated
@@ -532,7 +532,8 @@ has an absolute advantage in all products, trade can still benefit both
 sides. This is because gains from trade come from countries specializing
 in the good for which they have a comparative advantage.
 
-**20.2.1 Production possibilities and comparative advantage**
+&nbsp;
+##### Production possibilities and comparative advantage
 
 Let's say that Italy and Brazil both produce jackets and pants, and
 again, we will assume that these are *homogeneous* goods. All of the
@@ -543,78 +544,128 @@ per week. And it takes only one Italian worker to produce 1,000 pairs of
 pants per week; in Brazil, it takes four workers.
 
 Let's also say that both countries have 40 workers. Thus, they can
-produce the combinations of jackets and pants that are given in table
-20.6. Here, we see that Italy has an absolute advantage in jacket
+produce the combinations of jackets and pants that are given in table 6. 
+Here, we see that Italy has an absolute advantage in jacket
 production---with an equivalent number of workers, they can make 10,000
 per week as compared to 8,000 for Brazil. And it also has an absolute
 advantage in pants production---they can produce 40,000 per week, while
 Brazil can only produce 10,000. Italy doesn't have a comparative
 advantage in both, however.
 
-  -----------------------------------------------------------------------
-  Italy                                    Brazil              
-  ------------------ --------------------- ------------------- ----------
-  jackets            pants                 jackets             pants
 
-  (40 workers)       0                     \(40\) 8,000        0
-  10,000                                                       
-
-  (30 workers) 7,500 \(10\) 10,000         \(30\) 6,000        \(10\)
-                                                               2,500
-
-  (20 workers) 5,000 \(20\) 20,000         \(20\) 4,000        \(20\)
-                                                               5,000
-
-  (14 workers) 3,500 \(26\) 26,000         \(15\) 3,000        \(25\)
-                                                               6,250
-
-  (10 workers) 2,500 \(30\) 30,000         \(10\) 2,000        \(30\)
-                                                               7,500
-
-  (6 workers) 1,500  \(34\) 34,000         \(5\) 1,000         \(35\)
-                                                               8,750
-
-  0                  \(40\) 40,000         0                   \(40\)
-                                                               10,000
-  -----------------------------------------------------------------------
-
-**table 20.6**
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th colspan="2;" style="border-right:1px solid #eeeeef">Italy</th>
+			<th colspan="2">Brazil</th>
+        </tr>
+		<tr>
+		<th>jackets</th>
+		<th style="border-right:1px solid #eeeeef">pants</th>
+		<th>jackets</th>
+		<th>pants</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left">(40 workers) 10,000</td>
+            <td style="border-right:1px solid #cacacc">0</td>
+			<td>(40) 8,000</td>
+			<td>0</td>
+        </tr>
+        <tr>
+            <td style="text-align: left">(30 workers) 7,500</td>
+            <td style="border-right:1px solid #cacacc">(10) 10,000</td>
+			<td>(30) 6,000</td>
+			<td>(10) 2,500</td>
+        </tr>
+		<tr>
+            <td style="text-align: left">(20 workers) 5,000</td>
+            <td style="border-right:1px solid #cacacc">(20) 20,000</td>
+			<td>(20) 4,000</td>
+			<td>(20) 5,000</td>
+        </tr>
+		<tr>
+			<td style="text-align: left">(14 workers) 3,500</td>
+			<td style="border-right:1px solid #cacacc">(26) 26,000</td>
+			<td>(15) 3,000</td>
+			<td>(25) 6,250</td>
+		</tr>
+		<tr>
+			<td style="text-align: left">(10 workers) 2,500</td>
+			<td style="border-right:1px solid #cacacc">(30) 30,000</td>
+			<td>(10) 2,000</td>
+			<td>(30) 7,500</td>
+		</tr>
+		<tr>
+			<td style="text-align: left">(6 workers) 1,500</td>
+			<td style="border-right:1px solid #cacacc">(34) 34,000</td>
+			<td>(5) 1,000</td>
+			<td>(35) 8,750</td>
+		</tr>
+		<tr>
+			<td>0</td>
+			<td style="border-right:1px solid #cacacc">(40) 40,000</td>
+			<td>0</td>
+			<td>(40) 10,000</td>
+		</tr>
+    </tbody>
+    <caption>
+<strong>Table 6</strong>
+    </caption>
+</table>
 
 
 <div class="container">
 <div class="row">
-	<div class="col-11">
+	<div class="col-12">
 		{% responsive_image path: assets/img/macro_fig/1_trade/jackets-pants.png class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption">
-figure 20.3
+<strong>Figure 3</strong>
 </div>
 </div>
 
 If Italy is producing only pants, then it can make 40,000 per week. If
 it, then, switches to producing 30,000, it gains 2,500 jackets. Hence,
 the cost (i.e., opportunity cost) of producing those 2,500 jackets is
-10,000 pants. 2,500 jackets = 10,000 pants, or 1 jacket = 4 pants. At
+10,000 pants. 2,500 jackets = 10,000 pants, or 1 jacket = 4 pants. At
 the same time, if Italy is producing only jackets, it can make 10,000
 per week. If it, then, switches to producing 5,000 jackets, it will gain
 20,000 pairs of pants. The cost of producing those 20,000 pants is 5,000
 jackets. 20,000 pants = 5,000 jackets, or 1 pair of pants = ¼ jacket.
-These and Brazil's opportunity costs are given in table 20.7.
+These and Brazil's opportunity costs are given in table 7.
 
-  ------------------------------------------------------------------------
-  Country        opportunity cost of          opportunity cost of
-                 producing 1 jacket           producing 1 pair of pants
-  -------------- ---------------------------- ----------------------------
-  Italy          4 pants                      **.25 jacket**
+<table class="styled-table">
+<thead>
+<tr>
+<th style="text-align: left">Country</th>
+<th style="width:190px; text-align: left">opportunity cost of producing 1 jacket</th>
+<th style="width:210px; text-align: left">opportunity cost of producing 1 pair of pants</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left">Italy</td>
+<td>4 pants</td>
+<td><strong>.25 jacket</strong></td>
+</tr>
+<tr>
+<td style="text-align: left">Brazil</td>
+<td><strong>1.25 pants</strong></td>
+<td>.80 jacket</td>
+</tr>
+</tbody>
+<caption>
+<strong>Table 7</strong> The lower opportunity costs are in bold.
+Hence, Brazil has a comparative advantage producing jackets. (It can do
+so for a lower cost: 1.25 vs. 4 pants.) And Italy has a comparative
+advantage producing pants. (It can do so for a lower cost: .25 vs .80
+pants.)
+</caption>
+</table>
 
-  Brazil         **1.25 pants**               .80 jacket
-  ------------------------------------------------------------------------
-
-> **Table 20.7** The lower opportunity costs are in bold. Hence, Brazil
-> has a comparative advantage producing jackets. (It can do so for a
-> lower cost: 1.25 vs. 4 pants.) And Italy has a comparative advantage
-> producing pants. (It can do so for a lower cost: .25 vs .80 pants.)
 
 Now, we see that the "cost" of producing 1 jacket is much higher for the
 Italy (4 pants) than it is for Brazil (1.25 pants). Brazil has a
@@ -644,8 +695,8 @@ boundaries for the trade:
 We will, again, take a value in the middle and set the price at 1 pant
 for .50 jacket. And let's say that, using this price, they decide to
 trade 10,000 pants for 5,000 jackets. The combinations of both goods
-that they will have after trading are given on the right in table 20.8.
-If you consult the two graphs in figure 20.3, you will see that these
+that they will have after trading are given on the right in table 8.
+If you consult the two graphs in figure 3, you will see that these
 combinations are to the right of both country's production possibilities
 frontier. Hence (even though Italy has an absolute advantage in the
 production of both goods), by specializing in the production of the good
@@ -653,19 +704,52 @@ for which they have a comparative advantage and then trading, both
 countries end up with a combination that they could not achieve on their
 own.
 
-  ----------------------------------------------------------------------------
-  before                               after trade                    
-  trade                                                               
-  ----------- --------- -------- ----- ----------- --------- -------- --------
-              jackets   pants                      jackets   pants    better
-                                                                      off?
+<table class="styled-table">
+<thead>
+	<tr>
+		<th>before trade</th>
+		<th></th>
+		<th style="border-right:1px solid #eeeeef;"></th>
+		<th style="text-align: left;">after trade</th>
+		<th></th>
+		<th></th>
+		<th></th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>jackets</th>
+		<th style="border-right:1px solid #eeeeef;">pants</th>
+		<th></th>
+		<th>jackets</th>
+		<th>pants</th>
+		<th>better off?</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td style="text-align: left;">Italy</td>
+		<td>0</td>
+		<td style="border-right:1px solid #cacacc">40,000</td>
+		<td style="text-align: left;">Italy</td>
+		<td>5,000</td>
+		<td>30,000</td>
+		<td>✓</td>
+	</tr>
+	<tr>
+		<td style="text-align: left;">Brazil</td>
+		<td>8,000</td>
+		<td style="border-right:1px solid #cacacc">0</td>
+		<td style="text-align: left;">Brazil</td>
+		<td>3,000</td>
+		<td>10,000</td>
+		<td>✓</td>
+	</tr>
+</tbody>
+<caption>
+<strong>Table 8</strong>
+</caption>
+</table>
 
-  Italy       0         40,000         Italy       5,000     30,000   ✓
-
-  Brazil      8,000     0              Brazil      3,000     10,000   ✓
-  ----------------------------------------------------------------------------
-
-**table 20.8**
 
 [^1]: Recall that, in chapter 2, we said that we typically expect a PPF
     to be convex. This is because, as resources are moved toward the
