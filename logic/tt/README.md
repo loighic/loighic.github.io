@@ -7,4 +7,4 @@ The output characters used for the various connectives can be changed by modifyi
 
 This version of the program is here: https://loighic.net/logic/tt/truthtable.html
 
-(c) Michael Rieppel 2010-2022. Released under the MIT License.  See LICENSE above for more information.
+(c) (Michael Rieppel)[https://github.com/mrieppel] 2010-2022. Released under the MIT License.  See LICENSE above for more information.
