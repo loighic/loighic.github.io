@@ -228,7 +228,7 @@ footer {
 <br>
 <p>Here are some examples of well-formed inputs the program will accept:</p>
 
-<ul style="list-style-type:none;padding:2;">
+<ul style="list-style-type:none;padding:1em 0em 1em 0em;">
 <li>~P</li>
 <li>(P &amp; Q)</li>
 <li>(P &amp; (~Q -> S))</li>
@@ -236,6 +236,8 @@ footer {
 <li>(P|Q) &lt;-&gt; ~(P &amp; Q)</li>
 <li>(P &lt;-&gt; (Q v S)), P, (~Q -> S)</li>
 </ul>
+
+Entailment can also be checked by converting a series of formulas to a conditional, e.g.,: ((P &lt;-&gt; (Q v S)) &amp; P) -&gt; (~Q -> S)
 
 <hr>
 
