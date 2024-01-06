@@ -7,9 +7,9 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-##### 1. A brief introduction to economics
+#### A brief introduction to economics
 
-**1.1 What is economics?**
+##### What is economics?
 
 *Economics* is the study of how humans make choices under conditions of scarcity. *Scarcity*, in this context, means that people want more of---and would, if possible, consume more of---a good, service, or resource than is available. So, this isn't scarce in the way that we typically use the term. The good, service, or resource might seem quite plentiful, but, nonetheless, everyone cannot have as much of it as they want.
 
@@ -25,8 +25,8 @@ A central issue of economics, then, is how to turn resources (which are limited 
 
 Since these are the kinds of questions with which economics is concerned, economics is really a decision science.
 
-<br/>
-**1.2 Resources**
+
+##### Resources
 
 There are four categories of resources: land, labor, capital, and entrepreneurship. As just mentioned, all of these are limited and scarce---i.e., there is not an infinite amount of any of them, and people would use more of them if more was available.
 
@@ -39,19 +39,19 @@ There are four categories of resources: land, labor, capital, and entrepreneursh
 \(4\) **Entrepreneurship** is the ability to combine land, labor and capital to produce goods and services.
 
 
-<br/>
-**1.3. Factor payments**
+
+##### Factor payments
 
 When producing goods and services, land, labor, capital, and entrepreneurship are the *inputs* or *factors of production*. *Factor payments* are the payments made to use each type of factor. For land the payment is rent, for labor it is wages, for capital it is interest, and for entrepreneurship it is profit. The more alternative uses a resource has, the higher the factor payments will be. The fewer the alternative uses, the lower the factor payments will be. So, for example, the more options a person has for his or her labor, the higher will be his or her wage.
 
 
-<br/>
-**1.4 Goods**
+
+##### Goods
 
 *Goods* in economics are those things that are scarce, desirable, and wanted in quantities beyond what is available. For example, houses, books, clothes, clean drinking water, leisure time (non-tangible goods also count) are all goods. In contrast are things that we don't want: for example, pollution or crime. (Although some things may be wanted by some people and not by others---e.g., certain kinds of meat as food \[from cows, or from pigs, or from whales\] or meat in general.)
 
-<br/>
-**1.5 Economic models**
+
+##### Economic models
 
 To help understand the economy, economists often create models. A model is a simplified representation of something, in this case, the economy. One very simple model of the economy is the **circular flow diagram**. In this model, the economy consists of two groups, *households* and *firms*, that interact in two markets: the goods and services market and the labor market. In the first market, firms sell goods and services to households (which, therefore, buys the goods and services). In the second, households sell labor to firms (and so the firms buy the labor).
 
@@ -63,8 +63,8 @@ To help understand the economy, economists often create models. A model is a sim
 
 Of course, in the real world, there are many different markets for goods and services and markets for many different types of labor. The circular flow diagram simplifies this to make the description of the economy easier to grasp. Nonetheless, this model has enough features to illustrate how production and labor interact. And we can add details to this basic model if we want to introduce more real-world elements, such as financial markets, governments, or trade with other countries.
 
-<br/>
-**1.6 Graphing**
+
+##### Graphing
 
 Graphing is super-duper important in economics, and it doesn't ever go away. When you are making graphs yourself, it helps to make them large, to use multi-color pens or pencils, and, if a graph will be seen by others, to make a draft and then a neater, final version.
 
@@ -145,15 +145,14 @@ This is a graph of **nominal GDP**. The years from 19547 to the present (or the 
 Looking at numbers in billions of dollars is probably unfamiliar to you, but try to remember that the GDP of the United States---the highest GDP in the world---is not \$27,000 or \$28,000 or \$29,000. It's \$27 or \$28 or \$29 trillion (again, depending on when you are looking at this).
 
 
-<br/>
-##### 2. Important economic ideas
 
-**2.1 Microeconomics and macroeconomics**
+#### Important economic ideas
+
+##### Microeconomics and macroeconomics
 
 The distinction between microeconomics and macroeconomics is not a perfectly clean one in practice (and we'll cover some microeconomics topics in this course). The general idea, however, is that microeconomics focuses on the decisions and actions of individual agents (i.e., individual persons, but also single households or firms). Macroeconomics, meanwhile, focuses on the "big picture", the economy as a whole. You might think of this as 'aggregate economics' since it is the study of the aggregate: the actions and decisions of all of the individual economic agents.
 
-<br/>
-**2.2. Markets**
+##### Markets
 
 A **market** is the group of buyers and sellers of a particular good or service who come together (in-person or virtually) to transact---as happens in, for instance, the Chicago housing market, the stock market, the [Starkville Community Market](https://starkville.org/things-to-do/starkville-community-market/) or the [127 Yard Sale](https://www.facebook.com/127yardsale/). In a market economy, these interactions determine how resources are used, what goods are produced, what quantities are produced, and what the prices will be.
 
@@ -161,8 +160,8 @@ The opposite of a market economy is a **planned** or **command economy**. In suc
 
 The U.S. and other western democracies are mostly market economies, but none are pure market economies. In these countries, the government still sets some economic rules, and it produces some goods itself (e.g., public education, fire and police protection, and infrastructure such as roads and bridges).
 
-<br/>
-**2.3. Normative versus descriptive statements**
+
+##### Normative versus descriptive statements
 
 A **descriptive statement** is one that describes some aspect of the world---or, at least, attempts to do so. Such a statement can be false, and it will still be a descriptive statement; it will just be a false one. A **normative statement** expresses what should or ought to be the case. Some textbooks describe normative statements as opinions, but that's not correct. 'You should not kill your next-door neighbor' is a normative statement, but it's not just a matter of opinion. It is, however, a statement that has to be justified using different methods than are used to justify or confirm descriptive statements. We find out if a positive statement is true or false by examining the world and collecting data. We can't do that for normative statements, but we can still justify them and try to decide if they are correct or not. Here are some examples of the two kinds of statements.
 
@@ -178,8 +177,7 @@ A **descriptive statement** is one that describes some aspect of the world---or,
 
 As you can see from these examples, normative and descriptive statements can be related. Economics, like all sciences, is concerned with the descriptive. But, economists, understanding this science as they do, are often inclined to offer (and argue for, defend, and try to justify) normative statements.
 
-<br/>
-**2.4 Marginal benefit, marginal analysis, and marginal utility**
+##### Marginal benefit, marginal analysis, and marginal utility
 
 **Marginal**, in the sense that we will use it, has a meaning close to *additional*. So, a *marginal analysis* examines the cost or benefit of consuming (or producing) an additional unit of a good. The marginal benefit is the benefit that is added by consuming (or producing) another unit. E.g., what is the benefit of one more hour of studying? If it's your first or second hour of studying, then the benefit will be high. If it's your 30th hour of continuous studying, then the benefit will probably be low. Or, e.g., what is the cost of manufacturing one more car at a factory? Again, it depends where on the spectrum this additional unit is.
 
@@ -207,7 +205,11 @@ The tendency for marginal utility to decrease as a person gets more and more of 
 
 In the Bill Gates example, if we stretch it out many more years, we might expect that each additional \$5 million that he acquires will bring at least a small increase in utility, although, perhaps, at some point, the increases will become so small that they will be negligible. In other cases, however, additional units of a good might cause unhappiness or a loss of utility, in which case more of the good will cause total utility to start falling. This would be expected, for example, if someone, even if he or she loves pizza, keeps eating slices to the point of throwing up.
 
-<br/>
-**2.5 Opportunity cost**
 
-The opportunity cost of a decision is the value of next best alternative. In other words, it is the value of what we give up when we make a decision. For example, maybe you went to the gym this morning. (And if you didn't, let's imagine that you did.) If you hadn't gone to the gym, what would you have been doing? Perhaps sleeping or studying or hanging out with friends. The opportunity cost of going to the gym is the best one (or most valuable one) of these other options. (But only the best one, not all of them.) Let's say that the next best choice for you would have spending an hour at a local coffee shop doing homework. So, the cost of going to the gym (i.e., the opportunity cost) is this hour at the coffee shop. Every decision, by definition, involves at least two options, and so every choice that is made has an opportunity cost.
+##### Opportunity cost
+
+The **opportunity cost** of a decision is the value of next best alternative. In other words, it is the value of what we give up when we make a decision. For example, maybe you went to the gym this morning. (And if you didn't, let's imagine that you did.) If you hadn't gone to the gym, what would you have been doing? Perhaps sleeping or studying or hanging out with friends. The opportunity cost of going to the gym is the best one (or most valuable one) of these other options. (But only the best one, not all of them.) Let's say that the next best choice for you would have spending an hour at a local coffee shop doing homework. So, the cost of going to the gym (i.e., the opportunity cost) is this hour at the coffee shop. Every decision, by definition, involves at least two options, and so every choice that is made has an opportunity cost.
+
+When we purchase a good or service, the opportunity cost can often be treated as the price of whatever we purchased. For instance, if you buy a new bicycle for $700, the $700 is a measure of the other things that you could have purchased, and for practical purposes, there may be no special need to identify the alternative product or products that you could have bought with that $700. Sometimes, however, the price as measured in dollars may not accurately capture the true opportunity cost of a decision. This problem can loom especially large when part (or all) of the cost of an activity includes time spent doing one thing rather than another.
+
+For instance, although attending and graduating from college is, for most people, a very important and valuable activity, attending college is costly. There are the costs of tuition, books, room and board, and other expenses. But in addition to those expenses, there are the alternative ways that a person could be using all of the time that he or she is devoted to college.
