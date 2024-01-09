@@ -7,6 +7,7 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
+[<small>HOME</small>](/macro/)
 
 The first wave of globalization started in the nineteenth century and
 lasted up to the beginning of World War I. Over that time, global
@@ -38,7 +39,7 @@ not until the early 1980s that global economic forces again became as
 important, relative to the size of the world economy, as they were
 before World War I.
 
-&nbsp;
+
 ##### Absolute and comparative advantage
 
 The American statesman Benjamin Franklin (1706--1790) once wrote, "No
@@ -66,26 +67,21 @@ production a good if it uses fewer resources to produce that good (or,
 assuming equal access to resources, if the country can produce more of
 the good). Absolute advantage can be the result of a country's natural
 endowment. For example, extracting oil in Saudi Arabia is pretty much
-just a matter of "drilling a hole." Producing oil in other countries can
+just a matter of drilling a hole somewhere. Producing oil in other countries can
 require considerable exploration and costly technologies for drilling
 and extraction---if they have any oil at all. The United States has some
 of the richest farmland in the world, making it easier to grow corn and
 wheat than in many other countries. Guatemala and Colombia have climates
 especially suited for growing coffee. Chile and Zambia have some of the
-world's richest copper mines. When each country has a product others
-need and can produce it with fewer resources, it is easy to imagine all
+world's richest copper mines. When each country has a product that others
+need, and it can produce the product with fewer resources, it is easy to imagine all
 parties benefiting from trade. However, thinking about trade just in
 terms of geography and absolute advantage is incomplete. Successful
 trading actually occurs because of comparative advantages.
 
-Recall from chapter 2 that a country has a **comparative advantage**
-when it can produce a good at a lower **opportunity cost** than some
-other country. That is, the country with the comparative advantage gives
-up less of good *A* to produce good *B*. The next subsection develops
-absolute and comparative advantage in greater detail and relates them to
-trade.
+Recall from the [previous chapter](/macro/advantage/) that a country has a **comparative advantage** when it can produce a good at a lower **opportunity cost** than some other country. The country with the comparative advantage gives up less of good A to produce good B. Next, we develop the concepts of absolute and comparative advantage in greater detail and relate them to trade.
 
-&nbsp;
+
 ##### A numerical example of absolute and comparative advantage
 
 Consider a hypothetical world with two countries, Saudi Arabia and the
@@ -198,45 +194,49 @@ produce with its 100 labor hours are listed in table 2.
 </table>
 
 
-As you may recall from chapter 2, the **production possibility frontier
-(PPF)** is the curve that represents all of the possible combinations of
-two goods that a country can produce, given its limited resources. The
-production possibility frontiers for Saudi Arabia and the United States
-are given in figure 1.[^1]
+As you may recall from the chapter on the [production possibilities frontier](/macro/ppf/), the **PPF** is the curve that represents all of the possible combinations of two goods that a country can produce, given its limited resources. The PPFs for Saudi Arabia and the United States are given in figure 1.
+
+---
+
+<small>Recall that, in the chapter on the [production possibilities frontier](/macro/ppf/), we said that we typically expect a PPF
+    to be convex. This is because, as resources are moved toward the production of one good and away from the production of the other,
+    the resulting increases and decreases in production are not proportional, especially if a country gets close to using almost all
+    of its resources to produce one of the two goods. Rather than being convex, however, the PPFs that we examine in this chapter will be
+    straight lines. This is not realistic---it assumes that all resources are perfectly interchangeable---but it will make the
+    analysis in this chapter much simpler without affecting the concepts *absolute* and *comparative advantage*.</small>
+
+---
 
 
 <div class="container">
 <div class="row">
 	<div class="col-11">
-		{% responsive_image path: assets/img/macro_fig/1_trade/oil-corn.jpg class: "img-fluid rounded z-depth-1" %}
+		{% responsive_image path: assets/img/macro_fig/1_choice/oil-corn.jpg class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
-<div class="caption">
+<div class="caption"><div align="left">
 <strong>Figure 1</strong> The production possibility frontiers for Saudi Arabia (left) and the United States (right).
-</div>
+</div></div>
 </div>
 
-> 
->
-> (**a**) If it produces only oil, then Saudi Arabia can produce 100
-> barrels of oil and zero bushels of corn (point A). Alternatively, if
-> it produces only corn, it can produce 25 bushels of corn and zero
-> barrels of oil (point B). It can also produce other combinations of
-> oil and corn if it wants to consume both goods, such as at point C.
-> Here, it produces (and consumes) 60 barrels of oil, leaving 40 labor
-> hours that are spent on the production of 10 bushels of corn.
->
-> (**b**) If the United States produces only oil, it can produce, at most,
-> 50 barrels. This is point A′. At the other extreme, it can produce 100
-> bushels of corn and no oil (point B′). Other combinations of both oil
-> and corn are possible, such as point C′.
->
-> All points to the right of each country's PPF are impossible for that
-> country to produce, given its current level of resources and
-> technology.
+If it produces only oil, then Saudi Arabia can produce 100
+barrels of oil and zero bushels of corn (point A). Alternatively, if
+it produces only corn, it can produce 25 bushels of corn and zero
+barrels of oil (point B). It can also produce other combinations of
+oil and corn if it wants to consume both goods, such as at point C.
+Here, it produces (and consumes) 60 barrels of oil, leaving 40 labor
+hours that are spent on the production of 10 bushels of corn.
+
+If the United States produces only oil, it can produce, at most,
+50 barrels. This is point A′. At the other extreme, it can produce 100
+bushels of corn and no oil (point B′). Other combinations of both oil
+and corn are possible, such as point C′.
+
+All points to the right of each country's PPF are impossible for that
+country to produce, given its current level of resources and technology.
 
 Presumably, Saudi and U.S. consumers desire both oil and corn. Let's say
-that before trade occurs, both countries produce and consume at point C
+that before trade occurs, both countries produce and consume at points C
 and C′. Thus, before trade, the Saudi Arabian economy will devote 60
 labor hours to producing oil, which will yield 60 barrels of oil (in
 bold on the left side of table 2). With the remaining 40 labor hour
@@ -288,11 +288,7 @@ the United States are listed in table 3.
 </tr>
 </tbody>
 <caption>
-<strong>Table 3</strong> The lower opportunity costs are in bold.
-Saudi Arabia has a comparative advantage producing oil. (It can do so
-for a lower cost: .25 vs. 2 bushels of corn.) And the United States has
-a comparative advantage producing corn. (It can do so for a lower cost:
-.50 vs 4 barrels of oil.)
+<strong>Table 3</strong>  Saudi Arabia has a comparative advantage producing oil. It can produce oil at a lower cost: .25 vs. 2 bushels of corn. The United States, meanwhile, has a comparative advantage producing corn. It can produce corn for a lower cost: .50 vs 4 barrels of oil.
 </caption>
 </table>
 
@@ -300,16 +296,17 @@ a comparative advantage producing corn. (It can do so for a lower cost:
 We defined comparative advantage in terms of the opportunity cost of
 producing goods. The country with the comparative advantage in the
 production of a good is the one that incurs the lower cost (that is, the
-lower opportunity cost) to produce it. Looking at table 3, which
-country can produce 1 barrel of oil at the lower opportunity cost? Saudi
+lower opportunity cost) to produce it. 
+
+Look at table 3. Which country can produce 1 barrel of oil at a lower opportunity cost? Saudi
 Arabia. When it produces a barrel of oil, it only gives up ¼ bushel of
 corn, while the United States gives up 2 bushels of corn. Hence, Saudi
 Arabia has a comparative advantage in oil production.
 
 On the other hand, for the United States, the opportunity cost of
 producing a bushel of corn is only ½ barrel of oil. This is a much lower
-opportunity cost than Saudi Arabia's. (Saudi Arabia gives up 4 barrels
-of oil to produce a bushel of corn.) So, the United States has a
+opportunity cost than Saudi Arabia's. Saudi Arabia gives up 4 barrels
+of oil to produce a bushel of corn. So, the United States has a
 comparative advantage in corn production.
 
 In this example, there is a symmetry between absolute and comparative
@@ -318,13 +315,12 @@ and so it has an absolute advantage in oil production. It also gives up
 the least in terms of corn production to produce oil, and so it has a
 comparative advantage in oil production. At the same time, the United
 States has an absolute and a comparative advantage in corn production.
-Such symmetry is not always the case, as we will see in section 2.
-Sometimes a country can have an absolute advantage in the production of
+Such symmetry is not always the case. Sometimes a country can have an absolute advantage in the production of
 both goods. It won't, however, have a comparative advantage for both.
 But, before we examine that situation, we must investigate the gains
-that these two countries will get from trading with each other.
+that these the United States and Saudi Arabia will get from trading with each other.
 
-&nbsp;
+
 ##### Gains from trade
 
 In the previous section, we put the actual production of oil and corn
@@ -337,14 +333,15 @@ What will happen if they trade 20 bushels of corn for 20 barrels of oil?
 That is, the United States gives 20 bushels of corn to Saudi Arabia in
 exchange for 20 barrels of oil. The result is in table 4. Of course,
 the United States will end up with less corn (and more oil) and Saudi
-Arabia will end up with less oil (and more corn). After making this
+Arabia will end up with less oil (and more corn). 
+
+After making this
 particular trade, however, both countries are better off because they
 now have a combination of oil and corn that they couldn't achieve on
 their own. In other words, both have a combination of these goods that
 is outside (i.e., to the right of) their production possibilities
 frontier. (See figure 2 for Saudi Arabia.) This is an important
-result because it shows that trading can make both countries better off
-than they otherwise would be.
+result because it shows that trading can make *both* countries better off.
 
 <table class="styled-table">
 <thead>
@@ -400,57 +397,16 @@ right.
 <div class="container">
 <div class="row">
 	<div class="col-9">
-		{% responsive_image path: assets/img/macro_fig/1_trade/Saudi-PPF.jpg class: "img-fluid rounded z-depth-1" %}
+		{% responsive_image path: assets/img/macro_fig/1_choice/Saudi-PPF.jpg class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 2</strong> Saudi Arabia's production possibilities frontier. Prior to trading, Saudi Arabia was at point C (10 bushels of corn and 60 barrels of oil). After trading, they are at point D (30 bushels of corn and 40 barrels of oil). Of course, it's up to Saudi Arabia to decide if D is a combination that they want (that is, to decide
-whether it achieves *allocative efficiency*). But, from our economic point of view, Saudi Arabia has gained from this trade because they now have a combination of corn and oil that they couldn't achieve on their own.
+<strong>Figure 2</strong> Saudi Arabia's production possibilities frontier. Prior to trading, Saudi Arabia was at point C (10 bushels of corn and 60 barrels of oil). After trading, they are at point D (30 bushels of corn and 40 barrels of oil). 
 </div></div>
 </div>
 
 
----
- *Deciding what to trade*
 
-Twenty bushels of corn for 20 barrels of oil is one trade that makes
-both countries better off, but it's not the only one. In general, both
-countries would set the limits described here, and then negotiation to
-achieve the exact combination of goods, post-trade, that they want.
-Here are some guidelines for thinking about amounts that will make
-both countries better off.
-
-1\. If the United States produced 100 bushels of corn and traded all
-100 bushels for 50 barrels of oil (2 to 1), it would end up no better
-off than if it didn't trade and produced only oil.
-
-2\. So, when it trades, it wants a better ratio than 2:1. That is, it
-wants to give up less than 2 bushels of corn for every barrel of oil
-that it gets.
-
-3\. If Saudi Arabia produced 100 barrels of oil and traded all of it
-for 25 bushels of corn (4 to 1), it would end up no better off than if
-it didn't trade and produced only corn.
-
-4\. So, when it trades, it wants a better ratio than 4:1. It wants to
-give up less than 4 barrels of oil for every bushel of corn that it
-gets.
-
-5\. Those are some boundaries, but let's think of this as just selling
-and buying oil.
-
-6\. Saudi Arabia will *sell* 1 barrel of oil for any "price" greater
-than ¼ bushel of corn.
-
-7\. The United States will *buy* 1 barrel oil for any "price" less
-than 2 bushels of corn.
-
-8\. So, the price of 1 barrel of oil must be between slightly more
-than ¼ and slightly less than 2 bushels of corn.
-
----
-
-&nbsp;
 ##### Specializing
 
 Since both countries can end up with both goods, corn and oil, after
@@ -459,7 +415,7 @@ Rather, each can focus on producing the good for which it has a
 comparative advantage. Then, they can trade for the other. So, Saudi
 Arabia produces only oil: 100 barrels. And the United States produces
 only corn: 100 bushels. Then, they trade. Let's say, that they trade 40
-barrels of oil for 50 bushels of corn.[^2]
+barrels of oil for 50 bushels of corn.
 
 
 <table class="styled-table">
@@ -518,7 +474,7 @@ frontier. Hence, both are better off that they would have been if they
 didn't trade and produced (for their own consumption only) a combination
 on their production possibilities frontier.
 
-&nbsp;
+
 ##### When a country has an absolute advantage in all goods
 
 What happens if one country has an absolute advantage in everything?
@@ -532,7 +488,7 @@ has an absolute advantage in all products, trade can still benefit both
 sides. This is because gains from trade come from countries specializing
 in the good for which they have a comparative advantage.
 
-&nbsp;
+
 ##### Production possibilities and comparative advantage
 
 Let's say that Italy and Brazil both produce jackets and pants, and
@@ -549,7 +505,7 @@ Here, we see that Italy has an absolute advantage in jacket
 production---with an equivalent number of workers, they can make 10,000
 per week as compared to 8,000 for Brazil. And it also has an absolute
 advantage in pants production---they can produce 40,000 per week, while
-Brazil can only produce 10,000. Italy doesn't have a comparative
+Brazil can only produce 10,000. As we will see, though, Italy doesn't have a comparative
 advantage in both, however.
 
 
@@ -619,7 +575,7 @@ advantage in both, however.
 <div class="container">
 <div class="row">
 	<div class="col-12">
-		{% responsive_image path: assets/img/macro_fig/1_trade/jackets-pants.png class: "img-fluid rounded z-depth-1" %}
+		{% responsive_image path: assets/img/macro_fig/1_choice/jackets-pants.png class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption">
@@ -630,8 +586,9 @@ advantage in both, however.
 If Italy is producing only pants, then it can make 40,000 per week. If
 it, then, switches to producing 30,000, it gains 2,500 jackets. Hence,
 the cost (i.e., opportunity cost) of producing those 2,500 jackets is
-10,000 pants. 2,500 jackets = 10,000 pants, or 1 jacket = 4 pants. At
-the same time, if Italy is producing only jackets, it can make 10,000
+10,000 pants. 2,500 jackets = 10,000 pants, or 1 jacket = 4 pants. 
+
+At the same time, if Italy is producing only jackets, it can make 10,000
 per week. If it, then, switches to producing 5,000 jackets, it will gain
 20,000 pairs of pants. The cost of producing those 20,000 pants is 5,000
 jackets. 20,000 pants = 5,000 jackets, or 1 pair of pants = ¼ jacket.
@@ -667,7 +624,7 @@ pants.)
 </table>
 
 
-Now, we see that the "cost" of producing 1 jacket is much higher for the
+Now, we see that the cost of producing 1 jacket is much higher for
 Italy (4 pants) than it is for Brazil (1.25 pants). Brazil has a
 comparative advantage in jacket production. Italy, however, has a
 comparative advantage in pants production. It only gives up ¼ jacket for
@@ -675,16 +632,11 @@ every pair of pants that produces. Brazil, meanwhile, gives up 4/5
 jacket every time that it produces a pair of pants. Producing pants has
 a higher opportunity cost for Brazil.
 
-So, these two countries decide to trade. Even though Italy has an
-absolute advantage in the production of jackets and pants, both
-countries will specialize in the good for which they have a
-*comparative* advantage. **Italy will produce only pants, and Brazil
-will produce only jackets.** When we were examining the example of trade
-between Saudi Arabia and the United States, we said that a country will
-*sell* a good for any "price" that is *higher* than their opportunity
-cost. At the same time, a country will *buy* a good for any "price" that
-is *lower* than their opportunity cost. Focusing on pants, we get these
-boundaries for the trade:
+So, these two countries decide to trade. Even though Italy has an absolute advantage in the production of jackets and pants, both
+countries will specialize in the good for which they have a *comparative* advantage. **Italy will produce only pants, and Brazil will produce only jackets.** 
+
+A country will *sell* a good for any "price" that is *higher* than their opportunity
+cost. At the same time, a country will *buy* a good for any "price" that is *lower* than their opportunity cost. Focusing on pants, we get these boundaries for the trade:
 
 > Italy will sell a pair of pants for any price that is higher than .25
 > jackets.
@@ -692,17 +644,13 @@ boundaries for the trade:
 > Brazil will buy a pair of pants for any price that is lower than .80
 > jackets.
 
-We will, again, take a value in the middle and set the price at 1 pant
-for .50 jacket. And let's say that, using this price, they decide to
+We will take a value in the middle and set the trade ratio at 1 pant
+for .50 jacket. And let's say that, using this ratio, they decide to
 trade 10,000 pants for 5,000 jackets. The combinations of both goods
 that they will have after trading are given on the right in table 8.
 If you consult the two graphs in figure 3, you will see that these
 combinations are to the right of both country's production possibilities
-frontier. Hence (even though Italy has an absolute advantage in the
-production of both goods), by specializing in the production of the good
-for which they have a comparative advantage and then trading, both
-countries end up with a combination that they could not achieve on their
-own.
+frontier. 
 
 <table class="styled-table">
 <thead>
@@ -751,23 +699,8 @@ own.
 </table>
 
 
-[^1]: Recall that, in chapter 2, we said that we typically expect a PPF
-    to be convex. This is because, as resources are moved toward the
-    production of one good and away from the production of the other,
-    the resulting increases and decreases in production are not
-    proportional, especially if a country gets close to using almost all
-    of its resources to produce one of the two goods. Rather than being
-    convex, however, the PPFs that we examine in this chapter will be
-    straight lines. This is not realistic---it assumes that all
-    resources are perfectly interchangeable---but it will make the
-    analysis in this chapter much simpler without altering the concepts
-    *absolute* and *comparative advantage*.
-
-[^2]: As explained in the box that is at the end of the previous
-    subsection, both countries will agree to sell and buy oil for a
-    "price" that is between (*a*) slightly more than .25 bushel of corn
-    and (*b*) slightly less than 2 bushels of corn. So, simplifying a
-    bit, they might agree to sell and buy 1 barrel of oil for .5, .75,
-    1, 1.25, 1.5, or 1.75 bushels of corn. Picking one of the values in
-    the middle, we have 1 barrel of oil for 1.25 bushels of corn, which,
-    multiplied by 40, becomes 40 barrels of oil for 50 bushels of corn.
+So, again (and even though Italy has an absolute advantage in the
+production of both goods), by specializing in the production of the good
+for which they have a comparative advantage and then trading, both
+countries end up with a combination that they could not achieve on their
+own.

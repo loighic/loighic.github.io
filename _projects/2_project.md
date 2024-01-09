@@ -3,7 +3,7 @@ layout: page
 title: working title
 description: An introduction to analytic philosophy
 img: assets/img/8.jpg
-importance: 2
+importance: 3
 category: teaching		# To be used, this category term has to be added to the teaching/project's main page (display_categories).
 ---
 

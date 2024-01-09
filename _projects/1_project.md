@@ -9,7 +9,7 @@ category:
 ---
 
 *forallx: the Mississippi State edition* is an open source logic textbook. It covers propositional logic and introduces (although does not cover in as much depth) first-order logic. The textbook is avaialbe as a [PDF](https://github.com/loighic/forallx-msu/raw/master/forallx-MSU.pdf). 
-Or a paperback copy can be purchased from [this site](https://www.lulu.com/en/us/shop/gregory-johnson/forallx/paperback/product-4emmmj.html).
+Or a paperback copy can be purchased [here](https://www.amazon.com/forallx-Mississippi-Logic-Machine-Shop/dp/B0CRBKG23D/).
 The source files, which can be downloaded and modified, are available in [this GitHub repository](https://github.com/loighic/forallx-msu).
 
 Further explanation of this textbook is [here](/forallx/intro/). A description of the logic system for this textbook that can be used in [Carnap](https://carnap.io/) is [here](https://carnap.io/srv/doc/forallx-msu.md).

@@ -7,6 +7,8 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
+[<small>HOME</small>](/macro/)
+
 #### A brief introduction to economics
 
 ##### What is economics?
@@ -30,13 +32,13 @@ Since these are the kinds of questions with which economics is concerned, econom
 
 There are four categories of resources: land, labor, capital, and entrepreneurship. As just mentioned, all of these are limited and scarce---i.e., there is not an infinite amount of any of them, and people would use more of them if more was available.
 
-\(1\) **Land** includes all natural resources: land itself---forests and arable land (i.e., land where crops can be grown)---as well as, for instance, minerals, water, and energy resources.
+1. **Land** includes all natural resources: land itself---forests and arable land (i.e., land where crops can be grown)---as well as, for instance, minerals, water, and energy resources.
 
-\(2\) **Labor** is the resource that is provided (or is providable) by workers. Whereas natural resources are one type of input needed to produce goods, labor is another required input.
+2. **Labor** is the resource that is provided (or is providable) by workers. Whereas natural resources are one type of input needed to produce goods, labor is another required input.
 
-\(3\) **Capital**, in economics, are the resources that are (*a*) made, (*b*) facilitate the production of goods and services, and (*c*) are not used up shortly after being produced. So, for example, *factories*, *equipment*, and *distribution networks* are types of capital.
+3. **Capital**, in economics, are the resources that are (*a*) made, (*b*) facilitate the production of goods and services, and (*c*) are not used up shortly after being produced. So, for example, *factories*, *equipment*, and *distribution networks* are types of capital.
 
-\(4\) **Entrepreneurship** is the ability to combine land, labor and capital to produce goods and services.
+4. **Entrepreneurship** is the ability to combine land, labor and capital to produce goods and services.
 
 
 
@@ -55,18 +57,25 @@ When producing goods and services, land, labor, capital, and entrepreneurship ar
 
 To help understand the economy, economists often create models. A model is a simplified representation of something, in this case, the economy. One very simple model of the economy is the **circular flow diagram**. In this model, the economy consists of two groups, *households* and *firms*, that interact in two markets: the goods and services market and the labor market. In the first market, firms sell goods and services to households (which, therefore, buys the goods and services). In the second, households sell labor to firms (and so the firms buy the labor).
 
-![](media/image1.emf){width="2.404336176727909in" height="1.81in"}
 
-\<caption\>**Figure #: The Circular Flow Diagram** The circular flow diagram shows how households and firms interact in the (1) goods and services market and (2) labor market. The direction of the arrows shows that, in the goods and services market, households receive goods & services and pay firms for them (arrows A and B). In the labor market, households provide labor and receive payment from firms through wages, salaries, and benefits (arrows C and D).
+<div class="container">
+<div class="row">
+	<div class="col-9">
+		{% responsive_image path: assets/img/macro_fig/0_intro/circle_model.jpg class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 1: The Circular Flow Diagram</strong> The circular flow diagram shows how households and firms interact in the (1) goods and services market and (2) labor market. The direction of the arrows shows that, in the goods and services market, households receive goods & services and pay firms for them (arrows A and B). In the labor market, households provide labor and receive payment from firms through wages, salaries, and benefits (arrows C and D).</div>
+</div>
+</div>
 
-\</caption\>
 
 Of course, in the real world, there are many different markets for goods and services and markets for many different types of labor. The circular flow diagram simplifies this to make the description of the economy easier to grasp. Nonetheless, this model has enough features to illustrate how production and labor interact. And we can add details to this basic model if we want to introduce more real-world elements, such as financial markets, governments, or trade with other countries.
 
 
 ##### Graphing
 
-Graphing is super-duper important in economics, and it doesn't ever go away. When you are making graphs yourself, it helps to make them large, to use multi-color pens or pencils, and, if a graph will be seen by others, to make a draft and then a neater, final version.
+Graphing is super-duper important in economics, and it doesn't ever go away. When you are making graphs yourself, it helps to make them large, to use multiple colors, and, if a graph will be seen by others, to make a draft and then a neater, final version.
 
 Most of the graphs that you will encounter in this course will be line graphs, which represent the relationship between two variables, which are called the *independent* and the *dependent variables*.
 
@@ -81,6 +90,22 @@ The relationship between the two variables can be positive, negative, or complex
 > **A negative relationship** exists when it is the case that, as the value of the independent variable increases, the value of the dependent variable decreases. On a graph, when there is a negative relationship between the variables, the line has a negative slope.
 >
 > **A complex relationship** exists when the relationship between the variables has both positive and negative components.
+
+
+<div class="container">
+<div class="row">
+	<div class="col-6">
+		{% responsive_image path: assets/img/macro_fig/0_intro/graph-pos.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+	<div class="col-6">
+		{% responsive_image path: assets/img/macro_fig/0_intro/graph-neg.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figures 2 & 3</strong> The two variables in the graph on the left are positively related while the two in the graph on the right are negatively related.</div>
+</div>
+</div>
+
 
 Here is a set of data. The variables are *infant mortality rate* and *per capita GDP*.
 
@@ -128,16 +153,25 @@ Here is a set of data. The variables are *infant mortality rate* and *per capita
 </table>
 
 
-The independent variable is *per capital GDP*, and as we can see, as the value of this variable increases, the value of the dependent variable, *infant mortality rate*, decreases. Hence, there is a negative relationship between the two variables. This relationship is illustrated in the graph in figure #.
+The independent variable is *per capital GDP*, and as we can see, as the value of this variable increases, the value of the dependent variable, *infant mortality rate*, decreases. Hence, there is a negative relationship between the two variables. This relationship is illustrated in the graph in figure 4.
 
-**GRAPH HERE**
+<div class="container">
+<div class="row">
+	<div class="col-9">
+		{% responsive_image path: assets/img/macro_fig/0_intro/graph-imr.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 4</strong></div>
+</div>
+</div>
 
 Now, let's look at a graph from the Federal Reserve Economic Data (or FRED) website: <https://fred.stlouisfed.org/> . We will use this site throughout the course, and so you should familiarize yourself with it. If you go to the site, you can find the graph below by putting "gdp" in the search field, and then selecting "Gross Domestic Product."
 
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1dAWV&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 
-<div class="caption"><div align="left"><strong>Figure # U.S. nominal GDP</strong> You can probably find the interruption to GDP caused by the covid pandemic. The decline in GDP ten years before the covid pandemic was caused by the 2007--2008 financial crisis.</div></div>
+<div class="caption"><div align="left"><strong>Figure 5 U.S. nominal GDP</strong> You can probably find the interruption to GDP caused by the covid pandemic. The decline in GDP ten years before the covid pandemic was caused by the 2007--2008 financial crisis.</div></div>
 
 
 This is a graph of **nominal GDP**. The years from 19547 to the present (or the last time that the data were reported) are on the horizontal axis. The vertical axis is given in billions of dollars. This means that 1 (which isn't show on the axis) is \$1 billion. 4,000, the first value on the axis, is \$4,000 billion or \$4,000,000,000,000, which is \$4 trillion. The last reported figure, therefore, will be some number over \$27,000,000,000,000 (depending on when you are looking at this). 
@@ -165,15 +199,15 @@ The U.S. and other western democracies are mostly market economies, but none are
 
 A **descriptive statement** is one that describes some aspect of the world---or, at least, attempts to do so. Such a statement can be false, and it will still be a descriptive statement; it will just be a false one. A **normative statement** expresses what should or ought to be the case. Some textbooks describe normative statements as opinions, but that's not correct. 'You should not kill your next-door neighbor' is a normative statement, but it's not just a matter of opinion. It is, however, a statement that has to be justified using different methods than are used to justify or confirm descriptive statements. We find out if a positive statement is true or false by examining the world and collecting data. We can't do that for normative statements, but we can still justify them and try to decide if they are correct or not. Here are some examples of the two kinds of statements.
 
-> 1\. 'In 2021, the Federal budget deficit was \$2.77 trillion' is a descriptive statement.
->
-> 2\. 'The Federal budget deficit should be lower' is a normative statement.
->
-> 3\. 'You should save 15 percent of your monthly income' is a normative statement.
->
-> 4\. 'This Federal policy will make 12 million people better off and no one worse off' is a descriptive statement.
->
-> 5\. 'The government should implement a policy that will make 12 million people better off and no one worse off' is a normative statement.
+1. 'In 2021, the Federal budget deficit was \$2.77 trillion' is a descriptive statement.
+
+2. 'The Federal budget deficit should be lower' is a normative statement.
+
+3. 'You should save 15 percent of your monthly income' is a normative statement.
+
+4. 'This Federal policy will make 12 million people better off and no one worse off' is a descriptive statement.
+
+5. 'The government should implement a policy that will make 12 million people better off and no one worse off' is a normative statement.
 
 As you can see from these examples, normative and descriptive statements can be related. Economics, like all sciences, is concerned with the descriptive. But, economists, understanding this science as they do, are often inclined to offer (and argue for, defend, and try to justify) normative statements.
 
@@ -187,19 +221,39 @@ Now, to introduce the concept of **marginal utility**, let's consider a made up 
 
 Let's say that when Bill Gates started Microsoft, he had \$2,000 in his personal bank account. Then, after one year, he had \$5 million. After the second year, he had \$10 million, after the third he had \$15 million, and so on for the next nine years. Each year he added \$5 million to his personal savings (except for the first, when he added \$4,998,000, and so after 12 years he had \$60 million. Now, consider these questions.
 
-> \(a\) Just counting the happiness that he derived from his money, which individual year do you think made him the happiest? Or otherwise stated, in which year did he achieve the greatest increase in utility?
->
-> \(b\) Just counting the happiness that he derived from this money, at which point do you think he was happiest? Or otherwise stated, at which point, in these 12 years, was his utility the highest?
+1. Just counting the happiness that he derived from his money, which individual year do you think made him the happiest? Or otherwise stated, in which year did he achieve the greatest increase in utility?
+
+2. Just counting the happiness that he derived from this money, at which point do you think he was happiest? Or otherwise stated, at which point, in these 12 years, was his utility the highest?
 
 Assuming that Bill Gates, at least in this early part of his career, is like rest of us, we would expect that the largest increase in utility occurs in the first year, when his wealth increases from \$2,000 to \$5,000,000. It is good to have \$2,000 in one's bank account. This amount will cover many emergency or unexpected expenses, and temporary periods of unemployment. But having \$5,000,000 is altogether different. This is more than enough to provide many luxuries and financial stability for a lifetime.
 
 Now, let's consider year 12. At the beginning of this year, our fictional Bill Gates had \$55 million. By the end of it, he has \$60 million. We would expect this additional \$5 million to increase his utility (or happiness) a bit, but by less than any of the other increases of \$5 million. Having \$60 million is, presumably, better than having \$55 million, but it's not likely to change a person's well-being, happiness, or utility by much. Most of the things that you can do with \$60 million, you can already do with \$55 million.
 
-FIRST BILL GATES FIGURE HERE
+<div class="container">
+<div class="row">
+	<div class="col-11">
+		{% responsive_image path: assets/img/macro_fig/0_intro/utility-1.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 6</strong>  The utility that each additional $5,000,000 creates over 12 consecutive years. We typically expect that each additional unit of a good&mdash;in this case each additional $5,000,000&mdash;will bring a smaller amount of happiness (or utility) than the previous one.</div>
+</div>
+</div>
 
 Utility is subjective, and so the real Bill Gates's (or anyone else's) actual utility might be different, but generally speaking we would expect that the first \$5 million would cause the largest increase in utility (or happiness), the last \$5 million would cause the smallest increase, and each year in between would be lower than the previous one.
 
-This is not to say, however, that our fictional Bill Gates was losing utility (or happiness) each year. Figure \# shows the increase in utility created by the additional \$5 million that he acquired each year. We would expect his *total* utility (based just on this increasing wealth---the real Bill Gates, like everyone, had other things going on in his life) to be increasing each year. This is illustrated in figure #. But, as this this figure shows, marginal utility---that is, the additional amount of utility created by each additional \$5 million---is getting smaller or decreasing each year.
+This is not to say, however, that our fictional Bill Gates was losing utility (or happiness) each year. Figure 5 shows the utility created by the additional \$5 million that he acquired each year. We would expect his *total* utility (based just on this increasing wealth---the real Bill Gates, like everyone, had other things going on in his life) to be increasing each year. This is illustrated in figure 6. But, as this this figure shows, marginal utility---that is, the additional amount of utility created by each additional \$5 million---is getting smaller or decreasing each year.
+
+<div class="container">
+<div class="row">
+	<div class="col-11">
+		{% responsive_image path: assets/img/macro_fig/0_intro/utility-2.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 6</strong></div>
+</div>
+</div>
 
 The tendency for marginal utility to decrease as a person gets more and more of a good is called the **law of diminishing marginal utility**. As a person receives more or a good, the additional (or marginal) utility from each additional unit of the good declines. The first slice of pizza brings more satisfaction than the sixth; the first \$5 million brings more satisfaction than the twelfth, and so forth.
 

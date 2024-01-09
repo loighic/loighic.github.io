@@ -3,7 +3,7 @@ layout: page
 title: teaching resources
 description: 
 img: assets/img/4.jpg
-importance: 3
+importance: 4
 category: teaching		# To be used, this category term has to be added to the teaching/project's main page (display_categories).
 ---
 
