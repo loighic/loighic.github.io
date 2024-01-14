@@ -12,6 +12,8 @@ category:
 
 #### Part 1
 
+---
+
 [Getting started: A brief introduction to economics & Important economic ideas](/macro/intro/)
 
 [Choice and the budget constraint](/macro/constraint/)
