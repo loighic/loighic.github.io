@@ -194,6 +194,9 @@ The opposite of a market economy is a **planned** or **command economy**. In suc
 
 The U.S. and other western democracies are mostly market economies, but none are pure market economies. In these countries, the government still sets some economic rules, and it produces some goods itself (e.g., public education, fire and police protection, and infrastructure such as roads and bridges).
 
+<p align="center"><iframe style="width: 640px; height: 360px; display: inline-block;" title="What Is a Market Economy and How Does It Work" data-media-type="video" src="https://loighic.net/assets/img/macro_fig/0_intro/market_econ.mp4" allowfullscreen="allowfullscreen" allow="fullscreen" data-titletext="What Is a Market Economy and How Does It Work" data-media-id="m-3kzYo6hpin1mZ5tvnYBSL5wnKURrTDaY"></iframe></p>
+
+<small>video from [Investopedia](https://www.investopedia.com/)</small>
 
 ##### Normative versus descriptive statements
 
