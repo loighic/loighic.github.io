@@ -138,3 +138,5 @@ Next, we do the same for burritos. If Sam buys zero burritos, then he can have 1
 > The opportunity cost of buying a pizza is 2 burritos.
 >
 > The opportunity cost of buying a burring is .5 pizzas.
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m5ABIikb_D8?si=kgqhZhrbb6NjoZrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

@@ -85,3 +85,5 @@ Remember, an economic agent has a comparative advantage when they can produce a 
 Sam can paint rooms for a lower cost than can Kate. The opportunity cost of having him paint a room is only one mowed lawn, whereas it costs us two lawns when Kate does this. At the same time, Kate can mow lawns for a lower cost. The opportunity cost of having her mow a lawn is only half a painted room; it costs us one whole painted room to have Sam mow a lawn.
 
 So, Kate has a comparative advantage mowing lawns, and Sam has a comparative advantage painting rooms.
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkKKT5U6nM8?si=t5KEPrClhp5ayPN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

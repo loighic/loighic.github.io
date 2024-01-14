@@ -406,7 +406,6 @@ right.
 </div>
 
 
-
 ##### Specializing
 
 Since both countries can end up with both goods, corn and oil, after
@@ -473,6 +472,12 @@ of oil and corn that is to the right of their production possibilities
 frontier. Hence, both are better off that they would have been if they
 didn't trade and produced (for their own consumption only) a combination
 on their production possibilities frontier.
+
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-LBrdHlN5mM?si=x4oqmI-ISsYoeDkd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8b2izT9tCKw?si=QFHBoHg4EYUCaw9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 
 ##### When a country has an absolute advantage in all goods

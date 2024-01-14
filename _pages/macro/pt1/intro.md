@@ -169,7 +169,7 @@ The independent variable is *per capital GDP*, and as we can see, as the value o
 Now, let's look at a graph from the Federal Reserve Economic Data (or FRED) website: <https://fred.stlouisfed.org/> . We will use this site throughout the course, and so you should familiarize yourself with it. If you go to the site, you can find the graph below by putting "gdp" in the search field, and then selecting "Gross Domestic Product."
 
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1dAWV&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1dAWV&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
 
 <div class="caption"><div align="left"><strong>Figure 5 U.S. nominal GDP</strong> You can probably find the interruption to GDP caused by the covid pandemic. The decline in GDP ten years before the covid pandemic was caused by the 2007--2008 financial crisis.</div></div>
 

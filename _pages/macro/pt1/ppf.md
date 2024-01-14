@@ -59,6 +59,9 @@ Of course, even if it was possible, society is not likely to choose to devote al
 This pattern reflects the **law of increasing opportunity cost**: as the production of a good or service increases, the marginal opportunity cost of producing it (i.e., the cost of producing an additional unit) increases as well. This happens because some resources are better suited for producing certain goods and services instead of others, and it is why the PPF is curved in the way that it is.
 
 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GKkQogJr9oQ?si=jE2QZohCrv5E0LsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
 ##### Efficiency: Productive and allocative
 
 In a market-oriented economy with a democratic government, the choice of a point on a production possibilities frontier will involve a mixture of decisions by individuals, firms, and government. Economics, however, can show us that some choices are definitely better than others. This is based on the concept of **efficiency**. In everyday usage, efficiency refers to a lack of waste. The economic meaning is similar. In different contexts, it can be used in slightly different ways, but often it refers to a state where it is impossible to make one party (person, firm, country) better off without making another party worse off. So, a situation is inefficient when it is possible to make one party better off without making anyone else worse off.
