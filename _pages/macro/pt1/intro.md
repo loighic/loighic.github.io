@@ -192,11 +192,10 @@ A **market** is the group of buyers and sellers of a particular good or service 
 
 The opposite of a market economy is a **planned** or **command economy**. In such an economy, a central authority makes these decisions. The government decides what goods and services will be produced and how they will be produced. It also decides what prices it will charge for goods and services, and it sets wages for workers. Currently, Cuba and North Korea have command economies.
 
-The U.S. and other western democracies are mostly market economies, but none are pure market economies. In these countries, the government still sets some economic rules, and it produces some goods itself (e.g., public education, fire and police protection, and infrastructure such as roads and bridges).
-
-<p align="center"><iframe style="width: 640px; height: 360px; display: inline-block;" title="What Is a Market Economy and How Does It Work" data-media-type="video" src="https://loighic.net/assets/img/macro_fig/0_intro/market_econ.mp4" allowfullscreen="allowfullscreen" allow="fullscreen" data-titletext="What Is a Market Economy and How Does It Work" data-media-id="m-3kzYo6hpin1mZ5tvnYBSL5wnKURrTDaY"></iframe></p>
+The U.S. and other western democracies are [mostly market economies](https://loighic.net/assets/img/macro_fig/0_intro/market_econ.mp4), but none are pure market economies. In these countries, the government still sets some economic rules, and it produces some goods itself (e.g., public education, fire and police protection, and infrastructure such as roads and bridges).
 
 <small>video from [Investopedia](https://www.investopedia.com/)</small>
+
 
 ##### Normative versus descriptive statements
 
