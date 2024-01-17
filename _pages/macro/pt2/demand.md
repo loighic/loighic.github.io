@@ -29,8 +29,12 @@ As is stated in the definition, demand can be represented in a schedule (i.e., a
 <table class="styled-table">
 <thead>
 <tr>
-<th>Price (per gallon)</th>
-<th>Quantity demanded (millions of gallons)</th>
+<th>Price</th>
+<th>Quantity demanded</th>
+</tr>
+<tr>
+<th>(per gallon)</th>
+<th>(millions of gallons)</th>
 </tr>
 </thead>
 <tbody>
