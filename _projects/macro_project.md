@@ -24,9 +24,9 @@ category:
 
 [International trade](/macro/trade/)
 
-[Demand]()
+[Demand](/macro/demand/)
 
-[Supply]()
+[Supply](/macro/supply/)
 
 [Supply and demand]()
 
