@@ -66,12 +66,12 @@ At the same time, if Sam paints, then he gets 1 room done and he doesn't mow one
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;">paint rooms</td>
+<td style="text-align: left;">paint 1 room</td>
 <td>2 lawns</td>
 <td>1 lawn</td>
 </tr>
 <tr>
-<td style="text-align: left;">mow lawns</td>
+<td style="text-align: left;">mow 1 lawn</td>
 <td>½ room</td>
 <td>1 room</td>
 </tr>

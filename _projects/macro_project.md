@@ -14,7 +14,9 @@ category:
 
 ---
 
-[Getting started: A brief introduction to economics & Important economic ideas](/macro/intro/)
+[Getting started 1: A brief introduction to economics](/macro/intro1/)
+
+[Getting started 2: Important economic ideas](/macro/intro2)
 
 [Choice and the budget constraint](/macro/constraint/)
 
