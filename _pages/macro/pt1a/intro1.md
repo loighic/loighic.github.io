@@ -174,8 +174,7 @@ Now, let's look at a graph from the [Federal Reserve Economic Data](https://fred
 <div class="caption"><div align="left"><strong>Figure 5 U.S. nominal GDP</strong> You can probably find the interruption to GDP caused by the covid pandemic. The decline in GDP ten years before the covid pandemic was caused by the 2007 - 2008 financial crisis.</div></div>
 
 
-Figure 5 is a graph of **nominal GDP**. The years from 19547 to the present (or the last time that the data were reported) are on the horizontal axis. 
-
+Figure 5 is a graph of **nominal GDP**. The years from 1947 to the present are on the horizontal axis. 
 The vertical axis is given in billions of dollars. This means that 1 (which isn't show on the axis) is \$1 billion. 4,000, the first value on the axis, is \$4,000 billion or \$4,000,000,000,000, which is \$4 trillion. The last reported figure, therefore, will be some number over \$27,000,000,000,000 (depending on when you are looking at this). 
 
 Looking at numbers in billions of dollars is probably unfamiliar to you, but try to remember that the GDP of the United States---the highest GDP in the world---is not \$27,000 or \$28,000 or \$29,000. It's \$27 or \$28 or \$29 trillion (again, depending on when you are looking at this).

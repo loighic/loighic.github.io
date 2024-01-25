@@ -9,9 +9,7 @@ category:
 ---
 
 ---
-
 #### Part 1
-
 ---
 
 [Getting started 1: A brief introduction to economics](/macro/intro1/)
@@ -30,11 +28,33 @@ category:
 
 [Supply](/macro/supply/)
 
-[Supply and demand]()
+[The supply and demand model](/macro/supply_and_demand/)
 
 ---
+#### Part 2
+---
 
+[Gross Domestic Product]()
 
+[Inflation]()
+
+[Unemployment]()
+
+---
+#### Part 3
+---
+
+[Aggregate demand]()
+
+[Aggregate supply]()
+
+[The AD-AS model]()
+
+[Fiscal policy]()
+
+[Monetary policiy]()
+
+---
 ---
 
 <small>This is a revised version of the [OpenStax Principles of Macroeconomics](https://openstax.org/details/books/principles-macroeconomics-3e). This version, like the original, is licensed under a [Creative Commons attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).</small>

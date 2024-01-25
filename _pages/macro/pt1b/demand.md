@@ -77,8 +77,6 @@ Every consumer in this country has his or own demand schedule---that is, the amo
 The same information can also be represented by a demand curve in a graph. Such a graph will have quantity on the horizontal axis and the price on the vertical axis. (Note that this is an exception to the normal rule in mathematics that the independent variable goes on the horizontal axis and the dependent variable goes on the vertical axis. Price is the independent variable; quantity demanded is the dependent variable.)
 
 
-The independent variable is *per capital GDP*, and as we can see, as the value of this variable increases, the value of the dependent variable, *infant mortality rate*, decreases. Hence, there is a negative relationship between the two variables. This relationship is illustrated in the graph in figure 4.
-
 <div class="container">
 <div class="row">
 	<div class="col-10">
