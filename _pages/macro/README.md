@@ -1,3 +1,4 @@
+## A Concise Principles of Macroeconmics
 
 This folder contains the source files for [A Concise Principles of Macroeconomics](/macro/).
 
