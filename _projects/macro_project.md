@@ -34,7 +34,9 @@ category:
 #### Part 2
 ---
 
-[Gross Domestic Product]()
+[Gross Domestic Product, part 1]()
+
+[Gross Domestic Product, part 2]()
 
 [Inflation]()
 
@@ -57,7 +59,7 @@ category:
 ---
 ---
 
-<small>This is a revised version of the [OpenStax Principles of Macroeconomics](https://openstax.org/details/books/principles-macroeconomics-3e). This version, like the original, is licensed under a [Creative Commons attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).</small>
+<small>This is a revised version of the [OpenStax Principles of Macroeconomics](https://openstax.org/details/books/principles-macroeconomics-3e). This version, like the original, is licensed under a [Creative Commons attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). The source files are [here](https://github.com/loighic/loighic.github.io/tree/main/_pages/macro).</small>
 
 <small>&copy; 2024 Gregory Johnson.</small>
 

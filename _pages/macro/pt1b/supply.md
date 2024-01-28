@@ -161,3 +161,6 @@ A change to the quantity supplied is caused by a change to the price. This chang
 <strong>Figure 3</strong> A change to supply is caused by one of the factors affecting supply (e.g., changes to the price of inputs, etc.). This change will be represented by the supply curve shifting the the left or to the right (first graph). A change to the quantity supplied is caused by a change to the price of the good (second graph).</div>
 </div>
 </div>
+
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g_-qMRkovWo?si=gmhQrJWuqQeXAvkG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

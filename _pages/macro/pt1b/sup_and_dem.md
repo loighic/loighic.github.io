@@ -92,6 +92,20 @@ In figure 1, the equilibrium price is \$1.40 per gallon of gasoline and the equi
 
 If a market is at its equilibrium price and quantity and nothing changes, then the price and the quantity (i.e., the quantity demanded and the quantity supplied) won't change. If, however, the price in a market is higher or lower than the equilibrium price, economic pressures arise to move the price toward the equilibrium price and quantity.
 
+<div class="container">
+<div class="row">
+	<div class="col-12">
+		{% responsive_image path: assets/img/macro_fig/2_demand/supply_demand-6.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 2</strong>&nbsp;&nbsp;When examining a graph of supply and demand, we must keep straight how the price interacts with both curves. In these two graphs, P&#x2a; is the equilibrium price and Q&#x2a; is the equilibrium quantity. 
+The graph on the left shows a possible price, P<sub>2</sub>, that is above P&#x2a;. This price hits the demand curve at A and establishes the quantity demanded as Qd. It hits the supply curve at B and establishes the quantity supplied as Qs. 
+In the graph on the right, since P<sub>3</sub> is less than P&#x2a;, it hits the supply curve first (at C) and the demand curve at D. Therefore, the quantity supplied at this price is Qs and the quantity demanded is Qd.</div>
+</div>
+</div>
+
+
 ###### A surplus
 
 Imagine, for example, that the price of a gallon of gasoline was above the equilibrium price---that is, instead of \$1.40 per gallon, the price is \$1.80 per gallon. At this higher price, the quantity demanded drops from 600 to 500. This decline in quantity demanded reflects the tendency that consumers have to find ways to use less gasoline when the price rises.
@@ -111,6 +125,9 @@ Now suppose that the price is \$1.20 per gallon. At this price, the quantity dem
 When the price is below the equilibrium price, we have **excess demand** or a **shortage**. In this situation, gasoline producers will begin to produce more gasoline, but doing so will entail higher costs. Thus, as the quantity supplied increases, the price has to increase as well. This, in turn, will lower demand.
 
 So, if the price is below the equilibrium level, incentives built into the structure of demand and supply will create pressures for the price to rise. In short, a shortage forces the price up.
+
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IeBE-AOxNe0?si=sq4uRAt8Uwkw4HnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 
 ##### Changes to supply and demand
