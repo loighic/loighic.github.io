@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/meetings/
-title: MEETING TIMES | GREG JOHNSON
+title: MEETING TIMES <span style="color: blue">|<span> GREG JOHNSON
 nav: false
 ---
 
