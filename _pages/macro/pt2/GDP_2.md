@@ -64,9 +64,12 @@ With these five components, calculating GDP is simply a matter of addition and a
 <strong>Figure 2</strong>&nbsp;&nbsp;The components of GDP stacked, 1947 to the present.</div></div>
 
 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kn-bHfBVG9s?si=DSsf-XkhiJU3CSI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
 ##### Tracking real GDP over time
 
-Figure 3 shows the U.S.'s real GDP since 1947. Although the trend over this period has been increasing GDP, as you can see, short-term declines have regularly interrupted this trend. A significant decline in real GDP is a **recession**, and an especially lengthy and deep recession is a **depression**. In figure the figure, recessions are represented by the gray shaded areas. 
+Figure 3 shows the U.S.'s real GDP since 1947. Although the trend over this period has been increasing GDP, as you can see, short-term declines have regularly interrupted this trend. A significant decline in real GDP is a **recession**, and an especially lengthy and deep recession is a **depression**. In figure 3, recessions are represented by the gray shaded areas. 
 
 The [National Bureau of Economic Research](https://www.nber.org/research/business-cycle-dating) (NBER) makes the official determination of when recessions are occurring (or often, after the fact, when they have occurred). When making a judgement about whether the U.S. is in a recession, the NBER considers a number of factors including changes in real GDP, unemployment, and real incomes. But the unofficial definition of *recession* that you will often see in the news is "a decline in real GDP over two or more consecutive quarters."
 
