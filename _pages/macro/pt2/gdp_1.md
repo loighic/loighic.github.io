@@ -28,7 +28,7 @@ Consider the example in figure 1. The t-shirt that is sold by producer E, the re
 <table class="styled-table">
 <thead>
 <tr>
-<th>producers</th>
+<th>producer</th>
 <th>product</th>
 <th>sale price</th>
 <th>value added</th>
