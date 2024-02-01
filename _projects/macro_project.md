@@ -34,9 +34,9 @@ category:
 #### Part 2
 ---
 
-[Gross Domestic Product, part 1]()
+[Gross Domestic Product, part 1](/macro/gdp_1/)
 
-[Gross Domestic Product, part 2]()
+[Gross Domestic Product, part 2](/macro/gdp_2/)
 
 [Inflation]()
 
