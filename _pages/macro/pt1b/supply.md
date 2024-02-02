@@ -22,11 +22,11 @@ This can be seen when, for instance, the price of gasoline rises and firms incre
 
 ##### 'Supply' versus 'quantity supplied'
 
-Just as with *demand* and the *quantity demanded*, it is important to note the difference between *supply* and the *quantity supplied*. *Supply* is the relationship between a range of prices and the various quantities supplied at those prices. It is represented by a supply curve or a supply schedule (i.e., a table). The *quantity supplied* is a particular amount of a good or service that will be produced at some price, and it is represented by a specific point on the supply curve or is part of a price-quantity pair in a supply schedule.
+Just as with *demand* and the *quantity demanded*, it is important to note the difference between *supply* and the *quantity supplied*. *Supply* is the relationship between a range of prices and the various quantities supplied at those prices. It is represented by a supply curve or a supply schedule (i.e., a table). The **quantity supplied** is a particular amount of a good or service that will be produced at some price, and it is represented by a specific point on the supply curve or is part of a price-quantity pair in a supply schedule.
 
 ##### An example
 
-As with demand---and as stated in the definition---supply can be represented as a schedule (i.e., a table) or as a curve (i.e., by a line in a graph). Here is a supply schedule to go with our example in the section on demand.
+As with demand---and as stated in the definition---supply can be represented as a schedule (i.e., a table) or as a curve (i.e., by a line in a graph). Here is a supply schedule for gasoline.
 
 
 <table class="styled-table">
@@ -70,13 +70,13 @@ As with demand---and as stated in the definition---supply can be represented as 
 <td>720</td>
 </tr>
 </tbody>
-<caption><strong>Table 1</strong> The supply schedule for gasoline lists the possible prices and the quantity that will be supplied at each price---in this case, per week for a medium sized country.</caption>
+<caption><strong>Table 1</strong>&nbsp;&nbsp;The supply schedule for gasoline lists the possible prices and the quantity that will be supplied at each price&mdash;in this case, per week for a medium sized country.</caption>
 </table>
 
 
 Every producer in this country---and we are assuming that there a number of them---has its own supply schedule. Table 1 gives the total amounts of gasoline that these producers would be willing and able to sell at each price, which makes it a **market supply schedule**. As we said for demand, since we are studying macroeconomics, we will be primarily be concerned with market supply (whether that is represented as a schedule or a curve).
 
-The same information given in table 1 can also be represented by a supply curve. This graph will be set up just like the one for demand with price on the vertical axis and quantity (in this case quantity supplied) on the horizontal axis.
+The information given in table 1 can also be represented by a supply curve. Like the graph for demand, price is on the vertical axis and quantity (in this case quantity supplied) on the horizontal axis.
 
 
 <div class="container">
@@ -86,7 +86,7 @@ The same information given in table 1 can also be represented by a supply curve.
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 1</strong> A supply curve for gasoline as price on the vertical axis and the quantity supplied on the horizontal axis.</div>
+<strong>Figure 1: A supply curve for gasoline</strong>&ndsp;&nbsp; Price is on the vertical axis and the quantity supplied is on the horizontal axis.</div>
 </div>
 </div>
 
@@ -97,9 +97,12 @@ The shape of a supply curve will vary somewhat depending on the good or service 
 
 The immediate answer to this question that might come to mind is that as the price increases, producers see the opportunity to increase profits by selling more units of the good. That isn't correct, however. (And for the model that we are developing here, we are assuming that each producer's revenue just covers its costs, including all salaries, and so there aren't any profits.) It is actually because, as we discussed in the section on the production possibility frontier, when more and more resources are devoted to the production of a good, the opportunity cost of each additional unit increases.
 
-Producing wheat is a good example. Given the climate, soil, and existing infrastructure, hundreds of millions of bushels of wheat can easily be produced in many parts of the central United States. To increase wheat production beyond this baseline amount, producers have to move into areas that are less suited to growing wheat. These would be places where, ideally, it would be better to grow other crops. Then, to increase wheat production *even more*, would require growing it in areas that are even more costly, both in terms of growing, harvesting, and shipping the wheat, and in terms of the loss of other crops that this wheat is displacing.
+Producing wheat is a good example. Given the climate, soil, and existing infrastructure, hundreds of millions of bushels of wheat can easily be produced in many parts of the central United States. To increase wheat production beyond this baseline amount, producers have to move into areas that are less suited to growing wheat. These would be places where, ideally, it would be better to grow other crops. Hence, this additional production comes at a higher cost.
 
-Hence, the more wheat that is produced the higher the opportunity cost (and consequently, the higher the price) of each additional unit. This is why the supply curve slopes upward.
+Increase wheat production *even more* would require growing it in areas that are even more costly, both in terms of growing, harvesting, and shipping the wheat, and in terms of the loss of other crops that this wheat is displacing.
+
+So, the more wheat that is produced, the higher the cost of each additional unit. This is why the supply curve slopes upward.
+
 
 ##### Factors that change supply
 
@@ -119,19 +122,20 @@ Now, we will consider the factors that cause supply to change. Keep in mind that
 
 ###### Changes to the price of inputs
 
-The inputs used to produce goods are \[resources\]() and intermediate goods. The cotton that is grown in Mississippi, for instance, is a resource; the cloth that is made from that cotton and used to make clothing is an intermediate good.
+The inputs used to produce goods are [resources](http://localhost:4000/macro/intro1/) and intermediate goods. The cotton that is grown in Mississippi, for instance, is a resource; the cloth that is made from that cotton and used to make clothing is an intermediate good.
 
-When the price of inputs increases, supply will decrease (and so the supply curve will shift to the left). When the price of inputs decreases, supply will increase (and so the supply curve will shift to the right).
+When the price of inputs increases, supply will decrease---and so the supply curve will shift to the left. When the price of inputs decreases, supply will increase---and so the supply curve will shift to the right.
+
 
 ###### Changes in weather and climate
 
-Changes in weather and climate especially affect the production of agricultural goods, although non-agricultural goods can also be affected. For instance, infrastructure can be damaged or worker productivity can impacted by extreme weather.
+Changes in weather and climate affect, especially, the production of agricultural goods, although non-agricultural goods can also be affected. For instance, infrastructure can be damaged or worker productivity can impacted by extreme weather.
 
 If changes to weather and climate interfere with the production of a good, supply will decrease. If changes to weather and climate improve the production of a good, supply will increase.
 
 ###### Changes in technology
 
-We will define **technology** as the knowledge used to turn resources into goods and services. This includes knowing how to use computers, computer programs, and now A.I., but it also covers a vast array of other knowledge. Agricultural practices are a good example. The importance of rotating the crops that are grown on a piece of farm land has been known for thousands of years, but the development of the "\[Norfolk four-course system\]( https://www.britannica.com/topic/Norfolk-four-course-system)"---planting wheat, turnips, barley, and clover over four consecutive years without a fallow year---was one of the central innovations that drove the British Agricultural Revolution, which began in the mid-1600s and lasted for over 200 years.
+We will define **technology** as the knowledge used to turn resources into goods and services. This includes knowing how to use computers, computer programs, and now A.I., but it also covers a vast array of other knowledge. Agricultural practices are a good example. It has been known for thousands of years that rotating the crops that are grown on a piece of farm land will increase yields. But the development of the "[Norfolk four-course system](https://www.britannica.com/topic/Norfolk-four-course-system)" in the 17th century---planting wheat, turnips, barley, and clover over four consecutive years without a fallow year---was one of the central innovations that drove the British Agricultural Revolution. This was a change in technology that increased supply.
 
 If technology increases---that is, the knowledge about how to turn resources into goods and services increases or improves---then supply will increase. If technology decreases, then supply will decrease---although decreases in the knowledge itself is much less common than increases.
 
@@ -158,7 +162,7 @@ A change to the quantity supplied is caused by a change to the price. This chang
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3</strong> A change to supply is caused by one of the factors affecting supply (e.g., changes to the price of inputs, etc.). This change will be represented by the supply curve shifting the the left or to the right (first graph). A change to the quantity supplied is caused by a change to the price of the good (second graph).</div>
+<strong>Figure 3</strong>&nbsp;&nbsp;A change to supply is caused by one of the factors affecting supply (e.g., changes to the price of inputs, etc.). This change will be represented by the supply curve shifting the the left or to the right (first graph). A change to the quantity supplied is caused by a change to the price of the good (second graph).</div>
 </div>
 </div>
 
