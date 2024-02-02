@@ -15,7 +15,9 @@ Economists use the term **demand** to refer to the amount of a good or service c
 
 > **Demand**: A schedule (i.e., table) or curve (in a graph) that shows the various quantities of a product that consumers are willing and able to purchase at each specific price in a series of possible prices during some specified time frame.
 
-Demand is fundamentally based on needs and wants---if you have no need or want for something, you won\'t buy it. (While a consumer may be able to differentiate between a need and a want, from an economist's perspective they are the same.) Conversely, if you do need or want some good, then you will buy it; and the more that you need or want it, the more that you will be willing to pay. Demand is also based on one's ability to pay. If someone is unable to pay for a good (at any price), then, in this economic sense, he or she has no demand for it. (Of course, in a broader sense, many people need goods and services---sometimes quite urgently---for which they are unable to pay. This sense of *need*, however, is separate from the analysis of demand that we will undertake here.)
+Demand is fundamentally based on needs and wants---if you have no need or want for something, you won\'t buy it. (While a consumer may be able to differentiate between a need and a want, from an economist's perspective they are the same.) Conversely, if you do need or want some good, then you will buy it; and the more that you need or want it, the more that you will be willing to pay. 
+
+Demand is also based on a person's ability to pay. If someone is unable to pay for a good (at any price), then, in this economic sense, he or she has no demand for it. (Of course, in a broader sense, many people need goods and services---sometimes quite urgently---for which they are unable to pay. This sense of *need*, however, is separate from the analysis of demand that we will undertake here.)
 
 The **price** is what a buyer pays for a unit of a good or service. The total number of units that all consumers would purchase at a specific price is called the **quantity demanded**. A rise in price of a good or service almost always decreases the quantity demanded. Conversely, a drop in the price will, almost always, increase the quantity demanded. This inverse relationship between price and quantity demanded is called the **law of demand**.
 
@@ -67,7 +69,7 @@ As is stated in the definition, demand can be represented in a schedule (i.e., a
 <td>420</td>
 </tr>
 </tbody>
-<caption><strong>Table 1</strong> The demand schedule for gasoline lists the possible prices and quantity demanded at each price&mdash;in this case, per week for a medium sized country.</caption>
+<caption><strong>Table 1</strong>&nbsp;&nbsp;The demand schedule for gasoline lists the possible prices and quantity demanded at each price&mdash;in this case, per week for a medium sized country.</caption>
 </table>
 
 
@@ -84,7 +86,7 @@ The same information can also be represented by a demand curve in a graph. Such 
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 1</strong> A demand curve for gasoline has price on the vertical axis and the quantity demanded on the horizontal axis.</div>
+<strong>Figure 1</strong>&nbsp;&nbsp;A demand curve for gasoline has price on the vertical axis and the quantity demanded on the horizontal axis.</div>
 </div>
 </div>
 
@@ -118,7 +120,7 @@ Now, we will consider the factors that cause demand to change. Keep in mind that
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 2</strong> An increase in demand is represented by the demand curve moving to the right (first graph). A decrease to demand is represented by the demand curve moving the left (second graph).</div>
+<strong>Figure 2</strong>&nbsp;&nbsp;An increase in demand is represented by the demand curve moving to the right (first graph). A decrease to demand is represented by the demand curve moving the left (second graph).</div>
 </div>
 </div>
 
@@ -132,6 +134,7 @@ An increase in demand, as we see for chicken over the past four decades, means t
 
 A decrease in demand, as we see for beef over the past four decades, means that, at every price, consumers demand less of the good. (Or equivalently, at every quantity, consumers are not willing to pay as much for each unit of the good.) This is reflected in the graph by the demand curve shifting to the left.
 
+
 ###### A change to the number of consumers
 
 As the number of consumers for a good or service increases, demand for that good or service increases. And as the number of consumers decreases, demand decreases.
@@ -144,27 +147,29 @@ The current price for a good or service affects the quantity demanded (as the la
 
 ###### A change to the income of consumers
 
-The final two factors---a change to incomes and a change to the price of related goods---are a little more complicated. Consider for a moment what might happen to demand for instant ramen noodles as income increases for all (or most) members of a population---if, for instance, there is an economic boom and wages rise for almost everyone. Or imagine what will happen to demand for instant ramen if income decreases for all (or most) members of a population---if, say, there is a severe recession.
+The final two factors that affect demand---a change to incomes and a change to the price of related goods---are a little more complicated. For both, multiple steps must be taken to determine how demand will be affected.   
 
-Instant ramen is an example of an **inferior good**. This is a good for which, as incomes rise, demand falls; and, as incomes fall, demand increases. Other examples of inferior goods are generic brand groceries, used cars, hot dogs, and McDonalds coffee. For inferior goods, when incomes increase, demand decreases---and so the demand curve shifts to the left. (And the opposite happens when incomes decrease.)
+Consider for a moment what might happen to demand for instant ramen noodles as income increases for all (or most) members of a population---if, for instance, there is an economic boom and wages rise for almost everyone. Or imagine what will happen to demand for instant ramen if income decreases for all (or most) members of a population---if, say, there is a severe recession.
+
+Instant ramen is an example of an **inferior good**. This is a good for which, as incomes rise, demand decreases; and, as incomes fall, demand increases. Other examples of inferior goods are generic brand groceries, used cars, hot dogs, and McDonalds coffee. For inferior goods, when incomes increase, demand decreases---and so the demand curve shifts to the left. (And the opposite happens when incomes decrease.)
 
 Most goods, however, are not inferior goods. They are what we call **normal goods**. Normal goods are products for which, as incomes increase, demand increases; and as incomes decrease, demand decreases. Gasoline, an example that we've already discussed, is a normal good. As incomes increase, demand for gasoline increases. And the opposite happens when incomes decrease.
 
 ###### A change to the price of related goods
 
-For this factor that affects demand, we, again, have two categories.
+Here, we, again, have two categories.
 
 > Two goods are **substitutes** when one can be substituted for the other. So, for example, Coke and Pepsi are substitutes.
 >
-> Two goods are **compliments** when they are typically consumed together. For example, cars and car insurance or golf clubs and golf balls are compliments.
+> Two goods are **complements** when they are typically consumed together. For example, cars and car insurance or golf clubs and golf balls are complements.
 
 Now, think about (*a*) what happens to demand for Pepsi when the price of Coke increases (or decreases)? And (*b*) what happens to demand for golf balls as the price of golf clubs increases (or decreases)?
 
 > For two **substitutes**, *x* and *y*, when the price of *x* increases, the **quantity demanded** of *x* goes down and **demand** for *y* increases. (And vice versa when the price of *x* decreases.)
 >
-> For two **compliments**, *w* and *z*, when the price of *w* increases, the **quantity demanded** of *w* goes down and the **demand** for *z* goes down. (And vice versa when the price of *w* decreases.)
+> For two **complements**, *w* and *z*, when the price of *w* increases, the **quantity demanded** of *w* goes down and the **demand** for *z* goes down. (And vice versa when the price of *w* decreases.)
 
-Some care is required here because, for both substitutes and compliments, we have a change to the *quantity demanded* and a change to *demand*.
+Some care is required here because, for both substitutes and complements, we have a change to the *quantity demanded* and a change to *demand*.
 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_AOdCq30e4o?si=HhS5fzs15U5yp6QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -172,13 +177,13 @@ Some care is required here because, for both substitutes and compliments, we hav
 
 ##### 'Shifts in demand' versus 'shifts in quantity demanded'
 
-In an analysis of demand, there are two kinds of changes: (1) a change from one point on a demand curve to another point on the demand curve, and (2) a shift of the whole demand curve to the left or to the right.
+In an analysis of demand, there are two kinds of changes: (1) a change from one point on a demand curve to another point on that demand curve, and (2) a shift of the whole demand curve to the left or to the right.
 
 The first one---a change from one point on a demand curve to another point---is caused by a change in price. If the price of a good or service increases, then we move up the demand curve---and we get a new, lower quantity demanded. If the price of a good or service decreases, then we move down the demand curve---and we have a new, higher quantity demanded.
 
 The second one---shifts of the whole demand curve to the left or the right---is caused by a change to one of the factors that we just examined: tastes and preferences, the number of consumers, expectations about future prices, incomes, or the price of related goods.
 
-The way to keep these two types of changes separate is to notice that we can change price right on the graph. We just move up or down the vertical axis. And when we do this, we are necessarily going to move up or down the demand curve, which will designate a lower or higher value on the horizontal axis.
+The way to keep these two types of changes separate is to notice that we can change price right on the graph. We just move up or down the vertical axis. And when we do this, we are going to move up or down the demand curve, which will designate a lower or higher value on the horizontal axis.
 
 
 <div class="container">
@@ -188,12 +193,12 @@ The way to keep these two types of changes separate is to notice that we can cha
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3</strong> A change to demand is caused by one of the factors affecting demand (e.g., changes to tastes or preferences, etc.). This change will be represented by the demand curve shifting the the left or to the right (first graph). A change to the quantity demanded is caused by a change to the price of the good (second graph).</div>
+<strong>Figure 3</strong>&nbsp;&nbsp;A change to demand is caused by one of the factors affecting demand (e.g., changes to tastes or preferences, etc.). This change will be represented by the demand curve shifting the the left or to the right (first graph). A change to the quantity demanded is caused by a change to the price of the good (second graph).</div>
 </div>
 </div>
 
 
-In contrast, when there is a change to tastes and preferences, the number of consumers, expectations about future prices, incomes, or the price of related goods, there is no way to register that change on the graph. For instance, if consumer preferences change such that mom jeans suddenly become more popular, there is no "mom jeans" value on the graph that we can adjust. That change is happening "off stage," so to speak. In this case, we have to update our whole graph by moving the demand curve (either to the left or to the right).
+In contrast, when there is a change to tastes and preferences, the number of consumers, expectations about future prices, incomes, or the price of related goods, there is no way to register this change on the graph. For instance, if consumer preferences change such that mom jeans suddenly become more popular, there is no "popularity of mom jeans" variable on the graph that we can adjust. That change is happening "off stage," so to speak. In this case, we have to update our whole graph by moving the demand curve (either to the left or to the right).
 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/toacnxj4Nmg?si=ODWbP8_Y2WaDwEdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
