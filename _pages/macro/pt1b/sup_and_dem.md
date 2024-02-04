@@ -140,7 +140,7 @@ So, if the price is above the equilibrium level, incentives built into the struc
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3: A surplus</strong>&nbsp;&nbsp;If the price is P<sub>2</sub>, then we are at point A on the demand curve and point B on the supply curve. As a consequence, the quantity demanded (Qd) is less than the quantity supplied (Qs). This will cause the price to fall. As it does, we are moving down the demand curve (and so Qd is increasing), and we are also moving down the supply curve (so Qs is decreasing).</div>
+<strong>Figure 4: A surplus</strong>&nbsp;&nbsp;If the price is P<sub>2</sub>, then we are at point A on the demand curve and point B on the supply curve. As a consequence, the quantity demanded (Qd) is less than the quantity supplied (Qs). This will cause the price to fall. As it does, we are moving down the demand curve (and so Qd is increasing), and we are also moving down the supply curve (so Qs is decreasing).</div>
 </div>
 </div>
 
@@ -157,7 +157,7 @@ At the same time, when the price is \$1.20 producers won't be able to produce as
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 4: A shortage</strong>&nbsp;&nbsp;When the price is $1.20, the quantity demanded is 700 million gallons and the quantity supplied is 550 million gallons.</div>
+<strong>Figure 5: A shortage</strong>&nbsp;&nbsp;When the price is $1.20, the quantity demanded is 700 million gallons and the quantity supplied is 550 million gallons.</div>
 </div>
 </div>
 
@@ -183,7 +183,7 @@ Here is a four-step process to follow when investigating a change to supply or d
 
 4. Identify the new equilibrium price and quantity, and compare them to the original equilibrium price and quantity. Has this change caused the equilibrium price to increase or decrease? Has it caused the equilibrium quantity to increase or decrease?
 
-Figures 5 - 7 illustrate three of the four possible effects of a change to supply or to demand.
+Figures 6 - 8 illustrate three of the four possible effects of a change to supply or to demand.
 
 <div class="container">
 <div class="row">
@@ -192,7 +192,7 @@ Figures 5 - 7 illustrate three of the four possible effects of a change to suppl
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 5</strong>&nbsp;&nbsp;When demand decreases and supply remains constant, the intersection of the supply and demand curves changes from E<sub>0</sub> to E<sub>1</sub>. Consequently, the equilibrium price and the equilibrium quantity will both decrease, as shown in the changes from P<sub>0</sub> to P<sub>1</sub> and Q<sub>0</sub> to Q<sub>1</sub>.</div>
+<strong>Figure 6</strong>&nbsp;&nbsp;When demand decreases and supply remains constant, the intersection of the supply and demand curves changes from E<sub>0</sub> to E<sub>1</sub>. Consequently, the equilibrium price and the equilibrium quantity will both decrease, as shown in the changes from P<sub>0</sub> to P<sub>1</sub> and Q<sub>0</sub> to Q<sub>1</sub>.</div>
 </div>
 </div>
 
@@ -204,7 +204,7 @@ Figures 5 - 7 illustrate three of the four possible effects of a change to suppl
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 6</strong>&nbsp;&nbsp;When supply decreases and demand remains constant, the equilibrium price will increase and the equilibrium quantity will decrease.</div>
+<strong>Figure 7</strong>&nbsp;&nbsp;When supply decreases and demand remains constant, the equilibrium price will increase and the equilibrium quantity will decrease.</div>
 </div>
 </div>
 
@@ -216,7 +216,7 @@ Figures 5 - 7 illustrate three of the four possible effects of a change to suppl
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 7: Supply and demand for salmon</strong>&nbsp;&nbsp;When supply increases and demand remains constant, the equilibrium price will decrease and the equilibrium quantity will increase.</div>
+<strong>Figure 8: Supply and demand for salmon</strong>&nbsp;&nbsp;When supply increases and demand remains constant, the equilibrium price will decrease and the equilibrium quantity will increase.</div>
 </div>
 </div>
 
@@ -225,9 +225,9 @@ When only supply or only demand changes (and the other one remains unchanged), w
 
 If, however, both supply and demand change at the same time, then, without knowing the actual initial equilibrium price and quantity and the size of the change to demand and supply, we won't be able to determine the direction in which both the equilibrium price and quantity will change---or if they will change at all. 
 
-One illustration of this is shown in figure 8. When supply decreases and demand increases, then the equilibrium price has to increase. But we can't be sure if the equilibrium quantity will increase, decrease, or stay the same. Whichever it is depends on the size of the changes to supply and demand.
+One illustration of this is shown in figure 9. When supply decreases and demand increases, then the equilibrium price has to increase. But we can't be sure if the equilibrium quantity will increase, decrease, or stay the same. Whichever it is depends on the size of the changes to supply and demand.
 
-In figure 8, the equilibrium quantity is unchanged, but as you can see, if demand had increased by a little bit more or supply had decreased by a little less, the equilibrium quantity would have increased. On the other hand, if the demand had increased by less or supply had decreased by more, the equilibrium quantity would have decreased.
+In figure 9, the equilibrium quantity is unchanged, but as you can see, if demand had increased by a little bit more or supply had decreased by a little less, the equilibrium quantity would have increased. On the other hand, if the demand had increased by less or supply had decreased by more, the equilibrium quantity would have decreased.
 
 
 <div class="container">
@@ -237,6 +237,6 @@ In figure 8, the equilibrium quantity is unchanged, but as you can see, if deman
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 8</strong>&nbsp;&nbsp;When demand increases and supply decreases, the equilibrium price increases. The change to the equilibrium quantity, however, is ambiguous&mdash;it could increase, decrease, or stay the same.</div>
+<strong>Figure 9</strong>&nbsp;&nbsp;When demand increases and supply decreases, the equilibrium price increases. The change to the equilibrium quantity, however, is ambiguous&mdash;it could increase, decrease, or stay the same.</div>
 </div>
 </div>
