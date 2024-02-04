@@ -20,7 +20,7 @@ As you have seen, the graphs for demand and supply curves both have price on the
 <div class="container">
 <div class="row">
 	<div class="col-7">
-		{% responsive_image path: assets/img/macro_fig/2_demand/supply_demand-3.jpg class: "img-fluid rounded z-depth-1" %}
+		{% responsive_image path: assets/img/macro_fig/2_demand/supply_demand-3a-2.jpg class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption"><div align="left">
@@ -116,11 +116,11 @@ At the same time, however, when the price is \$1.80, the quantity of gasoline su
 <div class="container">
 <div class="row">
 	<div class="col-7">
-		{% responsive_image path: assets/img/macro_fig/2_demand/supply_demand-3b.jpg class: "img-fluid rounded z-depth-1" %}
+		{% responsive_image path: assets/img/macro_fig/2_demand/supply_demand-3b-2.jpg class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3: Demand and supply for gasoline</strong>&nbsp;&nbsp;When the price is $1.80, the quantity demanded is 500 million gallons and the quantity supplied is 680 million gallons.</div>
+<strong>Figure 3: A surplus</strong>&nbsp;&nbsp;When the price is $1.80, the quantity demanded is 500 million gallons and the quantity supplied is 680 million gallons.</div>
 </div>
 </div>
 
@@ -132,6 +132,18 @@ These price reductions will, in turn, increase the quantity demanded. (E.g., a g
 
 So, if the price is above the equilibrium level, incentives built into the structure of demand and supply will create pressures for the price to fall toward the equilibrium. In short, a surplus forces the price down.
 
+<div class="container">
+<div class="row">
+	<div class="col-6
+	">
+		{% responsive_image path: assets/img/macro_fig/2_demand/surplus.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 3: A surplus</strong>&nbsp;&nbsp;If the price is P<sub>2</sub>, then we are at point A on the demand curve and point B on the supply curve. As a consequence, the quantity demanded (Qd) is less than the quantity supplied (Qs). This will cause the price to fall. As it does, we are moving down the demand curve (and so Qd is increasing), and we are also moving down the supply curve (so Qs is decreasing).</div>
+</div>
+</div>
+
 ###### A shortage
 
 Now suppose that the price is \$1.20 per gallon. At this price, the quantity demanded increases from 600 to 700. In this scenario, drivers will take longer trips, stop sharing rides to work, and buy larger cars that get fewer miles per gallon. 
@@ -141,11 +153,11 @@ At the same time, when the price is \$1.20 producers won't be able to produce as
 <div class="container">
 <div class="row">
 	<div class="col-7">
-		{% responsive_image path: assets/img/macro_fig/2_demand/supply_demand-3c.jpg class: "img-fluid rounded z-depth-1" %}
+		{% responsive_image path: assets/img/macro_fig/2_demand/supply_demand-3c-2.jpg class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 4: Demand and supply for gasoline</strong>&nbsp;&nbsp;When the price is $1.20, the quantity demanded is 700 million gallons and the quantity supplied is 550 million gallons.</div>
+<strong>Figure 4: A shortage</strong>&nbsp;&nbsp;When the price is $1.20, the quantity demanded is 700 million gallons and the quantity supplied is 550 million gallons.</div>
 </div>
 </div>
 
