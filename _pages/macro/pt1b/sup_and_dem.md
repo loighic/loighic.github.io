@@ -107,7 +107,14 @@ In the graph on the right, since P<sub>3</sub> is less than P&#x2a;, it hits the
 </div>
 
 
-###### A surplus
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IeBE-AOxNe0?si=sq4uRAt8Uwkw4HnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GDPcJeecVOM?si=4ubCjSvpJg5UNRjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
+
+##### A surplus
 
 Imagine that the price of a gallon of gasoline was above the equilibrium price---that is, instead of \$1.40 per gallon, the price is \$1.80 per gallon. At this higher price, the quantity demanded drops from 600 to 500. This decline in quantity demanded reflects the tendency that consumers have to find ways to use less gasoline when the price rises.
 
@@ -144,7 +151,7 @@ So, if the price is above the equilibrium level, incentives built into the struc
 </div>
 </div>
 
-###### A shortage
+##### A shortage
 
 Now suppose that the price is \$1.20 per gallon. At this price, the quantity demanded increases from 600 to 700. In this scenario, drivers will take longer trips, stop sharing rides to work, and buy larger cars that get fewer miles per gallon. 
 
@@ -165,8 +172,6 @@ When the price is below the equilibrium price, we have **excess demand** or a **
 
 So, if the price is below the equilibrium level, incentives built into the structure of demand and supply will create pressures for the price to rise. In short, a shortage forces the price up.
 
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IeBE-AOxNe0?si=sq4uRAt8Uwkw4HnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 
 ##### Changes to supply and demand
