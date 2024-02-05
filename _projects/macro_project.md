@@ -1,7 +1,7 @@
 ---
 layout: page
 title: principles of macro
-description: a concise & online principles of macroeconomics 
+description: a concise and online principles of macroeconomics 
 permalink: /macro/
 img: assets/img/7.jpg
 importance: 2
