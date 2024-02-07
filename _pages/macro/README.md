@@ -1,4 +1,4 @@
-## A Concise Principles of Macroeconmics
+## A Concise and Online Principles of Macroeconmics
 
 This folder contains the source files for [A Concise and Online Principles of Macroeconomics](https://loighic.net/macro/).
 
