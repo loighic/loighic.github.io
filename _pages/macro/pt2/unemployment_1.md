@@ -53,13 +53,14 @@ $$unemployement\ rate = \frac{4,000}{96,000} = 4.17\%$$
 
 Notice that, when people who were unemployed leave the labor force, the numerator (unemployed) gets smaller and the denominator (labor force) also gets smaller. This will always have the effect illustrated here: the unemployment rate will get smaller.
 
-So, this is how the unemployment rate is calculated. And as the example illustrates, the unemployment rate doesn't precisely reflect the true employment picture. There are some people with only part-time or temporary jobs who are looking for full-time, permanent employment. They are counted as employed, even though they are not employed in the way that they would like or need to be. On the other hand, there are the people who would like to have a job and are available to work but have not actively sought a job in the past four weeks because they believe that they won't find one. These people are removed from the calculation altogether, even though they are in a looser sense *unemployed*.
+So, this is how the unemployment rate is calculated. And as the example illustrates, the unemployment rate doesn't precisely reflect the true employment picture. There are some people with only part-time or temporary jobs who are looking for full-time, permanent employment. They are counted as employed, even though they are not employed in the way that they would like or need to be. On the other hand, there are the people who would like to have a job and are available to work but have not actively sought a job in the past four weeks because they believe that they won't find one. These people are removed from the calculation altogether, even though they are, in a looser sense, *unemployed*.
 
 There are also individuals who are underemployed. This includes those who are trained or skilled for one type or level of work but are working in a lower paying job or one that does not utilize their skills. For example, an individual with a college degree in economics who is working as a salesclerk is underemployed. He or she is, however, counted employed. Underemployed, working part-time when a full-time job is desired, and leaving the labor force out of discouragement constitutes "hidden unemployment." Hidden unemployment doesn't register in the unemployment rate, but just like the unemployed that is counted, hidden unemployment keeps an economy from operating at its full productive capacity.
 
+
 ##### The U-5 and U-6 measures of unemployment
 
-Currently (as of December 2023), the official unemployment rate is 3.7% By historical standards, this is quite low. Two other relevant measures of unemployment are termed "U-5" and "U-6," which, as you can see in figure 1, are higher than the official unemployment rate (the blue line). (The term for the official unemployment rate is "U-3.")
+Currently (as of December 2023), the official unemployment rate is 3.7% By historical standards, this is quite low. Two other relevant measures of unemployment are termed "U-5" and "U-6," which, as you can see in figure 1, are higher than the official unemployment rate (the blue line).
 
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1eTHl&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
@@ -88,4 +89,4 @@ currently want a job.
 > 3. They lack the education, training, or experience needed for available jobs.
 > 4. Employers think that they are too young or too old, or they are subject to some other type of discrimination.
 
-U-6, meanwhile, includes everyone in U-5 plus people who are working part-time but want full-time work. U-6 is in some ways closer to the general understanding of *unemployed*. It includes everyone who has some attachment to the labor market, even if they aren't technically unemployed, as well as people who aren't working full-time but want to be.
+U-6, meanwhile, includes everyone in U-5 plus people who are working part-time but want full-time work. U-6 is in some ways closer to the general understanding of *unemployed*. It includes everyone who has some attachment to the labor market, even if they aren't technically unemployed, as well as people who have part-time jobs but want to be working full-time.
