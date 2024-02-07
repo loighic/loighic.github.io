@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /macro/gdp_1/
-title: Gross Domestic Product, Part 1
+title: Gross Domestic Product, part 1
 nav: false
 ---
 

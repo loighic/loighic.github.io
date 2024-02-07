@@ -38,9 +38,12 @@ category:
 
 [Gross Domestic Product, part 2](/macro/gdp_2/)
 
+[Unemployment, part 1](/macro/unemployment_1/)
+
+[Categories of unemployment](/macro/unemployment_2/)
+
 [Inflation]()
 
-[Unemployment]()
 
 ---
 #### Part 3
