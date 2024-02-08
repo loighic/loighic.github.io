@@ -74,7 +74,7 @@ currently want a job.
 >
 > In response to survey questions, people marginally attached to the labor force indicate that they have searched for work during the prior 12 months (or since their last job if it ended within the last 12 months), but not in the most recent 4 weeks. Because they did not actively search for work in the last 4 weeks, they are not classified as *unemployed*. In other words, the marginally attached are people who say they want a job, but who have recently stopped looking for work.
 >
-> People marginally attached to the labor force also must have been available to take a job during the survey reference week, unless they were temporarily ill. Specifically, they are asked \"Last week, could you have started a job if one had been offered?\"
+> People marginally attached to the labor force also must have been available to take a job during the survey reference week, unless they were temporarily ill. Specifically, they are asked "Last week, could you have started a job if one had been offered?"
 >
 > The marginally attached are further divided into two subgroups: (1) discouraged workers and (2) other people marginally attached to the labor force.
 
@@ -82,7 +82,7 @@ currently want a job.
 
 > **Discouraged workers** are a subset of people marginally attached to the labor force, and also part of the broader group of people not in the labor force. They are not classified as *unemployed* because they have not actively searched for work in the last 4 weeks.
 >
-> When asked, \"What is the main reason you were not looking for work during the last 4 weeks,\" these individuals indicate some type of discouragement about their job prospects. Their specific responses vary, but common ones include the following:
+> When asked, "What is the main reason you were not looking for work during the last 4 weeks," these individuals indicate some type of discouragement about their job prospects. Their specific responses vary, but common ones include the following:
 >
 > 1. There are no jobs available, or none for which they would qualify.
 > 2. They have been unable to find work in the past.
