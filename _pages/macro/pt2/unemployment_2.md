@@ -10,7 +10,7 @@ nav: false
 [<small>HOME</small>](/macro/)
 
 
-Do we want the unemployment rate to be zero? The answer to this question is actually, "no," and as you can see in figure 1, the unemployment rate has only been below 3.0% once since 1948. (During the last three years of World War II, it was below 2.0%. In contrast, for several years during the Great Depression, it was over 20%.[^1]) We'll return to why we don't want the unemployment rate to drop all of the way to zero, but first, let's investigate the two of the three categories of unemployment.
+Do we want the unemployment rate to be zero? The answer to this question is actually, "no," and as you can see in figure 1, the unemployment rate has only been below 3.0% once since 1948. (During the last three years of World War II, it was below 2.0%. In contrast, for several years during the Great Depression, it was over 20%.[^1]) We'll return to why we don't want the unemployment rate to drop all of the way to zero, but first, let's investigate two of the three categories of unemployment.
 
 [^1]: *[Historical Statistics of the United States, Colonial times to 1970](https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v1.pdf)*, p. 135.
 
@@ -37,7 +37,7 @@ This type of unemployment is called **structural unemployment** because it is ca
 
 Structural unemployment does have a high cost. Many of the people who are unemployed for structural reasons will have difficulty finding new jobs---even if they are given the opportunity to acquire new skills. But as with frictional unemployment, it is part of a healthy and dynamic economy. Ultimately, it is best for society to have the people with the most in-demand skills working. Education seems to be the key in minimizing the amount of structural unemployment. Individuals who have more years of education are (*a*) more likely to have the skills that are needed for current jobs and (*b*) have an easier time acquiring new skills if the need arises.
 
-So, to answer our original question, an unemployment rate of zero would not be ideal because it would mean rushing people into jobs for which they may not be ideally suited and employing workers who lack the skills to be as productive as we would like. It would also mean that employers would have difficulty hiring new workers in a timely fashion.
+So, to answer our original question, an unemployment rate of zero would not be ideal because it would mean rushing people into jobs for which they may not be ideally suited and employing workers who lack the skills to be as productive as we would like. It would also mean that, if everyone in the labor force had already been stuck into a job, employers would have difficulty hiring new workers in a timely fashion.
 
 ##### Natural rate of unemployment
 
@@ -87,7 +87,7 @@ When firms are expanding and need to hire more workers, then the demand for labo
 </div>
 
 
-When firms are contracting instead of expanding, however, they will slow hiring or lay off some of their workers. This is a decrease in demand, and the demand curve will shift to the left. This is shown in figure 4. Since we now have a new equilibrium, according to the supply-and-demand model, the prevailing wage *should* fall from W0 to W1. But what we often see is that the wage remains unchanged. Just as with supply and demand for any good or service, this creates a surplus---in this case, a surplus of labor, which is unemployment.
+When firms are contracting instead of expanding, however, they will slow hiring or lay off some of their workers. This is a decrease in demand, and the demand curve will shift to the left. This is shown in figure 4. Since we now have a new equilibrium, according to the supply-and-demand model, the prevailing wage *should* fall from W<sub>0</sub> to W<sub>1</sub>. But what we often see is that the wage remains unchanged. Just as with supply and demand for any good or service, this creates a surplus---in this case, a surplus of labor, which is unemployment.
 
 
 
