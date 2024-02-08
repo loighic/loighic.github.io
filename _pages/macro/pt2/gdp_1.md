@@ -135,7 +135,7 @@ The value of the final goods and services are set by the amounts for which they 
 
 GDP is supposed to be a measure of how much a country produces, and in our example, the same number of eggs were produced in 1980 and in 2023. Therefore, we need a way of calculating GDP that will reflect the fact that the same amount of eggs were produced in 1980 and in 2023.
 
-This problem is solved by using the same price in the 1980 calculation and the 2023 calculation. This is done by taking prices from one year---which we call the *base year*---and using that year's prices to calculate GDP in *all* years. Let's use 2010 as our base year. In that year, the average price of a dozen eggs was \$1.66. Using this price, we find, as expected, that the 1,000,000 cartons of eggs sold in 1980 and the 1,000,000 sold in 2023 contribute the same amount to GDP.
+This problem is solved by using the same price in the 1980 calculation and the 2023 calculation. This is done by taking prices from one year---which we call the **base year**---and using that year's prices to calculate GDP in *all* years. Let's use 2010 as our base year. In that year, the average price of a dozen eggs was \$1.66. Using this price, we find, as expected, that the 1,000,000 cartons of eggs sold in 1980 and the 1,000,000 sold in 2023 contribute the same amount to each year's GDP.
 
 > 1980: 1,000,000 x \$1.66 = \$1,660,000
 >
@@ -147,15 +147,22 @@ On the other hand, let's imagine that 1,000,000 cartons of eggs were produced an
 >
 > 2023: 2,000,000 x \$1.66 = \$3,320,000
 
-The increase in the price of a dozen eggs from 1980 (\$0.84) to 2023 (\$2.80) is just a matter of **inflation**---the general and continuous rise in price levels. The eggs themselves are exactly the same. The **nominal value** of a good or service (like eggs) is the price for which it is sold whenever that might be. So, the nominal price of a dozen eggs (on average) was \$0.84 in 1980 and \$2.80 in 2023. The **real value**, on the other hand, is a price that has been adjusted for inflation. And this adjustment is done by using a base year, like we just did.
+The increase in the price of a dozen eggs from 1980 (\$0.84) to 2023 (\$2.80) is just a matter of **inflation**---the general and continuous rise in price levels. The eggs themselves are exactly the same. The **nominal value** of a good or service (like eggs) is the price for which it is sold whenever that happened to be. So, the nominal price of a dozen eggs was \$0.84 in 1980 and \$2.80 in 2023. The **real value**, on the other hand, is a price that has been adjusted for inflation. And this adjustment is done by using a base year, like we just did.
 
-It can be easy to mix up *real* and *nominal*. One way to think about it is that *nominal*, which comes from the Latin word for *name*, is the label that we put on a good or service. It's the price that you see when you go to the store. In contrast, the *real price* is the one that you won't see in the store, but it's the true (or real) value of the good or service. The eggs in 1980 and the eggs in 2023 are exactly the same, and so they have the same real value: \$1.66 if we use 2010 as our base year.
+It can be easy to mix up *real* and *nominal*. One way to think about it is that *nominal*, which comes from the Latin word for *name*, is the label that we put on a good or service. It's the price that you see when you go to the store. In contrast, the *real price* is the one that you won't see in the store, but it's the true (or real) value of the good or service. The eggs in 1980 and the eggs in 2023 are exactly the same, and so they have the same real value: $1.66 if we use 2010 as our base year.
 
-When we add up the value of all goods and services produced in a country in a year using the prices for which they sold, then the figure that we end up with is called **nominal GDP**. When we do the same, but use the prices from a base year, then the figure is called **real GDP**. Generally, because it lets us track changes in production from year to year (and doesn't mix together changes in production and the effects of inflation), **real GDP** is the more important figure.
+Applying the concepts *nominal* and *real* to GDP, we get these definitions:
+
+>**nominal GDP**: The value of all final goods and services produced within a country in a given period (i.e., GDP) using the prices that existed at that time to set the value of those goods and services.
+>
+>**real GDP**: The value of all final goods and services produced within a country in a given period (i.e., GDP) using the prices that existed in a base year to set the value of those goods and services.
+
+Generally, because it lets us track changes in production from year to year (and doesn't mix together changes in production and the effects of inflation), **real GDP** is the more important figure.
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1eMeM&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
+<div class="caption"><div align="left">
+<strong>Figure 1: Real (red) and nominal (blue) GDP</strong>&nbsp;&nbsp;The base year for the real GDP is 2017, which means that each year's real GDP is calculated using 2017 prices.</div></div>
 
-<small><strong>Figure 1: Real (red) and nominal (blue) GDP</strong>&nbsp;&nbsp;The base year is 2017, which means that each year's real GDP is calculated using 2017 prices.</small>
 
 ##### Within a country
 
