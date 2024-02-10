@@ -12,9 +12,9 @@ nav: false
 
 ##### Measuring GDP
 
-An individual's total economic activity can be calculated in two different ways. We can track and add up all of his or her income---wages, of course, but also the interest earned on investments, monetary gifts, rent that is paid to the individual if there is any, and so forth. Alternatively, we can track and add up this person's total expenditures---i.e., goods purchased, services purchased, taxes paid, money invested (or just saved) and so on. As long as we are diligent in our investigations and did the math correctly, we would get the same figure for both calculations.
+An individual's total economic activity can be calculated in, at least, two different ways. We can track and add up all of his or her income---wages, interest earned on investments, monetary gifts, rents that are paid to the individual, and so forth. Alternatively, we can track and add up this person's total expenditures---i.e., goods purchased, services purchased, taxes paid, money invested (or just saved) and so on. As long as we are diligent in our investigations and do the math correctly, we will get the same figure for both calculations.
 
-Somewhat similarly, there are multiple ways of measuring GDP. We will only examine one, the **expenditure approach** (or as it is sometimes called the *demand side*). This method of calculating GDP tracks what is purchase. We can divide this purchasing into four main categories: 
+Somewhat similarly, there are multiple ways of measuring GDP---either adding up what is produced or adding up what is purchased are two  of the ways. We will only examine one, the **expenditure approach** (or as it is sometimes called the *demand side*). This method of calculating GDP tracks what is purchased. We can divide this purchasing into four main categories: 
 
 > consumer spending (referred to as *consumption*)<br>
 > business spending (referred to as *investment*)<br> 
