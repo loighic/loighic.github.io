@@ -157,6 +157,10 @@ Applying the concepts *nominal* and *real* to GDP, we get these definitions:
 >
 >**real GDP**: The value of all final goods and services produced within a country in a given period (i.e., GDP) using the prices that existed in a base year to set the value of those goods and services.
 
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dXwVr17HlI0?si=Riwk0nj0XgLpEdOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
 Generally, because it lets us track changes in production from year to year (and doesn't mix together changes in production and the effects of inflation), **real GDP** is the more important figure.
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1eMeM&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
