@@ -9,7 +9,7 @@ February 29-March 1, 2024
 
 UNIVERSITY OF SOUTHERN MISSISSIPPI, HATTIESBURG, MS
 
-<font color="blue">Mississippi Academy of Sciences, History & Philosophy of Science 2024 Program</font>
+<font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2024 Program</font>
 
 ---
 
