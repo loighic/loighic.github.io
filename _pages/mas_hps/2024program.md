@@ -36,11 +36,9 @@ Break
 Daniel Swaim (Kansas State University, KS) 
 
 DARWIN, LYELLIAN UNIFORMITARIANISM, AND EVOLUTIONARY REALISM
-		
-**<font color="blue">10:45-11:15</font>**<br>
-Emily Stanback (University of Southern Mississippi)
 
-IMPERIAL MEDICINE AND THREE-FINGERED JACK MANSONG
+
+???
 
 
 **LUNCH: 11:15 - 1:00**
@@ -71,6 +69,16 @@ IDENTITY AND AUTONOMY: AN EXAMINATION OF METHODOLOGICAL INDEPENDENCE
 Robert Waltzer (Belhaven University)
 
 THE AUTOMATIC NATURE OF THE CELL: REALITY OR ILLUSION
+
+
+**<font color="blue">10:00-10:15</font>**<br>
+Break
+
+
+**<font color="blue">10:45-11:15</font>**<br>
+Emily Stanback (University of Southern Mississippi)
+
+IMPERIAL MEDICINE AND THREE-FINGERED JACK MANSONG
 
 ---
 
