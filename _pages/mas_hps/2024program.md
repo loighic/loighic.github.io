@@ -5,7 +5,7 @@ title: MAS HPS 2024 Program
 nav: false
 ---
 
-February 29-March 1, 2024
+February 29 - March 1, 2024
 
 UNIVERSITY OF SOUTHERN MISSISSIPPI, HATTIESBURG, MS
 
