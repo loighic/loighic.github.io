@@ -16,13 +16,9 @@ UNIVERSITY OF SOUTHERN MISSISSIPPI, HATTIESBURG, MS
 THURSDAY, FEBRUARY 29<br>
 ROOM TC 229
 
-**<font color="blue">8:50</font>**<br> 		
+**<font color="blue">9:20</font>**<br> 		
 WELCOME, Gregory Johnson
 
-**<font color="blue">9:00-9:30</font>**<br>	
-Paula Smithka (University of Southern Mississippi)
-
-THE EXPLANATORY FECUNDITY OF SYSTEMS BIOLOGY FOR UNDERSTANDING THE FUNCTIONAL ORGANIZATION OF BIOLOGICAL SPECIES		
 
 **<font color="blue">9:30-10:00</font>**<br>
 Michael Zahorec (Florida State University)
@@ -38,7 +34,10 @@ Daniel Swaim (Kansas State University, KS)
 DARWIN, LYELLIAN UNIFORMITARIANISM, AND EVOLUTIONARY REALISM
 
 
-???
+**<font color="blue">10:45-11:15</font>**<br>
+Paula Smithka (University of Southern Mississippi)
+
+THE EXPLANATORY FECUNDITY OF SYSTEMS BIOLOGY FOR UNDERSTANDING THE FUNCTIONAL ORGANIZATION OF BIOLOGICAL SPECIES
 
 
 **LUNCH: 11:15 - 1:00**
