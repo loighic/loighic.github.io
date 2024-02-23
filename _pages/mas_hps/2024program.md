@@ -15,7 +15,7 @@ UNIVERSITY OF SOUTHERN MISSISSIPPI, HATTIESBURG, MS
 
 ---
 
-THURSDAY, FEBRUARY 29<br>
+**THURSDAY, FEBRUARY 29**<br>
 ROOM TC 229
 
 **<font color="blue">9:20</font>**<br> 		
@@ -58,7 +58,7 @@ ETHICAL ISSUES IN PRECISION MEDICINE
 
 ---
  
-FRIDAY, APRIL 1, 2022
+**FRIDAY, APRIL 1, 2022**<br>
 ROOM TC 229
 
 **<font color="blue">9:00-9:30</font>**<br>
