@@ -11,6 +11,8 @@ UNIVERSITY OF SOUTHERN MISSISSIPPI, HATTIESBURG, MS
 
 <font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2024 Program</font>
 
+<small>updated 02/23/2024</small>
+
 ---
 
 THURSDAY, FEBRUARY 29<br>
