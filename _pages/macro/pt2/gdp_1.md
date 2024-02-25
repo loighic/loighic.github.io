@@ -159,6 +159,8 @@ Applying the concepts *nominal* and *real* to GDP, we get these definitions:
 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dXwVr17HlI0?si=Riwk0nj0XgLpEdOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<div class="caption"><div align="left">
+<strong>Video 1</strong>&nbsp;&nbsp;This video explains how nominal and real GDP are calculated and the difference between the two.</div></div>
 
 
 Generally, because it lets us track changes in production from year to year (and doesn't mix together changes in production and the effects of inflation), **real GDP** is the more important figure.
