@@ -11,7 +11,7 @@ UNIVERSITY OF SOUTHERN MISSISSIPPI, HATTIESBURG, MS
 
 <font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2024 Program</font>
 
-<small>updated 02/23/2024</small>
+<small>updated 02/27/2024</small>
 
 ---
 
@@ -76,7 +76,7 @@ THE AUTOMATIC NATURE OF THE CELL: REALITY OR ILLUSION
 Break
 
 
-**<font color="blue">10:45-11:15</font>**<br>
+**<font color="blue">10:15-10:45</font>**<br>
 Emily Stanback (University of Southern Mississippi)
 
 IMPERIAL MEDICINE AND THREE-FINGERED JACK MANSONG
