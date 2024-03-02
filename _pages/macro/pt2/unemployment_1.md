@@ -31,9 +31,9 @@ So, we don't want to just divide the adult population into the people who are em
 
 Thus, a person who does not have a job and is not currently available to work or has not actively looked for work in the last four weeks is not, by this definition, unemployed. 
 
-Using this definition of *unemployed*, the **labor force** is defined as those people who are currently working for pay (in either full-time or part-time jobs) plus those who are unemployed. Meanwhile, **out of the labor force** consists of those people who are 16 and over but (1) not doing paid work and (2) are not actively looking for a job. 
+Using this definition of *unemployed*, the **labor force** is defined as those people who are currently working for pay (in either full-time or part-time jobs) plus those who are unemployed. Meanwhile, **not in the labor force** consists of those people who are 16 and over but (1) not doing paid work and (2) are not actively looking for a job. 
 
-(People---i.e., children---under 16 years of age are neither in the labor force nor out of the labor force. They are excluded from this analysis altogether. Also exclude from both categories are active-duty members of the military and people living in institutions---e.g., prisons, nursing homes, etc. Everyone else is either in the 'labor force' or 'out of the labor force'.)
+(People---i.e., children---under 16 years of age are neither (*a*) in the labor force nor (*b*) not in the labor force. They are excluded from this analysis altogether. Also exclude from both categories are active-duty members of the military and people living in institutions---e.g., prisons, nursing homes, etc. Everyone else is either in the 'labor force' or 'not in the labor force'.)
 
 With this definition of *labor force*, we define the unemployment rate this way:
 
@@ -72,7 +72,7 @@ Currently (as of December 2023), the official unemployment rate is 3.7% By histo
 <div class="caption"><div align="left">
 <strong>Figure 1</strong>&nbsp;&nbsp;Measures of unemployment 1996 to the present: U-3 (blue), the official unemployment rate; U-5 (red); and U-6 (green).</div></div>
 
-U-5 and U-6 both include people who are unemployed (by the official definition). In addition to those people, U-5 includes those who are "marginally attached to the labor force" and "discouraged workers." These terms are characterized as follows in the [Current Population Survey](https://www.bls.gov/cps/definitions.htm).
+U-5 and U-6 both include people who are, by the official definition, unemployed. U-5 also includes those who are "marginally attached to the labor force" and "discouraged workers." These terms are characterized as follows in the [Current Population Survey](https://www.bls.gov/cps/definitions.htm).
 
 > People classified as **marginally attached to the labor force** are a subset of those not in the labor force who 
 currently want a job.
@@ -94,4 +94,6 @@ currently want a job.
 > 3. They lack the education, training, or experience needed for available jobs.
 > 4. Employers think that they are too young or too old, or they are subject to some other type of discrimination.
 
-U-6, meanwhile, includes everyone in U-5 plus people who are working part-time but want full-time work. U-6 is in some ways closer to the general understanding of *unemployed*. It includes everyone who has some attachment to the labor market, even if they aren't technically unemployed, as well as people who have part-time jobs but want to be working full-time.
+U-6, meanwhile, includes everyone in U-5 plus people who are working part-time but want full-time work. The U-6 unemployment rate is in some ways closer to the general understanding of *unemployed*. It includes everyone who has some attachment to the labor market, even if they aren't technically unemployed, as well as people who have part-time jobs but want to be working full-time.
+
+---
