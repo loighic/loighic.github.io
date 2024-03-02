@@ -33,7 +33,11 @@ Thus, a person who does not have a job and is not currently available to work or
 
 Using this definition of *unemployed*, the **labor force** is defined as those people who are currently working for pay (in either full-time or part-time jobs) plus those who are unemployed. Meanwhile, **not in the labor force** consists of those people who are 16 and over but (1) not doing paid work and (2) are not actively looking for a job. 
 
-(People---i.e., children---under 16 years of age are neither (*a*) in the labor force nor (*b*) not in the labor force. They are excluded from this analysis altogether. Also exclude from both categories are active-duty members of the military and people living in institutions---e.g., prisons, nursing homes, etc. Everyone else is either in the 'labor force' or 'not in the labor force'.)
+---
+
+Children under 16 years of age are neither (*a*) in the labor force nor (*b*) not in the labor force. They are excluded from this analysis altogether. Also exclude from both categories are active-duty members of the military and people living in institutions---e.g., prisons, nursing homes, etc. Everyone else is either in the 'labor force' or 'not in the labor force'.
+
+---
 
 With this definition of *labor force*, we define the unemployment rate this way:
 
