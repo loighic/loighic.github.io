@@ -58,7 +58,7 @@ ETHICAL ISSUES IN PRECISION MEDICINE
 
 ---
  
-**FRIDAY, APRIL 1, 2022**<br>
+**FRIDAY, March 1**<br>
 ROOM TC 229
 
 **<font color="blue">9:00-9:30</font>**<br>
