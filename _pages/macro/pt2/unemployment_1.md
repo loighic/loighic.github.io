@@ -26,7 +26,7 @@ So, we don't want to just divide the adult population into the people who are em
 
 > **Unemployed**: Those people, age 16 and over, who are without a job, currently available to work, and have been actively looking for a job during the previous four weeks.[^1]
 
-[^1]: The number of people who are unemployed is based on the "[Current Population Survey](https://www.census.gov/programs-surveys/cps.html)," a monthly survey of 60,000 households that is carried out by the U.S. Census Bureau. (See also [bls.gov/cps/](https://www.bls.gov/cps/).) The number of people who are receiving unemployment benefits (or are enrolled in other government assistance programs) is not part of how unemployment is calculated.
+[^1]: The number of people who are unemployed is based on the "[Current Population Survey](https://www.census.gov/programs-surveys/cps.html)," a monthly survey of 60,000 households that is carried out by the U.S. Census Bureau. (See also [bls.gov/cps/](https://www.bls.gov/cps/).) Tracking the number of people who are receiving unemployment benefits (or are enrolled in other government assistance programs) is not part of how unemployment is calculated.
 
 
 Thus, a person who does not have a job and is not currently available to work or has not actively looked for work in the last four weeks is not, by this definition, unemployed. 
