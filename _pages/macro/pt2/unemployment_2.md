@@ -62,17 +62,19 @@ When the unemployment rate is above the natural rate, then, in addition to frict
 <strong>Figure 2</strong>&nbsp;&nbsp;Real GDP and unemployment, 1972 to the present.</div></div>
 
 
-Although there are some issues with putting a precise percentage on the natural rate of unemployment, the graph in figure 3 is useful for conceptualizing the addition of cyclical unemployment to frictional and structural unemployment. The red line, the "noncyclical rate of unemployment," is frictional and structural unemployment, which together constitute the natural rate of unemployment. The blue line is the actual unemployment rate. So, all of the unemployment above the red line is cyclical. 
+There are some issues with putting a precise percentage on the natural rate of unemployment, plus some complexities that we won't get into here about how such an estimate is made. But the graph in figure 3 is useful for conceptualizing the addition of cyclical unemployment to frictional and structural unemployment. The red line, the "noncyclical rate of unemployment," is frictional and structural unemployment, which together constitute the natural rate of unemployment. The blue line is the actual unemployment rate. So, all of the unemployment above the red line is cyclical. 
+
+For instance, in January 2011, the natural rate of unemployment was 4.8% while the actual rate of unemployment was 9.1%. Consequently, cyclical unemployment was 4.3%.
 
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1hMQS&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
 <div class="caption"><div align="left">
-<strong>Figure 3</strong>&nbsp;&nbsp;</div></div>
+<strong>Figure 3</strong>&nbsp;&nbsp;The unemployment rate and the noncyclical (i.e., natural) rate of unemployment, 1975 to the latest data available.</div></div>
 
 
 What is going on when the actual rate of unemployment is below the natural rate of unemployment---for instance, as has been the case since January of 2022---is interesting. Earlier, we defined the natural rate of unemployment as the percentage of unemployment caused by frictional and structural unemployment. Alternatively, we can define it as the percentage of unemployment when cyclical unemployment is at zero (i.e., when no unemployment is caused by recessions or other downturns in the economy).
 
-So, when the actual rate of unemployment is below the natural rate, then---according to estimates anyway---there is zero cyclical unemployment *and* there is less frictional or structural unemployment than there should be. In other words, some workers are jumping into jobs that don't especially suit them or some workers have jobs even though they lack the exact skills for them.
+So, when the actual rate of unemployment is below the natural rate, then---according to estimates anyway---there is zero cyclical unemployment *and* there is less frictional or structural unemployment than there should be (given other features of the economy). In other words, some workers are jumping into jobs that don't especially suit them or some workers have jobs even though they lack the exact skills for them.
 
 ##### The puzzle of cyclical unemployment
 
