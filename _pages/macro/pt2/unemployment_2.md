@@ -24,7 +24,7 @@ We'll return to why we don't want the unemployment rate to drop all of the way t
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1fAzU&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
 <div class="caption"><div align="left">
-<strong>Figure 1</strong></div></div>
+<strong>Figure 1</strong>&nbsp;&nbsp;The unemployment rate, 1948 to the present</div></div>
 
 
 ##### Frictional Unemployment
@@ -45,7 +45,7 @@ Structural unemployment does have a high cost. Many of the people who are unempl
 
 So, to answer our original question, an unemployment rate of zero would not be ideal because it would mean rushing people into jobs for which they may not be ideally suited and employing workers who lack the skills to be as productive as we would like. It would also mean that, if everyone in the labor force had already been stuck into a job, employers would have difficulty hiring new workers in a timely fashion.
 
-##### Natural rate of unemployment
+##### The natural rate of unemployment
 
 So, even when an economy is functioning optimally, there will be some unemployment caused by frictional and structural unemployment. This amount of unemployment is called the **natural rate of unemployment**. The natural rate of unemployment is not "natural" in the sense that water freezes at 32 degrees Fahrenheit or boils at 212 degrees Fahrenheit. The natural rate of unemployment is not a physical and unchanging law of nature. It is, however, relatively constant, and currently, it is probably around 4%. When the actual unemployment rate is equal to the natural rate of unemployment the economy has achieved **full employment**. 
 
@@ -165,3 +165,5 @@ In the **insider-outsider model** of the labor force, those already working for 
 According to the **relative wage coordination argument**, most workers might be willing to accept their own wages declining during bad economic periods (and when demand for labor is decreasing) as long as everyone else's wages decline as well. But since there is no way for a decentralized market economy to implement such a plan, workers confronted with the possibility of a wage cut will worry that other workers are not experiencing a similar wage cut. Consequently, receiving a wage cut means (or is perceived to mean) being worse off both in absolute terms and relative to others, and so workers fight hard against wage cuts.
 
 These theories of why wages tend not to move downward differ in their logic and their implications, and figuring out the strengths and weaknesses of each theory is an ongoing subject of research in economics. All of these theories, however, explain why the tendency is to make some workers unemployed instead of simply lowering wages across the board when the economy or a firm is contracting.
+
+---
