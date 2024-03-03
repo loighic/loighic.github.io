@@ -10,7 +10,15 @@ nav: false
 [<small>HOME</small>](/macro/)
 
 
-Do we want the unemployment rate to be zero? The answer to this question is actually, "no," and as you can see in figure 1, the unemployment rate has only been below 3.0% once since 1948. (During the last three years of World War II, it was below 2.0%. In contrast, for several years during the Great Depression, it was over 20%.[^1]) We'll return to why we don't want the unemployment rate to drop all of the way to zero, but first, let's investigate two of the three categories of unemployment.
+Do we want the unemployment rate to be zero? The answer to this question is actually, "no," and as you can see in figure 1, the unemployment rate has only been below 3.0% once since 1948. 
+
+---
+
+During the last three years of World War II, the unemployment rate was below 2.0%. In contrast, for several years during the Great Depression, it was over 20%.[^1]
+
+--- 
+
+We'll return to why we don't want the unemployment rate to drop all of the way to zero, but first, let's investigate two of the three categories of unemployment.
 
 [^1]: *[Historical Statistics of the United States, Colonial times to 1970](https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v1.pdf)*, p. 135.
 
@@ -21,19 +29,17 @@ Do we want the unemployment rate to be zero? The answer to this question is actu
 
 ##### Frictional Unemployment
 
-In a market economy, some companies are always going out of business while others either are just getting started or are thriving and expanding. In a perfect world, all of people who lost jobs because their former employer went out of business would immediately find new ones with the companies that need more workers. However, in the real world, even if the number of job seekers is equal to the number of job vacancies, it takes time to find out about new jobs, to interview and figure out if a particular job will be a good match, and in some cases to move to where a new job might be.
+In a market economy, it is always the case that some companies are barely surviving or are going out of business altogether. At the same time, other companies are thriving and expanding. In a perfect world, all of the people who were laid off would immediately find new jobs with the companies that need more workers. In the real world, however, even if the number of job seekers is equal to the number of job vacancies, it takes time for unemployed workers to find out about new jobs, interview and figure out if a particular job will be a good match, and then, in some cases, move to a different part of the state or country.
 
 In 2019, for example, there were typically about 6 million unemployed people at any given time in the U.S. Even though about two-thirds of those unemployed people found a job in 14 or fewer weeks, the unemployment rate did not change much during the year because those who found new jobs were largely offset by others who lost jobs.
 
-The unemployment that occurs because workers are move between jobs is called **frictional unemployment**. Frictional unemployment is not inherently a bad thing. It takes time to match those who are looking for employment with the correct job openings. For individuals and companies to be successful and productive, people should find the job for which they are best suited, and not just take the first job offered to them because it was the first.
+The unemployment that occurs because workers are move between jobs is called **frictional unemployment**. Frictional unemployment is not inherently a bad thing. It takes time to match the people who are looking for employment with the best job for each of them---or, at least, with a job that is a reasonably good match for each of them. For individuals and companies to be successful and productive, people should find the job for which they are best suited, and not just take the first job offered to them because it was the first.
 
-Also included in frictional unemployment are recent college graduates who have just entered the labor market and are looking for a job. The frictional unemployment that results from people moving between jobs in a dynamic economy may account for one to two percentage points of total unemployment.
+Also included in frictional unemployment are recent college graduates who have just entered the labor market and are looking for a job. The frictional unemployment that results from people moving between jobs in a dynamic economy probably accounts for one to two percentage points of total unemployment.
 
 ##### Structural Unemployment {#structural-unemployment-1}
 
-Some people are unemployed because they lack the skills that they need for a new job. In some cases, the skills that they have are no longer needed---for instance, accountants who are only able to use adding machines, calculators, and ledgers, or aerospace engineers after the U.S. space program downsized in the 1970s. In other cases, it is because the workers never acquired many (or any) skills in the first place---as is generally the case with high school dropouts.
-
-This type of unemployment is called **structural unemployment** because it is caused by changes to the structure of the economy---different skills are needed, or different products are wanted.
+Some people are unemployed because they lack the skills that they need for a new job. In some cases, the skills that they have are no longer needed---for instance, accountants who are only able to use adding machines, calculators, and ledgers, or aerospace engineers after the U.S. space program downsized in the 1970s. In other cases, the unemployed workers never acquired many (or any) skills in the first place---as is generally the case with high school dropouts. Unemployment that is caused by a mismatch between the skills that workers have and the skills that are needed is called **structural unemployment**.
 
 Structural unemployment does have a high cost. Many of the people who are unemployed for structural reasons will have difficulty finding new jobs---even if they are given the opportunity to acquire new skills. But as with frictional unemployment, it is part of a healthy and dynamic economy. Ultimately, it is best for society to have the people with the most in-demand skills working. Education seems to be the key in minimizing the amount of structural unemployment. Individuals who have more years of education are (*a*) more likely to have the skills that are needed for current jobs and (*b*) have an easier time acquiring new skills if the need arises.
 
@@ -41,20 +47,27 @@ So, to answer our original question, an unemployment rate of zero would not be i
 
 ##### Natural rate of unemployment
 
-So, even when an economy is functioning optimally, there will be some unemployment caused by frictional and structural unemployment. This amount of unemployment is called the **natural rate of unemployment**. The natural rate of unemployment is not "natural" in the sense that water freezes at 32 degrees Fahrenheit or boils at 212 degrees Fahrenheit. This rate is not a physical and unchanging law of nature. It is, however, relatively constant, and right now is probably around 4%. When the actual unemployment rate is equal to the natural rate of unemployment the economy has achieved **full employment**. (Over time, however, the natural rate of unemployment can change---as it might if, for instance, unemployed workers have easier access to job opportunities because of the internet than they did a couple of decades ago, or if the skills that are prevalent in the labor force more closely match the skills that firms want.)
+So, even when an economy is functioning optimally, there will be some unemployment caused by frictional and structural unemployment. This amount of unemployment is called the **natural rate of unemployment**. The natural rate of unemployment is not "natural" in the sense that water freezes at 32 degrees Fahrenheit or boils at 212 degrees Fahrenheit. The natural rate of unemployment is not a physical and unchanging law of nature. It is, however, relatively constant, and currently, it is probably around 4%. When the actual unemployment rate is equal to the natural rate of unemployment the economy has achieved **full employment**. 
 
-When the unemployment rate is above the natural rate, then, in addition to frictional and structural unemployment, there is some amount of cyclical unemployment.
+Over time, however, the natural rate of unemployment can change---as it might, for instance, if unemployed workers have easier access to job opportunities than they did before the use of the internet became widespread, or if the skills that are prevalent in the labor force happen to match the skills that firms want.
+
+When the unemployment rate is above the natural rate, then, in addition to frictional and structural unemployment, there is some amount of what is called *cyclical unemployment*.
 
 ##### Cyclical unemployment
 
-**Cyclical unemployment** is unemployment caused by downturns in the economy---or after GDP hits a trough, the unemployment that persists as the economy slowly recovers. Figure 1 is a graph of both GDP (the blue line) and the unemployment rate (the red line). Recall that the gray bars represent recessions. As you can see, each recession is accompanied by a surge in unemployment, which then begins to decline once the recession is over. The unemployment in these surge (on the way up and back down) is cyclical unemployment.
+**Cyclical unemployment** is unemployment caused by downturns in the economy. Figure 1 is a graph of both GDP (the blue line) and the unemployment rate (the red line). Recall that the gray bars represent recessions. As you can see, each recession is accompanied by a surge in unemployment, which then begins to decline once the recession is over. The unemployment in these surge (on the way up and back down) is cyclical unemployment.
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1fJLq&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
 <div class="caption"><div align="left">
-<strong>Figure 2</strong>&nbsp;&nbsp;Real GDP and unemployment from 1972 to the present.</div></div>
+<strong>Figure 2</strong>&nbsp;&nbsp;Real GDP and unemployment, 1972 to the present.</div></div>
 
 
-(Although there are some issues with putting a precise number on the natural rate of unemployment, [this graph](https://fred.stlouisfed.org/graph/?g=1fJMA) is useful for conceptualizing the addition of cyclical unemployment to frictional and structural unemployment. The green line represents the natural rate of unemployment, and the red line is the actual unemployment rate. So, all of the unemployment above the green line is cyclical.)
+Although there are some issues with putting a precise number on the natural rate of unemployment, the graph in figure 3 is useful for conceptualizing the addition of cyclical unemployment to frictional and structural unemployment. The green line represents the natural rate of unemployment, and the red line is the actual unemployment rate. So, all of the unemployment above the green line is cyclical.
+
+<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1hMPd&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
+<div class="caption"><div align="left">
+<strong>Figure 3</strong>&nbsp;&nbsp;.</div></div>
+
 
 Frictional and structural unemployment are unavoidable. According to the supply-and-demand model, cyclical unemployment is avoidable, and the fact that it is relatively common presents something of a puzzle.
 
