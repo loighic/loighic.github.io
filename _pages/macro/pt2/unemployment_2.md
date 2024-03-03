@@ -64,9 +64,7 @@ When the unemployment rate is above the natural rate, then, in addition to frict
 
 Although there are some issues with putting a precise number on the natural rate of unemployment, the graph in figure 3 is useful for conceptualizing the addition of cyclical unemployment to frictional and structural unemployment. The green line represents the natural rate of unemployment, and the red line is the actual unemployment rate. So, all of the unemployment above the green line is cyclical.
 
-<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1hMPd&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
-<div class="caption"><div align="left">
-<strong>Figure 3</strong>&nbsp;&nbsp;.</div></div>
+
 
 
 Frictional and structural unemployment are unavoidable. According to the supply-and-demand model, cyclical unemployment is avoidable, and the fact that it is relatively common presents something of a puzzle.
