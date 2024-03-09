@@ -11,12 +11,8 @@ nav: false
 
 
 Do we want the unemployment rate to be zero? The answer to this question is actually, "no," and as you can see in figure 1, the unemployment rate has only been below 3.0% once since 1948. 
-
----
-
-During the last three years of World War II, the unemployment rate was below 2.0%. In contrast, for several years during the Great Depression, it was over 20%.[^1]
-
---- 
+(During the last three years of World War II, it was below 2.0%, while at the other extreme, for several years during the Great Depression, it was over 20%.[^1])
+ 
 
 We'll return to why we don't want the unemployment rate to drop all of the way to zero, but first, let's investigate two of the three categories of unemployment.
 
@@ -80,7 +76,7 @@ So, when the actual rate of unemployment is below the natural rate, then---accor
 
 Frictional and structural unemployment are unavoidable. According to the supply-and-demand model, cyclical unemployment is avoidable, and the fact that it is relatively common presents something of a puzzle.
 
-To understand this puzzle, let's think about supply and demand for labor (figure 2). *Supply* in this case refers to the supply of labor, and so the "suppliers" are workers. The demand for labor, on the other hand, comes from firms. Price is the price of labor---that is, wages---and the point where supply and demand intersect designates the equilibrium price (i.e., the equilibrium wage) and the equilibrium quantity.
+To understand this puzzle, let's think about supply and demand for labor (figure 4). *Supply* in this case refers to the supply of labor, and so the "suppliers" are workers. The demand for labor, on the other hand, comes from firms. *Price* is the price of labor---that is, wages---and the point where supply and demand intersect gives us the equilibrium price (i.e., the equilibrium wage) and the equilibrium quantity.
 
 <div class="container">
 <div class="row">
@@ -89,12 +85,12 @@ To understand this puzzle, let's think about supply and demand for labor (figure
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3: Supply and demand for labor</strong>&nbsp;&nbsp;In a labor market with flexible wages, the equilibrium will occur at wage We and quantity Qe. At this point, the number of people who want jobs equals the number of jobs available.</div>
+<strong>Figure 4: Supply and demand for labor</strong>&nbsp;&nbsp;In a labor market with flexible wages, the equilibrium will occur at wage We and quantity Qe. At this point, the number of people who want jobs equals the number of jobs available.</div>
 </div>
 </div>
 
 
-When firms are expanding and need to hire more workers, then the demand for labor increases. (See figure 3.) Supply may increase in this scenario if people who weren't previously in the labor force enter the labor force, but let's assume that supply doesn't change. Since the demand curve shifts to the right, the equilibrium wage and equilibrium quantity both increase. And this is generally what happens in the real world.
+When firms are expanding and need to hire more workers, then the demand for labor increases. (See figure 5.) Supply may increase in this scenario if people who weren't previously in the labor force enter the labor force, but let's assume that supply doesn't change. Since the demand curve shifts to the right, the equilibrium wage and equilibrium quantity both increase. And this is generally what happens in the real world.
 
 
 <div class="container">
@@ -104,12 +100,12 @@ When firms are expanding and need to hire more workers, then the demand for labo
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 4</strong>&nbsp;&nbsp;When demand for labor increases, the equilibrium wage increases from W<sub>0</sub> to W<sub>1</sub> and the equilibrium quantity increases from Q<sub>0</sub> to Q<sub>1</sub>.</div>
+<strong>Figure 5</strong>&nbsp;&nbsp;When demand for labor increases, the equilibrium wage increases from W<sub>0</sub> to W<sub>1</sub> and the equilibrium quantity increases from Q<sub>0</sub> to Q<sub>1</sub>.</div>
 </div>
 </div>
 
 
-When firms are contracting instead of expanding, however, they will slow hiring or lay off some of their workers. This is a decrease in demand, and the demand curve will shift to the left. This is shown in figure 4. Since we now have a new equilibrium, according to the supply-and-demand model, the prevailing wage *should* fall from W<sub>0</sub> to W<sub>1</sub>. But what we often see is that the wage remains unchanged. Just as with supply and demand for any good or service, this creates a surplus---in this case, a surplus of labor, which is unemployment.
+When firms are contracting instead of expanding, however, they will slow hiring or lay off some of their workers. This is a decrease in demand, and the demand curve will shift to the left. This is shown in figure 6. Since we now have a new equilibrium, according to the supply-and-demand model, the prevailing wage *should* fall from W<sub>1</sub> to W<sub>2</sub>. But what we often see is that the wage remains unchanged. Just as with supply and demand for any good or service, this creates a surplus---in this case, a surplus of labor, which is unemployment.
 
 
 
@@ -120,12 +116,12 @@ When firms are contracting instead of expanding, however, they will slow hiring 
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 5</strong>&nbsp;&nbsp;If the demand for labor decreases but the wage remains at W<sub>1</sub>, then there will be a surplus of labor (i.e., unemployment).</div>
+<strong>Figure 6</strong>&nbsp;&nbsp;If the demand for labor decreases but the wage remains at W<sub>1</sub>, then there will be a surplus of labor (i.e., unemployment).</div>
 </div>
 </div>
 
 
-Frictional and structural unemployment will contribute to this surplus of labor. It is also possible that people who are unemployed are not willing to work at the current equilibrium wage, say \$12 an hour, but would be willing to work at a higher wage, like \$20 per hour. The monthly Current Population Survey would count these people as unemployed because they say they are ready and looking for work (at \$20 per hour). However, from an economist's perspective, these people are choosing to be unemployed.
+It is possible that people who are unemployed are not willing to work at the current equilibrium wage, say \$15 an hour, but would be willing to work at a higher wage, like \$20 per hour. The monthly Current Population Survey would count these people as unemployed because they say they are ready and looking for work (at \$20 per hour). However, from an economist's perspective, these people are choosing to be unemployed.
 
 Probably a few people are unemployed because of unrealistic expectations about wages, but they do not represent the majority of the unemployed. Instead, unemployed people often have friends or acquaintances of similar skill levels who are employed, and the unemployed would be willing to work at jobs and wages similar to what those people are receiving. However, the employers of their friends and acquaintances do not seem to be hiring. In other words, these people are involuntarily unemployed. What causes the involuntary unemployment that is over and above frictional and structural unemployment?
 
@@ -140,7 +136,7 @@ The economic conundrum here is that while wages increase with relative ease (whe
 
 One set of reasons why wages may be sticky downward involves economic laws and institutions. If a worker is receiving the minimum wage and no more, it is illegal to reduce his or her wages. For union workers operating under a multiyear contract with a company, wage cuts might violate the contract and create a labor dispute or a strike. Minimum wages and union contracts are not, however, the reason why wages are sticky downward for the U.S. economy as a whole. After all, out of the 73.3 million or so employed workers in the U.S. economy who earn wages by the hour, only about 1.1 million---less than 2% of the total---are working for (or in some special cases below) the minimum wage. Similarly, labor unions represent only about 12% of American wage and salary workers. In other high-income countries, more workers may have their wages determined by unions or the minimum wage, but in the United States, these two factors affect only about 15% or less of the labor force.
 
-Economists looking for reasons why wages might be sticky downwards have focused on factors that may characterize most labor relationships in the economy, not just a few. There are a number different possible explanations.
+Economists looking for reasons why wages might be sticky downwards have focused on factors that may characterize most labor relationships in the economy, not just a few. There are a number different possible explanations. We will review five of them here.
 
 ###### Implicit contracts
 
@@ -152,9 +148,7 @@ According to the **efficiency wage theory**, the productivity of workers depends
 
 ###### The adverse selection of wage cuts argument
 
-If an employer reacts to poor business conditions by reducing wages for all workers, then the best workers---those with the best employment alternatives at other firms---are the most likely to leave. The least attractive workers---those who have fewer employment alternatives---are more likely to stay. Consequently, firms are more likely to choose which workers should depart, through layoffs and firings, rather than trimming wages across the board. This is the **adverse selection argument**.
-
-Sometimes companies that are experiencing difficult times can persuade workers to take a pay cut for the short term, and still retain most of the firm's workers. It is far more typical, however, for companies to lay off some workers, rather than to cut wages for everyone.
+If an employer reacts to poor business conditions by reducing wages for all workers, then the best workers---those with the best employment alternatives at other firms---are the most likely to leave. The least attractive workers---those who have fewer employment alternatives---are more likely to stay. Consequently, firms are more likely to choose which workers should depart, through layoffs and firings, rather than trimming wages across the board. This is the **adverse selection argument**. 
 
 ###### The insider-outsider model
 
