@@ -70,7 +70,7 @@ For instance, in January 2011, the natural rate of unemployment was 4.8% while t
 
 What is going on when the actual rate of unemployment is below the natural rate of unemployment---for instance, as has been the case since January of 2022---is interesting. Earlier, we defined the natural rate of unemployment as the percentage of unemployment caused by frictional and structural unemployment. Alternatively, we can define it as the percentage of unemployment when cyclical unemployment is at zero (i.e., when no unemployment is caused by recessions or other downturns in the economy).
 
-So, when the actual rate of unemployment is below the natural rate, then---according to estimates anyway---there is zero cyclical unemployment *and* there is less frictional or structural unemployment than there should be (given other features of the economy). In other words, some workers are jumping into jobs that don't especially suit them or some workers have jobs even though they lack the exact skills for them.
+So, when the actual rate of unemployment is below the natural rate, then---according to estimates anyway---there is zero cyclical unemployment *and* there is less frictional or structural unemployment than there should be (given other features of the economy). In other words, some workers are jumping into jobs that don't especially suit them or some workers have jobs even though they lack the precise skills for them.
 
 ##### The puzzle of cyclical unemployment
 
