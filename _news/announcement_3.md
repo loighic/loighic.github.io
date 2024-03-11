@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-23
+date: 2024-04-13
 inline: true
 ---
 
-"Functional kinds and the special sciences." Mississippi Academy of Sciences Annual Meeting: HPS Division. Biloxi, MS.
+"Seeing the mind: Hacking, microscopes and calcium imaging." Spring meeting of the Deep South Philosophy and Neuroscience Workgroup. Memphis, TN. 
