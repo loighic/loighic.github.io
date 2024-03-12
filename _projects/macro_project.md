@@ -42,7 +42,7 @@ category:
 
 [Categories of unemployment](/macro/unemployment_2/)
 
-[Inflation]()
+[Calculating inflation](/macro/inflation_1/)
 
 
 ---
