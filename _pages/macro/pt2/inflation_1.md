@@ -14,7 +14,7 @@ The prices of goods and services rise (and fall) for various reasons. As we disc
 
 Inflation is different. **Inflation** is the general and ongoing rise in the level of prices in an economy. The **inflation rate** is the percent change in prices over some period, usually a year. When the inflation rate is positive---i.e., the change is 1 or 2 or 3%---there is *inflation*. When the rate is negative, there is *deflation*.
 
-As you can see in the graph in figure 1, since 1950, there has almost always been some inflation in the United States economy, peaking at 14.8% in March of 1980. And the four periods of deflation since January of 1950 have all been brief.
+As you can see in the graph in figure 1, since 1950, there has almost always been some inflation in the United States economy, peaking at 14.8% in March of 1980. In contrast, the four periods of deflation since January of 1950 have all been very brief.
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1iafS&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
 <div class="caption"><div align="left">
@@ -50,7 +50,7 @@ So, as a result, our index numbers inform us about the percentage increase (or d
 ---
 
 
-More often than not, however, we don't want to compare one year to the base year. We want to compare two other years. We can do that and get the rate of inflation between two years using this formula:
+More often than not, however, we don't want to compare one year to the base year. We want to compare two other years. We can do that and get the rate of inflation between those two years using this formula:
 
 $$ \mathsf{inflation\ rate = \frac{GDP\ deflator,\ later\ year - GDP\ deflator,\ earlier\ year}{GDP\ deflator,\ earlier\ year}}$$
 
@@ -72,7 +72,7 @@ A second problem is that GDP measures production within the U.S. (or any other c
 
 The inflation rate that is more often used by economists and the one that you are likely to see reported in the news is calculated using the Consumer Price Index (CPI). This method also uses index numbers, and so, once we have those numbers, the calculation is the same as it is for the GDP deflator method. Getting the CPI values takes more work, however. Let's consider a simple example.
 
-Imagine that the typical family's monthly expenditures in 2017, 2018, and 2019 are just what are listed in tables 1 - 3: rent for a 2-bedroom apartment, burritos, and movie tickets. Of course, in reality, individuals purchase many more goods and services each month, but nonetheless, the idea is that we are just focused on so called "regular" purchases.
+Imagine that the typical family's monthly expenditures in 2017, 2018, and 2019 are just what are listed in tables 1 - 3: rent for a 2-bedroom apartment, burritos, and movie tickets. Of course, in reality, individuals purchase many more goods and services each month, but nonetheless, the idea is that we are just focusing on the purchases regularly made by consumers.
 
 
 <table class="styled-table">
@@ -217,6 +217,6 @@ In our example, we imagined that the typical consumer just pays rent on a two-be
 
 The U.S. Bureau of Labor Statistics (BLS), which calculates the official consumer price index, also uses a basket of goods to do so, although the basket of goods that they use is much larger than the one in our example. In fact, it is much larger than what any single consumer or household would purchase in a month (but importantly, it is much less than everything that is counted in GDP).
 
-In our example, the goods were weighted by the quantities of each that were purchased. As such, burritos, for instance, had a much larger impact on the CPI that we calculated than movie tickets because many more were purchased each month. The actual consumer price index weights goods and services, not by quantities purchased each month, but by how important the item is for consumers.
+In our example, the goods were weighted by the quantities of each that were purchased. As such, burritos, for instance, had a much larger impact on the CPI that we calculated than movie tickets because many more were purchased each month. The actual consumer price index weights goods and services, not by quantities purchased each month, but by how important the item is for consumers. Food (13.561) and shelter, whether owned or rented (34.421), as might be expected are weighted quite heavily. Much higher than, say, cellular telephone service (1.361), which is itself weighted more heavily than postage (0.057).
 
 The categories for the basket of goods that the BLS uses are listed [here](https://www.bls.gov/news.release/cpi.t01.htm) (and as more detailed categories, [here](https://www.bls.gov/news.release/cpi.t02.htm).)
