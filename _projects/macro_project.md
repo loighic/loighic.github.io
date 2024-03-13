@@ -44,6 +44,8 @@ category:
 
 [Calculating inflation](/macro/inflation_1/)
 
+[Inflation, part 2](/macro/inflation_2/)
+
 
 ---
 #### Part 3
