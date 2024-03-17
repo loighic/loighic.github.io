@@ -12,7 +12,10 @@ nav: false
 
 ##### Inflation data on FRED
 
-*Video about the FRED site here.*
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O1jlsa0fgrI?si=oJ0TfOYgjIXFD6nD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<div class="caption"><div align="left">
+<strong>Video 1</strong>&nbsp;&nbsp;Calculating inflation using the CPI data on the FRED website, both for all prices and for the price of a single good, coffee.</div></div>
+
 
 ##### Inflation and wages
 
@@ -250,5 +253,3 @@ The harms versus the benefits of moderate inflation can be debated, but there is
 <caption><strong>Table 3</strong>&nbsp;&nbsp;The 12 highest periods of hyperinflation. From <a href="https://www.cato.org/sites/cato.org/files/pubs/pdf/hanke-krus-hyperinflation-table-may-2013.pdf">Hanke and Krus (2012)</a>.</caption>
 </table>
 
-
-Video here
