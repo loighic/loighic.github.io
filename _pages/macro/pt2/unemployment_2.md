@@ -72,11 +72,12 @@ What is going on when the actual rate of unemployment is below the natural rate 
 
 So, when the actual rate of unemployment is below the natural rate, then---according to estimates anyway---there is zero cyclical unemployment *and* there is less frictional or structural unemployment than there should be (given other features of the economy). In other words, some workers are jumping into jobs that don't especially suit them or some workers have jobs even though they lack the precise skills for them.
 
+
 ##### The puzzle of cyclical unemployment
 
 Frictional and structural unemployment are unavoidable. According to the supply-and-demand model, cyclical unemployment is avoidable, and the fact that it is relatively common presents something of a puzzle.
 
-To understand this puzzle, let's think about supply and demand for labor (figure 4). *Supply* in this case refers to the supply of labor, and so the "suppliers" are workers. The demand for labor, on the other hand, comes from firms. *Price* is the price of labor---that is, wages---and the point where supply and demand intersect gives us the equilibrium price (i.e., the equilibrium wage) and the equilibrium quantity.
+To understand this puzzle, let's think about the supply and demand for labor (figure 4). *Supply* in this case refers to the supply of labor, and so the "suppliers" are workers. The demand for labor, on the other hand, comes from firms. *Price* is the price of labor---that is, wages---and the point where supply and demand intersect gives us the equilibrium price (i.e., the equilibrium wage) and the equilibrium quantity.
 
 <div class="container">
 <div class="row">
@@ -125,7 +126,7 @@ It is possible that people who are unemployed are not willing to work at the cur
 
 Probably a few people are unemployed because of unrealistic expectations about wages, but they do not represent the majority of the unemployed. Instead, unemployed people often have friends or acquaintances of similar skill levels who are employed, and the unemployed would be willing to work at jobs and wages similar to what those people are receiving. However, the employers of their friends and acquaintances do not seem to be hiring. In other words, these people are involuntarily unemployed. What causes the involuntary unemployment that is over and above frictional and structural unemployment?
 
-<small>videos: [cyclical unemployment](https://youtu.be/Y5K8__QTF2I?si=mqL4K937QIaIgIOh), [sticky wages](https://youtu.be/IbiPQI0wMAk?si=Ysd8SNIoqrhkyN8t)</small>
+videos: [cyclical unemployment](https://youtu.be/Y5K8__QTF2I?si=mqL4K937QIaIgIOh), [sticky wages](https://youtu.be/IbiPQI0wMAk?si=Ysd8SNIoqrhkyN8t)
 
 
 ##### Wages are sticky downward
@@ -134,17 +135,23 @@ The economic conundrum here is that while wages increase with relative ease (whe
 
 ###### Unions and the minimum wage
 
-One set of reasons why wages may be sticky downward involves economic laws and institutions. If a worker is receiving the minimum wage and no more, it is illegal to reduce his or her wages. For union workers operating under a multiyear contract with a company, wage cuts might violate the contract and create a labor dispute or a strike. Minimum wages and union contracts are not, however, the reason why wages are sticky downward for the U.S. economy as a whole. After all, out of the 73.3 million or so employed workers in the U.S. economy who earn wages by the hour, only about 1.1 million---less than 2% of the total---are working for (or in some special cases below) the minimum wage. Similarly, labor unions represent only about 12% of American wage and salary workers. In other high-income countries, more workers may have their wages determined by unions or the minimum wage, but in the United States, these two factors affect only about 15% or less of the labor force.
+One set of reasons why wages may be sticky downward involves economic laws and institutions. If a worker is receiving the minimum wage and no more, it is illegal to reduce his or her wages. For union workers operating under a multiyear contract with a company, wage cuts might violate the contract and create a labor dispute or a strike. 
+
+Minimum wages and union contracts are not, however, the reason why wages are sticky downward for the U.S. economy as a whole. After all, out of the 73.3 million or so employed workers in the U.S. economy who earn wages by the hour, only about 1.1 million---less than 2% of the total---are working for (or in some special cases below) the minimum wage. Similarly, labor unions represent only about 12% of American wage and salary workers. In other high-income countries, more workers may have their wages determined by unions or the minimum wage, but in the United States, these two factors affect only about 15% or less of the labor force.
 
 Economists looking for reasons why wages might be sticky downwards have focused on factors that may characterize most labor relationships in the economy, not just a few. There are a number different possible explanations. We will review five of them here.
 
 ###### Implicit contracts
 
-One argument is that even employees who are not union members often work under an **implicit contract**. This is not an actual contract, but rather an understanding that the employer will try to keep wages from falling when the economy is weak or the business is having trouble, and the employee will not expect huge salary increases when the economy or the business is strong. This wage-setting behavior acts like a form of insurance: the employee has some protection against wage declines in bad times, but he or she pays for that protection with lower wages in good times. Clearly, this sort of implicit contract means that firms will be hesitant to cut wages, lest workers feel betrayed and work less hard or even leave the firm.
+One argument is that even employees who are not union members often work under an **implicit contract**. This is not an actual contract, but rather an understanding that the employer will try to keep wages from falling when the economy is weak or the business is having trouble, and the employee will not expect huge salary increases when the economy or the business is strong. 
+
+This wage-setting behavior acts like a form of insurance: the employee has some protection against wage declines in bad times, but he or she pays for that protection with lower wages in good times. Clearly, this sort of implicit contract means that firms will be hesitant to cut wages, lest workers feel betrayed and work less hard or even leave the firm.
 
 ###### The efficiency wage theory
 
-According to the **efficiency wage theory**, the productivity of workers depends on their pay, and so employers will often find it worthwhile to pay their employees somewhat more than the supply-and-demand model dictates. One reason for this is that employees who receive better pay than others will be more productive because they recognize that if they were to lose their current jobs and had to find a new one, they would likely suffer a decline in salary. As a result, they are motivated to work harder and to stay with their current employer. At the same time, employers know that it is costly and time-consuming to hire and train new employees, so they would prefer to pay workers a little extra now rather than lose them and have to hire and train new workers. Thus, by avoiding wage cuts, the employer minimizes the costs associated with training and hiring new workers and gets the benefits of well-motivated employees.
+According to the **efficiency wage theory**, the productivity of workers depends on their pay, and so employers will often find it worthwhile to pay their employees somewhat more than the supply-and-demand model dictates. One reason for this is that employees who receive better pay than others will be more productive because they recognize that if they were to lose their current jobs and had to find a new one, they would likely suffer a decline in salary. 
+
+As a result, they are motivated to work harder and to stay with their current employer. At the same time, employers know that it is costly and time-consuming to hire and train new employees, so they would prefer to pay workers a little extra now rather than lose them and have to hire and train new workers. Thus, by avoiding wage cuts, the employer minimizes the costs associated with training and hiring new workers and gets the benefits of well-motivated employees.
 
 ###### The adverse selection of wage cuts argument
 
@@ -156,7 +163,12 @@ In the **insider-outsider model** of the labor force, those already working for 
 
 ###### The relative wage coordination argument
 
-According to the **relative wage coordination argument**, most workers might be willing to accept their own wages declining during bad economic periods (and when demand for labor is decreasing) as long as everyone else's wages decline as well. But since there is no way for a decentralized market economy to implement such a plan, workers confronted with the possibility of a wage cut will worry that other workers are not experiencing a similar wage cut. Consequently, receiving a wage cut means (or is perceived to mean) being worse off both in absolute terms and relative to others, and so workers fight hard against wage cuts.
+According to the **relative wage coordination argument**, most workers might be willing to accept their own wages declining during bad economic periods (and when demand for labor is decreasing) as long as everyone else's wages decline as well. (That is, not just everyone in their firm, but everyone in the labor force, or at least everyone in their segment of the labor force.)
+
+But since there is no way for a decentralized market economy to implement such a plan, workers confronted with the possibility of a wage cut will worry that other workers are not experiencing a similar wage cut. Consequently, receiving a wage cut means (or is perceived to mean) being worse off both in absolute terms and relative to others, and so workers fight hard against wage cuts.
+
+
+###### The theories
 
 These theories of why wages tend not to move downward differ in their logic and their implications, and figuring out the strengths and weaknesses of each theory is an ongoing subject of research in economics. All of these theories, however, explain why the tendency is to make some workers unemployed instead of simply lowering wages across the board when the economy or a firm is contracting.
 
