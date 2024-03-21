@@ -71,8 +71,6 @@ There are two points to be made about this list. First, these are all ways of st
 Second, 1 -- 5 constitute two types or definitions of money. The most liquid ones, 1 -- 3, are the M1 money supply, which is probably what most people think of as money. M1 plus 4 and 5 are the M2 money supply.
 
 
-***Why hold money? Include this?***
-
 
 ##### Banks
 
