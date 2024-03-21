@@ -27,7 +27,7 @@ Somewhat similarly, there are multiple ways of measuring GDP, two of which are (
 
 ###### Investment
 
-When calculating GDP, **investment** does not mean buying stocks or bonds (which, as we already noted, are not included in GDP). Rather, it is purchases of new capital goods (e.g., buildings, factories, and stores and equipment). Purchases of new residential housing are also included in investment (not in the consumption category). Additions to inventories---that is goods that are produced but not sold in a given quarter or year---are the third main part of investment.
+When calculating GDP, **investment** does not mean buying stocks or bonds (which, as we already noted, are not included in GDP). Rather, investment is purchases of new capital goods (e.g., buildings, factories, equipment). Purchases of new residential housing are also included in investment (not in the consumption category). Additions to inventories---that is goods that are produced but not sold in a given quarter or year---are the third main part of investment.
 
 ###### Government expeditures
 
