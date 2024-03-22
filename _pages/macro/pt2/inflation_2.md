@@ -60,7 +60,7 @@ $$ \mathsf{2024\ real\ wage = (\$ 60,000)(.969) = \$ 58,140}$$
 
 Although it might seem counterintuitive, in most cases, a low level of inflation is actually better for society than deflation or 0% inflation, both of which can slow spending. For instance, consider what you would do if you wanted to buy a new tv. If there is deflation---that is, prices are falling a little bit each month---then your incentive is to keep putting the purchase off. This prevents you from having the product that you want and a company from selling you the product that you want.
 
-A low level inflation also allows for some easy adjustments to sticky downward wages (link). Recall that sticky downward wages can keep unemployment higher than it otherwise would be. If there is some inflation, however, then employees' real wages can fall without employers having to impose a cut to nominal wages.
+A low level inflation also allows for some easy adjustments to [sticky downward wages](https://loighic.net/macro/unemployment_2/). Recall that sticky downward wages can keep unemployment higher than it otherwise would be. If there is some inflation, however, then employees' real wages can fall without employers having to impose a cut to nominal wages.
 
 For example, let's say that you are making \$60,000 per year and this doesn't change for several years. During this period inflation is 3% each year. In this case, your real wage---that is, your wage adjusted for inflation---is falling. In effect, you are getting a wage cut. Obviously, you don't want a wage cut, but if real wages are above the equilibrium, this will help lower unemployment (and perhaps keep you from being laid off).
 
@@ -124,7 +124,7 @@ A similar phenomenon occurs with debts. For instance, if you are paying back a \
 
 
 
-There is also sometimes a relationship between inflation and unemployment: as unemployment goes down, inflation goes up. Inflation may bother us sometimes, but unemployment can be a serious problem for the people who experience it and their families. Hence, because of this trade-off with unemployment, the benefits caused by some inflation seem to outweigh the costs.
+In some circumstances, there is also a relationship between inflation and unemployment: as unemployment goes down, inflation goes up. Inflation may bother us sometimes, but unemployment can be a serious problem for the people who experience it and for their families. Hence, because of this trade-off with unemployment, the benefits caused by some inflation seem to outweigh the costs.
 
 ###### Moderate inflation: 4 -- 12%
 
@@ -134,9 +134,9 @@ The problem with inflation in the 4 to 12% range, at least in the United States,
 
 ###### Hyperinflation
 
-**Hyperinflation** is sometimes defined as inflation that is above 50% for a month, which is equivalent to a yearly inflation rate of 12,875%. Much lower levels of inflation, however---say, a yearly rate of 500 or 1,000%---might also be counted as hyperinflation. 
+**Hyperinflation** is sometimes defined as inflation that is above 50% for a month, which is equivalent to a yearly inflation rate of 12,875%. Much lower levels of inflation---say, a yearly rate of 500 or 1,000%---might legitimately be counted as hyperinflation,  however. 
 
-(Monthly inflation is sometimes reported in the news, but so far, we have only discussed yearly inflation rates. *Monthly inflation* is the rate of inflation from the beginning of one month to the beginning of the next.)
+(Monthly inflation is sometimes reported in the news, but so far, we have only discussed yearly rates of inflation. **Monthly inflation** is the rate of inflation from the beginning of one month to the beginning of the next.)
 
 The harms versus the benefits of moderate inflation can be debated, but there is no question that hyperinflation is devastating. Hyperinflation wipes out the value of savings and makes it impossible to set long term economic plans.
 
@@ -250,6 +250,6 @@ The harms versus the benefits of moderate inflation can be debated, but there is
 <td>5.49%</td>
 </tr>
 </tbody>
-<caption><strong>Table 3</strong>&nbsp;&nbsp;The 12 highest periods of hyperinflation. From <a href="https://www.cato.org/sites/cato.org/files/pubs/pdf/hanke-krus-hyperinflation-table-may-2013.pdf">Hanke and Krus (2012)</a>.</caption>
+<caption><strong>Table 3</strong>&nbsp;&nbsp;The 12 highest periods of hyperinflation in history. From <a href="https://www.cato.org/sites/cato.org/files/pubs/pdf/hanke-krus-hyperinflation-table-may-2013.pdf">Hanke and Krus (2012)</a>.</caption>
 </table>
 
