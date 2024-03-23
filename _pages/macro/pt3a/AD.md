@@ -18,6 +18,7 @@ Now, we will investigate a model of the entire U.S. economy: **the aggregate dem
 
 As the name of the model suggests, the two components that are modeled are *aggregate demand* and *aggregate supply*. We will take each in turn, and then put them together.
 
+
 ##### Aggregate demand
 
 **Aggregate demand** (AD) is the amount of total spending on domestic goods and services in an economy. When we graph aggregate demand, we put real GDP---or in other words, total output---on the vertical axis. On the vertical axis, we use a *price index*.
@@ -44,9 +45,24 @@ It is worth keeping in mind that aggregate demand is defined in terms of total s
 
 ##### Why does the AD curve slope downward?
 
-The answer to this question is different---and a little more complicated than---the reason why the demand curve typically slopes downward. Now, we are thinking about why and how changes to the price level (i.e., the index on the vertical axis) affects total demand.
+The answer to this question is different---and a little more complicated than---the reason why the demand curve typically slopes downward. Now, we are thinking about why and how changes to the price level (i.e., the index on the vertical axis) affect GDP. Specifically, the reasons why, if everything else is held constant, when the price level falls, GDP increases (and vice versa). 
 
-There are three ways that total demand is affected by changes to the price level, and these three correspond to three of the components of demand: consumption, investment, and net exports. For the sake of this analysis, we can treat government spending as a constant that is set by government policy and isn't affected by changes to the price level.
+So, as shown in figure 2, if a decline on the vertical axis causes an increase on the horizontal axis, then the curve must have a negative slope. 
+
+
+<div class="container">
+<div class="row">
+	<div class="col-9">
+		{% responsive_image path: assets/img/macro_fig/5_ad-as/AD3b.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 2</strong>&nbsp;&nbsp;The negative slope of the aggregate demand (AD) curve.</div>
+</div>
+</div>
+
+
+There are three ways that GDP is affected by changes to the price level, and these three correspond to three of the components of demand: consumption, investment, and net exports. For the sake of this analysis, we can treat government spending as a constant that is set by government policy and isn't affected by changes to the price level.
 
 
 ###### The real wealth effect
