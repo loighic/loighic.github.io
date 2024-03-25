@@ -79,7 +79,7 @@ The same will be true for all consumers, and this increase in everyone's wealth 
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 2: The real wealth effect</strong>&nbsp;&nbsp;Because of the effect that it has on consumption, when the price level decreases, GDP increases. Hence, we move to a lower point on the aggregate demand curve.</div>
+<strong>Figure 3: The real wealth effect</strong>&nbsp;&nbsp;Because of the effect that it has on consumption, when the price level decreases, GDP increases. Hence, we move to a lower point on the aggregate demand curve.</div>
 </div>
 </div>
 
@@ -105,7 +105,7 @@ Just as it does for any market, when supply increases and demand remains the sam
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3: Supply and demand for loanable funds</strong>&nbsp;&nbsp;Loanable funds are savings put into banks (and also money used to buy government bonds). Initially, the supply of loanable funds is provided by savers, and the demand for loanable funds comes from banks. The price paid for loanable funds is a rate of interest.</div>
+<strong>Figure 4: Supply and demand for loanable funds</strong>&nbsp;&nbsp;Loanable funds are savings put into banks (and also money used to buy government bonds). Initially, the supply of loanable funds is provided by savers, and the demand for loanable funds comes from banks. The price paid for loanable funds is a rate of interest.</div>
 </div>
 </div>
 
@@ -115,6 +115,12 @@ Once they have deposits, banks can use that money to make loans. Now, they are t
 Lower interest rates will encourage companies to borrow and spend on factories, equipment, and other investment goods. Similarly, consumers will be more likely to borrow and purchase "big ticket" items such as houses and cars (the first of which is included in the investment category of GDP). This spending increases GDP---that is, we have moved down the aggregate demand curve.
 
 Conversely, if the price level increases, then consumers, firms, and the government will need more money to purchase goods and services, leaving less to save. Thus, the supply of loanable funds will decrease, which will cause interest rates to rise. This will decrease borrowing and spending, which will lower GDP---and so we have moved up the aggregate demand curve.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GBb13FILP04?si=DJ53i99gxeknSusR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="caption"><div align="left">
+<strong>Video 1: The interest rate effect</strong>&nbsp;&nbsp;</div></div>
+
 
 
 ###### The foreign price effect
@@ -128,7 +134,7 @@ When the price level goes down in the United States and it remains unchanged in 
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 4</strong>&nbsp;&nbsp;If, relative to other countries, prices are lower in the United States, then exports will increase.</div>
+<strong>Figure 5</strong>&nbsp;&nbsp;If, relative to other countries, prices are lower in the United States, then exports will increase.</div>
 </div>
 </div>
 
@@ -141,7 +147,7 @@ On the other hand, if the price level goes up in the U.S. and it remains unchang
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 5</strong>&nbsp;&nbsp;If, relative to other countries, prices are higher in the United States, then imports will increase.</div>
+<strong>Figure 6</strong>&nbsp;&nbsp;If, relative to other countries, prices are higher in the United States, then imports will increase.</div>
 </div>
 </div>
 
@@ -150,7 +156,7 @@ On the other hand, if the price level goes up in the U.S. and it remains unchang
 
 These three effects cause the aggregate demand curve to slope downward, but they are not actually thought to be very large effects. This means that a change to the price level does not seem to have too much effect on the quantity of goods and services demanded. This might be what we should expect. For most people, most of their purchases can't change too much. They still need food, clothing, somewhere to live, and transportation. And, especially if the price level is only changing by a low single digit percentage, most people won't have too much incentive to make much of a change to the amounts of goods and services that they purchase.
 
-This is not to say that a change to the price level won't have any effect on aggregate demand. If a change to the price level had no effect on the quantity of goods and services demanded, then the aggregate demand curve would be a vertical line. Because of the *real wealth effect*, the *interest rate effect*, and the *foreign price effect*, it's not that, but it is a curve with a very steep slope as shown in figure 3.
+This is not to say that a change to the price level won't have any effect on aggregate demand. If a change to the price level had no effect on the quantity of goods and services demanded, then the aggregate demand curve would be a vertical line. Because of the *real wealth effect*, the *interest rate effect*, and the *foreign price effect*, it's not that, but it is a curve with a very steep slope as shown in figure 7.
 
 <div class="container">
 <div class="row">
@@ -159,6 +165,6 @@ This is not to say that a change to the price level won't have any effect on agg
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 6</strong>&nbsp;&nbsp;An aggregate demand curve.</div>
+<strong>Figure 7</strong>&nbsp;&nbsp;An aggregate demand curve.</div>
 </div>
 </div>
