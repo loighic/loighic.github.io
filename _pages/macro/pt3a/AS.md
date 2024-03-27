@@ -11,22 +11,22 @@ nav: false
 
 
 
-**Aggregate supply** is the total quantity of output that firms produce and sell. Just as with aggregate demand, aggregate supply is given in terms of total output, and each of these amounts corresponds to a price level. Hence, the aggregate supply curve---or curves as we will see in a moment---represents the total quantity of output (i.e., GDP) that firms will produce and sell at each price level.
+**Aggregate supply** is the total quantity of output that firms produce and sell. Just as with aggregate demand, aggregate supply is given in terms of total output (i.e., GDP), and each possible level of output corresponds to a price level. Hence, the aggregate supply curve---or curves as we will see in a moment---represents the total quantity of output (i.e., GDP) that firms will produce and sell at each price level.
 
-There are actually two aggregate supply curves in this model, one for the short-term and one for the long-term. We won't worry too much about where the line is between the short-term and the long-term, but you can think of the short-term as up to three or four years and the long-term as the period beyond eight or ten years.
+There are actually two aggregate supply curves in this model, one for the short-term and one for the long-term. We won't worry too much about where the line is between the short- and long-terms, but you can think of the short-term as up to three or four years and the long-term as the period beyond eight or ten years. (And so, yes, there is a little in between time also, which we won't worry about.)[^1]
 
-(Technically, in macroeconomics, the short run is the period during which wages and other prices are sticky, which is usually up to a few years. The long run is the period during which wages and prices adjust. So, in the long run, the unemployment rate equals the natural rate of unemployment and GDP equals potential GDP.)
+[^1]: Technically, in macroeconomics, the short run is the period during which wages and other prices are sticky, which is usually up to a few years. The long run is the period during which wages and prices adjust. So, in the long run, the unemployment rate equals the natural rate of unemployment and GDP equals potential GDP.
 
 
 ##### Long-run aggregate supply
 
-Over the long-run, aggregate supply equals *potential GDP*, which is an idea that we have already encountered, although we called it the *production possibilities frontier* (and we thought about it in terms of only two goods).
+Over the long-run, aggregate supply equals *potential GDP*. Potential GDP is an idea that we have already encountered, although we called it the *production possibilities frontier* (and we thought about it in terms of only two goods).
 
-> **Potential GDP**: The amount of real GDP an economy can produce by fully employing its existing levels of labor, physical capital, and technology, in the context of its existing market and legal institutions.
+> **Potential GDP**: The amount of real GDP (i.e., output) an economy can produce by fully employing its existing levels of labor, physical capital, and technology, in the context of its existing market and legal institutions.
 
 The graph in figure 1 shows real GDP (red) and real potential GDP (blue). As you can see, during every recession, potential GDP falls below actual GDP. That's because the factories, equipment, workers, and everything else, which still exist, aren't being used to their full potential.
 
-As you can also see in figure 1, actual GDP sometimes gets a little bit above potential GDP. These are instances when the economy is "running hot." Workers are working overtime, factories are adding extra shifts, and, perhaps, frictional or structural unemployment are lower than we would expect. Generally speaking, such periods are unlikely to last for very long.
+You can also see in figure 1 that actual GDP sometimes gets a little bit above potential GDP. These are instances when the economy is "running hot." Workers are working overtime, factories are adding extra shifts, and, perhaps, frictional or structural unemployment are lower than we would expect. Generally speaking, such periods are unlikely to last for very long.
 
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1ihDb&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
@@ -36,7 +36,7 @@ As you can also see in figure 1, actual GDP sometimes gets a little bit above po
 
 In the graph in figure 1, potential GDP slopes upward in a smooth trajectory. That is, every year it is higher than it was the previous year. In our aggregate demand -- aggregate supply model, however, we don't have *time* as a variable. All that we have is the price level on the vertical axis and output (or GDP) on the horizontal axis.
 
-Potential GDP isn't affected by the price level, however. It is determined by all of the workers, factories, inputs, roads, technologies, and so forth that are available. The price level can be high or low, and these will all be the same. For this reason, the LRAS curve is a vertical line. Any change to it, from, say, one year to the next, is represented by the line shifting (hopefully, to the right).
+Potential GDP isn't affected by the price level, however. It is determined by all of the workers, factories, inputs, roads, technologies, and so forth that are available. The price level can be high or low, and these will all be the same. Hence, the LRAS curve is a vertical line. Any change to it, from, say, one year to the next, is represented by the line shifting (hopefully, to the right).
 
 <div class="container">
 <div class="row">
@@ -84,11 +84,31 @@ So, why does the short-run aggregate supply (SRAS) curve have a positive slope? 
 
 4.  These are theories about why the short-run aggregate supply curve slopes upward, and so they all describe effects in the short-term. In the long-term (i.e., eventually), we expect that wages and prices will adjust, and, for the third theory, producers and workers will figure out that all prices are changing.
 
+
+
+<div class="container">
+<div class="row">
+	<div class="col-9">
+		{% responsive_image path: assets/img/macro_fig/5_ad-as/AS--pos_slope.png class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 3</strong>&nbsp;&nbsp;The positive slope of the short-run aggregate supply (SRAS) curve. Since an increase on the vertical axis causes an increase on the horizontal axis, the curve must have a positive slope.</div>
+</div>
+</div>
+
+
+
+###### The sticky-wage theory
+
 The first theory is the **sticky-wage theory**. The central idea is that nominal wages are slow to adjust---upward and downward---to changes in the price level. Here are the two scenarios.
 
 > The price level falls, but employers are unable to (or just don't) adjust wages downward. Goods and services are being sold for less, but firms still have high labor costs. Hence, they reduce the number of employees that they have (either by not hiring or by laying people off). This reduction in the number of employees reduces output.
 >
 > The price level increases, but employers don't increase wages right away. Goods and services are being sold for more, and firms have low labor costs. Hence, they can hire more employees or give their current employees more hours, which increases output.
+
+
+###### The sticky-price theory
 
 The second theory is the **sticky-price theory**. This theory is similar to the previous one, but, as its name suggests, its focus is on all prices, not just wages. In this theory, it is the prices for some goods and services that are slow to adjust when the price level changes.
 
@@ -103,6 +123,9 @@ Here are the two scenarios:
 >The price level decreases, but, because of menu costs or existing contracts, some firms don't adjust their prices downward. Consequently, because their prices are too high, their sales decline. These firms, then, reduce employment and output.
 >
 >The price level increases, but, because of meu costs or existing contracts, some firms don't raise their prices. Their sales increase, and so they increase investment and hire more workers, which increases output.
+
+
+###### The misperceptions theory
 
 Third is the **misperceptions theory**. This theory is different than the previous two in that it doesn't include the idea that prices or wages are sticky. Rather, according to this theory, all prices adjust but people misinterpret the change to the price that they watch the most closely. If a perfectly informed person understood that all prices (including wages) were changing, then this person would have no reason to change his or her behavior in response to a change to the price level.
 
@@ -128,13 +151,15 @@ The central factor here is where SRAS is relative to potential GDP (i.e., LRAS).
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3: The shape of the short-run aggregate supply (SRAS) curve</strong>&nbsp;&nbsp;</div>
+<strong>Figure 4</strong>&nbsp;&nbsp;The shape of the short-run aggregate supply (SRAS) curve.</div>
 </div>
 </div>
 
 
-At the far left, the SRAS curve has a very minimal slope. (In the standard SRAS curve that we use today, it's not flat, but at this extreme it is nearly so.) Here we are well below potential GDP, and so output is very low. As a result, there is plenty of capacity to supply more goods and services, and a small increase in the price level or shift to aggregate demand will have a big effect on output supplied. (And similarly, a decrease in either will also have a big effect but in the opposite direction.)
+At the far left, the SRAS curve has a very minimal slope. (In the standard SRAS curve that we use today, it's not flat, but at this extreme, it is nearly so.) Here we are well below potential GDP, and so output is very low. As a result, there is plenty of capacity to supply more goods and services, and a small increase in the price level will have a big effect on output supplied. (And similarly, a decrease in either will also have a big effect but in the opposite direction.)
 
 At the far right, and to the right of LRAS, the SRAS is almost vertical. Here aggregate supply is above potential GDP, and so output cannot increase much more. At this part of the SRAS curve, even a large increase in the price level or AD will not have a big effect on output.
 
 The slope of the middle part of the SRAS curve is between the two extremes. Here, changes to the price level or AD will increase output, although not as much as further to the left on the SRAS curve---but more than we get once we pass LRAS.
+
+---
