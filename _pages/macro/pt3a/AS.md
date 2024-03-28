@@ -162,4 +162,9 @@ At the far right, and to the right of LRAS, the SRAS is almost vertical. Here ag
 
 The slope of the middle part of the SRAS curve is between the two extremes. Here, changes to the price level or AD will increase output, although not as much as further to the left on the SRAS curve---but more than we get once we pass LRAS.
 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yruACD5B_Z0?si=gPnLVcCdai8CCzKh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="caption"><div align="left">
+<strong>Video 1</strong>&nbsp;&nbsp;</div></div>
+
 ---
