@@ -13,9 +13,16 @@ nav: false
 
 **Aggregate supply** is the total quantity of output that firms produce and sell. Just as with aggregate demand, aggregate supply is given in terms of total output (i.e., GDP), and each possible level of output corresponds to a price level. Hence, the aggregate supply curve---or curves as we will see in a moment---represents the total quantity of output (i.e., GDP) that firms will produce and sell at each price level.
 
-There are actually two aggregate supply curves in this model, one for the short-term and one for the long-term. We won't worry too much about where the line is between the short- and long-terms, but you can think of the short-term as up to three or four years and the long-term as the period beyond eight or ten years. (And so, yes, there is a little in between time also, which we won't worry about.)[^1]
+There are actually two aggregate supply curves in this model, one for the short-term and one for the long-term. We won't worry too much about where the line is between the short- and long-terms, but you can think of the short-term as up to three or four years and the long-term as the period beyond eight or ten years. (And so, yes, there is a period in between, which we won't worry about.)[^1]
 
 [^1]: Technically, in macroeconomics, the short run is the period during which wages and other prices are sticky, which is usually up to a few years. The long run is the period during which wages and prices adjust. So, in the long run, the unemployment rate equals the natural rate of unemployment and GDP equals potential GDP.
+
+
+###### Terminology
+
+Recall the distinction between *demand* and the *quantity demanded* and *supply* and the *quantity supplied*. *Demand* and *supply* are the curves (or a table listing the price-quantity pairs). The *quantity demanded* is a specific amount that consumers want, and the *quantity supplied* is a specific amount that firms produce.
+
+We make similar distinctions with *aggregate demand* and *aggregate supply* (although what's in the videos isn't always as precise as it could be). *Aggregate demand*, *long-run aggregate supply*, and *short-run aggregate supply* refer to the curves. A specific amount of any one of these three is a level of *GDP* or *output* (which we can use interchangeably here).  
 
 
 ##### Long-run aggregate supply
@@ -45,7 +52,7 @@ Potential GDP isn't affected by the price level, however. It is determined by al
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 1: Long-run aggregate supply</strong>&nbsp;&nbsp;</div>
+<strong>Figure 2: Long-run aggregate supply</strong>&nbsp;&nbsp;</div>
 </div>
 </div>
 
@@ -62,7 +69,7 @@ Over the short-run, aggregate supply is affected by the price level, and it slop
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 2: Short-run aggregate supply (SRAS) and long-run aggregate supply (LRAS)</strong>&nbsp;&nbsp;</div>
+<strong>Figure 3: Short-run aggregate supply (SRAS) and long-run aggregate supply (LRAS)</strong>&nbsp;&nbsp;</div>
 </div>
 </div>
 
@@ -82,7 +89,7 @@ So, why does the short-run aggregate supply (SRAS) curve have a positive slope? 
 
 3.  The first two theories maintain that wages and prices are sticky downward and upward. Thus, in both directions, wages and some other prices are slow to adjust when the price level changes.
 
-4.  These are theories about why the short-run aggregate supply curve slopes upward, and so they all describe effects in the short-term. In the long-term (i.e., eventually), we expect that wages and prices will adjust, and, for the third theory, producers and workers will figure out that all prices are changing.
+4.  These are theories about why the short-run aggregate supply curve slopes upward, and so they all describe effects in the short-term. In the long-term (i.e., eventually), we expect that wages and prices will adjust, and, if the third theory is correct, producers and workers will figure out that all prices are changing.
 
 
 
@@ -93,7 +100,7 @@ So, why does the short-run aggregate supply (SRAS) curve have a positive slope? 
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 3</strong>&nbsp;&nbsp;The positive slope of the short-run aggregate supply (SRAS) curve. Since an increase on the vertical axis causes an increase on the horizontal axis, the curve must have a positive slope.</div>
+<strong>Figure 4</strong>&nbsp;&nbsp;The positive slope of the short-run aggregate supply (SRAS) curve. Since an increase on the vertical axis causes an increase on the horizontal axis, the curve must have a positive slope.</div>
 </div>
 </div>
 
@@ -112,24 +119,26 @@ The first theory is the **sticky-wage theory**. The central idea is that nominal
 
 The second theory is the **sticky-price theory**. This theory is similar to the previous one, but, as its name suggests, its focus is on all prices, not just wages. In this theory, it is the prices for some goods and services that are slow to adjust when the price level changes.
 
-One aspect of this theory that is a little odd is the idea that, while the price level (which is based on all prices) is rising or falling, some individual prices are not changing. Clearly it can't be all or even most prices that aren't changing. If it was, then the price level wouldn't be changing. But it is possible for changes to the price level to be driven by increases or decreases in the prices of only certain very significant goods (e.g., gas, used cars, food, rent) while many other prices are slow to change.
+One aspect of this theory that is a little odd is the idea that, while the price level (which is based on all prices) is rising or falling, some individual prices are not changing. Clearly it can't be all or even most prices that aren't changing, or the price level wouldn't be changing. 
 
 Here is a definition that we need for this theory.
 
 > **Menu costs**: The costs of changing the price of a good or service. This includes the costs associated with changing price tags, websites, printed materials, and any other places where the (nominal) price has already been given. Menu costs also include the costs incurred by confusing or angering customers, and the cost of determining what the new price should be.
 
+So, the picture that this theory gives us is one where enough firms are changing their prices so that the price level itself changes. But because of menu costs, some firms aren't able to adjust their prices.
+
 Here are the two scenarios:
 
 >The price level decreases, but, because of menu costs or existing contracts, some firms don't adjust their prices downward. Consequently, because their prices are too high, their sales decline. These firms, then, reduce employment and output.
 >
->The price level increases, but, because of meu costs or existing contracts, some firms don't raise their prices. Their sales increase, and so they increase investment and hire more workers, which increases output.
+>The price level increases, but, because of menu costs or existing contracts, some firms don't raise their prices. Their sales increase, and so they increase investment and hire more workers, which increases output.
 
 
 ###### The misperceptions theory
 
-Third is the **misperceptions theory**. This theory is different than the previous two in that it doesn't include the idea that prices or wages are sticky. Rather, according to this theory, all prices adjust but people misinterpret the change to the price that they watch the most closely. If a perfectly informed person understood that all prices (including wages) were changing, then this person would have no reason to change his or her behavior in response to a change to the price level.
+Third is the **misperceptions theory**. This theory doesn't include the idea that prices or wages are sticky. Instead, as the name suggests, there is a misperception about what is occuring when the price level changes. If a perfectly informed person understood that all prices (including wages) were changing, then this person would have no reason to change his or her behavior in response to a change to the price level. 
 
-According to this theory, however, producers and workers see that certain prices are changing, and they misinterpret these changes as being changes to either (1) only the goods or services that they produce or (2) only their own wages. Not realizing that all (or most) prices are rising or falling, they change their behavior. We will just focus on the producers' misperception.
+But, according to this theory, when the price level changes, people misinterpret the change to the price that they watch the most closely. Producers and workers see that certain prices are changing, and they misinterpret these changes as being changes to either (1) only the goods or services that they produce or (2) only their own wages. Not realizing that all (or most) prices are rising or falling, they change their behavior. We will just focus on the producers' misperception.
 
 >Let's say that the price level is decreasing. A type of producer---say, wheat farmers---watches the price of wheat closely, and they see that this price has fallen. At the same time, they don't immediately notice that the prices of the inputs that they use have also fallen. Believing that they still have high costs while they are getting a low price for their wheat, they reduce employment and other costs. Consequently, they produce less wheat (and the same happens for many other kinds of producers), and GDP falls.
 >
@@ -151,7 +160,7 @@ The central factor here is where SRAS is relative to potential GDP (i.e., LRAS).
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 4</strong>&nbsp;&nbsp;The shape of the short-run aggregate supply (SRAS) curve.</div>
+<strong>Figure 5</strong>&nbsp;&nbsp;The shape of the short-run aggregate supply (SRAS) curve.</div>
 </div>
 </div>
 
@@ -167,4 +176,5 @@ The slope of the middle part of the SRAS curve is between the two extremes. Here
 <div class="caption"><div align="left">
 <strong>Video 1</strong>&nbsp;&nbsp;</div></div>
 
+---
 ---
