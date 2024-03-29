@@ -56,8 +56,8 @@ Since aggregate demand is given in possible quantities of real GDP, increases or
 <td style="text-align: left;">increase in income</td>
 </tr>
 <tr>
-<td style="text-align: left;">rise in interest rates</td>
-<td style="text-align: left;">fall in interest rates</td>
+<td style="text-align: left;">increase in interest rates</td>
+<td style="text-align: left;">decrease in interest rates</td>
 </tr>
 <tr>
 <td style="text-align: left;">desire to save more</td>
@@ -97,8 +97,8 @@ There are two primary ways that government policies can affect aggregate demand.
 
 <tbody>
 <tr>
-<td style="text-align: left; background-color: #ffffff;">rise in interest rates</td>
-<td style="text-align: left; background-color: #ffffff;">drop in interest rates</td>
+<td style="text-align: left; background-color: #ffffff;">increase in interest rates</td>
+<td style="text-align: left; background-color: #ffffff;">decrease in interest rates</td>
 </tr>
 <tr>
 <td style="text-align: left; background-color: #ffffff;">drop in business confidence</td>
