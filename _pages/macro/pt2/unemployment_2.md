@@ -23,7 +23,7 @@ We'll return to why we don't want the unemployment rate to drop all of the way t
 <strong>Figure 1</strong>&nbsp;&nbsp;The unemployment rate, 1948 to the present</div></div>
 
 
-##### Frictional Unemployment
+##### Frictional unemployment
 
 In a market economy, it is always the case that some companies are barely surviving or are going out of business altogether. At the same time, other companies are thriving and expanding. In a perfect world, all of the people who were laid off would immediately find new jobs with the companies that need more workers. In the real world, however, even if the number of job seekers is equal to the number of job vacancies, it takes time for unemployed workers to find out about new jobs, interview and figure out if a particular job will be a good match, and then, in some cases, move to a different part of the state or country.
 
@@ -33,13 +33,15 @@ The unemployment that occurs because workers are move between jobs is called **f
 
 Also included in frictional unemployment are recent college graduates who have just entered the labor market and are looking for a job. The frictional unemployment that results from people moving between jobs in a dynamic economy probably accounts for one to two percentage points of total unemployment.
 
-##### Structural Unemployment {#structural-unemployment-1}
 
-Some people are unemployed because they lack the skills that they need for a new job. In some cases, the skills that they have are no longer needed---for instance, accountants who are only able to use adding machines, calculators, and ledgers, or aerospace engineers after the U.S. space program downsized in the 1970s. In other cases, the unemployed workers never acquired many (or any) skills in the first place---as is generally the case with high school dropouts. Unemployment that is caused by a mismatch between the skills that workers have and the skills that are needed is called **structural unemployment**.
+##### Structural unemployment {#structural-unemployment-1}
+
+Some people are unemployed because they lack the skills that they need for a new job. In some cases, the skills that they have are no longer needed---for instance, accountants who are only able to use adding machines and paper ledgers. In other cases, the unemployed workers never acquired many (or any) skills in the first place---as is generally the case with high school dropouts. Unemployment that is caused by a mismatch between the skills that workers have and the skills that are needed is called **structural unemployment**.
 
 Structural unemployment does have a high cost. Many of the people who are unemployed for structural reasons will have difficulty finding new jobs---even if they are given the opportunity to acquire new skills. But as with frictional unemployment, it is part of a healthy and dynamic economy. Ultimately, it is best for society to have the people with the most in-demand skills working. Education seems to be the key in minimizing the amount of structural unemployment. Individuals who have more years of education are (*a*) more likely to have the skills that are needed for current jobs and (*b*) have an easier time acquiring new skills if the need arises.
 
-So, to answer our original question, an unemployment rate of zero would not be ideal because it would mean rushing people into jobs for which they may not be ideally suited and employing workers who lack the skills to be as productive as we would like. It would also mean that, if everyone in the labor force had already been stuck into a job, employers would have difficulty hiring new workers in a timely fashion.
+So, to answer our original question on this page, an unemployment rate of zero would not be ideal because it would mean rushing people into jobs for which they may not be ideally suited and employing workers who lack the skills to be as productive as we would like. It would also mean that, if everyone in the labor force had already been stuck into a job, employers would have difficulty hiring new workers in a timely fashion.
+
 
 ##### The natural rate of unemployment
 
