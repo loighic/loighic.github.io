@@ -22,14 +22,14 @@ In the United States, every time the unemployment rate increases by just 0.1%, t
 
 But what is the *unemployment rate*? Should we count everyone without a job as unemployed? No, we shouldn't. We don't count children as unemployed. We don't count the retired as unemployed. And then there are many people who are not working because they are raising children, ill, attending college, or in prison.
 
-So, we don't want to just divide the adult population into the people who are employed and then count everyone else as unemployed. Instead, we define *unemployed* this way:
+So, we don't want to just divide the population---or even just the working age population---into (1) those who are employed and (2) everyone else, and then count the everyone else as unemployed. Instead, we define *unemployed* this way:
 
 > **Unemployed**: Those people, age 16 and over, who are without a job, currently available to work, and have been actively looking for a job during the previous four weeks.[^1]
 
 [^1]: The number of people who are unemployed is based on the "[Current Population Survey](https://www.census.gov/programs-surveys/cps.html)," a monthly survey of 60,000 households that is carried out by the U.S. Census Bureau. (See also [bls.gov/cps/](https://www.bls.gov/cps/).) Tracking the number of people who are receiving unemployment benefits (or are enrolled in other government assistance programs) is not part of how unemployment is calculated.
 
 
-Thus, a person who does not have a job and is not currently available to work or has not actively looked for work in the last four weeks is not, by this definition, unemployed. 
+Thus, it is possible to not have a job and not be unemployed. If a person is not currently available to work and has not actively looked for work in the last four weeks, then, by this definition, he or she is not unemployed. 
 
 Using this definition of *unemployed*, the **labor force** is defined as those people who are currently working for pay (in either full-time or part-time jobs) plus those who are unemployed. Meanwhile, **not in the labor force** consists of those people who are 16 and over but (1) not doing paid work and (2) are not actively looking for a job. 
 
@@ -41,22 +41,22 @@ Children under 16 years of age are neither (*a*) in the labor force nor (*b*) no
 
 With this definition of *labor force*, we define the unemployment rate this way:
 
-$$unemployement\ rate = \frac{unemployed}{labor\ force}$$
+$$\mathsf{unemployement\ rate = \frac{unemployed}{labor\ force}}$$
 
 
 ##### Calculating the unemployment rate
 
 Let's say that somewhere there is a labor force that consists of 100,000 people. In January, 10,000 people are unemployed (by the definition just given). Consequently, for January, the unemployment rate is 10%.
 
-$$unemployement\ rate = \frac{10,000}{100,000} = 10\%$$
+$$\mathsf{unemployement\ rate = \frac{10,000}{100,000} = 10\%}$$
 
 Then, in February, 2,000 people who have been looking for full-time work take part-time jobs even though they are over-qualified and want full-time work. Having a part-time job counts as being employed, however, and so, the unemployment rate falls to 8%.
 
-$$unemployement\ rate = \frac{8,000}{100,000} = 8\%$$
+$$\mathsf{unemployement\ rate = \frac{8,000}{100,000} = 8\%}$$
 
 In March, 4,000 people who have been trying to find jobs stop looking because they don't think that they will find one. This brings the unemployment rate down to 4.17%.
 
-$$unemployement\ rate = \frac{4,000}{96,000} = 4.17\%$$
+$$\mathsf{unemployement\ rate = \frac{4,000}{96,000} = 4.17\%}$$ 
 
 Notice that, when people who were unemployed leave the labor force, the numerator (unemployed) gets smaller and the denominator (labor force) also gets smaller. This will always have the effect illustrated here: the unemployment rate will get smaller.
 
