@@ -14,7 +14,7 @@ How large is the U.S. economy? Economists typically measure the size of a nation
 
 > **Gross domestic product**: The market value of all final goods and services produced within a country in a given period.
 
-Measuring GDP involves counting the production of millions of different goods and services---smart phones, cars, computers, software, steel, heart surgeries, bananas, college educations, and all of the other new goods and services that a country produces in the current year---and summing them into a single dollar value. This task is straightforward: take the quantity of all of the final goods and services that are produced, multiply each item by the price at which it was sold, and add everything up. In 2020, the U.S. GDP totaled \$27.3 trillion, the largest GDP in the world.
+Measuring GDP involves counting the production of millions of different goods and services---smart phones, cars, computers, software, steel, heart surgeries, bananas, college educations, and all of the other new goods and services that a country produces in the current year---and summing them into a single dollar value. This task is straightforward: take the quantity of all of the final goods and services that are produced, multiply each item by the price at which it was sold, and add everything up. In 2020, the U.S. GDP totaled \$27.3 trillion, the largest in the world.
 
 We will proceed by examining each part of the definition of GDP---although to make the exposition clearer, we will take the parts out of order.
 
@@ -84,7 +84,7 @@ Only goods and services are included in GDP. This means that, for instance, stoc
 
 Generally, GDP is measured for a year or a quarter of a year (i.e., three-month periods), and only the goods and services that are produced in that period are counted. This means that a used car that is sold today won't be included in this quarter's (or this year's) GDP. It was counted when it was sold as a new car, and that is the only time that it is included in GDP. Similarly, although we don't think of houses or condos as being "used," if a house that was built (and originally sold) 30 years ago is re-sold this year, it won't be included in this year's GDP. It was included in the GDP for the year in which it was originally built. (Repairs or improvements that are made to the car or to the house will be counted, however, in the year in which they are made.)
 
-When the period is a quarter of the year---that is, a three-month period---it is generally reported as an "annualized" value. This value is f0und by multiplying the GDP for the quarter by four, and it lets us compare the most current reports of GDP to the GDP of previous years.
+When the period is a quarter of the year---that is, a three-month period---it is generally reported as an "annualized" value. This value is found by multiplying the GDP for the quarter by four, and it lets us compare the most current reports of GDP to the GDP of previous years.
 
 
 <table class="styled-table">
@@ -127,13 +127,15 @@ When the period is a quarter of the year---that is, a three-month period---it is
 
 ##### The market value
 
-The value of the final goods and services are set by the amounts for which they are sold. This makes setting their value straightforward, but it creates a complication for comparing goods and services from different years. For instance, the [average price of a dozen eggs](https://fred.stlouisfed.org/series/APU0000708111) in the United States was \$0.84 in 1980, and it was \$2.80 in 2023. Let's imagine that 1,000,000 cartons of eggs (each containing 12 eggs) were sold in 1980 and the same amount were sold in 2023. When we use the price at which they were sold in our GDP calculation, we find that these 1,000,000 eggs contribute \$840,000 to GDP in 1980 and \$2,800,000 in 2023!
+The value of the final goods and services are set by the amounts for which they are sold. This makes setting their value straightforward, but it creates a complication for comparing goods and services from different years. For instance, the [average price of a dozen eggs](https://fred.stlouisfed.org/series/APU0000708111) in the United States was \$0.84 in 1980, and it was \$2.80 in 2023. 
+
+Let's imagine that 1,000,000 cartons of eggs (each containing 12 eggs) were sold in 1980 and the same amount were sold in 2023. When we use the price at which they were sold in our GDP calculation, we find that these 1,000,000 eggs contribute \$840,000 to GDP in 1980 and \$2,800,000 in 2023!
 
 > 1980: 1,000,000 x \$0.84 = \$840,000
 >
 > 2023: 1,000,000 x \$2.80 = \$2,800,000
 
-GDP is supposed to be a measure of how much a country produces, and in our example, the same number of eggs were produced in 1980 and in 2023. Therefore, we need a way of calculating GDP that will reflect the fact that the same amount of eggs were produced in 1980 and in 2023.
+GDP is supposed to be a measure of how much a country produces, and in our example, the same number of eggs were produced in 1980 and in 2023. Therefore, we need a way of calculating GDP that will reflect the fact that the same amount of eggs were produced these two years.
 
 This problem is solved by using the same price in the 1980 calculation and the 2023 calculation. This is done by taking prices from one year---which we call the **base year**---and using that year's prices to calculate GDP in *all* years. Let's use 2010 as our base year. In that year, the average price of a dozen eggs was \$1.66. Using this price, we find, as expected, that the 1,000,000 cartons of eggs sold in 1980 and the 1,000,000 sold in 2023 contribute the same amount to each year's GDP.
 
@@ -153,9 +155,9 @@ It can be easy to mix up *real* and *nominal*. One way to think about it is that
 
 Applying the concepts *nominal* and *real* to GDP, we get these definitions:
 
->**nominal GDP**: The value of all final goods and services produced within a country in a given period (i.e., GDP) using the prices that existed at that time to set the value of those goods and services.
+>**nominal GDP**: The value of all final goods and services produced within a country in a given period using the prices that existed at that time to set the value of those goods and services.
 >
->**real GDP**: The value of all final goods and services produced within a country in a given period (i.e., GDP) using the prices that existed in a base year to set the value of those goods and services.
+>**real GDP**: The value of all final goods and services produced within a country in a given period using the prices that existed in a base year to set the value of those goods and services.
 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dXwVr17HlI0?si=Riwk0nj0XgLpEdOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
