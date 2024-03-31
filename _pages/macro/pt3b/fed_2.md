@@ -44,14 +44,14 @@ If someone bought a \$100 Mississippi State University bond, then every six mont
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 2: Owning a bond</strong>&nbsp;&nbsp;Someone buys a $100 bond for $100. If the bond pays 3% interest, then every year, the bond holder receives 3% of $100: $3. When the bond &ldquo;matures,&rdquo---after 40 years in this case---the bond holder gets the $100 back.</div>
+<strong>Figure 2: Owning a bond</strong>&nbsp;&nbsp;Someone buys a $100 bond for $100. If the bond pays 3% interest, then every year, the bond holder receives 3% of $100: $3. When the bond &ldquo;matures,&rdquo;&mdash;after 40 years in this case&mdash;the bond holder gets the $100 back.</div>
 </div>
 </div>
 
 
-Now, let's say that you (or your parent or grandparent) bought this bond back in 1981. You get your \$1.50 every six months, but after 10 years (in 1991), you need some cash. So, you decide to sell the on the *secondary bond market*. The person who buys this bond will get the payments every six months, and he or she will also get your \$100 back in December 2021. So, in total, at this point, this bond is worth \$190:
+Now, let's say that you (or your parent or grandparent) bought this bond back in 1981. You get your \$1.50 every six months, but after 10 years, you need some cash. So, you decide to sell the bond on the *secondary bond market*. The person who buys this bond will get the payments every six months, and he or she will also get your \$100 back in December 2021. So, in total, at this point, this bond is worth \$190:
 
-$$\mathsf{\$3 ~x ~30 ~years + \$100 = \$90 + \$100 = \$190}$$
+$$\mathsf{(\$3 ~x ~30) + \$100 = \$190}$$
 
 
 How much should someone pay for this bond? Not \$190 because then this person would just, eventually, get back exactly what he or she paid for it. The idea is to pay less than this amount and make some money from the purchase.
@@ -67,9 +67,9 @@ How much someone pays depends on the other investment opportunities that are ava
 
 For instance, if someone bought the bond for \$85, then this person would, in total, earn \$105 (\$90 from the interest payments plus \$15 when the \$100 was paid back). This, in effect, would be equivalent to earning \$3.50 for each of the 30 years, and so this buyer would earn the equivalent of 4.1% per year (\$3.50/\$85 = 4.1%).
 
-All this said, what we care about are U.S. Treasury bonds which are 30-year bonds, usually with an interest rate of about 2 percent. So, instead of Mississippi State University issuing the bond, the Treasury department does for the purpose of borrowing money for the federal government.
+All this said, what we care about are U.S. Treasury bonds which are 30-year bonds, usually with an interest rate of about 2%. So, instead of Mississippi State University issuing the bond, the Treasury department does for the purpose of borrowing money for the federal government.
 
-Figure 3 shows some of the responsibilities of the Treasury Department and the Federal Reserve Bank. Treasury bonds start their life when they are issued by the Treasury Department. These bonds can be held by one person until they mature, or as we discussed with the Mississippi State bond, they can be sold before they mature on the secondary bond market. The Federal Reserve can get involved here.
+Figure 3 shows some of the responsibilities of the Treasury Department and the Federal Reserve Bank. Treasury bonds start their life when they are issued by the Treasury Department. These bonds can be held by one person until they mature, or as we discussed with the Mississippi State bond, they can be sold before they mature on the secondary bond market. The Federal Reserve gets involved in the secondary bond market.
 
 
 <div class="container">
