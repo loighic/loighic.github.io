@@ -117,15 +117,13 @@ This used to be a relatively common occurrence in the United States, but thanks 
 
 The central bank is the institution in each country that carries out monetary policy and regulates the banking system. It performs some functions of a bank---in a way, it is a bank for banks---but we shouldn't really think of it as a bank.
 
-> **Monetary policy**: the use of the central bank's control of the money supply and interest rates to influence the path of the economy over time.
-
-In the U.S., the central bank is called the "Federal Reserve," or just the "Fed."
+In the U.S., the central bank is called the "Federal Reserve Bank," or just the "Fed."
 
 ##### Bank runs
 
 Although banks sometimes go out of business, bank runs no longer happen in the U.S. (and in most countries) because there are two safeguards in place.
 
-First, there is the Federal Deposit Insurance Corporation (FDIC), which is an independent agency in the federal government (and so it is not a part of the Federal Reserve Bank). It insures all bank deposits up to \$250,000. Thus, as long a person has less than \$250,000 in an FDIC insured account, that money won't be lost, even if the bank goes out of business. As a result, there is no need to run to the bank if there is a rumor that the bank's assets are less than its deposits.
+First, there is the Federal Deposit Insurance Corporation (FDIC), which is an independent agency in the federal government (and so it is not part of the Federal Reserve Bank). It insures all bank deposits up to \$250,000. Thus, as long a person has less than \$250,000 in an FDIC insured account, that money won't be lost, even if the bank goes out of business. As a result, there is no need to run to the bank if there is a rumor that the bank's assets are less than its deposits.
 
 Second, the Federal Reserve will, if necessary, make loans to banks when either (*i*) a bank needs money to cover any immediate transactions for which it does not have sufficient reserves or (*ii*) a bank does not have enough cash on hand to meet the reserve requirement.
 

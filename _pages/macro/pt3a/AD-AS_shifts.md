@@ -10,7 +10,7 @@ nav: false
 [<small>HOME</small>](/macro/)
 
 
-##### The factors that shift AD
+##### The factors that shift AD 
 
 The real wealth effect, the interest rate effect, and the foreign price effect explain what happens to the level of aggregate demand when the price level changes. When price level changes, each effect explains why we move to a higher or lower point *on the* aggregate demand curve. Since these changes are caused by a change to the price level (which is on the vertical axis), we don't need to move the aggregate demand curve. It stays right where it is.
 
@@ -31,6 +31,7 @@ Aggregate demand (the whole curve) can increase, though. When it does, the curve
 
 
 Since aggregate demand is given in possible quantities of real GDP, increases or decreases to aggregate demand are caused by changes to one of the components of GDP: consumption, investment, government spending, and the balance of imports versus exports. The primary reasons why these categories may increase or decrease are listed in tables 1a and 1b.
+
 
 
 <table class="styled-table">
@@ -77,7 +78,7 @@ Since aggregate demand is given in possible quantities of real GDP, increases or
 
 
 
-##### The effect of the government on AD
+##### The effect of the government on AD {#table-change-AD}
 
 There are two primary ways that government policies can affect aggregate demand. One is by increasing or decreasing government spending. The other, listed under consumption, is raising and lowering taxes. These are important levers that the government has for affecting the level of GDP and unemployment, and so, we will investigate them separately in the section on [fiscal policy](/macro/fiscal_1/).
 

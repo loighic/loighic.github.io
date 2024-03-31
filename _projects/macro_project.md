@@ -67,7 +67,10 @@ category:
 
 [Bank runs and the Federal Reserve](/macro/money_2)
 
-[Monetary policy](/macro/money_3)
+[Monetary policy, part 1](/macro/fed_1)
+
+[Monetary policy, part 2](/macro/fed_2)
+
 
 ---
 ---
