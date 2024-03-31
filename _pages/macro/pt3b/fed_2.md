@@ -284,7 +284,7 @@ With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eve
 </table>
 
 
-So, by buying bonds in this way, the Fed has increased the bank's deposits, which increases the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](assets/resized/loanable_funds-1400x577.png), which lowers the interest rate (and increases the quantity of loans that are made).
+So, by buying bonds in this way, the Fed has increased the bank's deposits, which increases the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](https://loighic.net/assets/img/macro_fig/7_money/loanable_funds.png), which lowers the interest rate (and increases the quantity of loans that are made).
 
 
 ###### Bonds and tight monetary policy
