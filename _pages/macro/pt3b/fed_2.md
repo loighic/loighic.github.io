@@ -11,8 +11,6 @@ nav: false
 
 
 
-##### Open market operations
-
 The second, and more common, way that the Fed can affect interest rates is by engaging in **open market operations**.
 
 ##### Bonds
@@ -91,7 +89,7 @@ Figure 3 shows some of the responsibilities of the Treasury Department and the F
 
 Now, back to open market operations. Let's say that this is the balance sheet for a bank that has a 10 percent reserve requirement. Since banks are earning interest on their loans while paying a lower rate of interest to depositors, a bank can have assets that are greater than its liabilities. 
 
-U.S. Treasury bonds are believed to be a very safe investment---meaning that the U.S. government will almost certainly make the interest payments and repay the loans. So, in addition to its reserves and loans, this bank is holding Treasury bonds.
+U.S. Treasury bonds are believed to be a very safe investment. The U.S. government will almost certainly make the interest payments and repay the loans, and so, in addition to its reserves and loans, this bank is holding Treasury bonds as an asset.
 
   
   
@@ -219,9 +217,9 @@ Now, let's say that the Fed buys \$200 worth of Treasury bonds from the bank. Th
 
 
 
-Since it is holding more than it is required to hold in its reserves, this bank will lend the excess: \$200. If, after this money has been lent, it is deposited, then new loans can be made, and the process can repeat itself many times. 
+It is now holding $200 more than it is required to hold in its reserves, and, unlike when the $200 was invested in bonds, the bank is not making any money by letting it sit in the vault. So, this bank will use the $200 to make loans. If, after this money has been lent, it is deposited, then new loans can be made. 
 
-With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eventually be able to get to \$12,000 in deposits and \$10,800 in loans.
+With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eventually be able to get to \$12,000 in deposits, which means that it can use \$10,800 for loans.
 
 
 <table class="styled-table">
@@ -294,7 +292,7 @@ By selling bonds to the bank, the Fed can do the reverse. When the bank buys bon
 
 ##### The federal funds rate
 
-When the Fed engages in buying and selling bonds so that it can affect the money supply, what we see in the news is "the Fed is raising \[or lowering\] interest rates." It's not, however, directly controlling interest rates (and it can't). It's only buying and selling Treasury bonds. 
+When the Fed engages in buying and selling bonds to implement a monetary policy, what we see in the news is "the Fed is raising \[or lowering\] interest rates." The Fed is not, however, directly controlling interest rates (and it can't). It's only buying and selling Treasury bonds. 
 
 
 <div class="container">
