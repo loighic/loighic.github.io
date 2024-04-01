@@ -72,7 +72,7 @@ Consider the example in figure 1. The t-shirt that is sold by producer E, the re
 
 Only the cost of the t-shirt that is sold to the consumer is included in GDP, but the value of the intermediate goods produced by A, B, C, and D are included in price of the t-shirt that is sold to a consumer. For instance, the value of the cotton that producer A sold to producer B (\$2) is carried along at each step. If somehow, producer B had gotten that cotton for free, then the yarn would have been sold for \$4, the fabric could have been sold for \$7, and so forth. Hence, the value of the intermediate goods are included in GDP.
 
-This means that it would be a mistake to include the price of the cotton, the price of the thread, the price of the fabric, the price of the wholesale t-shirt, *and* the price of t-shirt sold in a store in GDP. Do this would be what is called **double counting**.
+This means that it would be a mistake to include the price of the cotton, the price of the thread, the price of the fabric, the price of the wholesale t-shirt, *and* the price of t-shirt sold in a store in GDP. Doing this is called **double counting** since it would count the value of the cotton and the intermediate goods multiple times.
 
 One qualification here is that exports are counted in GDP, even when they are an intermediate good in the production of a final good produced in some other country. As far as the exporting country is concerned, though, exports are the final product.
 
