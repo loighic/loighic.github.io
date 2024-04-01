@@ -1,11 +1,24 @@
 
- h5 {
-        color: navy;
-    }
+:root, [data-theme="light"] {
+	--h5-fg-color: navy;
+	--h6-fg-color: #8600b3;
+}
 
- h6 {
-        color: #8600b3;
-    }
+[data-theme="dark"] {
+	--h5-fg-color: #FFD800;
+	--h6-fg-color: #B860D3; 
+}
+
+
+	h5 {
+		color: var(--h5-fg-color);
+}
+	h6 {
+		color: var(--h6-fg-color);
+}
+
+
+	
 
 
 /* This is the main style for the table. */
