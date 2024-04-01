@@ -47,7 +47,7 @@ So, to answer our original question on this page, an unemployment rate of zero w
 
 So, even when an economy is functioning optimally, there will be some unemployment caused by frictional and structural unemployment. This amount of unemployment is called the **natural rate of unemployment**. The natural rate of unemployment is not "natural" in the sense that water freezes at 32 degrees Fahrenheit or boils at 212 degrees Fahrenheit. The natural rate of unemployment is not a physical and unchanging law of nature. It is, however, relatively constant, and currently, it is probably around 4%. When the actual unemployment rate is equal to the natural rate of unemployment the economy has achieved **full employment**. 
 
-Over time, however, the natural rate of unemployment can change---as it might, for instance, if unemployed workers have easier access to job opportunities than they did before the use of the internet became widespread, or if the skills that are prevalent in the labor force happen to match the skills that firms want.
+Over time, however, the natural rate of unemployment can change---as it might, for instance, if unemployed workers have easier access to job opportunities than they did before the use of the internet became widespread, or if more of the skills that are prevalent in the labor force happen to match the skills that firms want.
 
 When the unemployment rate is above the natural rate, then, in addition to frictional and structural unemployment, there is some amount of what is called *cyclical unemployment*.
 
