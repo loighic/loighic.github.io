@@ -26,7 +26,7 @@ When put the aggregate demand curve and the aggregate supply curves together, we
 </div>
 
 
-The point at which the aggregate demand (AD) and short-run aggregate supply (SRAS) curves intersect is the equilibrium. Given the way that the model is designed, it's not possible to deviate from the equilibrium.[^1] The current real GDP just is the point where aggregate demand equals short-run aggregate supply. The central issue, however, is the degree to which a particular equilibrium is benefiting society.
+The point at which the aggregate demand (AD) and short-run aggregate supply (SRAS) curves intersect is the equilibrium. Given the way that the model is designed, it's not possible to deviate from the equilibrium.[^1] The current real GDP just is the point where aggregate demand equals short-run aggregate supply. So, rather than being concerned with surpluses or shortages, the central issue now is the degree to which a particular equilibrium is benefiting society.
 
 [^1]: If we are looking at supply and demand for a single market (like we did [earlier](/macro/supply_and_demand/)), then we know that there will be a surplus when the quantity supplied is greater than the quantity demanded. In the AD-AS model, however, if suppliers produce extra inventory, it just gets counted in the investment portion of GDP, and so it is, by definition, part of the current aggregate demand. Hence, there can't really be a surplus in this model.
 
