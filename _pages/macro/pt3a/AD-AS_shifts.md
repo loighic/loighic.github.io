@@ -12,7 +12,7 @@ nav: false
 
 ##### The factors that shift AD 
 
-The real wealth effect, the interest rate effect, and the foreign price effect explain what happens to the level of aggregate demand when the price level changes. When price level changes, each effect explains why we move to a higher or lower point *on the* aggregate demand curve. Since these changes are caused by a change to the price level (which is on the vertical axis), we don't need to move the aggregate demand curve. It stays right where it is.
+The real wealth effect, the interest rate effect, and the foreign price effect explain what happens to the level of aggregate demand (i.e., GDP) when the price level changes. When the price level changes, each effect explains why we move to a higher or lower point *on the* aggregate demand curve. Since these changes are caused by a change to the price level (which is on the vertical axis), we don't need to move the aggregate demand curve. It stays right where it is.
 
 Aggregate demand (the whole curve) can increase, though. When it does, the curve will move to the right. And likewise, if aggregate demand decreases, then the curve will move to the left.
 
@@ -30,21 +30,17 @@ Aggregate demand (the whole curve) can increase, though. When it does, the curve
 
 
 
-Since aggregate demand is given in possible quantities of real GDP, increases or decreases to aggregate demand are caused by changes to one of the components of GDP: consumption, investment, government spending, and the balance of imports versus exports. The primary reasons why these categories may increase or decrease are listed in tables 1a and 1b.
+Since aggregate demand corresponds to quantities of real GDP, increases or decreases to aggregate demand are caused by changes to one of the components of GDP: consumption, investment, government spending, and the balance of imports versus exports. The primary reasons why these categories may increase or decrease are listed in tables 1a and 1b.
 
 
 
 <table class="styled-table">
 <thead>
 <tr>
-<th style="text-align: left;">Causes of decreases to aggregate demand</th>
-<th style="text-align: left;">Causes of increase to aggregate demand</th>
+<th style="text-align: left;">Causes of a decrease to consumption</th>
+<th style="text-align: left;">Causes of an increase to consumption</th>
 </tr>
 
-<tr>
-<th>Consumption</th>
-<th>Consumption</th>
-</tr>
 </thead>
 
 <tbody>
@@ -73,7 +69,7 @@ Since aggregate demand is given in possible quantities of real GDP, increases or
 <td style="text-align: left;">rise in future expected income</td>
 </tr>
 </tbody>
-<caption><strong>Table 1a</strong>&nbsp;&nbsp;The factors that can affect consumer expenditures and so will affect aggregate demand.</caption>
+<caption><strong>Table 1a</strong>&nbsp;&nbsp;The factors that can affect the consumer expenditures portion of aggregate demand.</caption>
 </table>
 
 
@@ -86,13 +82,8 @@ There are two primary ways that government policies can affect aggregate demand.
 <table class="styled-table">
 <thead>
 <tr>
-<th style="text-align: left;">Causes of decreases to aggregate demand</th>
-<th style="text-align: left;">Causes of increase to aggregate demand</th>
-
-<tr>
-<th>Investment</th>
-<th>Investment</th>
-</tr>
+<th style="text-align: left;">Causes of a decrease to investment</th>
+<th style="text-align: left;">Causes of an increase to investment</th>
 </tr>
 </thead>
 
@@ -108,8 +99,8 @@ There are two primary ways that government policies can affect aggregate demand.
 
 
 <tr>
-<td style="background-color: #66c1ae;">Government</td>
-<td style="background-color: #66c1ae;">Government</td>
+<td style="text-align: left; background-color: #009879; color: #ffffff;">Causes of a decrease to govt. spending</td>
+<td style="text-align: left; background-color: #009879; color: #ffffff;">Causes of an increase to govt. spending</td>
 </tr>
 <tr>
 <td style="text-align: left; background-color: #ffffff;">reduction in government spending</td>
@@ -117,8 +108,8 @@ There are two primary ways that government policies can affect aggregate demand.
 </tr>
 
 <tr>
-<td style="background-color: #66c1ae;">Net Exports</td>
-<td style="background-color: #66c1ae;">Net Exports</td>
+<td style="text-align: left; background-color: #009879; color: #ffffff;">Causes of a decrease to net exports</td>
+<td style="text-align: left; background-color: #009879; color: #ffffff;">Causes of an increase to net exports</td>
 </tr>
 <tr>
 <td style="text-align: left; background-color: #ffffff;">decrease in foreign demand</td>
@@ -136,17 +127,22 @@ There are two primary ways that government policies can affect aggregate demand.
 
 ##### Increases and decrease to interest rates
 
-Of the factors that can change the investment portion of aggregate demand, the most important is changes to interest rates. (This is different than the interest rate effect. The interest rate effect describes interest rates changing in response to a change in the price level. Here interest rates are changing for some other reason; one that isn't represented on the AD-AS graph.)
+Of the factors that can change the investment portion of aggregate demand, the most important is changes to interest rates. Because interest rates can be changed---indirectly---by the Federal Reserve, this is a topic to which we will return when we examine [monetary policy](https://loighic.net/macro/fed_1/).
 
-Higher interest rates tend to discourage borrowing and thus reduce both household spending on "big ticket" items like houses and cars and investment spending by businesses. This will, therefore, lower aggregate demand.
+The changes to interest rates that we are discussing here are a little bit different than the interest rate effect. The interest rate effect describes interest rates changing in response to a change in the price level. When that happens, we track the change to real GDP by moving up or down the aggregate demand curve. In what we are examining now, interest rates are changing for some other reason; one that isn't represented on the AD-AS graph. Once interest rates do change, however, it sets in motion the same changes to borrowing and spending---but the final result is that the aggregate demand curve shifts to the right or the left.
 
-Conversely, lower interest rates will encourage borrowing by companies and by consumers who want to make those big ticket purchases. This will cause aggregate demand to increase.
+Higher interest rates tend to discourage borrowing and thus reduce both household spending on "big ticket" items like houses and cars and investment spending by businesses. The decrease to this purchasing will lower aggregate demand and so shift the curve to the left.
+
+Conversely, lower interest rates will encourage borrowing by businesses that want to spend on investment and by consumers who want to make those big ticket purchases. This will cause aggregate demand to increase and so shift the curve to the right.
 
 ##### Increases and decreases to foreign demand
 
 There are multiple factors that can affect the foreign demand for goods that are produced in the U.S., but we will focus on changes to exchange rates. First, let's review how exchange rates work.
 
-When you exchange U.S. dollars for a foreign currency, you are, in effect, *buying the other currency*. The **U.S. dollar is stronger** when \$1 buys more of the foreign currency. The **U.S. dollar is weaker** when \$1 buys less of the foreign currency. For instance, if you look [here](https://g.co/kgs/8K3n9RR), you can see that \$1 always buys less than 1 British pound (£), but the fraction of £1 that you get for \$1 varies. Sometimes \$1 buys more than £0.80. That's when it is stronger. Sometimes \$1 buys less than £0.75. That's when it is weaker.
+When you exchange U.S. dollars for a foreign currency, you are, in effect, *buying the other currency*. The **U.S. dollar is stronger** when \$1 buys more of the foreign currency. The **U.S. dollar is weaker** when \$1 buys less of the foreign currency. *Stronger* and *weaker*, in this sense, is with respect to one other currency and the historical trends.  
+
+
+ For instance, if you look [here](https://www.google.com/finance/quote/USD-EUR?window=5Y), you can see that, in October 2022, 1 U.S. dollar bought slightly more than 1 Euro. At the beginning of 2024, meanwhile, 1 U.S. dollar bought a little over 0.90 Euro. So, relative to January 2024, the U.S. dollar was stronger in October of 2022. Conversely, in 2024, the U.S. dollar has been weaker relative to October 2022.
 
 Now, how does this affect imports and exports?
 
@@ -155,18 +151,21 @@ Now, how does this affect imports and exports?
 > A weak dollar causes exports to increase and imports to decrease.
 
 
-**Video here on the exchange rate and import-export example.**
-
-
-Video 1 contains a more detailed example, but the central idea is as follows. 
+The central idea is as follows. 
 
 1. Let's say that, initially, 1 U.S. dollar (1 USD) buys 1 Euro (1 EUR). At the same time, for anyone in Europe, 1 EUR buys 1 USD. This will be our baseline.
 
-2. Then, the exchange rate changes so that 1 USD buys 1.25 EUR. The U.S. dollar has gotten stronger. Now, with 1 USD (or however much we have), we can buy more stuff produced in Europe. Hence, imports from Europe will increase.<br>
+2. Then, the exchange rate changes so that 1 USD buys 1.25 EUR. The U.S. dollar has gotten stronger. Now, with 1 USD (or however much we have), we can buy more stuff produced in Europe. Hence, imports from Europe will increase.<br><br>
 At the same time, with this exchange rate, 1 EUR buys only 0.80 USD (i.e., \$0.80). Now, with 1 EUR (or however much they have), Europeans will be able to buy less of our stuff. This means that exports to Europe will decrease.
 
-3. The exchange rate changes again. Now, 1 USD buys only 0.75 EUR. The U.S. dollar has gotten weaker. With 1 USD (or however much we have), we can buy less stuff produced in Europe. Consequently, imports from Europe will decrease.<br>
+3. The exchange rate changes again. Now, 1 USD buys only 0.75 EUR. The U.S. dollar has gotten weaker. With 1 USD (or however much we have), we can buy less stuff produced in Europe. Consequently, imports from Europe will decrease.<br><br>
 At the same time, with this exchange rate, 1 EUR buys 1.33 USD. Now, with 1 EUR (or however much they have), Europeans will be able to buy more of our stuff. This means that exports to Europe will increase.
+
+
+Since a stronger dollar (relative to other major currencies) causes export to decrease and imports to increase, a stronger dollar will cause aggregate demand to decrease, shifting the AD curve to the left.
+
+On the other hand, since a weaker dollar (relative to other major currencies) causes exports to increase and imports to decrease, a weaker dollar will cause aggregate demand to increase, shifting the curve to the right.
+
 
 
 ##### Factors that shift short-run aggregate supply curve
