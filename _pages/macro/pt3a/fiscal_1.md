@@ -17,21 +17,21 @@ Suppose the stock market crashes, as it did in 1929, or the housing market colla
 
 1. Businesses would see that consumer spending was falling, and they would reduce investment expenditures and lay off workers.
 
-2. This increase in unemployment and decline in business spending would further decrease consumer spending.
+2. This increase in unemployment would further decrease consumer spending.
 
 3. This further decline in consumer spending would motivate businesses to further reduce investment expenditures and lay off more workers.
 
-4. This further increase in unemployment and decrease in business spending would further decrease consumer spending.
+4. This further increase in unemployment would further decrease consumer spending.
 
-5. And so the cycle keeps continuing . . .
+5. Return to (3), and so the cycle keeps continuing.
 
 One trigger can cause a cycle that drives the economy into a recession or, worse, a depression. This generally happens while the economy's potential to employ most workers and produce a large number of goods and services remains unchanged.
 
-During the Great Depression, for instance, the physical capacity of the economy to supply goods did not much change. No flood or earthquake or other natural disaster ruined factories in 1929 or 1930. No outbreak of disease decimated the ranks of workers. No key input price, like the price of oil, soared on world markets. The U.S. economy in 1933 had just about the same factories, workers, and technology as it had had four years earlier in 1929---and yet the economy had shrunk dramatically.
+During the Great Depression and the Great Recession, for instance, the physical capacity of the economy to supply goods did not much change. No flood or earthquake or other natural disaster ruined factories. No outbreak of disease decimated the ranks of workers. No key input price, like the price of oil, soared on world markets. The U.S. economy maintained the same factories, workers, and technology, and yet in both cases, GDP shrunk and unemployment soared.
 
 ##### Low aggregate demand
 
-The graph in figure 1 represents a recession in the AD-AS model. Aggregate demand is declining, and the point where AD1 and SRAS1 intersect is well below potential GDP (i.e., long-run aggregate supply). Thus, among other effects, unemployment is high. The question then, is how can aggregate demand be increased so that GDP increases and level of unemployment returns to full employment?
+The graph in figure 1 represents a recession in the AD-AS model. Aggregate demand has fallen, and the point where AD<sub>2</sub> and SRAS<sub>1</sub> now intersect (E<sub>2</sub>) is well below potential GDP (i.e., long-run aggregate supply). Thus, unemployment is high. The question then, is how can aggregate demand be increased so that GDP increases and level of unemployment returns to full employment?
 
 
 <div class="container">
@@ -51,7 +51,9 @@ The graph in figure 1 represents a recession in the AD-AS model. Aggregate deman
 
 As we discussed in the section on [unemployment](https://loighic.net/macro/unemployment_2/), wages are *sticky downward*. Recall that there are a number of possible reasons why they are, but the effect is that, when demand for labor declines, wages don't adjust downward (as we expect that they would based on the supply and demand model). Consequently, we end up with some amount of cyclical unemployment.
 
-Although wages are sticky downward, they will, over time, adjust, and so one solution to a recession is just to wait for this to happen. When it does, aggregate demand will increase, and the point where AD is equal to SRAS will move closer to potential GDP. Because wages are sticky, however, this can take a long time and high unemployment (and its effects) is a serious problem that generally requires a more immediate response.
+But wages are only ***sticky*** downward. They aren't ***stuck***. They will, over time, adjust, at which point, although wages will be a little bit lower, everyone who wants a job at the prevailing wage will have one. 
+
+So, one solution to a recession is just to wait for this to happen. When it does, aggregate demand will increase, and the point where AD is equal to SRAS will move closer to potential GDP. Because wages are sticky, however, this can take a long time and high unemployment is a serious problem that seems to require a more immediate response.
 
 Hence, to get out of recessions, most governments turn to **fiscal policies**: the use of government spending and tax policy to influence the path of the economy over time. The rational here is easy to see if we recall the components of aggregate demand (consumption, investment, government spending, and net exports). The government can---in a way that no individual consumer or firm can---increase or decrease aggregate demand through its own spending and by raising or lowering taxes.
 
@@ -104,11 +106,11 @@ In this situation, contractionary fiscal policy, which involves federal spending
 
 ##### The fiscal multiplier
 
-The AD-AS model is useful for describing the basic effects of fiscal policy. A less intuitive aspect of fiscal policy---in particular, expansionary fiscal policy---is the *multiplier effect*. This is the effect that government spending has on aggregate demand as this spending cycles through the economy.
+The AD-AS model is useful for describing the basic effects of fiscal policy. A less intuitive aspect of fiscal policy---in particular, expansionary fiscal policy---is the *multiplier effect*. This is the effect that government spending has on aggregate demand as it cycles through the economy.
 
-Let's say that, in an effort to increase aggregate demand, the government spends \$1,000 on a project that Mary executes. This government spending constitutes a \$1,000 increase to aggregate demand, and so the AD curve shifts to the right by this much. Mary does the work and is paid \$1,000. She pays 20 percent of this in taxes (\$200) and spends the rest (\$800). Mary's spending is an \$800 increase to aggregate demand, and so the AD curve shifts to the right by this much again.
+To see how this works, let's say that, in an effort to increase aggregate demand, the government spends \$1,000 on a project that Mary executes. This government spending constitutes a \$1,000 increase to aggregate demand, and so the AD curve shifts to the right by this much. Mary does the work and is paid \$1,000. She pays 20 percent of this in taxes (\$200) and spends the rest (\$800). Mary's spending is an \$800 increase to aggregate demand, and so the AD curve shifts to the right by this much again.
 
-The people who receive the \$800 pay 20 percent in taxes (\$160) and spend the rest (\$640). The people who receive the \$640 do the same, and on it goes. This can't go on forever (if we can't spend less than \$0.01), but it takes many rounds of people paying and being paid to get there. When it does end, the government, Mary and everyone else has spent almost \$5,000. Moreover, almost \$1,000 has been paid in taxes, and so the government has recouped its initial expenditure.
+The people who receive the \$800 pay 20 percent in taxes (\$160) and spend the rest (\$640). The people who receive the \$640 do the same, and on it goes. Assuming that no one will be able to spend a fraction of 1&#162;, this can't go on forever. But it takes many rounds of people paying and being paid to get to reach the end. When it does end, the government, Mary and everyone else has spent almost \$5,000. Moreover, \$1,000 will have been paid in taxes, and so the government will recoup its initial expenditure.
 
 If we assume that this money is spent on domestically produced goods and services, then this is a \$5,000 increase to aggregate demand (and so, a \$5,000 increase to GDP).[^1]
 
@@ -126,61 +128,61 @@ If we assume that this money is spent on domestically produced goods and service
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left; width:200px;">The government spends &amp; Mary receives:</td>
+<td style="text-align: left; width:300px;">The government spends &amp; Mary (1) receives:</td>
 <td>$ 1,000.00</td>
 <td>$ 200.00</td>
 <td>$ 800.00</td>
 </tr>
 <tr>
-<td style="text-align: left;">Mary spends &amp; other people receive:</td>
+<td style="text-align: left;">Mary spends &amp; other people (group 2) receive:</td>
 <td>$ 800.00</td>
 <td>$ 160.00</td>
 <td>$ 640.00</td>
 </tr>
 <tr>
-<td style="text-align: left;">3.</td>
+<td style="text-align: left;">Group 2 spends &amp; group 3 receives:</td>
 <td>$ 640.00</td>
 <td>$ 128.00</td>
 <td>$ 512.00</td>
 </tr>
 <tr>
-<td style="text-align: left;">4.</td>
+<td style="text-align: left;">Group 3 spends &amp; group 4 receives:</td>
 <td>$ 512.00</td>
 <td>$ 102.40</td>
 <td>$ 409.60</td>
 </tr>
 <tr>
-<td style="text-align: left;">5.</td>
+<td style="text-align: left;">Group 4 spends &amp; group 5 receives:</td>
 <td>$ 409.60</td>
 <td>$ 81.92</td>
 <td>$ 327.68</td>
 </tr>
 <tr>
-<td style="text-align: left;">6.</td>
+<td style="text-align: left;">Group 5 spends &amp; group 6 receives:</td>
 <td>$ 327.68</td>
 <td>$ 65.54</td>
 <td>$ 262.14</td>
 </tr>
 <tr>
-<td style="text-align: left;">7.</td>
+<td style="text-align: left;">Group 6 spends &amp; group 7 receives:</td>
 <td>$ 262.14</td>
 <td>$ 52.43</td>
 <td>$ 209.72</td>
 </tr>
 <tr>
-<td style="text-align: left;">8.</td>
+<td style="text-align: left;">Group 7 spends &amp; group 8 receives:</td>
 <td>$ 209.72</td>
 <td>$ 41.94</td>
 <td>$ 167.77</td>
 </tr>
 <tr>
-<td style="text-align: left;">9.</td>
+<td style="text-align: left;">Group 8 spends &amp; group 9 receives:</td>
 <td>$ 167.77</td>
 <td>$ 33.55</td>
 <td>$ 134.22</td>
 </tr>
 <tr>
-<td style="text-align: left;">10.</td>
+<td style="text-align: left;">Group 9 spends &amp; group 10 receives:</td>
 <td>$ 134.22</td>
 <td>$ 26.84</td>
 <td>$ 107.37</td>
@@ -202,7 +204,7 @@ If we assume that this money is spent on domestically produced goods and service
 
 
 
-The calculation that produces the figures given in the table above is relatively easy with a spreadsheet, but there is also a formula. If we assume that each person's extra income that comes from the government's expenditure goes either to taxes or to spending on goods and services, then we use this formula, where *t* is the tax rate:
+The calculation that produces the figures in the table is relatively easy with a spreadsheet, but there is also a formula. If we assume that each person's extra income that comes from the government's expenditure goes either to taxes or to spending on goods and services, then we use this formula, where *t* is the tax rate:
 
 $$ \mathsf{fiscal\ multiplier = \frac{1}{1\  - \ \left\lbrack 1 - (t) \right\rbrack}}$$
 
@@ -215,13 +217,15 @@ The multiplier, 5, means that, after many rounds of spending cycling through the
 
 ###### The fiscal multiplier with savings
 
-If instead of spending all of the after-tax income, Mary and everyone else in our example saves 10 percent, then the government will only collect a little more than \$714 in taxes, and Mary and everyone else will only spend about \$2,571. This will still, however, create a \$3,571 increase in aggregate demand (that is, government's \$1,000 expenditure plus everyone else's expenditures).
+If instead of spending all of the after-tax income, Mary and everyone else in our example saves 10 percent, then the government will only collect a little more than \$714 in taxes, and Mary and everyone else will only spend about \$2,571. This will still, however, create a \$3,571 increase in aggregate demand. (That is, government's \$1,000 expenditure plus everyone else's expenditures.)
 
-For the calculation with savings, we will introduce the **marginal propensity to save** (MPS) and the **marginal propensity to consume** (MPC). These are the percentages of each *additional* dollar that a person or household will save or consume. Mary might act differently with the first \$30,000 or \$40,000 that she earns, but, right here, we just care about this last \$1,000 that she has earned. Let MPC = 1 -- MPS. This is the formula:
+For the calculation with savings, we will introduce the **marginal propensity to save** (MPS) and the **marginal propensity to consume** (MPC). These are the percentages of each *additional* dollar that a person or household will save or consume. Mary might act differently with the first \$30,000 or \$40,000 that she earns, but, right here, we just care about this last \$1,000 that she has earned. 
+
+Let MPC = 1 -- MPS. This is the formula:
 
 $$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack MPC - (t)(MPC) \right\rbrack}}$$
 
-In our example, *t* = .20 and MPC = .10, and we calculate the multiplier this way:
+Since Mary and everyone else is saving 10 percent of this income, MPS = .10 and so MPC = .90. If the tax rate (*t*) is .20, then we calculate the multiplier this way:
 
 $$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack .90 - (.20)(.90) \right\rbrack} = \frac{1}{1\  - \ \left\lbrack .90 - .18) \right\rbrack} = \frac{1}{.28} = 3.571}$$
 
@@ -231,10 +235,10 @@ This calculation tells us that the government's \$1,000 expenditure increased ag
 
 The moral here is that expansionary fiscal policy can be more effective than it might initially seem to be because every \$1 that the government spends increases aggregate demand several times over. Plus, through taxes, the government recoups some or all of its spending. (How much the government recoups depends on how much people save.)
 
-There are some caveats, however. Wealthier people spend much less of their incomes (and save or invest more), and so any government expenditures that go to them will have a lower multiplier than expenditures that go to less wealthy individuals, who spend all or almost all of their after-tax incomes.
+There are some caveats, however. Wealthier people spend much less of their incomes (and save more), and so any government expenditures that go to them will have a lower multiplier than expenditures that go to less wealthy individuals, who spend all or almost all of their after-tax incomes.
 
-Increasing aggregate demand (and GDP) requires spending on new goods or services produced in the U.S. So, just as taxes and savings (or buying stocks, bonds, etc.) lowers the multiplier, spending on used goods or imported goods will as well.
+Increasing aggregate demand (and GDP) requires spending on new goods or services produced in the U.S. So, just as paying taxes and saving  lowers the multiplier, spending on used goods or imported goods will as well.
 
-Finally, there is the issue of how fast this multiplying occurs. Obviously, it won't happen instantaneously. To get the full multiplier effect, the money has to be income for and spent by many individuals. If we are trying to move the economy out of a recession or lower unemployment, it won't help as much if it happens too slowly.
+Finally, there is the issue of how fast this multiplying occurs. Obviously, it won't happen instantaneously. To get the full multiplier effect, the money has to be income for many individuals and then spent by them. If we are trying to move the economy out of a recession or lower unemployment, it won't help as much if this happens too slowly.
 
 ---
