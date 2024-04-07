@@ -217,7 +217,7 @@ If we assume that this money is spent on domestically produced goods and service
 
 
 
-The calculation that produces the figures in the table is relatively easy with a spreadsheet, but there is also a formula. If we assume that each person's extra income that comes from the government's expenditure goes either to taxes or to spending on goods and services, then we use this formula, where *t* is the tax rate:
+The calculation that produces the figures in the table is relatively easy with a spreadsheet, but there is also a formula. If we assume that all of the income that comes from the government's expenditure goes either to taxes or to spending on goods and services, then we use this formula, where *t* is the tax rate:
 
 $$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack 1 - (t) \right\rbrack}}$$
 
@@ -252,7 +252,7 @@ This calculation tells us that the government's \$1,000 expenditure increased ag
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kKYh9tgooFQ?si=MIkpceTuFTzfnrWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div class="caption"><div align="left">
-<strong>Video 2</strong>&nbsp;&nbsp;This video explains how the spending multiplier works and the formula for calculating the full multiplying effect&mdash;in both cases, money is removed from the cycles by taxes and by saving.</div></div>
+<strong>Video 2</strong>&nbsp;&nbsp;This video explains how the spending multiplier works and the formula for calculating the full multiplying effect&mdash;in both cases, money is removed each round by taxes and by saving.</div></div>
 
 
 ##### Increasing aggregate demand
