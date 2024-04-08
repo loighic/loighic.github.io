@@ -21,7 +21,7 @@ When put the aggregate demand curve and the aggregate supply curves together, we
 	</div>
 </div>
 <div class="caption"><div align="left">
-<strong>Figure 1: The AD-AS model</strong>&nbsp;&nbsp;</div>
+<strong>Figure 1: The AD-AS model</strong>&nbsp;&nbsp;The equilibrium is the point at which aggregate demand (AD) and short-run aggregate supply (SRAS) intersect.</div>
 </div>
 </div>
 
@@ -106,6 +106,13 @@ This means that (1) there is deflation, (2) GDP has decreased, and (3) unemploym
 <div class="caption"><div align="left">
 <strong>Figure 5</strong>&nbsp;&nbsp;Short-run aggregate supply decreasing while aggregate demand is unchanged.</div>
 </div>
+</div>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QTy3jkgOevo?si=zZuHcQwpDr8hTXbZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="caption"><div align="left">
+<strong>Video 1</strong>&nbsp;&nbsp;Changes to aggregate demand and short-run aggregate supply and the effects of these changes on GDP, the price level, and unemployment.</div>
 </div>
 
 
