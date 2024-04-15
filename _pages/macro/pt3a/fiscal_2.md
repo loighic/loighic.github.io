@@ -12,13 +12,13 @@ nav: false
 
 ##### Automatic stabilizers
 
-In the case of a recession, especially a severe one, Congress and President can and often will implement new policies to shift aggregate demand and bring the country out of the recession. But some changes to taxes and spending happen automatically, without policymakers taking any new action. These automatic effects do not completely prevent recessions, but they seem to have minimized them since the end of the Great Depression. Here is how it works.
+In the case of a recession, especially a severe one, Congress and President can, and often will, implement new policies to increase aggregate demand and bring the country out of the recession. But some changes to taxes and spending happen automatically, without policymakers taking any new action. These automatic effects do not completely prevent recessions, but they seem to have minimized them since the end of the Great Depression. Here is how it works.
 
 When aggregate demand is falling and the economy is at risk of entering a recession (or already has), the policy prescription is for an expansionary fiscal policy: some mix of tax cuts and spending increases. To an extent *both* happen automatically.
 
-Low aggregate demand and higher unemployment lowers personal incomes and corporate profits, which automatically reduces the amount of taxes that are paid by individuals and by firms. (Making less money entails paying less taxes, even if the percentage one pays in taxes stays the same. And sometimes making less money moves someone into a lower tax bracket, which means that the person will pay a smaller percentage of taxes on the highest part of his or her income.)
+Low aggregate demand and higher unemployment lowers personal incomes and corporate profits, which automatically reduces the amount of taxes that are paid by individuals and by firms. (If a person's income drops to $0, then, obviously, his or her income taxes will also be $0. If a person's wage is lowered, then he or she may fall into a lower tax bracket, which means that the person will pay a smaller percentage of taxes on the highest part of his or her income.)
 
-Higher unemployment also causes the government to increase its spending on unemployment benefits, food stamps (SNAP), temporary relief for needy families (TRNF), and Medicaid. These automatic changes will, to an extent, increase aggregate demand, or at least prevent it from sliding too much lower.
+Higher unemployment also causes the government to increase its spending on unemployment benefits, food stamps (SNAP), temporary relief for needy families (TRNF), and Medicaid. These automatic changes will, to an extent, increase aggregate demand, or at least prevent it from decreasing too much.
 
 
 <div class="container">
@@ -44,7 +44,7 @@ Consider the AD-AS model, when SRAS is constant and aggregate demand is either i
 
 Conversely, if AD is decreasing (i.e., shifting to the left), then unemployment is increasing and the price level is falling, which means that there is deflation. 
 
-In the 1950s, A.W. Phillips, an economist at the London School of Economics, was studying the AD-AS model, which was still relatively new at the time, and he noticed this trade-off in the model between unemployment and inflation. He analyzed 60 years of British data to see how accurate the model was on this point, and he found exactly what the model predicted. 
+In the 1950s, A.W. Phillips, an economist at the London School of Economics, was studying the AD-AS model, which was still relatively new at the time, and he noticed this trade-off between unemployment and inflation. He analyzed 60 years of British data to see how accurate the model was on this point, and he found exactly what the model predicted. 
 
 This relationship between unemployment and inflation became known as the Phillips curve. The graph right below shows a theoretical Phillips curve with the rate of inflation and unemployment rate on the vertical and horizontal axes.
 
