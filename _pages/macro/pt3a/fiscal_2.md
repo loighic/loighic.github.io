@@ -12,7 +12,7 @@ nav: false
 
 ##### Automatic stabilizers
 
-In the case of a recession, especially a severe one, Congress and President can, and often will, implement new policies to increase aggregate demand and bring the country out of the recession. But some changes to taxes and spending happen automatically, without policymakers taking any new action. These automatic effects do not completely prevent recessions, but they seem to have minimized them since the end of the Great Depression. Here is how it works.
+In the case of a recession, especially a severe one, Congress and the President can, and often will, implement new policies to increase aggregate demand and bring the country out of the recession. But some changes to taxes and spending happen automatically, without policymakers taking any new action. These automatic effects do not completely prevent recessions, but they seem to have minimized them since the end of the Great Depression. Here is how it works.
 
 When aggregate demand is falling and the economy is at risk of entering a recession (or already has), the policy prescription is for an expansionary fiscal policy: some mix of tax cuts and spending increases. To an extent *both* happen automatically.
 
