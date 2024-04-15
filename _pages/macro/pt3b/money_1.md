@@ -164,7 +164,7 @@ It loans all of the money that it can (given the reserve requirement). Now, it's
 </table>  
   
 
-Shortly after those loans are made, they are used to make various purchases. The sellers of these goods or services (who now have $900) deposit it back into this bank.
+Shortly after those loans are made, the money is used to make various purchases. The sellers of these goods or services (who now have $900) deposit it back into this bank.
 
 With the \$900 deposited, the balance sheet looks like this:
 
