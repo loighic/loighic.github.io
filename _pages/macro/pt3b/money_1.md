@@ -13,11 +13,11 @@ nav: false
 
 ##### Bartering
 
-To understand the usefulness of money, we must consider what the world would be like without money. How would people exchange goods and services? Economies without money typically engage in the barter system. **Barter** is (literally) trading one good or service for another good or service, and it is highly inefficient.
+To understand the usefulness of money, we must consider what the world would be like without it. How would people exchange goods and services? Economies without money typically engage in the barter system. **Barter** is (literally) trading one good or service for another good or service, and it is highly inefficient.
 
-In an economy without money, an exchange between two people must involve a **double coincidence of wants**, a situation in which two people each want some good or service that the other person can provide. For example, if a farmer who has excess vegetables needs a pair of shoes, this farmer must find someone who makes (or at least has) shoes *and* who also wants vegetables. Under the best circumstances, such a trade would take some work to arrange, and in a modern economy, it would be next to impossible.
+In an economy without money, an exchange between two people must involve a **double coincidence of wants**, a situation in which two people each want the good or service that the other person can provide. For example, if a farmer who has excess vegetables needs a pair of shoes, this farmer must find someone who makes (or at least has) shoes *and* who also wants vegetables. Under the best circumstances, such a trade would take some work to arrange, and in a modern economy, it would be next to impossible.
 
-Another problem with the barter system is that it does not allow people who have perishable goods to hold onto them and trade them in the future. If someone has a perishable good to trade, he or she has to trade it immediately. And even good that are not perishable, generally, can't easily be stored for years or decades as "savings."
+Another problem with the barter system is that it does not allow people who have perishable goods to hold onto them and trade them in the future. If someone has a perishable good to trade, he or she has to trade it immediately. And even goods that are not perishable, generally, can't easily be stored for years or decades as "savings."
 
 Moreover, all of the time that it takes finding and arranging trades is extra work that cuts into everyone's leisure time.
 
@@ -32,9 +32,9 @@ So, shoes could be a store of value, but they aren't a very good one. Holding mo
 
 Money performs this function, even though it is not a perfect store of value. In an economy with inflation, money loses some value each year. But it still remains a very efficient store of value, especially over periods of weeks or months.
 
-Third, money is a **unit of account**. As such, it is the ruler by which we measure the value of all goods and services. For instance, when you go to a grocery store, it might take you some time to determine which goods you want to purchase and in which quantities. But it will take you no time at all to determine and compare the value of the tomatoes, the salmon, the flour, the potatoes, the coffee, and so on. This is, obviously, because the value of each is expressed in U.S. dollars.
+Third, money is a **unit of account**. As such, it is the ruler by which we measure the value of all goods and services. For instance, when you go to a grocery store, it might take you some time to determine which goods you want to purchase and in which quantities. But it will take you no time at all to determine and compare the value of the tomatoes, the salmon, the flour, the potatoes, the coffee, and so on. This is because the value of each is expressed in U.S. dollars.
 
-Anything that performs these three functions is money, and many things have been used as money throughout history---gold, silver, cowrie shells, cigarettes, cocoa beans, and many others including, of course, pieces of paper.
+Anything that performs these three functions is money, and many things have been used as money throughout history: gold, silver, cowrie shells, cigarettes, cocoa beans, and many others including, of course, pieces of paper.
 
 
 ##### Commodity-backed versus fiat money
@@ -88,9 +88,9 @@ You might not realize it, but when thinking about money, banks have a much more 
 </div>
 </div>
 
-We will consider the process more carefully in a moment, but imagine that Jack deposits $100 into his bank account. The bank then uses this $100 to make a loan Kate. Kate asks Sam to repair her roof, and when he does, she pays him with the $100.  
+We will consider the process more carefully in a moment, but imagine that Jack deposits $100 into his bank account. The bank then uses this $100 to make a loan to Kate. Kate asks Sam to repair her roof, and when he does, she pays him with the $100.  
 
-There was just $100 here. But Jack believes that he has $100. And now Sam also believes that he has $100. Both are correct. Thanks to the bank's ability to take in deposits and make loans, $100 has become $200. 
+There is just $100 here. But Jack believes that he has $100. And now Sam also believes that he has $100. Both are correct. Thanks to the bank's ability to take in deposits and make loans, $100 has become $200. 
 
 
 ##### The bank's balance sheet
@@ -166,20 +166,21 @@ It loans all of the money that it can (given the reserve requirement). Now, it's
 
 Shortly after those loans are made, they are used to make various purchases. The sellers of these goods or services (who now have $900) deposit it back into this bank.
 
-With the \$900 deposited, the balance sheet now looks like this:
+With the \$900 deposited, the balance sheet looks like this:
 
 
 <table class="styled-table">
 <thead>
 <tr>
-<th></th>
+<th style="width:120px;"></th>
 <th>assets</th>
 <th></th>
 <th></th>
-<th></th>
+<th style="width:120px;"></th>
 <th>liabilities</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td style="text-align: left;">reserves</td>
@@ -197,14 +198,16 @@ With the \$900 deposited, the balance sheet now looks like this:
 <td></td>
 <td></td>
 </tr>
+
 <tr>
-<td style="text-align: left;">total</td>
-<td>$1,900</td>
-<td style="border-right:1px solid #cacacc"></td>
-<td></td>
-<td style="text-align: left;">total</td>
-<td>$1,900</td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$1,900</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$1,900</td>
 </tr>
+
 </tbody>
 </table>
 
@@ -230,14 +233,15 @@ So, it uses the $810 to make loans. This lowers the reserves (i.e., the money in
 <table class="styled-table">
 <thead>
 <tr>
-<th></th>
+<th style="width:120px;"></th>
 <th>assets</th>
 <th></th>
 <th></th>
-<th></th>
+<th style="width:120px;"></th>
 <th>liabilities</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td style="text-align: left;">reserves</td>
@@ -255,14 +259,17 @@ So, it uses the $810 to make loans. This lowers the reserves (i.e., the money in
 <td></td>
 <td></td>
 </tr>
+
 <tr>
-<td style="text-align: left;">total</td>
-<td>$1,900</td>
-<td style="border-right:1px solid #cacacc"></td>
-<td></td>
-<td style="text-align: left;">total</td>
-<td>$1,900</td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$1,900</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$1,900</td>
 </tr>
+
+
 </tbody>
 </table>
 
@@ -273,14 +280,15 @@ With the $810 deposited, the balance sheet now looks like this:
 <table class="styled-table">
 <thead>
 <tr>
-<th></th>
+<th style="width:120px;"></th>
 <th>assets</th>
 <th></th>
 <th></th>
-<th></th>
+<th style="width:120px;"></th>
 <th>liabilities</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td style="text-align: left;">reserves</td>
@@ -298,14 +306,17 @@ With the $810 deposited, the balance sheet now looks like this:
 <td></td>
 <td></td>
 </tr>
+
 <tr>
-<td style="text-align: left;">total</td>
-<td>$2,710</td>
-<td style="border-right:1px solid #cacacc"></td>
-<td></td>
-<td style="text-align: left;">total</td>
-<td>$2,710</td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$2,710</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$2,710</td>
 </tr>
+
+
 </tbody>
 </table>
 
@@ -354,11 +365,11 @@ It is possible that the bank can make a loan and that money, for some reason, is
 <table class="styled-table">
 <thead>
 <tr>
-<th></th>
+<th style="width:120px;"></th>
 <th>assets</th>
 <th></th>
 <th></th>
-<th></th>
+<th style="width:120px;"></th>
 <th>liabilities</th>
 </tr>
 </thead>
