@@ -323,6 +323,11 @@ With the $810 deposited, the balance sheet now looks like this:
 And again, the supply of money has increased, although the amount of currency is still just $1,000. And, again, the bank is in a position to make more loans. It has $2,710 in deposits, which means that it only has to hold $271 in its reserves. The rest ($729) can be used to make loans.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UmfeaHs00UA?si=IRM8A57b6k9z_14p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="caption"><div align="left">
+<strong>Video 1</strong>&nbsp;&nbsp;How the money supply increases as banks make loans.</div></div>
+
+
 ##### The money multiplier
 
 As long as there is a reserve requirement, this can\'t go on forever. Given a reserve requirement, the maximum amount of money that can be held as deposits is determined by this formula:
@@ -403,3 +408,8 @@ It is possible that the bank can make a loan and that money, for some reason, is
 
 
 Since the reserve requirement is 10% and deposits are \$10,000, the bank cannot make any more loans.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kbI8BsXAYzk?si=5rC596qLFBJUgD5z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="caption"><div align="left">
+<strong>Video 2</strong>&nbsp;&nbsp;The money multiplier formula.</div></div>
