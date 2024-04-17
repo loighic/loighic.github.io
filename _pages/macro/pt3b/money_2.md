@@ -42,14 +42,16 @@ Let's say that our bank (from the [Money and banking](/macro/money_1/) page) has
 <td></td>
 <td></td>
 </tr>
+
 <tr>
-<td style="text-align: right;">total</td>
-<td>$10,000</td>
-<td style="border-right:1px solid #cacacc"></td>
-<td></td>
-<td style="text-align: right;">total</td>
-<td>$10,000</td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
 </tr>
+
 </tbody>
 </table>
 
@@ -86,12 +88,12 @@ But then, as sometimes happens, several of its loans, totaling \$2,000, "go bad.
 <td></td>
 </tr>
 <tr>
-<td style="text-align: right;">total</td>
-<td>$8,000</td>
-<td style="border-right:1px solid #cacacc"></td>
-<td></td>
-<td style="text-align: right;">total</td>
-<td>$10,000</td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$8,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
 </tr>
 
 <tr>
@@ -109,7 +111,7 @@ But then, as sometimes happens, several of its loans, totaling \$2,000, "go bad.
 
 The bank's liabilities---that is, what it owes to depositors---is greater than its assets. When the people who have deposits at this bank hear about this, they will want to get their money because they know that the bank has a negative net worth. This is called a **run on the bank**.
 
-But if everyone tries to withdraw all of their money from the bank all at once, then the bank can quickly go out of business because it won't be able to cover all of the withdrawals with the currency money that it has on hand (i.e., in reserves). If this happens, then most people will lose their money.
+But if everyone tries to withdraw all of their money from the bank all at once, then the bank can quickly go out of business because it will not be able to cover all of the withdrawals with the money that it has on hand (i.e., held in reserve). If this happens, then most people will lose their money.
 
 This used to be a relatively common occurrence in the United States, but thanks to the Federal Reserve Bank and the Federal Deposit Insurance Corporation (FDIC), it no longer is.
 
