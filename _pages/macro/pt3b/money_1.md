@@ -316,7 +316,6 @@ With the $810 deposited, the balance sheet now looks like this:
 <td style="border-top:1px solid #808080;">$2,710</td>
 </tr>
 
-
 </tbody>
 </table>
 
@@ -395,14 +394,16 @@ It is possible that the bank can make a loan and that money, for some reason, is
 <td></td>
 <td></td>
 </tr>
+
 <tr>
-<td style="text-align: left;">total</td>
-<td>$10,000</td>
-<td style="border-right:1px solid #cacacc"></td>
-<td></td>
-<td style="text-align: left;">total</td>
-<td>$10,000</td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
 </tr>
+
 </tbody>
 </table>
 
