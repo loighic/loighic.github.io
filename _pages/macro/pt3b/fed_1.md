@@ -117,7 +117,6 @@ If the bank is holding \$1,000 in its reserves and has \$10,000 in deposits, it 
 </table>
 
 
-style="border-top:1px solid #808080;"
 
 ###### An 8% reserve requirement
 
