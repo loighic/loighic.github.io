@@ -12,7 +12,7 @@ nav: false
 
 
 
-Let's begin by defining monetary policy.
+Let's begin by defining *monetary policy*.
 
 > **Monetary policy**: The actions taken by the central bank to affect GDP, the rate of inflation, and levels of unemployment. These actions primarily involve raising or lowering interest rates.
 
@@ -60,7 +60,7 @@ So, if the Fed can increase or decrease the supply of loanable funds, then it wi
 
 > One way that the Fed can change interest rates is by changing the reserve requirement for all banks.
 
-Given a reserve requirement and an amount of money that a bank is holding in reserve, the money multiplier formula tells us how high the bank's deposits can get. The level deposits, then, will determine how much money is available to be used as loans.
+Given a reserve requirement and an amount of money that a bank is holding in reserve, the money multiplier formula tells us how high the bank's deposits can get. The level of deposits, then, will determine how much money is available to be used as loans. (Here we will use *loanable funds* and *loans* interchangeably.)
 
 As we will see, with a lower the reserve requirement, deposits can get higher and banks will be required to hold a smaller percentage of these deposits as reserves. Hence, a lower reserve requirement will increase the supply of loanable funds.
 
