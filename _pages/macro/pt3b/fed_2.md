@@ -11,7 +11,7 @@ nav: false
 
 
 
-The second, and more common, way that the Fed can affect interest rates is by engaging in **open market operations**.
+>The second, and more common, way that the Fed can affect interest rates is by engaging in **open market operations**.
 
 ##### Bonds
 
@@ -19,7 +19,7 @@ Before getting to open market operations, however, we have to look at how bonds 
 
 > **Bond**: A loan that includes an agreement to pay a fixed amount until the end of the loan period.
 
-Here is a description of a bond that Mississippi State University made available to investors in 1981 to raise money for building some student housing.
+Here is a description of a 40 year bond that Mississippi State University made available to investors in 1981 to raise money for building student housing.
 
 
 <div class="container">
@@ -34,7 +34,7 @@ Here is a description of a bond that Mississippi State University made available
 </div>
 
 
-If someone bought a \$100 Mississippi State University bond, then every six months, this person would get \$1.50 (and so, \$3---i.e., 3% of \$100---per year). This would continue for 40 years, at which point, the person would get his or her \$100 back. For loaning MSU the \$100 back in 1980, the bondholder would earn \$120 (i.e., \$3 every year for 40 years would come to \$120).
+If someone bought a \$100 *Student Housing Revenue Bond of 1981* from Mississippi State, then every six months, this person would get \$1.50 (and so, \$3---i.e., 3% of \$100---per year). This would continue for 40 years, at which point, the person would get his or her \$100 back. For loaning MSU the \$100 back in 1981, the bondholder would earn \$120 (i.e., \$3 every year for 40 years would come to \$120).
 
 
 <div class="container">
@@ -49,7 +49,7 @@ If someone bought a \$100 Mississippi State University bond, then every six mont
 </div>
 
 
-Now, let's say that you (or your parent or grandparent) bought this bond back in 1981. You get your \$1.50 every six months, but after 10 years, you need some cash. So, you decide to sell the bond on the *secondary bond market*. The person who buys this bond will get the payments every six months, and he or she will also get your \$100 back in December 2021. So, in total, at this point, this bond is worth \$190:
+Now, let's say that you (or your parent or grandparent) bought this bond back in 1981. You get your \$1.50 every six months, but after 10 years, you need some money. So, you decide to sell the bond on the *secondary bond market*. The person who buys this bond will get the payments every six months, and he or she will also get your \$100 back in December 2021. So, in total, at this point, this bond is worth \$190:
 
 $$\mathsf{(\$3 ~x ~30) + \$100 = \$190}$$
 
@@ -89,7 +89,7 @@ Figure 3 shows some of the responsibilities of the Treasury Department and the F
 
 Now, back to open market operations. Let's say that this is the balance sheet for a bank that has a 10 percent reserve requirement. Since banks are earning interest on their loans while paying a lower rate of interest to depositors, a bank can have assets that are greater than its liabilities. 
 
-U.S. Treasury bonds are believed to be a very safe investment. The U.S. government will almost certainly make the interest payments and repay the loans, and so, in addition to its reserves and loans, this bank is holding Treasury bonds as an asset.
+U.S. Treasury bonds are believed to be a very safe investment. The U.S. government will almost certainly make the interest payments and repay the value of the bond, and so, in addition to its reserves and loans, this bank is holding Treasury bonds as an asset.
 
   
   
@@ -217,7 +217,7 @@ Now, let's say that the Fed buys \$200 worth of Treasury bonds from the bank. Th
 
 
 
-It is now holding $200 more than it is required to hold in its reserves, and, unlike when the $200 was invested in bonds, the bank is not making any money by letting it sit in the vault. So, this bank will use the $200 to make loans. If, after this money has been lent, it is deposited, then new loans can be made. 
+It is now holding $200 more than it is required to hold in its reserves, and, unlike when the $200 was invested in bonds, the bank is not earning any interest by letting this money sit in its own vault. So, the bank will use the $200 to make loans. It makes the loans, and the individuals who received the loans immediately spend the money. Whoever gets the money then deposits it into the bank. Now, more loans can be made. 
 
 With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eventually be able to get to \$12,000 in deposits, which means that it can use \$10,800 for loans.
 
@@ -287,7 +287,9 @@ So, by buying bonds in this way, the Fed has increased the bank's deposits, whic
 
 ###### Bonds and tight monetary policy
 
-By selling bonds to the bank, the Fed can do the reverse. When the bank buys bonds, the money it is holding as reserves decreases (because it is used to buy the bonds). Therefore, it will have to increase its reserves by moving some money from loans to reserves. Since loans are always being repaid, a bank can shift money from loans to reserves by halting lending for a period. (Normally, it would not make this shift by selling any of its loans.) This decrease to the supply of loanable funds will raise the interest rate.
+By selling bonds to the bank, the Fed can do the reverse. When the bank buys bonds, the money it is holding as reserves decreases (because it was used to buy the bonds). Therefore, it will have to increase its reserves by moving some money from loans to reserves. Since loans are always being repaid, a bank can shift money from loans to reserves by halting lending for a period. (Normally, it would not make this shift by selling any of its loans.) This decrease to the supply of loanable funds will raise the interest rate.
+
+Decreasing the amount of loans will also decrease deposits. To repay the loans, money has to be withdrawn from deposit accounts. Since new loans aren't being made, deposits will, therefore, fall.
 
 
 ##### The federal funds rate
@@ -313,3 +315,4 @@ But it does this buy and selling with the intention of moving a specific interes
 > **Federal funds rate**: The interest rate that banks charge when they make short-term loans to each other; these are usually overnight loans, which a bank might need to meet its reserve requirements.
 
 The federal funds rate is not an interest rate that an individual or a firm will ever have on a loan, but it indirectly affects the interest rates that we do have on loans, as well as the interest we earn by depositing money in savings accounts. So, if the federal funds rate is rising, other interest rates will rise. And if it is falling, other interest rates will fall.
+
