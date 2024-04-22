@@ -219,13 +219,13 @@ Consequently, the bank can only loan \$7,333. Thus, the supply of loanable funds
 
 ##### Interest rates and borrowing
 
-When the supply of loanable funds increases (which means that the supply curve shifts to the right), interest rates will fall. (See figure 2 above.) This will increase borrowing by firms and consumers. When firms increase their borrowing, it allows them to increase spending on factories and equipment. When consumers increase borrowing, it is typically so that they can purchase homes, cars, and other "big ticket" items. 
+When the supply of loanable funds **increases** (which means that the supply curve shifts to the right), interest rates will fall. (See figure 2 above.) This will increase borrowing by firms and consumers. When firms increase their borrowing, it allows them to increase spending on factories and equipment. When consumers increase borrowing, it is typically so that they can purchase homes, cars, and other "big ticket" items. 
 
 This increase spending by firms and consumers shifts the aggregate demand curve to the right, which increases GDP.
 
-When the supply of loanable funds decreases (which means that the supply curve shifts to the left), interest rates will rise. This will decrease borrowing by firms and consumers, which, in turn, will decrease spending on the types of items just mentioned.
+When the supply of loanable funds **decreases** (which means that the supply curve shifts to the left), interest rates will rise. This will decrease borrowing by firms and consumers, which, in turn, will decrease spending on the types of items just mentioned.
 
-This decrease in purchasing by firms and consumers shifts the aggregate demand curve to the left, which decreases GDP. It also lowers the price level, which might be the Fed's goal if inflation is high. 
+This decrease in purchasing by firms and consumers shifts the aggregate demand curve to the left, which decreases GDP. It also lowers the price level, which might be the Fed's goal if inflation is high.
 
 ---
 
