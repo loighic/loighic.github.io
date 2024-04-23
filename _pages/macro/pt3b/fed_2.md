@@ -74,8 +74,8 @@ Figure 3 shows some of the responsibilities of the Treasury Department and the F
 
 <div class="container">
 <div class="row">
-	<div class="col-11">
-		{% responsive_image path: assets/img/macro_fig/7_money/treasury_fed.png class: "img-fluid rounded z-depth-1" %}
+	<div class="col-9">
+		{% responsive_image path: assets/img/macro_fig/7_money/treasury_fed-2.png class: "img-fluid rounded z-depth-1" %}
 	</div>
 </div>
 <div class="caption"><div align="left">
