@@ -309,7 +309,7 @@ When the Fed engages in buying and selling bonds to implement a monetary policy,
 </div>
 
 
-But it does this buy and selling with the intention of moving a specific interest rate called the "federal funds rate."
+But it does this buying and selling with the intention of moving a specific interest rate called the "federal funds rate."
 
 
 > **Federal funds rate**: The interest rate that banks charge when they make short-term loans to each other; these are usually overnight loans, which a bank might need to meet its reserve requirements.
