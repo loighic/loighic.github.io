@@ -67,9 +67,9 @@ category:
 
 [Bank runs and the Federal Reserve](/macro/money_2)
 
-[Monetary policy, part 1](/macro/fed_1)
+[Monetary policy 1: Changing the reserve requirement](/macro/fed_1)
 
-[Monetary policy, part 2](/macro/fed_2)
+[Monetary policy 2: Open market operations](/macro/fed_2)
 
 
 ---
