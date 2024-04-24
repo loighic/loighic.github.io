@@ -115,6 +115,20 @@ But if everyone tries to withdraw all of their money from the bank all at once, 
 
 This used to be a relatively common occurrence in the United States, but thanks to the Federal Reserve Bank and the Federal Deposit Insurance Corporation (FDIC), it no longer is.
 
+
+<div class="container">
+<div class="row">
+	<div class="col-10">
+		{% responsive_image path: assets/img/macro_fig/7_money/run-on-bank.jpg class: "img-fluid rounded z-depth-1" %}
+	</div>
+</div>
+<div class="caption"><div align="left">
+<strong>Figure 1</strong>&nbsp;&nbsp;A run on the Farmers & Mechanics Savings Bank in Minneapolis in the 1890s.</div>
+</div>
+</div>
+
+
+
 ##### The central bank
 
 The central bank is the institution in each country that carries out monetary policy and regulates the banking system. It performs some functions of a bank---in a way, it is a bank for banks---but we shouldn't really think of it as a bank.
