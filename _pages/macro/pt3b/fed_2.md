@@ -89,10 +89,7 @@ Figure 3 shows some of the responsibilities of the Treasury Department and the F
 
 Now, back to open market operations. Let's say that this is the balance sheet for a bank that has a 10 percent reserve requirement. Since banks are earning interest on their loans while paying a lower rate of interest to depositors, a bank can have assets that are greater than its liabilities. 
 
-U.S. Treasury bonds are believed to be a very safe investment. The U.S. government will almost certainly make the interest payments and repay the value of the bond, and so, in addition to its reserves and loans, this bank is holding Treasury bonds as an asset.
-
-  
-  
+ 
 <table class="styled-table">
 <thead>
 <tr>
@@ -151,10 +148,14 @@ U.S. Treasury bonds are believed to be a very safe investment. The U.S. governme
 
 </tbody>
 </table>
-  
 
 
-Now, let's say that the Fed buys \$200 worth of Treasury bonds from the bank. This means that the bank's reserves increase by \$200 and its bond holdings decrease by the same amount.
+U.S. Treasury bonds are believed to be a very safe investment. The U.S. government will almost certainly make the interest payments and repay the value of the bond, and so, in addition to its reserves and loans, this bank is holding Treasury bonds as an asset.
+
+
+###### Bonds and loose monetary policy
+
+Now, let's say that **the Fed buys \$200 worth of Treasury bonds from the bank**. This means that the bank's reserves increase by \$200 and its bond holdings decrease by the same amount.
 
 <table class="styled-table">
 <thead>
@@ -217,9 +218,9 @@ Now, let's say that the Fed buys \$200 worth of Treasury bonds from the bank. Th
 
 
 
-It is now holding $200 more than it is required to hold in its reserves, and, unlike when the $200 was invested in bonds, the bank is not earning any interest by letting this money sit in its own vault. So, the bank will use the $200 to make loans. It makes the loans, and the individuals who received the loans immediately spend the money. Whoever gets the money then deposits it into the bank. Now, more loans can be made. 
+It is now holding $200 more than it is required to hold in its reserves, and, unlike when the $200 was invested in bonds, the bank is not earning any interest by letting this money sit in its own vault. So, the bank will use the $200 to make loans. It makes the loans, and the individuals who received the loans immediately spend the money. Whoever gets the money then deposits it into the bank. Now, more loans can be made---repeat, repeat, repeat. 
 
-With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eventually be able to get to \$12,000 in deposits, which means that it can use \$10,800 for loans.
+With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eventually be able to get to \$12,000 in deposits---which we determine using the money multiplier formula. This means that the bank will have \$10,800 in loans.
 
 
 <table class="styled-table">
@@ -282,14 +283,339 @@ With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eve
 </table>
 
 
-So, by buying bonds in this way, the Fed has increased the bank's deposits, which increases the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](https://loighic.net/assets/img/macro_fig/7_money/loanable_funds.png), which lowers the interest rate (and increases the quantity of loans that are made).
+When we began---right before the Fed bought bonds from the bank---the bank had $9,000 worth of loans. Because of the Fed's action, loans have increased to $10,800. This increase in borrowing (and the spending that goes with it) will, then, increase aggregate demand.
+
+<hr>
+More precisely, by buying bonds in this way, the Fed has increased the bank's deposits, which increases the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](https://loighic.net/assets/img/macro_fig/7_money/loanable_funds.png), which lowers the interest rate (and increases the quantity of loans that are made). As a result, aggregate demand increases.
+<hr>
 
 
-###### Bonds and tight monetary policy
+##### Bonds and tight monetary policy
 
-By selling bonds to the bank, the Fed can do the reverse. When the bank buys bonds, the money it is holding as reserves decreases (because it was used to buy the bonds). Therefore, it will have to increase its reserves by moving some money from loans to reserves. Since loans are always being repaid, a bank can shift money from loans to reserves by halting lending for a period. (Normally, it would not make this shift by selling any of its loans.) This decrease to the supply of loanable funds will raise the interest rate.
+By selling bonds to the bank, the Fed can do the reverse. Let's start with this balance sheet again.
 
-Decreasing the amount of loans will also decrease deposits. To repay the loans, money has to be withdrawn from deposit accounts. Since new loans aren't being made, deposits will, therefore, fall.
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:160px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td>$1,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td>$10,000</td>
+</tr>
+
+<tr>
+<td style="text-align: left; color:red">Treasury bonds</td>
+<td style="color:red">$500</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align: left;">loans</td>
+<td>$9,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,500</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+</tr>
+
+<tr>
+<td style="text-align: left; border-top:1.5px solid #000000;"><strong>net worth</strong></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"><strong>$500</strong></td>
+</tr>
+
+</tbody>
+</table>
+
+
+When the bank buys bonds from the Fed, the money that the bank is holding as reserves decreases (because it was used to buy the bonds). 
+
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:160px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td>$800</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td>$10,000</td>
+</tr>
+
+<tr>
+<td style="text-align: left; color:red">Treasury bonds</td>
+<td style="color:red">$700</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align: left;">loans</td>
+<td>$9,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,500</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+</tr>
+
+<tr>
+<td style="text-align: left; border-top:1.5px solid #000000;"><strong>net worth</strong></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"><strong>$500</strong></td>
+</tr>
+
+</tbody>
+</table>
+
+
+Because the bank is not, at the moment, holding 10% of it's deposits in reserve, it has to adjust the amount of loans and deposits that it has. This happens by reversing [the process by which the money supply increases](/macro/money_1/#balance-sheet). Now, the bank has to stop making new loans while some of the outstanding loans are repaid. 
+
+Let's think about how this works. To repay a loan, the person who has the loan has to withdraw money from the bank. Let's say that he or she withdraws $500. This $500 comes from the bank's reserves, and so both reserves and deposits decrease.
+
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:160px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td>$300</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td>$9,500</td>
+</tr>
+
+<tr>
+<td style="text-align: left;">Treasury bonds</td>
+<td>$700</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align: left;">loans</td>
+<td>$9,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$9,500</td>
+</tr>
+
+<tr>
+<td style="text-align: left; border-top:1.5px solid #000000;"><strong>net worth</strong></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"><strong>$500</strong></td>
+</tr>
+
+</tbody>
+</table>
+
+
+The person who has withdrawn the $500, then goes right back to the bank (or never leaves) and pays off his or her $500 loan. This entails giving money to the bank. The amount of loans that the bank has will decrease. And at the same time, the amount held in reserve will increase.
+
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:160px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td>$800</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td>$9,500</td>
+</tr>
+
+<tr>
+<td style="text-align: left;">Treasury bonds</td>
+<td>$700</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align: left;">loans</td>
+<td>$8,500</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$9,500</td>
+</tr>
+
+<tr>
+<td style="text-align: left; border-top:1.5px solid #000000;"><strong>net worth</strong></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"><strong>$500</strong></td>
+</tr>
+
+</tbody>
+</table>
+
+
+The bank is still not meeting the 10% reserve requirement, but it is getting closer to doing so. If this process continues, then the bank will eventually have this balance sheet---which we find by using the money multiplier formula: 
+  
+
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:160px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td>$800</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td>$8,000</td>
+</tr>
+
+<tr>
+<td style="text-align: left;">Treasury bonds</td>
+<td>$700</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align: left; color:blue">loans</td>
+<td style="color:blue">$7,200</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$8,700</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$8,000</td>
+</tr>
+
+<tr>
+<td style="text-align: left; border-top:1.5px solid #000000;"><strong>net worth</strong></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"></td>
+<td style="border-top:1.5px solid #000000;"><strong>$700</strong></td>
+</tr>
+
+</tbody>
+</table>
+
+
+Now, the bank is meeting the reserve requirement.
+
+When we began---right before the Fed sold bonds to the bank---the bank had $10,000 of deposits and $9,000 of loans. Because of the Fed's action, loans have decreased to $7,200. This decrease to borrowing (and the spending that goes with it) will, then, decrease aggregate demand.
+
+---
+
+<span style="color:MediumBlue">
+More precisely, the supply of loanable funds has decreased. That causes the interest rate to rise, which causes borrowing to decrease.  
+</span>
+
+---
 
 
 ##### The federal funds rate
