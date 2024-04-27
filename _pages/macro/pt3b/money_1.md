@@ -93,7 +93,7 @@ We will consider the process more carefully in a moment, but imagine that Jack d
 There is just $100 here. But Jack believes that he has $100. And now Sam also believes that he has $100. Both are correct. Thanks to the bank's ability to take in deposits and make loans, $100 has become $200. 
 
 
-##### The bank's balance sheet
+##### The bank's balance sheet {#balance-sheet}
 
 An **asset** is something of value owned by an asset holder. A **liability** is a debt. If you borrow money to buy a home, the home is the asset, and the mortgage is the liability. Your **net worth** is the value of your assets minus the value of your liabilities.
 
