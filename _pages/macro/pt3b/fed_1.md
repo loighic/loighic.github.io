@@ -227,10 +227,10 @@ When the supply of loanable funds **decreases** (which means that the supply cur
 
 This decrease in purchasing by firms and consumers shifts the aggregate demand curve to the left, which decreases GDP. It also lowers the price level, which might be the Fed's goal if inflation is high.
 
----
+
 
 ##### The money supply
 
-When we began this banking example, we said that \$1,000 was all of the money in this town and no money was entering or leaving (or being created). Thus, the amount of deposits held by this bank is the entire money supply in this town. In reality, banks don't hold the entire money supply. There will always be some currency that is not in banks. But nonetheless, a significant portion of the money supply is in banks.
+When we began this banking example, we said that \$1,000 was all of the money in this town and no money was entering or leaving (or being created). Thus, the amount of deposits held by this bank is the entire money supply. In reality, banks don't hold the entire money supply. There will always be some currency that is not in banks. But nonetheless, a significant portion of the money supply is in banks.
 
 Thus, when the Federal reserve affects the amount of deposits, it is affecting the money supply.
