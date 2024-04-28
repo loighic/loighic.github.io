@@ -170,7 +170,7 @@ The amount that is held in the bank's reserves hasn't changed. It's still \$1,00
 
 ###### A 12% reserve requirement
 
-Starting with this balance sheet again, if the Fed **raises the reserve requirement** to 12 percent, then the bank will suddenly not be holding enough in reserves. (It now needs to have $1,200 held in reserve.)
+Starting with this balance sheet again, if the Fed **raises the reserve requirement** to 12 percent, then the bank will suddenly not be holding enough in reserve. (It now needs to have $1,200 in its reserve.)
 
 <table class="styled-table">
 <thead>
