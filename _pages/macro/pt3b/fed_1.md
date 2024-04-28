@@ -39,7 +39,7 @@ Thus, if the Fed can raise or lower interest rates (which it can), then it can i
 
 ##### How does the Fed control interest rates?
 
-We have already encountered the supply and demand for loanable funds (figure 2). *Loanable funds*---that is, money that is used to make loans---is on the horizontal axis. The price put on money that is used for loans, an interest rate, is on the vertical axis. 
+We have already encountered the supply and demand for loanable funds (figure 2). *Loanable funds*---that is, money that is used to make loans---is on the horizontal axis. The price that is put on money that is used for loans, an interest rate, is on the vertical axis. 
 
 
 <div class="container">
@@ -56,15 +56,15 @@ We have already encountered the supply and demand for loanable funds (figure 2).
 So, if the Fed can increase or decrease the supply of loanable funds, then it will be able to affect interest rates. Changing the interest rate, in turn, will affect aggregate demand. The Fed can do this, and we will look at two of the ways that it can (there are more than two, but we'll focus on two): (1) by changing the reserve requirement and (2) by [buying and selling bonds](/macro/fed_2/).
 
 
-##### Changing the reserve requirement
+##### Changing the reserve requirement {#change_reserve}
 
 > One way that the Fed can change interest rates is by changing the reserve requirement for all banks.
 
-Given a reserve requirement and an amount of money that a bank is holding in reserve, the money multiplier formula tells us how high the bank's deposits can get. The level of deposits, then, will determine how much money is available to be used as loans. (Here we will use *loanable funds* and *loans* interchangeably.)
+Given a reserve requirement and an amount of money that a bank is holding in reserve, the money multiplier formula tells us how high the bank's deposits can get. The level of deposits, then, will determine how much money is available to be used as loans. 
 
-As we will see, with a lower the reserve requirement, deposits can get higher and banks will be required to hold a smaller percentage of these deposits as reserves. Hence, a lower reserve requirement will increase the supply of loanable funds.
+As we will see, with a lower the reserve requirement, banks will be required to hold a smaller percentage of their deposits as reserves. Hence, a lower reserve requirement will increase the supply of loanable funds, and so loans will increase.
 
-On the other hand, a higher reserve requirement means that deposits cannot get as high and banks have to hold a larger percentage of these deposits in reserve. Therefore, a higher reserve requirement will decrease the supply of loanable funds.
+On the other hand, a higher reserve requirement means that banks have to hold a larger percentage of their deposits in reserve. Therefore, a higher reserve requirement will decrease the supply of loanable funds, and so loans will decrease. ([Note](/macro/open_notes/#loanable_funds)) 
 
 
 ###### A 10% reserve requirement
@@ -120,13 +120,13 @@ If the bank is holding \$1,000 in its reserves and has \$10,000 in deposits, it 
 
 ###### An 8% reserve requirement
 
-If, however, the Federal Reserve lowers the reserve requirement to 8 percent, then banks won't have to hold as much money in reserves, and they can increase their lending. (They don't have to increase it, but they can; and since banks make money by making loans, they tend to loan as much as they can---although there are sometimes factors that make them more cautious.) 
+If, however, the Federal Reserve lowers the reserve requirement to 8 percent, then this bank will suddenly have more in it's reserves than it is required to hold. It's deposits are $10,000, and it only has to hold 8% of deposits, which is $800. Therefore, it can now lend the an additional $200. 
 
-Now, if the bank in our example makes the maximum allowable amount of loans, deposits can increase to \$12,500:
+If it makes a loan of $200, and this money is spend and deposited (bringing reserves back to $1,000), then the bank will be able to make more loans. [This process will repeat](/macro/money_1/#balance-sheet) until the bank reaches the maximum amount of deposits that it can, given it's $1,000 of reserves: 
 
 $$\mathsf{\frac{1}{.08} \times \$ 1000 = 12.5 \times \$ 1000 = \$ 12,500}$$
 
-The amount that is held in the bank's reserves hasn't changed. It's still \$1,000. But now, the bank can make loans totaling \$11,500. In other words, the supply of loanable funds has increased.
+The amount that is held in the bank's reserves hasn't changed. It's still \$1,000. But now, the bank can make loans totaling \$11,500. In other words, borrowing has increased.
 
 <table class="styled-table">
 <thead>
@@ -170,11 +170,51 @@ The amount that is held in the bank's reserves hasn't changed. It's still \$1,00
 
 ###### A 12% reserve requirement
 
-Alternatively, if the Fed raises the reserve requirement to 12 percent, then the money supply in our example will fall to \$8,333:
+Starting with this balance sheet again, if the Fed **raises the reserve requirement** to 12 percent, then the bank will suddenly not be holding enough in reserves. (It now needs to have $1,200 held in reserve.)
 
-$$\mathsf{\frac{1}{.12} \times \$ 1000 = 8.333 \times \$ 1000 = \$ 8,333}$$
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:120px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td>$1,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td>$10,000</td>
+</tr>
+<tr>
+<td style="text-align: left;">loans</td>
+<td style="color:red">$9,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
-Consequently, the bank can only loan \$7,333. Thus, the supply of loanable funds has decreased.
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+</tr>
+</tbody>
+</table>
+
+
+It can get its reserves to this new reserve requirement by temporarily halting its lending. If it stops making new loans and the loans that it has are being repaid, then the bank will eventually be able to achieve this balance sheet: 
+
 
 <table class="styled-table">
 <thead>
@@ -214,6 +254,13 @@ Consequently, the bank can only loan \$7,333. Thus, the supply of loanable funds
 </tr>
 </tbody>
 </table>
+
+
+We determine the amount of deposits using the money multiplier formula:
+
+$$\mathsf{\frac{1}{.12} \times \$ 1000 = 8.333 \times \$ 1000 = \$ 8,333}$$
+
+And since the bank has $1,000 of reserves, the bank can only loan \$7,333. Thus, borrowing has decreased. 
 
 
 

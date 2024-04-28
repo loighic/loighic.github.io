@@ -285,12 +285,17 @@ With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eve
 
 When we began---right before the Fed bought bonds from the bank---the bank had $9,000 worth of loans. Because of the Fed's action, loans have increased to $10,800. This increase in borrowing (and the spending that goes with it) will, then, increase aggregate demand.
 
-<hr>
-More precisely, by buying bonds in this way, the Fed has increased the bank's deposits, which increases the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](https://loighic.net/assets/img/macro_fig/7_money/loanable_funds.png), which lowers the interest rate (and increases the quantity of loans that are made). As a result, aggregate demand increases.
-<hr>
+
+---
+
+<span style="color:RebeccaPurple">
+More precisely, by buying bonds, the Fed has increased the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](https://loighic.net/assets/img/macro_fig/7_money/loanable_funds.png), which lowers the interest rate (and increases the quantity of loans that are made). As a result, aggregate demand increases.
+</span>
+
+---
 
 
-##### Bonds and tight monetary policy
+##### Bonds and tight monetary policy {#open_tight}
 
 By selling bonds to the bank, the Fed can do the reverse. Let's start with this balance sheet again.
 
@@ -354,7 +359,7 @@ By selling bonds to the bank, the Fed can do the reverse. Let's start with this 
 </table>
 
 
-When the bank buys bonds from the Fed, the money that the bank is holding as reserves decreases (because it was used to buy the bonds). 
+When the bank buys $200 worth of bonds from the Fed, the money that the bank is holding as reserves decreases (because it was used to buy the bonds). 
 
 <table class="styled-table">
 <thead>
@@ -605,14 +610,14 @@ The bank is still not meeting the 10% reserve requirement, but it is getting clo
 </table>
 
 
-Now, the bank is meeting the reserve requirement.
+Now, the bank is meeting the reserve requirement. ([Note](/macro/open_notes/#loans))
 
-When we began---right before the Fed sold bonds to the bank---the bank had $10,000 of deposits and $9,000 of loans. Because of the Fed's action, loans have decreased to $7,200. This decrease to borrowing (and the spending that goes with it) will, then, decrease aggregate demand.
+When we began---right before the Fed sold bonds to the bank---the bank had $10,000 of deposits and $9,000 worth of loans. Because of the Fed's action, loans have decreased to $7,200. This decrease to borrowing (and the spending that goes with it) will, then, decrease aggregate demand.
 
 ---
 
-<span style="color:MediumBlue">
-More precisely, the supply of loanable funds has decreased. That causes the interest rate to rise, which causes borrowing to decrease.  
+<span style="color:RebeccaPurple">
+More precisely, the Fed's action caused the supply of loanable funds to decrease. This causes the interest rate to rise, which causes borrowing to decrease.  
 </span>
 
 ---
