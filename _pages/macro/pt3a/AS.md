@@ -13,7 +13,7 @@ nav: false
 
 **Aggregate supply** is the total quantity of output that firms produce and sell. Just as with aggregate demand, aggregate supply is given in terms of total output (i.e., GDP), and each possible level of output corresponds to a price level. Hence, the aggregate supply curve---or curves as we will see in a moment---represents the total quantity of output (i.e., GDP) that firms will produce and sell at each price level.
 
-There are actually two aggregate supply curves in this model, one for the short-term and one for the long-term. We won't worry too much about where the line is between the short- and long-terms, but you can think of the short-term as up to three or four years and the long-term as the period beyond eight or ten years. (And so, yes, there is a period in between, which we won't worry about.)[^1]
+There are actually two aggregate supply curves in this model, one for the short-term and one for the long-term. We won't worry too much about where the line is between the short- and long-terms, but you can think of the short-term as up to three or four years and the long-term as the period beyond eight or ten years. (And so, yes, there is a period in between, but we won't worry about it.)[^1]
 
 [^1]: Technically, in macroeconomics, the short run is the period during which wages and other prices are sticky, which is usually up to a few years. The long run is the period during which wages and prices adjust. So, in the long run, the unemployment rate equals the natural rate of unemployment and GDP equals potential GDP.
 

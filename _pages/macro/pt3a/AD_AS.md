@@ -26,7 +26,9 @@ When put the aggregate demand curve and the aggregate supply curves together, we
 </div>
 
 
-The point at which the aggregate demand (AD) and short-run aggregate supply (SRAS) curves intersect is the equilibrium. Given the way that the model is designed, it's not possible to deviate from the equilibrium.[^1] The current real GDP just is the point where aggregate demand equals short-run aggregate supply. So, rather than being concerned with surpluses or shortages, the central issue now is the degree to which a particular equilibrium is benefiting society.
+The point at which the aggregate demand (AD) and short-run aggregate supply (SRAS) curves intersect is the equilibrium. 
+
+Given the way that the model is designed, it's not possible to deviate from the equilibrium.[^1] The current real GDP just is the point where aggregate demand equals short-run aggregate supply. So, rather than being concerned with surpluses or shortages, the central issue now is the degree to which a particular equilibrium is benefiting society.
 
 [^1]: If we are looking at supply and demand for a single market (like we did [earlier](/macro/supply_and_demand/)), then we know that there will be a surplus when the quantity supplied is greater than the quantity demanded. In the AD-AS model, however, if suppliers produce extra inventory, it just gets counted in the investment portion of GDP, and so it is, by definition, part of the current aggregate demand. Hence, there can't really be a surplus in this model.
 
@@ -75,7 +77,7 @@ Remember, when we track these changes, the equilibrium occurs at the intersectio
 
 ###### Aggregate demand increases
 
-When aggregate demand increases, the aggregate demand curve shifts to the right, and, as is shown in figure #, the equilibrium changes from point A to point B. This means that the following will happen. (1) The price level will increase; in this case, from 95 to 100. (2) Real GDP will increase; in this case, from \$7 trillion to \$8 trillion. And (3) although the equilibrium is still to the left of long-run aggregate supply (i.e., potential GDP), it is now closer to that line.
+When aggregate demand increases, the aggregate demand curve shifts to the right, and, as is shown in figure 4, the equilibrium changes from point A to point B. This means that the following will happen. (1) The price level will increase; in this case, from 95 to 100. (2) Real GDP will increase; in this case, from \$7 trillion to \$8 trillion. And (3) although the equilibrium is still to the left of long-run aggregate supply (i.e., potential GDP), it is now closer to that line.
 
 This means that (1) there is inflation, (2) GDP has increased, and (3) unemployment has decreased.
 
@@ -93,7 +95,7 @@ This means that (1) there is inflation, (2) GDP has increased, and (3) unemploym
 
 ###### Aggregate supply decreases
 
-When short-run aggregate supply decreases, the short-run aggregate supply curve shifts to the left, and, as is shown in figure #, the equilibrium changes from point A to point B. This means that the following will happen. (1) The price level will increase; in this case, from 100 to 105. (2) Real GDP will decrease; in this case, from \$7.5 trillion to \$6.8 trillion. And (3) the equilibrium is farther to the left of long-run aggregate supply than it was initially.
+When short-run aggregate supply decreases, the short-run aggregate supply curve shifts to the left, and, as is shown in figure 5, the equilibrium changes from point A to point B. This means that the following will happen. (1) The price level will increase; in this case, from 100 to 105. (2) Real GDP will decrease; in this case, from \$7.5 trillion to \$6.8 trillion. And (3) the equilibrium is farther to the left of long-run aggregate supply than it was initially.
 
 This means that (1) there is deflation, (2) GDP has decreased, and (3) unemployment has increased.
 

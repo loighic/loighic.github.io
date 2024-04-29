@@ -24,7 +24,7 @@ As the name of the model suggests, the two components that are modeled are *aggr
 **Aggregate demand** (AD) is the amount of total spending on domestic goods and services in an economy. When we graph aggregate demand, we put real GDP---or in other words, total output---on the vertical axis. On the vertical axis, we use a *price index*.
 
 
-The index on the vertical axis is the GDP deflator---the index that goes with GDP. But, for the purpose of understanding this model, we won't be calculating the GDP deflator, or even referring specifically to it. We will just use index numbers between about 80 and 120 and track changes to the price level. These changes to the price level constitute inflation or deflation. For example, a change from 100 to 105 is a 5% increase in prices (on average); while a change from 100 to 90 is a 10% decrease in prices (on average).
+The index is the GDP deflator---which is the price index that goes with GDP. But, for the purpose of understanding this model, we won't be calculating the GDP deflator, or even referring specifically to it. We will just use index numbers between about 80 and 120 and track changes to the price level. These changes to the price level constitute inflation or deflation. For example, a change from 100 to 105 is a 5% increase in prices (on average); while a change from 100 to 90 is a 10% decrease in prices (on average).
 
 
 <div class="container">
@@ -40,14 +40,14 @@ The index on the vertical axis is the GDP deflator---the index that goes with GD
 
 The aggregate demand curve represents the total spending on domestic goods and services at each price level. As such, it includes all four of the components of demand that we covered when discussing GDP: consumption, investment, government spending, and net exports (i.e., exports minus imports).
 
-It is worth keeping in mind that aggregate demand is defined in terms of total spending (which by definition is equal to total output), and for the model that we are developing here, we no longer have the microeconomic focus on individual consumers getting what they want. As you will see once we have a complete picture of the model, our interest now is how we can keep GDP close to its potential and unemployment low.
+It is worth keeping in mind that aggregate demand is defined in terms of total spending (which by definition is equal to total output), and for the model that we are developing here, we no longer have the microeconomic focus on individual consumers getting what they want. As you will see once we have a complete picture of the model, our interest is how we can keep GDP close to its potential and unemployment low.
 
 
 ##### Why does the AD curve slope downward?
 
-The answer to this question is different---and a little more complicated than---the reason why the demand curve typically slopes downward. Now, we are thinking about why and how changes to the price level (i.e., the index on the vertical axis) affect GDP. Specifically, the reasons why, if everything else is held constant, when the price level falls, GDP increases (and vice versa). 
+The answer to this question is different than---and a little more complicated than---the reason why the demand curve typically slopes downward. Now, we are thinking about why and how changes to the price level (i.e., the index on the vertical axis) affect GDP. Specifically, the reasons why, if everything else is held constant, when the price level falls, GDP increases (and vice versa). 
 
-So, as shown in figure 2, if a decline on the vertical axis causes an increase on the horizontal axis, then the curve must have a negative slope. 
+As shown in figure 2, if a decline on the vertical axis causes an increase on the horizontal axis, then the curve must have a negative slope. 
 
 
 <div class="container">
@@ -154,7 +154,7 @@ On the other hand, if the price level goes up in the U.S. and it remains unchang
 
 ##### The shape of the AD curve
 
-These three effects cause the aggregate demand curve to slope downward, but they are not actually thought to be very large effects. This means that a change to the price level does not seem to have too much effect on the quantity of goods and services demanded. This might be what we should expect. For most people, most of their purchases can't change too much. They still need food, clothing, somewhere to live, and transportation. And, especially if the price level is only changing by a low single digit percentage, most people won't have too much incentive to make much of a change to the amounts of goods and services that they purchase.
+These three effects cause the aggregate demand curve to slope downward, but they are not actually thought to be very large effects. This means that a change to the price level does not seem to have too much effect on the quantity of goods and services purchased. This might be what we should expect. For most people, most of their purchases can't change too much. They still need food, clothing, somewhere to live, and transportation. And, especially if the price level is only changing by a low single digit percentage, most people won't have too much incentive to make much of a change to the amounts of goods and services that they purchase.
 
 This is not to say that a change to the price level won't have any effect on aggregate demand. If a change to the price level had no effect on the quantity of goods and services demanded, then the aggregate demand curve would be a vertical line. Because of the *real wealth effect*, the *interest rate effect*, and the *foreign price effect*, it's not that, but it is a curve with a very steep slope as shown in figure 7.
 

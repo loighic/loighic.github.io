@@ -12,9 +12,9 @@ nav: false
 
 ##### The factors that shift AD 
 
-The real wealth effect, the interest rate effect, and the foreign price effect explain what happens to the level of aggregate demand (i.e., GDP) when the price level changes. When the price level changes, each effect explains why we move to a higher or lower point *on the* aggregate demand curve. Since these changes are caused by a change to the price level (which is on the vertical axis), we don't need to move the aggregate demand curve. It stays right where it is.
+The real wealth effect, the interest rate effect, and the foreign price effect explain what happens to the level of aggregate demand (i.e., GDP) when the price level changes. In short, each effect explains why, when the price level changes, we move to a higher or lower point *on the* aggregate demand curve. Since these changes are caused by a change to the price level (which is on the vertical axis), we don't need to move the aggregate demand curve. It stays right where it is.
 
-Aggregate demand (the whole curve) can increase, though. When it does, the curve will move to the right. And likewise, if aggregate demand decreases, then the curve will move to the left.
+Aggregate demand (the whole curve) can increase, however. When it does, the curve will move to the right. And likewise, if aggregate demand decreases, then the curve will move to the left.
 
 
 <div class="container">
@@ -74,7 +74,7 @@ Since aggregate demand corresponds to quantities of real GDP, increases or decre
 
 
 
-##### The effect of the government on AD {#table-change-AD}
+##### How government can affect AD {#table-change-AD}
 
 There are two primary ways that government policies can affect aggregate demand. One is by increasing or decreasing government spending. The other, listed under consumption, is raising and lowering taxes. These are important levers that the government has for affecting the level of GDP and unemployment, and so, we will investigate them separately in the section on [fiscal policy](/macro/fiscal_1/).
 
@@ -142,7 +142,7 @@ There are multiple factors that can affect the foreign demand for goods that are
 When you exchange U.S. dollars for a foreign currency, you are, in effect, *buying the other currency*. The **U.S. dollar is stronger** when \$1 buys more of the foreign currency. The **U.S. dollar is weaker** when \$1 buys less of the foreign currency. *Stronger* and *weaker*, in this sense, is with respect to one other currency and the historical trends.  
 
 
- For instance, if you look [here](https://www.google.com/finance/quote/USD-EUR?window=5Y), you can see that, in October 2022, 1 U.S. dollar bought slightly more than 1 Euro. At the beginning of 2024, meanwhile, 1 U.S. dollar bought a little over 0.90 Euro. So, relative to January 2024, the U.S. dollar was stronger in October of 2022. Conversely, in 2024, the U.S. dollar has been weaker relative to October 2022.
+ For instance, as you can see [here](https://www.google.com/finance/quote/USD-EUR?window=5Y), in October 2022, 1 U.S. dollar bought slightly more than 1 Euro. At the beginning of 2024, meanwhile, 1 U.S. dollar bought a little over 0.90 Euro. So, relative to January 2024, the U.S. dollar was stronger in October of 2022. Conversely, in 2024, the U.S. dollar has been weaker relative to October 2022.
 
 Now, how does this affect imports and exports?
 
