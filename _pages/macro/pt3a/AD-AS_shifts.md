@@ -65,8 +65,8 @@ Since aggregate demand corresponds to quantities of real GDP, increases or decre
 <td style="text-align: left;">rise in wealth</td>
 </tr>
 <tr>
-<td style="text-align: left;">fall in future expected income</td>
-<td style="text-align: left;">rise in future expected income</td>
+<td style="text-align: left;">fall in future expected incomes</td>
+<td style="text-align: left;">rise in future expected incomes</td>
 </tr>
 </tbody>
 <caption><strong>Table 1a</strong>&nbsp;&nbsp;The factors that can affect the consumer expenditures portion of aggregate demand.</caption>
