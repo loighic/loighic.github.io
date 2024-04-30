@@ -49,8 +49,8 @@ Since aggregate demand corresponds to quantities of real GDP, increases or decre
 <td style="text-align: left;">decrease in taxes</td>
 </tr>
 <tr>
-<td style="text-align: left;">fall in income</td>
-<td style="text-align: left;">increase in income</td>
+<td style="text-align: left;">fall in incomes</td>
+<td style="text-align: left;">increase in incomes</td>
 </tr>
 <tr>
 <td style="text-align: left;">increase in interest rates</td>
