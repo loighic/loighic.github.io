@@ -77,7 +77,7 @@ During the 1960s, economists viewed the Phillips curve as a policy menu. A natio
 </div>
 
 
-There is, of course, the scenario where aggregate demand is constant and SRAS is decreasing. The U.S. economy experienced this pattern in the deep recession from 1973 to 1975, and again in back-to-back recessions from 1980 to 1982. Many nations around the world saw similar increases to both unemployment and inflation. 
+There is, of course, the scenario where aggregate demand is constant and SRAS is decreasing. The U.S. economy experienced this pattern in the deep recession from 1973 to 1975 and in back-to-back recessions from 1980 to 1982. Many nations around the world saw similar increases to both unemployment and inflation. 
 
 Recall from the section on [Changes to AD and AS](/macro/AD_AS_shifts/) that SRAS will fall when the cost of inputs that are particularly important for many products increases. This happened in the mid-1970s when, over the course of a few years, the price of oil almost doubled. 
 
