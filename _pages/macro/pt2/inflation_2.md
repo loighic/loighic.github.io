@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /macro/inflation_2/
-title: Inflation, part 2
+title: Living with inflation
 nav: false
 ---
 
@@ -10,16 +10,10 @@ nav: false
 [<small>HOME</small>](/macro/)
 
 
-##### Inflation data on FRED
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O1jlsa0fgrI?si=oJ0TfOYgjIXFD6nD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-<div class="caption"><div align="left">
-<strong>Video 1</strong>&nbsp;&nbsp;Calculating inflation using the CPI data on the FRED website, both for all prices and for the price of a single good, coffee.</div></div>
-
 
 ##### Inflation and wages
 
-It's generally expected that prices will rise at least a little bit each year. The other side of this, however, is wages. A person's wage can rise every year, but if prices rise at the same rate, then this person gains nothing (and also loses nothing). To make this more precise, let us define nominal and real wages.
+It's generally expected that prices will rise at least a little bit each year. The other side of this, however, is wages (which technically are a price also). A person's wage can rise every year, but if prices rise at the same rate, then this person gains nothing (and also loses nothing). To make this more precise, let us define nominal and real wages.
 
 > **Nominal wage**: The wage that a worker earns given in terms of the amount that he or she is paid by an employer.
 >
@@ -27,21 +21,22 @@ It's generally expected that prices will rise at least a little bit each year. T
 
 As an example, let's say that in 2023 Mary graduates from college and immediately begins a job that pays her \$60,000 per year. At some point, she mentions this starting salary to her grandfather who responds, "Wow! Back in 1973, in my first job after graduating from college, my yearly salary was only \$10,000." But who was really making more?
 
-The \$60,000 and \$10,000 are nominal wages, and it is no surprise that Mary's will be higher than her grandfather's. What we need to compare, however, are their real wages. We calculate them using the Consumer Price Index and the formula given right below.
+The \$60,000 and \$10,000 are nominal wages, and it is no surprise that Mary's will be higher than her grandfather's. What we need to compare, however, are their real wages. We calculate them using the Consumer Price Index and this formula:
+
+$$ \mathsf{real\ wage = \frac{nominal\ wage}{CPI\ for\ that\ year} \times 100}$$
+
+The CPI uses an average from 1982, 1983, and 1984 as the base year, and so the real wage that we calculate will be given in 1982 -- 1984 dollars.
 
 
 <p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1idzS&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
 <div class="caption"><div align="left">
 <strong>Figure 1</strong>&nbsp;&nbsp;The Consumer Price Index (CPI), 1950 to the present.</div></div>
 
+Mary's and her grandfather's real wages:
 
-$$ \mathsf{real\ wage = \ \frac{nominal\ wage}{\left( \frac{CPI\ for\ that\ year}{100} \right)}}$$
+$$ \mathsf{Mary = \frac{\$ 60,000}{307.702} \times 100 = \$ 19,691.37}$$
 
-The CPI uses an average from 1982, 1983, and 1984 as the base year, and so the real wage that we calculate will be given in 1982 -- 1984 dollars.
-
-$$ \mathsf{real\ wage,\ Mary = \frac{\$ 60,000}{\left( \frac{307.702}{100} \right)} = \$ 19,691.37}$$
-
-$$ \mathsf{real\ wage,\ her\ grandfather = \frac{\$ 10,000}{\left( \frac{44.4}{100} \right)} = \$ 22,522.52}$$
+$$ \mathsf{her\ grandfather = \frac{\$ 10,000}{44.4} \times 100 = \$ 22,522.52}$$
 
 So, although her salary was six times larger than her grandfather's, in real terms, Mary's grandfather earned more in 1973.
 

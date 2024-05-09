@@ -219,11 +219,12 @@ If we assume that this money is spent on domestically produced goods and service
 
 The calculation that produces the figures in the table is relatively easy with a spreadsheet, but there is also a formula. If we assume that all of the income that comes from the government's expenditure goes either to taxes or to spending on goods and services, then we use this formula, where *t* is the tax rate:
 
-$$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack 1 - (t) \right\rbrack}}$$
+$$ \mathsf{spending\ multiplier = \frac{1}{1\  - (1 - t)}}$$
+
 
 So, our example yields this:
 
-$$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack 1 - (.20) \right\rbrack} = \frac{1}{1\  - \ \lbrack.80\rbrack} = \frac{1}{.20} = 5}$$
+$$ \mathsf{spending\ multiplier = \frac{1}{1\  - (1 - .20)} = \frac{1}{1  - .80} = \frac{1}{.20} = 5}$$
 
 The multiplier, 5, means that, after many rounds of spending cycling through the economy, aggregate demand has increased by five times the government's initial expenditure of \$1,000.
 
@@ -241,11 +242,11 @@ For the calculation with savings, we will introduce the **marginal propensity to
 
 Let MPC = 1 -- MPS. This is the formula:
 
-$$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack MPC - (t)(MPC) \right\rbrack}}$$
+$$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack (1 - t)(MPC) \right\rbrack}}$$
 
 Since Mary and everyone else is saving 10 percent of this income, MPS = .10 and so MPC = .90. If the tax rate (*t*) is .20, then we calculate the multiplier this way:
 
-$$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack .90 - (.20)(.90) \right\rbrack} = \frac{1}{1\  - \ \left\lbrack .90 - .18) \right\rbrack} = \frac{1}{.28} = 3.571}$$
+$$ \mathsf{spending\ multiplier = \frac{1}{1\  - \ \left\lbrack (1 - .20)(.90) \right\rbrack} = \frac{1}{1\  - \ \left\lbrack (.80)(.90) \right\rbrack} = \frac{1}{.28} = 3.571}$$
 
 This calculation tells us that the government's \$1,000 expenditure increased aggregate demand by \$3,571 (i.e., \$1,000 × 3.571 = \$3,571).
 

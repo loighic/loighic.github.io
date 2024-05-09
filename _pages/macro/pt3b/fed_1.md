@@ -53,7 +53,9 @@ We have already encountered the supply and demand for loanable funds (figure 2).
 </div>
 </div>
 
-So, if the Fed can increase or decrease the supply of loanable funds, then it will be able to affect interest rates. Changing the interest rate, in turn, will affect aggregate demand. The Fed can do this, and we will look at two of the ways that it can (there are more than two, but we'll focus on two): (1) by changing the reserve requirement and (2) by [buying and selling bonds](/macro/fed_2/).
+So, if the Fed can increase or decrease the supply of loanable funds, then it will be able to affect interest rates. Changing the interest rate, then, will affect borrowing. Firms and consumers will borrow less when interest rates are high, and they will borrow more when interest rates are low. More borrowing translates into more purchasing, which increases aggregate demand. Less borrowing translates into less purchasing, which decreases aggregate demand. 
+
+The Fed can increase or decrease the supply of loanable funds, and we will look at two of the ways that it can (there are more than two, but we'll focus on two): (1) by changing the reserve requirement and (2) by [buying and selling bonds](/macro/fed_2/).
 
 
 ##### Changing the reserve requirement {#change_reserve}
@@ -62,7 +64,7 @@ So, if the Fed can increase or decrease the supply of loanable funds, then it wi
 
 Given a reserve requirement and an amount of money that a bank is holding in reserve, the money multiplier formula tells us how high the bank's deposits can get. The level of deposits, then, will determine how much money is available to be used as loans. 
 
-As we will see, with a lower the reserve requirement, banks will be required to hold a smaller percentage of their deposits as reserves. Hence, a lower reserve requirement will increase the supply of loanable funds, and so loans will increase.
+As we will see, with a lower the reserve requirement, banks will be required to hold a smaller percentage of their deposits as reserves. Hence, a lower reserve requirement will increase the supply of loanable funds, and so loans (i.e., borrowing) will increase.
 
 On the other hand, a higher reserve requirement means that banks have to hold a larger percentage of their deposits in reserve. Therefore, a higher reserve requirement will decrease the supply of loanable funds, and so loans will decrease. ([Note](/macro/open_notes/#loanable_funds)) 
 
@@ -118,11 +120,11 @@ If the bank is holding \$1,000 in its reserves and has \$10,000 in deposits, it 
 
 
 
-###### An 8% reserve requirement
+##### Lowering the reserve requirement
 
-If, however, the Federal Reserve lowers the reserve requirement to 8 percent, then this bank will suddenly have more in it's reserves than it is required to hold. It's deposits are $10,000, and it only has to hold 8% of deposits, which is $800. Therefore, it can now lend the an additional $200. 
+If, however, the Federal Reserve **lowers the reserve requirement to 8 percent**, then this bank will suddenly have more in it's reserves than it is required to hold. It's deposits are $10,000, and it only has to hold 8% of deposits, which is $800. Therefore, it can now lend the an additional $200. 
 
-If it makes a loan of $200, and this money is spend and deposited (bringing reserves back to $1,000), then the bank will be able to make more loans. [This process will repeat](/macro/money_1/#balance-sheet) until the bank reaches the maximum amount of deposits that it can, given it's $1,000 of reserves: 
+If it makes a loan of $200, and this money is spend and deposited (bringing reserves back to $1,000), then the bank will be able to make more loans. [This process will repeat](/macro/money_1/#balance-sheet) until the bank reaches the maximum amount of deposits that it can have, given it's $1,000 of reserves: 
 
 $$\mathsf{\frac{1}{.08} \times \$ 1000 = 12.5 \times \$ 1000 = \$ 12,500}$$
 
@@ -168,9 +170,9 @@ The amount that is held in the bank's reserves hasn't changed. It's still \$1,00
 </table>
 
 
-###### A 12% reserve requirement
+##### Raising the reserve requirement {#tight_reserves}
 
-Starting with this balance sheet again, if the Fed **raises the reserve requirement** to 12 percent, then the bank will suddenly not be holding enough in reserve. (It now needs to have $1,200 in its reserve.)
+Starting with this balance sheet again, if the Fed **raises the reserve requirement to 12%**, then the bank will suddenly not be holding enough in reserve. It now needs to have $1,200 in its reserve.
 
 <table class="styled-table">
 <thead>
@@ -194,7 +196,7 @@ Starting with this balance sheet again, if the Fed **raises the reserve requirem
 </tr>
 <tr>
 <td style="text-align: left;">loans</td>
-<td style="color:red">$9,000</td>
+<td>$9,000</td>
 <td style="border-right:1px solid #cacacc"></td>
 <td></td>
 <td></td>
@@ -213,7 +215,97 @@ Starting with this balance sheet again, if the Fed **raises the reserve requirem
 </table>
 
 
-It can get its reserves to this new reserve requirement by temporarily halting its lending. If it stops making new loans and the loans that it has are being repaid, then the bank will eventually be able to achieve this balance sheet: 
+It can get its reserves to this new reserve requirement by temporarily halting its lending while some of its outstanding loans are repaid. This is a process that we have not encountered yet, but it is basically the reverse of the one that is used to increase the money supply (i.e., deposits and loans). 
+
+To repay a loan, the person who has the loan has to withdraw money from the bank. Let's say that he or she withdraws $500. This $500 comes from the bank's reserves, and so both reserves and deposits decrease.
+
+
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:120px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td style="color:red">$500</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td style="color:red">$9,500</td>
+</tr>
+<tr>
+<td style="text-align: left;">loans</td>
+<td>$9,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+</tr>
+</tbody>
+</table>
+
+
+The person who has withdrawn the $500, then goes right back to the bank (or never leaves) and pays off his or her $500 loan. This entails giving money to the bank. The amount of loans that the bank has will decrease. And at the same time, the amount held in reserve will increase. (That is, the money that was just given to the bank goes into the vault.)
+
+
+<table class="styled-table">
+<thead>
+<tr>
+<th style="width:120px;"></th>
+<th>assets</th>
+<th></th>
+<th></th>
+<th style="width:120px;"></th>
+<th>liabilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">reserves</td>
+<td style="color:red">$1,000</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td style="text-align: left;">deposits</td>
+<td>$9,500</td>
+</tr>
+<tr>
+<td style="text-align: left;">loans</td>
+<td style="color:red">$8,500</td>
+<td style="border-right:1px solid #cacacc"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+<td style="border-right:1px solid #cacacc; border-top:1px solid #808080;"></td>
+<td style="border-top:1px solid #808080;"></td>
+<td style="text-align: right; border-top:1px solid #808080;">total</td>
+<td style="border-top:1px solid #808080;">$10,000</td>
+</tr>
+</tbody>
+</table>
+
+
+The bank is still not meeting the 12% reserve requirement, but it is getting closer to doing so. If this process continues, then the bank will eventually have this balance sheet: 
 
 
 <table class="styled-table">
@@ -266,11 +358,20 @@ And since the bank has $1,000 of reserves, the bank can only loan \$7,333. Thus,
 
 ##### Interest rates and borrowing
 
+###### Lowering interest rates
+
 When the supply of loanable funds **increases** (which means that the supply curve shifts to the right), interest rates will fall. (See figure 2 above.) This will increase borrowing by firms and consumers. When firms increase their borrowing, it allows them to increase spending on factories and equipment. When consumers increase borrowing, it is typically so that they can purchase homes, cars, and other "big ticket" items. 
 
 This increase spending by firms and consumers shifts the aggregate demand curve to the right, which increases GDP.
 
-When the supply of loanable funds **decreases** (which means that the supply curve shifts to the left), interest rates will rise. This will decrease borrowing by firms and consumers, which, in turn, will decrease spending on the types of items just mentioned.
+
+###### Raising interest rates
+
+In our example, when the Federal Reserve raised the reserve requirement, lending temporarily stopped altogether while some loans were repaid. In that situation, the supply of loanable funds dropped to zero and no loans were made at all. Consequently, there was no effective interest rate. 
+
+This is a good way of illustrating of how raising the reserve requirement will decrease borrowing, but in reality, all lending would never stop. To get a (somewhat) more realistic picture, we need to consider the activity of all banks that are providing loanable funds in a market. When the Fed raises the reserve requirement, some banks won't be immediately affected because they were already meeting the new reserve requirement. (I.e., for whatever reason, some banks had, say, 12% of deposits in reserve.) Some will only need to make minor adjustments to reserves, and some will have to fully adjust from the old reserve requirement to the new one.  
+
+Suffice it to say that when the Fed raises the reserve requirement, the supply of loanable funds will **decrease** but there will still be funds for making loans. When the supply of loanable funds decreases (which means that the supply curve shifts to the left), interest rates will rise. This will decrease borrowing by firms and consumers, which, in turn, will decrease spending.
 
 This decrease in purchasing by firms and consumers shifts the aggregate demand curve to the left, which decreases GDP. It also lowers the price level, which might be the Fed's goal if inflation is high.
 
@@ -278,6 +379,6 @@ This decrease in purchasing by firms and consumers shifts the aggregate demand c
 
 ##### The money supply
 
-When we began this banking example, we said that \$1,000 was all of the money in this town and no money was entering or leaving (or being created). Thus, the amount of deposits held by this bank is the entire money supply. In reality, banks don't hold the entire money supply. There will always be some currency that is not in banks. But nonetheless, a significant portion of the money supply is in banks.
+When we began this [banking example](/macro/money_1/#balance-sheet), we said that \$1,000 was all of the money in this town and no money was entering or leaving (or being printed). Thus, the amount of deposits held by this bank is the entire money supply. In reality, banks don't hold the entire money supply. There will always be some currency that is not in banks. But nonetheless, a significant portion of the money supply is in banks.
 
-Thus, when the Federal reserve affects the amount of deposits, it is affecting the money supply.
+Thus, when the Federal Reserve affects the amount of deposits, it is affecting the money supply.

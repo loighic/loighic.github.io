@@ -19,7 +19,7 @@ First, we should clarify that we are actually interested in the **market for loa
 
 Next, as we have said, when the reserve requirement decreases, the supply of loanable funds will increase. This is simply a matter of banks suddenly having more in reserve than they are required to have. 
 
-As you know, an increase to the the supply of loanable funds is represented by the supply curve shifting to the right. If interest rates don’t fall, then the **quantity of loanable funds demanded** won’t change. In figure 1, the quantity demanded will remain at Q<sub>1</sub>. The supply of loanable funds, meanwhile, will increase to Q<sub>3</sub>. Hence, there will be a surplus. 
+As you know, an increase to the the supply of loanable funds is represented by the supply curve shifting to the right. If interest rates don’t fall, however, then the **quantity of loanable funds demanded** won’t change. In figure 1, the quantity demanded will remain at Q<sub>1</sub>. The supply of loanable funds, meanwhile, will increase to Q<sub>3</sub>. Hence, there will be a surplus. 
 
 
 <div class="container">

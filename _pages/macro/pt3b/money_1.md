@@ -39,11 +39,11 @@ Anything that performs these three functions is money, and many things have been
 
 ##### Commodity-backed versus fiat money
 
-Gold and silver in the form of coins or bars are examples of **commodity money**. They themselves are the money. Gold and silver coins were still used into the twentieth century, but more practical for larger amounts of money was paper money that stood in for and could be redeemed for gold or silver. With a **commodity-backed currency**, each unit of the currency (e.g., a dollar) represented a specific amount of a commodity (e.g., 1/35 of an ounce of gold) that was held by a bank.
+Gold and silver in the form of coins or bars are examples of **commodity money**. They themselves are the money. Gold and silver coins were still used into the twentieth century, but for larger amounts, pieces of paper that stood in for and could be redeemed for gold or silver was more practical. With a **commodity-backed currency**, each unit of the currency (e.g., a dollar) represented a specific amount of a commodity (e.g., 1/35 of an ounce of gold) that was held by a bank.
 
 The alternative to commodity-backed money is **fiat money**. This is money that becomes money because the government decrees that it is, and the government controls its creation, regulates it, and prevents counterfeiting.
 
-Commodity-backed money is intuitively appealing and, perhaps, fiat money is not so much. But fiat money allows for much more stable economic systems, and there are no countries in the world that still use commodity-backed money.
+Commodity-backed money is intuitively appealing, while fiat money might, initially, seem odd or suspicious. But fiat money allows for much more stable economic systems, and there are no countries in the world that still use commodity-backed money.
 
 
 ##### The M1 and M2 money supply

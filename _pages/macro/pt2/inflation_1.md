@@ -41,7 +41,7 @@ $$ \mathsf{2023\ GDP\ deflator = \ \frac{\$ 27,357,842,000,000}{\$ 22,374,339,00
 
 ###### Index numbers
 
-Notice that the 118 and 122 are not dollar amounts. They are, as we said, index numbers. **Index numbers**, which are used in different contexts, are values that (1) are relative to a base year and (2) are used to compare different years. The GDP deflator will be 100 for the year that is used as the base year---in this case 2017---since that year's real GDP will be the same as its nominal GDP. (Remember that real GDP is calculated using the prices from a base year. Since 2017 is the base year, 2017 prices are used to calculate the 2017 real GDP.)
+Notice that the 118 and 122 are not dollar amounts. They are, as we said, index numbers. **Index numbers** are values that (1) are relative to a base year and (2) are used to compare a feature---for instance, price, although it can be other things---for different years. The GDP deflator will be 100 for the year that is used as the base year since that year's real GDP will be the same as its nominal GDP. (Remember that real GDP is calculated using the prices from a base year. Since 2017 is the base year, 2017 prices are used to calculate 2017 real GDP.)
 
 $$ \mathsf{2017\ GDP\ deflator = \ \frac{\$ 19,612,103,000,000}{\$ 19,612,103,000,000} \times 100 = 100}$$
 
@@ -68,9 +68,9 @@ One problem is that there are many goods and services included in GDP---for inst
 A second problem is that GDP measures production within the U.S. (or any other country). But consumers also buy imported goods and services. In terms of how a general rise in prices affects consumers, there is no difference between the imported goods and services that they purchase and those that are produced in the United States.
 
 
-##### Calculating inflation with the Consumer Price Index
+##### Calculating inflation with a price index
 
-The inflation rate that is more often used by economists and the one that you are likely to see reported in the news is calculated using the Consumer Price Index (CPI). This method also uses index numbers, and so, once we have those numbers, the calculation is the same as it is for the GDP deflator method. Getting the CPI values takes more work, however. Let's consider a simple example.
+The inflation rate that is more often used by economists and the one that you are likely to see reported in the news is calculated using the Consumer Price Index (CPI). This method also uses index numbers, and so, once we have those numbers, the calculation is the same as it is for the GDP deflator method. Getting the CPI values takes more work, however. Let's consider a simple example. This will be our Simple Price Index (SPI).
 
 Imagine that the typical family's monthly expenditures in 2018, 2019, and 2020 are just what are listed in tables 1 - 3: rent for a 2-bedroom apartment, burritos, and movie tickets. Of course, in reality, individuals purchase many more goods and services each month, but nonetheless, the idea is that we are just focusing on the purchases regularly made by consumers.
 
@@ -191,21 +191,21 @@ Imagine that the typical family's monthly expenditures in 2018, 2019, and 2020 a
 </table>
 
 
-To calculate each year's CPI value, we set one year as the base year. We'll use 2018. Then, we do this calculation:
+To calculate each year's SPI value, we set one year as the base year. We'll use 2018. Then, we do this calculation:
 
-$$ \mathsf{CPI = \ \frac{other\ year,\ total\ expenditure}{base\ year,\ total\ expenditure} \times 100}$$
+$$ \mathsf{SPI = \ \frac{other\ year,\ total\ expenditure}{base\ year,\ total\ expenditure} \times 100}$$
 
 Hence, these are our three values:
 
-$$ \mathsf{2018\ CPI = \ \frac{\$ 1,400}{\$ 1,400} \times 100 = 100}$$
+$$ \mathsf{2018\ SPI = \ \frac{\$ 1,400}{\$ 1,400} \times 100 = 100}$$
 
-$$ \mathsf{2019\ CPI = \ \frac{\$ 1,650}{\$ 1,400} \times 100 = 117.857}$$
+$$ \mathsf{2019\ SPI = \ \frac{\$ 1,650}{\$ 1,400} \times 100 = 117.857}$$
 
-$$ \mathsf{2020\ CPI = \ \frac{\$ 1,860}{\$ 1,400} \times 100 = 132.857}$$
+$$ \mathsf{2020\ SPI = \ \frac{\$ 1,860}{\$ 1,400} \times 100 = 132.857}$$
 
-(Just as it was for the GDP deflator, the CPI values are not dollar amounts.) To calculate the rate of inflation from one of these years to another, we do this calculation:
+(Just as it was for the GDP deflator, the SPI values are not dollar amounts.) To calculate the rate of inflation from one of these years to another, we do this calculation:
 
-$$ \mathsf{inflation\ rate = \frac{CPI,\ recent\ year - CPI,\ earlier\ year}{CPI,\ earlier\ year}}$$
+$$ \mathsf{inflation\ rate = \frac{SPI,\ recent\ year - SPI,\ earlier\ year}{SPI,\ earlier\ year}}$$
 
 And so, we find that the rate of inflation for 2018 to 2019 is 12.73%.
 
@@ -219,8 +219,16 @@ In our example, we imagined that the typical consumer just pays rent on a two-be
 
 The U.S. Bureau of Labor Statistics (BLS), which calculates the official consumer price index, also uses a basket of goods to do so, although the basket of goods that they use is much larger than the one in our example. In fact, it is much larger than what any single consumer or household would purchase in a month (but importantly, it is much less than everything that is counted in GDP).
 
-In our example, the goods were weighted by the quantities of each that were purchased. As such, burritos, for instance, had a much larger impact on the CPI that we calculated than movie tickets because many more were purchased each month. 
+The categories for the basket of goods that the BLS uses are listed [here](https://www.bls.gov/news.release/cpi.t01.htm) (and as more detailed categories, [here](https://www.bls.gov/news.release/cpi.t02.htm).)
+
+In our example, the goods were weighted by the quantities of each that were purchased. For instance, in 2018, the cost of a burrito ($7) was only 7.65% of the total of the three costs ($900 + $7 + $8 = $915, and $7/$915 = 7.65%). But by using the quantities (and the costs) for each item, we find the impact that each has on a consumer's budget. As such, burritos accounted for 30% of total expenditures in 2018: $420/$1,400 = 30%. A much larger impact than movie tickets (5.71%), even though movie tickets cost more than burritos.
 
 The actual consumer price index weights goods and services, not by quantities purchased each month, but by how important the item is for consumers. Food (13.561) and shelter [whether owned or rented] (34.421) are weighted quite heavily. Much higher than, say, cellular telephone service (1.361), which is itself weighted more heavily than postage (0.057).
 
-The categories for the basket of goods that the BLS uses are listed [here](https://www.bls.gov/news.release/cpi.t01.htm) (and as more detailed categories, [here](https://www.bls.gov/news.release/cpi.t02.htm).)
+
+
+##### Inflation data on FRED
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O1jlsa0fgrI?si=oJ0TfOYgjIXFD6nD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<div class="caption"><div align="left">
+<strong>Video 1</strong>&nbsp;&nbsp;Calculating inflation using the CPI data on the FRED website, both for all prices and for the price of a single good, coffee.</div></div>
