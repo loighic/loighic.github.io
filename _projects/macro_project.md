@@ -34,42 +34,42 @@ category:
 #### Part 2
 ---
 
-[Gross Domestic Product, part 1](/macro/gdp_1/)
+[Gross Domestic Product, part 1](/macrox/gdp_1/)
 
-[Gross Domestic Product, part 2](/macro/gdp_2/)
+[Gross Domestic Product, part 2](/macrox/gdp_2/)
 
-[Unemployment](/macro/unemployment_1/)
+[Unemployment](/macrox/unemployment_1/)
 
-[Categories of unemployment](/macro/unemployment_2/)
+[Categories of unemployment](/macrox/unemployment_2/)
 
-[Calculating inflation](/macro/inflation_1/)
+[Calculating inflation](/macrox/inflation_1/)
 
-[Living with inflation](/macro/inflation_2/)
+[Living with inflation](/macrox/inflation_2/)
 
 
 ---
 #### Part 3
 ---
 
-[Aggregate demand](/macro/AD/)
+[Aggregate demand](/macrox/AD/)
 
-[Aggregate supply](/macro/AS/)
+[Aggregate supply](/macrox/AS/)
 
-[The AD-AS model](/macro/AD_AS/)
+[The AD-AS model](/macrox/AD_AS/)
 
-[Changes to AD and AS](/macro/AD_AS_shifts/)
+[Changes to AD and AS](/macrox/AD_AS_shifts/)
 
-[AD-AS, recessions, and fiscal policy](/macro/fiscal_1/)
+[AD-AS, recessions, and fiscal policy](/macrox/fiscal_1/)
 
-[Fiscal policy: Automatic stabilizers and the Phillips curve](/macro/fiscal_2/)
+[Fiscal policy: Automatic stabilizers and the Phillips curve](/macrox/fiscal_2/)
 
-[Money and banking](/macro/money_1/)
+[Money and banking](/macrox/money_1/)
 
-[Bank runs and the Federal Reserve](/macro/money_2)
+[Bank runs and the Federal Reserve](/macrox/money_2)
 
-[Monetary policy 1: Changing the reserve requirement](/macro/fed_1)
+[Monetary policy 1: Changing the reserve requirement](/macrox/fed_1)
 
-[Monetary policy 2: Open market operations](/macro/fed_2)
+[Monetary policy 2: Open market operations](/macrox/fed_2)
 
 
 ---
