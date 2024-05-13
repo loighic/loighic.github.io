@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/demand/
+permalink: /macrox/demand/
 title: Demand for goods and services
 nav: false
 ---
