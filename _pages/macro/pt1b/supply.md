@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/supply/
+permalink: /macrox/supply/
 title: Supply of goods and services
 nav: false
 ---
