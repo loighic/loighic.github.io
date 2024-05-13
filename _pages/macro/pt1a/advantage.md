@@ -7,7 +7,7 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 We will introduce absolute and comparative advantage using a simple example involving two individuals. Then, we use these concepts in an analysis of countries and how, when they are allowed to trade, countries can achieve combinations of goods that are outside (i.e., to the right of) their production possibility frontiers.
 

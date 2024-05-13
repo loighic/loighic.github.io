@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/gdp_1/
+permalink: /macrox/gdp_1/
 title: Gross Domestic Product, part 1
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 How large is the U.S. economy? Economists typically measure the size of a nation's overall economy by its **gross domestic product** (GDP). This is the definition.

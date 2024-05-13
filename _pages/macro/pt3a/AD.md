@@ -1,18 +1,18 @@
 ---
 layout: page
-permalink: /macro/AD/
+permalink: /macrox/AD/
 title: Aggregate demand
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 ##### A model of the U.S. economy
 
-We have already encountered two economic models: first, rather briefly, the [circular flow diagram](https://loighic.net/macro/intro1/), which describes the flow of economic activity between households and firms; and second, the [supply and demand model](https://loighic.net/macro/supply_and_demand/), which describes how prices and quantities for a single good or service will change in response to changes to demand or to supply.
+We have already encountered two economic models: first, rather briefly, the [circular flow diagram](https://loighic.net/macrox/intro1/), which describes the flow of economic activity between households and firms; and second, the [supply and demand model](https://loighic.net/macrox/supply_and_demand/), which describes how prices and quantities for a single good or service will change in response to changes to demand or to supply.
 
 Now, we will investigate a model of the entire U.S. economy: **the aggregate demand - aggregate supply model (AD-AS model)**. This is a relatively simple model (and there are many, much more complex models in macroeconomics), but it will give us insight into when and why GDP, the price level, and unemployment increase and decrease.
 

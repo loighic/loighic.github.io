@@ -7,7 +7,7 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 Choices involve trade-offs, and every choice has a cost. The English economist Lionel Robbins (1898--1984), in his *Essay on the Nature and Significance of Economic Science* in 1932, described the fact that we must make trade-offs this way:
 

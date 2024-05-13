@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/fed_1/
+permalink: /macrox/fed_1/
 title: Monetary policy, part 1
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
@@ -18,7 +18,7 @@ Let's begin by defining *monetary policy*.
 
 A monetary policy that lowers interest rates and stimulates borrowing is an **expansionary** or **loose monetary policy**. Conversely, a monetary policy that raises interest rates and reduces borrowing in the economy is a **contractionary** or **tight monetary policy**.
 
-Recall the factors that will [shift aggregate demand](/macro/AD_AS_shifts#table-change-AD) (listed in tables 1a and 1b). One is lowering interest rates, which will increase aggregate demand by increasing consumption and investment spending. Raising interest rates will do the opposite: decrease aggregate demand by decreasing consumption and investment spending. 
+Recall the factors that will [shift aggregate demand](/macrox/AD_AS_shifts#table-change-AD) (listed in tables 1a and 1b). One is lowering interest rates, which will increase aggregate demand by increasing consumption and investment spending. Raising interest rates will do the opposite: decrease aggregate demand by decreasing consumption and investment spending. 
 
 An increase in aggregate demand, as you know, will increase GDP and lower unemployment (and also increase the price level). A decrease in aggregate demand will lower the price level (and also decrease GDP and raise unemployment).
 
@@ -55,7 +55,7 @@ We have already encountered the supply and demand for loanable funds (figure 2).
 
 So, if the Fed can increase or decrease the supply of loanable funds, then it will be able to affect interest rates. Changing the interest rate, then, will affect borrowing. Firms and consumers will borrow less when interest rates are high, and they will borrow more when interest rates are low. More borrowing translates into more purchasing, which increases aggregate demand. Less borrowing translates into less purchasing, which decreases aggregate demand. 
 
-The Fed can increase or decrease the supply of loanable funds, and we will look at two of the ways that it can (there are more than two, but we'll focus on two): (1) by changing the reserve requirement and (2) by [buying and selling bonds](/macro/fed_2/).
+The Fed can increase or decrease the supply of loanable funds, and we will look at two of the ways that it can (there are more than two, but we'll focus on two): (1) by changing the reserve requirement and (2) by [buying and selling bonds](/macrox/fed_2/).
 
 
 ##### Changing the reserve requirement {#change_reserve}
@@ -66,7 +66,7 @@ Given a reserve requirement and an amount of money that a bank is holding in res
 
 As we will see, with a lower the reserve requirement, banks will be required to hold a smaller percentage of their deposits as reserves. Hence, a lower reserve requirement will increase the supply of loanable funds, and so loans (i.e., borrowing) will increase.
 
-On the other hand, a higher reserve requirement means that banks have to hold a larger percentage of their deposits in reserve. Therefore, a higher reserve requirement will decrease the supply of loanable funds, and so loans will decrease. ([Note](/macro/open_notes/#loanable_funds)) 
+On the other hand, a higher reserve requirement means that banks have to hold a larger percentage of their deposits in reserve. Therefore, a higher reserve requirement will decrease the supply of loanable funds, and so loans will decrease. ([Note](/macrox/open_notes/#loanable_funds)) 
 
 
 ###### A 10% reserve requirement
@@ -124,7 +124,7 @@ If the bank is holding \$1,000 in its reserves and has \$10,000 in deposits, it 
 
 If, however, the Federal Reserve **lowers the reserve requirement to 8 percent**, then this bank will suddenly have more in it's reserves than it is required to hold. It's deposits are $10,000, and it only has to hold 8% of deposits, which is $800. Therefore, it can now lend the an additional $200. 
 
-If it makes a loan of $200, and this money is spend and deposited (bringing reserves back to $1,000), then the bank will be able to make more loans. [This process will repeat](/macro/money_1/#balance-sheet) until the bank reaches the maximum amount of deposits that it can have, given it's $1,000 of reserves: 
+If it makes a loan of $200, and this money is spend and deposited (bringing reserves back to $1,000), then the bank will be able to make more loans. [This process will repeat](/macrox/money_1/#balance-sheet) until the bank reaches the maximum amount of deposits that it can have, given it's $1,000 of reserves: 
 
 $$\mathsf{\frac{1}{.08} \times \$ 1000 = 12.5 \times \$ 1000 = \$ 12,500}$$
 
@@ -379,6 +379,6 @@ This decrease in purchasing by firms and consumers shifts the aggregate demand c
 
 ##### The money supply
 
-When we began this [banking example](/macro/money_1/#balance-sheet), we said that \$1,000 was all of the money in this town and no money was entering or leaving (or being printed). Thus, the amount of deposits held by this bank is the entire money supply. In reality, banks don't hold the entire money supply. There will always be some currency that is not in banks. But nonetheless, a significant portion of the money supply is in banks.
+When we began this [banking example](/macrox/money_1/#balance-sheet), we said that \$1,000 was all of the money in this town and no money was entering or leaving (or being printed). Thus, the amount of deposits held by this bank is the entire money supply. In reality, banks don't hold the entire money supply. There will always be some currency that is not in banks. But nonetheless, a significant portion of the money supply is in banks.
 
 Thus, when the Federal Reserve affects the amount of deposits, it is affecting the money supply.

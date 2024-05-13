@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/unemployment_2/
+permalink: /macrox/unemployment_2/
 title: Categories of unemployment
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 Do we want the unemployment rate to be zero? The answer to this question is actually, "no," and as you can see in figure 1, the unemployment rate has only been below 3.0% once since 1948. 

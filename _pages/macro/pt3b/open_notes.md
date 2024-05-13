@@ -1,19 +1,19 @@
 ---
 layout: page
-permalink: /macro/open_notes/
+permalink: /macrox/open_notes/
 title: Further details on monetary policy
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
 ##### Loanable funds and changes to the interest rate {#loanable_funds}
 
-When explaining monetary policy on the [Monetary policy 1](/macro/fed_1/) and [Monetary policy 2](/macro/fed_1/) pages, we are treating changes to (1) the supply of loanable funds, (2) interest rates, and (3) borrowing (i.e., actual loans) as all happening at the same time. It's useful, however, to understand that each one causes the next. 
+When explaining monetary policy on the [Monetary policy 1](/macrox/fed_1/) and [Monetary policy 2](/macrox/fed_1/) pages, we are treating changes to (1) the supply of loanable funds, (2) interest rates, and (3) borrowing (i.e., actual loans) as all happening at the same time. It's useful, however, to understand that each one causes the next. 
 
 First, we should clarify that we are actually interested in the **market for loanable funds**, not the loanable funds provided by a single bank. There will numerous banks in a region (or even a country) that can all supply loanable funds to firms and consumers. Using just one bank in our analysis, however, makes it easier to understand these processes that affect aggregate demand.
 
@@ -37,7 +37,7 @@ This surplus will drive the interest rate down until it reaches i<sub>2</sub> wh
 
 Before the supply of loanable funds increased (i.e., before the reserve requirement was changed), the amount of loans was Q<sub>1</sub>. Now, it is Q<sub>3</sub>. So, loans (i.e., borrowing) has increased. 
 
-[<small>RETURN</small>](/macro/fed_1/#change_reserve)
+[<small>RETURN</small>](/macrox/fed_1/#change_reserve)
 
 ---
 
@@ -50,7 +50,7 @@ In this situation, when the bank gets back to holding exactly the reserve requir
 $$ \mathsf{maximum\ loans = \ \Bigl(\Bigl(\frac{1}{reserve\ requirement} \times reserves\Bigr)\ - reserves\Bigr)\ \pm the\ change\ to\ reserves}$$
 
 
-*Change to reserves* is the amount by which reserves changed when the bank bought or sold the bonds. *Reserves* is the amount that the bank has in reserve after that change. So, in our example of [the Fed selling bonds to the bank](/macro/fed_2/#open_tight), loans will only reach $7,000.  
+*Change to reserves* is the amount by which reserves changed when the bank bought or sold the bonds. *Reserves* is the amount that the bank has in reserve after that change. So, in our example of [the Fed selling bonds to the bank](/macrox/fed_2/#open_tight), loans will only reach $7,000.  
 
 $$ \mathsf{\Bigl(\Bigl(\frac{1}{.10} \times 800\Bigr)\ - 800\Bigr)\ - 200 = $7,000}$$
 
@@ -63,6 +63,6 @@ which in our example gave us this:
 $$ \mathsf{\Bigl(\frac{1}{.10} \times 800\Bigr)\ - 800 = $7,200}$$
 
 
-[<small>RETURN</small>](/macro/fed_2/#open_tight)
+[<small>RETURN</small>](/macrox/fed_2/#open_tight)
 
 ---

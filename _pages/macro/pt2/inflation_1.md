@@ -1,16 +1,16 @@
 ---
 layout: page
-permalink: /macro/inflation_1/
+permalink: /macrox/inflation_1/
 title: Calculating inflation
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
-The prices of goods and services rise (and fall) for various reasons. As we discussed in the section on [The supply and demand model](https://loighic.net/macro/supply_and_demand/), shifts in supply and demand for a particular good or service will, in some cases, cause a shortage, which will force the price up. That analysis is for individual goods and services, however, and the price rise that accompanies a shortage is a one-time event. Once the equilibrium price is reached, it will remain where it is, at least until something else changes and the equilibrium has to adjust again.
+The prices of goods and services rise (and fall) for various reasons. As we discussed in the section on [The supply and demand model](https://loighic.net/macrox/supply_and_demand/), shifts in supply and demand for a particular good or service will, in some cases, cause a shortage, which will force the price up. That analysis is for individual goods and services, however, and the price rise that accompanies a shortage is a one-time event. Once the equilibrium price is reached, it will remain where it is, at least until something else changes and the equilibrium has to adjust again.
 
 Inflation is different. **Inflation** is the general and ongoing rise in the level of prices in an economy. The **inflation rate** is the percent change in prices over some period, usually a year. When the inflation rate is positive---i.e., the change is 1 or 2 or 3%---there is *inflation*. When the rate is negative, there is *deflation*.
 

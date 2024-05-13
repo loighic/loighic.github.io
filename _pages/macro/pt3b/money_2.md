@@ -1,17 +1,17 @@
 ---
 layout: page
-permalink: /macro/money_2/
+permalink: /macrox/money_2/
 title: Bank runs and the Federal Reserve
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
-Let's say that our bank (from the [Money and banking](/macro/money_1/) page) has made the maximum amount of loans, and so its balance sheet looks like this:
+Let's say that our bank (from the [Money and banking](/macrox/money_1/) page) has made the maximum amount of loans, and so its balance sheet looks like this:
 
 
 <table class="styled-table">

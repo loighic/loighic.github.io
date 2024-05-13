@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/fiscal_1/
+permalink: /macrox/fiscal_1/
 title: AD-AS, recessions, and fiscal policy
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
@@ -49,7 +49,7 @@ The graph in figure 1 represents a recession in the AD-AS model. Aggregate deman
 
 ###### Sticky downward wages
 
-As we discussed in the section on [unemployment](https://loighic.net/macro/unemployment_2/), wages are *sticky downward*. Recall that there are a number of possible reasons why they are, but the effect is that, when demand for labor declines, wages don't adjust downward (as we expect that they would based on the supply and demand model). Consequently, we end up with some amount of cyclical unemployment.
+As we discussed in the section on [unemployment](https://loighic.net/macrox/unemployment_2/), wages are *sticky downward*. Recall that there are a number of possible reasons why they are, but the effect is that, when demand for labor declines, wages don't adjust downward (as we expect that they would based on the supply and demand model). Consequently, we end up with some amount of cyclical unemployment.
 
 But wages are only ***sticky*** downward. They aren't ***stuck***. They will, over time, adjust, at which point, although wages will be a little bit lower, everyone who wants a job at the prevailing wage will have one. 
 

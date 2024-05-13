@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/gdp_2/
+permalink: /macrox/gdp_2/
 title: Gross Domestic Product, part 2
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 ##### Measuring GDP

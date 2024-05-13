@@ -7,7 +7,7 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 Now, we combine demand and supply. Doing so gives us one of the most powerful models in all of economics: the **supply and demand model** (or, as it is called in more advanced economics textbooks, the *partial equilibrium model*). First, we will examine how demand and supply determine the prices of goods and services and the quantities that are bought and sold. Then, we will investigate how changes to demand and supply lead to changes in prices and the quantities purchased.
@@ -29,7 +29,7 @@ As you have seen, the graphs for demand and supply curves both have price on the
 </div>
 
 
-Figure 1 shows the interaction of demand and supply in the market for gasoline. The demand curve (D) is identical to figure 1 on the [Demand page](/macro/demand). The supply curve (S) is identical to figure 1 on the [Supply page](/macro/supply/). Table 1 contains the same information.
+Figure 1 shows the interaction of demand and supply in the market for gasoline. The demand curve (D) is identical to figure 1 on the [Demand page](/macrox/demand). The supply curve (S) is identical to figure 1 on the [Supply page](/macrox/supply/). Table 1 contains the same information.
 
 
 
@@ -176,7 +176,7 @@ So, if the price is below the equilibrium level, incentives built into the struc
 
 ##### Changes to supply and demand
 
-Recall the [factors that affect demand](/macro/demand/) and the [factors that affect supply](/macro/supply/). Now that we have the complete supply and demand model, we can investigate how changes to supply or to demand will affect the equilibrium price and quantity.
+Recall the [factors that affect demand](/macrox/demand/) and the [factors that affect supply](/macrox/supply/). Now that we have the complete supply and demand model, we can investigate how changes to supply or to demand will affect the equilibrium price and quantity.
 
 Here is a four-step process to follow when investigating a change to supply or demand.
 

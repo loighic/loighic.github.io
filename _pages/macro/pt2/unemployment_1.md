@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/unemployment_1/
+permalink: /macrox/unemployment_1/
 title: Unemployment, part 1
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 Unemployment can be a terrible and wrenching experience---not unlike a serious automobile accident or a messy divorce. Only someone who has gone through it can fully understand its consequences. For unemployed individuals and their families, there is the day-to-day financial stress of not having a paycheck. There are painful adjustments, like watching your savings account dwindle, selling a car and buying a cheaper one, or finding a less expensive place to live. Even when the unemployed person finds a new job, it may pay less than the previous one. 

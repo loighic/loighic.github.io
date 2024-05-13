@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/inflation_2/
+permalink: /macrox/inflation_2/
 title: Living with inflation
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
@@ -55,7 +55,7 @@ $$ \mathsf{2024\ real\ wage = (\$ 60,000)(.969) = \$ 58,140}$$
 
 Although it might seem counterintuitive, in most cases, a low level of inflation is actually better for society than deflation or 0% inflation, both of which can slow spending. For instance, consider what you would do if you wanted to buy a new tv. If there is deflation---that is, prices are falling a little bit each month---then your incentive is to keep putting the purchase off. This prevents you from having the product that you want and a company from selling you the product that you want.
 
-A low level inflation also allows for some easy adjustments to [sticky downward wages](https://loighic.net/macro/unemployment_2/). Recall that sticky downward wages can keep unemployment higher than it otherwise would be. If there is some inflation, however, then employees' real wages can fall without employers having to impose a cut to nominal wages.
+A low level inflation also allows for some easy adjustments to [sticky downward wages](https://loighic.net/macrox/unemployment_2/). Recall that sticky downward wages can keep unemployment higher than it otherwise would be. If there is some inflation, however, then employees' real wages can fall without employers having to impose a cut to nominal wages.
 
 For example, let's say that you are making \$60,000 per year and this doesn't change for several years. During this period inflation is 3% each year. In this case, your real wage---that is, your wage adjusted for inflation---is falling. In effect, you are getting a wage cut. Obviously, you don't want a wage cut, but if real wages are above the equilibrium, this will help lower unemployment (and perhaps keep you from being laid off).
 

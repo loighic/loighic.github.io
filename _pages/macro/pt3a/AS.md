@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/AS/
+permalink: /macrox/AS/
 title: Aggregate supply
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 

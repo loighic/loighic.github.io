@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/AD_AS/
+permalink: /macrox/AD_AS/
 title: The AD-AS model
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
@@ -30,7 +30,7 @@ The point at which the aggregate demand (AD) and short-run aggregate supply (SRA
 
 Given the way that the model is designed, it's not possible to deviate from the equilibrium.[^1] The current real GDP just is the point where aggregate demand equals short-run aggregate supply. So, rather than being concerned with surpluses or shortages, the central issue now is the degree to which a particular equilibrium is benefiting society.
 
-[^1]: If we are looking at supply and demand for a single market (like we did [earlier](/macro/supply_and_demand/)), then we know that there will be a surplus when the quantity supplied is greater than the quantity demanded. In the AD-AS model, however, if suppliers produce extra inventory, it just gets counted in the investment portion of GDP, and so it is, by definition, part of the current aggregate demand. Hence, there can't really be a surplus in this model.
+[^1]: If we are looking at supply and demand for a single market (like we did [earlier](/macrox/supply_and_demand/)), then we know that there will be a surplus when the quantity supplied is greater than the quantity demanded. In the AD-AS model, however, if suppliers produce extra inventory, it just gets counted in the investment portion of GDP, and so it is, by definition, part of the current aggregate demand. Hence, there can't really be a surplus in this model.
 
 
 ##### GDP, inflation, and unemployment
@@ -39,7 +39,7 @@ With the AD-AS model, we can represent changes to GDP, the price level, and unem
 
 Changes to the price level (on the vertical axis) meanwhile indicate either inflation or deflation. Inflation occurs when the price level increases---for instance, if it changes from 100 to 103. And deflation occurs when the price level decreases.
 
-Long-run aggregate supply is potential GDP, which is the point at which we have full employment (and all other economic resources are also fully engaged). Recall from [Categories of unemployment](https://loighic.net/macro/unemployment_2/) that *full employment* is when there is frictional and structural unemployment, but no cyclical unemployment. Consequently, if the equilibrium is on the long-run aggregate supply curve---that is, all three curves intersect at one point---then there is zero cyclical unemployment. (See figure 1.)
+Long-run aggregate supply is potential GDP, which is the point at which we have full employment (and all other economic resources are also fully engaged). Recall from [Categories of unemployment](https://loighic.net/macrox/unemployment_2/) that *full employment* is when there is frictional and structural unemployment, but no cyclical unemployment. Consequently, if the equilibrium is on the long-run aggregate supply curve---that is, all three curves intersect at one point---then there is zero cyclical unemployment. (See figure 1.)
 
 
 <div class="container">

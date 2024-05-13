@@ -7,7 +7,7 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 Just as individuals cannot have everything they want and must make choices, society as a whole cannot have everything that it wants either. This section will explain the constraints society faces using a model called the production possibilities frontier (or PPF).

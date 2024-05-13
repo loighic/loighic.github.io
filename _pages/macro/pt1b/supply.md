@@ -7,7 +7,7 @@ nav: false
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
@@ -122,7 +122,7 @@ Now, we will consider the factors that cause supply to change. Keep in mind that
 
 ###### Changes to the price of inputs
 
-The inputs used to produce goods are [resources](http://localhost:4000/macro/intro1/) and intermediate goods. The cotton that is grown in Mississippi, for instance, is a resource; the cloth that is made from that cotton and used to make clothing is an intermediate good.
+The inputs used to produce goods are [resources](http://localhost:4000/macrox/intro1/) and intermediate goods. The cotton that is grown in Mississippi, for instance, is a resource; the cloth that is made from that cotton and used to make clothing is an intermediate good.
 
 When the price of inputs increases, supply will decrease---and so the supply curve will shift to the left. When the price of inputs decreases, supply will increase---and so the supply curve will shift to the right.
 

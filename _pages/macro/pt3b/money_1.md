@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/money_1/
+permalink: /macrox/money_1/
 title: Money and banking
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/fed_2/
+permalink: /macrox/fed_2/
 title: Monetary policy, part 2
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 
@@ -420,7 +420,7 @@ The Fed sells $200 worth of bonds to the bank. This will decrease the amount tha
 </table>
 
 
-Because the bank is not, at the moment, holding 10% of it's deposits in reserve, it has to adjust the amount of loans and deposits that it has. Therefore, it will undertake the [same process](/macro/fed_1/#tight_reserves) as it does when the Fed raises the reserve requirement. 
+Because the bank is not, at the moment, holding 10% of it's deposits in reserve, it has to adjust the amount of loans and deposits that it has. Therefore, it will undertake the [same process](/macrox/fed_1/#tight_reserves) as it does when the Fed raises the reserve requirement. 
 
 Money is taken from deposits and used to repay loans. (When money is withdrawn it is taken from reserves, but when it given to the bank as repayment for the loan it is put into reserves. Hence, reserves remain constant.) This process will be repeated until the bank has this balance sheet---which we find by using the money multiplier formula:
   
@@ -485,7 +485,7 @@ Money is taken from deposits and used to repay loans. (When money is withdrawn i
 </table>
 
 
-Now, the bank is meeting the 10% reserve requirement. ([Note](/macro/open_notes/#loans))
+Now, the bank is meeting the 10% reserve requirement. ([Note](/macrox/open_notes/#loans))
 
 When we began---right before the Fed sold bonds to the bank---the bank had $10,000 of deposits and $9,000 worth of loans. Because of the Fed's action, loans have decreased to $7,200. This decrease to borrowing (and the spending that goes with it) will, then, decrease aggregate demand.
 

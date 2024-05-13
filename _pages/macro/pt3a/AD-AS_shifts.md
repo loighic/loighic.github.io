@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /macro/AD_AS_shifts/
+permalink: /macrox/AD_AS_shifts/
 title: Changes to AD and AS
 nav: false
 ---
 
 <link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+[<small>HOME</small>](/macrox/)
 
 
 ##### The factors that shift AD 
@@ -76,7 +76,7 @@ Since aggregate demand corresponds to quantities of real GDP, increases or decre
 
 ##### How government can affect AD {#table-change-AD}
 
-There are two primary ways that government policies can affect aggregate demand. One is by increasing or decreasing government spending. The other, listed under consumption, is raising and lowering taxes. These are important levers that the government has for affecting the level of GDP and unemployment, and so, we will investigate them separately in the section on [fiscal policy](/macro/fiscal_1/).
+There are two primary ways that government policies can affect aggregate demand. One is by increasing or decreasing government spending. The other, listed under consumption, is raising and lowering taxes. These are important levers that the government has for affecting the level of GDP and unemployment, and so, we will investigate them separately in the section on [fiscal policy](/macrox/fiscal_1/).
 
 
 <table class="styled-table">
@@ -127,7 +127,7 @@ There are two primary ways that government policies can affect aggregate demand.
 
 ##### Increases and decrease to interest rates
 
-Of the factors that can change the investment portion of aggregate demand, the most important is changes to interest rates. Because interest rates can be changed---indirectly---by the Federal Reserve, this is a topic to which we will return when we examine [monetary policy](https://loighic.net/macro/fed_1/).
+Of the factors that can change the investment portion of aggregate demand, the most important is changes to interest rates. Because interest rates can be changed---indirectly---by the Federal Reserve, this is a topic to which we will return when we examine [monetary policy](https://loighic.net/macrox/fed_1/).
 
 The changes to interest rates that we are discussing here are a little bit different than the interest rate effect. The interest rate effect describes interest rates changing in response to a change in the price level. When that happens, we track the change to real GDP by moving up or down the aggregate demand curve. In what we are examining now, interest rates are changing for some other reason; one that isn't represented on the AD-AS graph. Once interest rates do change, however, it sets in motion the same changes to borrowing and spending---but the final result is that the aggregate demand curve shifts to the right or the left.
 
