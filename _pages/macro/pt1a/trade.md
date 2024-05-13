@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/trade/
+permalink: /macrox/trade/
 title: International trade
 nav: false
 ---

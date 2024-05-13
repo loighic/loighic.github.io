@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/intro1/
+permalink: /macrox/intro1/
 title: Getting Started, Part 1
 nav: false
 ---

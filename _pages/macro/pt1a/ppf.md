@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/ppf/
+permalink: /macrox/ppf/
 title: The Production possibilities frontier
 nav: false
 ---

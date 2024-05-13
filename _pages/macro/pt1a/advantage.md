@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/advantage/
+permalink: /macrox/advantage/
 title: Comparative advantage
 nav: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/constraint/
+permalink: /macrox/constraint/
 title: Choice and the budget constraint
 nav: false
 ---
