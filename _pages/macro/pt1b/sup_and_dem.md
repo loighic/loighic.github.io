@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /macro/supply_and_demand/
+permalink: /macrox/supply_and_demand/
 title: The supply and demand model
 nav: false
 ---
