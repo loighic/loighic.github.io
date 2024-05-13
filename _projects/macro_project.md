@@ -12,23 +12,23 @@ category:
 #### Part 1
 ---
 
-[Getting started 1: A brief introduction to economics](/macro/intro1/)
+[Getting started 1: A brief introduction to economics](/macrox/intro1/)
 
-[Getting started 2: Important economic ideas](/macro/intro2)
+[Getting started 2: Important economic ideas](/macrox/intro2)
 
-[Choice and the budget constraint](/macro/constraint/)
+[Choice and the budget constraint](/macrox/constraint/)
 
-[The production possibilities frontier](/macro/ppf/)
+[The production possibilities frontier](/macrox/ppf/)
 
-[Comparative advantage](/macro/advantage/)
+[Comparative advantage](/macrox/advantage/)
 
-[International trade](/macro/trade/)
+[International trade](/macrox/trade/)
 
-[Demand](/macro/demand/)
+[Demand](/macrox/demand/)
 
-[Supply](/macro/supply/)
+[Supply](/macrox/supply/)
 
-[The supply and demand model](/macro/supply_and_demand/)
+[The supply and demand model](/macrox/supply_and_demand/)
 
 ---
 #### Part 2
