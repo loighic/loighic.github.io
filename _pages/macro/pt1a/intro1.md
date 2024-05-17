@@ -15,7 +15,7 @@ nav: false
 
 *Economics* is the study of how humans make choices under conditions of scarcity. *Scarcity*, in this context, means that people want more of---and would, if possible, consume more of---a good, service, or resource than is available. So, this isn't scarce in the way that we typically use the term. The good, service, or resource might seem quite plentiful, but, nonetheless, everyone cannot have as much of it as they want.
 
-Beef, for example, in the United States, is plentiful, but it's still "scarce" in the economic sense. There's not an unlimited supply and people make trade-offs to get it. So, what isn't scarce? Breathable air, at least for the time being, is not scarce. (Which is not to say that 'clean air' isn't scarce.) A computer program that can be copied and used for free is not scarce. Seawater, although there is, technically a unlimited quantity, is also not scarce in the economic sense.
+Beef, for example, in the United States, is plentiful, but it's still "scarce" in the economic sense. There's not an unlimited supply and people make trade-offs to get it. So, what isn't scarce? Breathable air, at least for the time being, is not scarce. (Which is not to say that 'clean air' isn't scarce.) A computer program that can be copied and used for free is not scarce. Seawater, although there is, technically a limited quantity, is also not scarce in the economic sense.
 
 A central issue of economics, then, is how to turn resources (which are limited and scarce) into goods and services (which are, therefore, also limited and scarce). This problem of scarcity raises these kinds of questions:
 
