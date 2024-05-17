@@ -1,6 +1,6 @@
 ## A Short, Online Principles of Macroeconomics
 
-This folder contains the source files for [A Short, Online Principles of Macroeconomics](https://loighic.net/macro/).
+This folder contains the source files for [A Short, Online Principles of Macroeconomics](https://loighic.net/macrox/).
 
 ---
 
