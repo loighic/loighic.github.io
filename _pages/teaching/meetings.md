@@ -7,9 +7,9 @@ nav: false
 
 ##### SUMMER 2024
 
-**August 8 - 21**, I can only meet on Webex, and probably only between 1:00 and 6:00 pm---any day of the week. 
+**August 8 - 21:** I can only meet on Webex, and probably only between 1:00 and 6:00 pm---but any day of the week. 
 
-**August 22 - August 6** (the end of the summer term), I can meet on Webex or in my office in George Hall, and I will usually be available from around 10:00 am to 7:00 pm---again, any day of the week.  
+**August 22 - August 6:** I can meet on Webex or in my office in George Hall, and I will usually be available from around 10:00 am to 7:00 pm---again, any day of the week.  
 
 If you want to meet, while keeping these times in mind, just let me know when would be a good time (or times) for you.
 
