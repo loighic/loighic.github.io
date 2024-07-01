@@ -5,7 +5,7 @@ title: MEETING TIMES | GREG JOHNSON
 nav: false
 ---
 
-##### <span style="color:DarkMagenta">SUMMER 2024</span>
+##### <span style="color:DarkGreen">SUMMER 2024</span>
 
 **<span style="color:blue">August 8 - 21</span>:** I can only meet on Webex, and probably only between 1:00 and 6:00 pm---but any day of the week. 
 
