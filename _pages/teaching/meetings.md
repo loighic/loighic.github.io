@@ -5,7 +5,7 @@ title: MEETING TIMES | GREG JOHNSON
 nav: false
 ---
 
-##### <span style="color:blue">SUMMER 2024</span>
+##### SUMMER 2024
 
 **<span style="color:blue">August 8 - 21</span>:** I can only meet on Webex, and probably only between 1:00 and 6:00 pm---but any day of the week. 
 
@@ -16,7 +16,7 @@ If you want to meet, while keeping these times in mind, just let me know when wo
 ---
 ---
 
-##### SPRING 2024
+###### SPRING 2024
 
 I can meet on Webex or in my office on campus. This semester, these are the best times for me to meet with students:
 
