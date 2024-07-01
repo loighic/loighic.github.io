@@ -16,7 +16,7 @@ If you want to meet, while keeping these times in mind, just let me know when wo
 ---
 ---
 
-###### SPRING 2024
+##### SPRING 2024
 
 I can meet on Webex or in my office on campus. This semester, these are the best times for me to meet with students:
 
