@@ -39,9 +39,11 @@ $code-bg-color-dark:      #2c3237 !default;
 
 
 .badge {
-  padding-top: 5px;
-  padding-right: 8px;
+  padding-top: 4px;
+  padding-right: 6px;
   padding-bottom: 5px;
-  padding-left: 8px;
+  padding-left: 6px;
   text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
 }
