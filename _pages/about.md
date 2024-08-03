@@ -4,10 +4,11 @@ title: about
 permalink: /
 description: Mississippi State University
 
-
 profile:
   align: right
   image: gsj.jpg
+  address: >
+    <p style="color:gray; font-size:small">Delphi, Greece</p>
 
 news: true  # includes a list of news items
 
