@@ -3,12 +3,15 @@
 
 <div class="row">
 
+  <div class="col-sm-1 abbr">
+
+  </div>
 
   <div id="{{entry.key}}" class="col-sm-9">
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title"><b>{{entry.title}}</b></div>
+      <div class="title">{{entry.title}}</div>
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
