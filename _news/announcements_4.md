@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-09
+date: 2024-10-05
 inline: true
 ---
 
-"Functional kinds and the special sciences." SSPP. Louisville, KY.
+"A program for finding forgetting." [Philosophy and Neuroscience at the Gulf VII](http://deepsouthphilneuro.com/). Pensacola Beach, FL.
