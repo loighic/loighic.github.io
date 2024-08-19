@@ -7,7 +7,9 @@ nav: false
 
 ##### FALL 2024
 
-More information coming soon. The first week of the semester (August 19 - 23), I'll be in my office on Monday and Wednesday through Friday.
+The first week of the semester (August 19 - 23), I'll be in my office on Monday and Wednesday through Friday.
+
+More information coming soon.
 
 ---
 ---
