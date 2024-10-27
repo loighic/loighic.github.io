@@ -14,3 +14,5 @@ These are drafts of the chapters for a short introduction to analytic philosophy
 [What is the mind and who has one?](/assets/pdf/intro/what_is_the_mind.pdf)
 
 [Could I have taken the other road? Determinism versus Libertarianism](/assets/pdf/intro/libertarianism_and_determinism.pdf)
+
+[Hard determinism, soft determinism, and moral responsibility](/assets/pdf/intro/compatibilism.pdf)
