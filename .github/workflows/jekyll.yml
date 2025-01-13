@@ -11,10 +11,10 @@
 # Take the jekyll.yml page from here: https://github.com/actions/starter-workflows/tree/main/pages
 # Change branches to ["main"]
 # I changed "runs-on: ubuntu-latest" to "runs-on: ubuntu-24.04"
-# Add this before "Setup Ruby":
+# But since libmagickwand-dev isn't included in ubuntu 24.04, 
+# add this before "Setup Ruby":
 #      - name: Install libmagickwand-dev
 #        run: sudo apt-get install libmagickwand-dev
-
 
 
 name: Deploy Jekyll site to Pages
