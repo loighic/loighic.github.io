@@ -7,7 +7,7 @@ nav: false
 
 ##### SPRING 2025
 
-My available meeting times are coming soon.
+My available meeting times will be listed here soon.
 
 ---
 
