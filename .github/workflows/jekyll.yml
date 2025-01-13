@@ -8,9 +8,13 @@
 # ---
 
 # This should be updated every year or two. 
-# Take the jekyll.yml from here: https://github.com/actions/starter-workflows/tree/main/pages
+# Take the jekyll.yml page from here: https://github.com/actions/starter-workflows/tree/main/pages
 # Change branches to ["main"]
-# Change 
+# I changed "runs-on: ubuntu-latest" to "runs-on: ubuntu-24.04"
+# Add this before "Setup Ruby":
+#      - name: Install libmagickwand-dev
+#        run: sudo apt-get install libmagickwand-dev
+
 
 
 name: Deploy Jekyll site to Pages
@@ -45,9 +49,9 @@ jobs:
       - name: Install libmagickwand-dev
         run: sudo apt-get install libmagickwand-dev
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
-          ruby-version: '3.2' # Not needed with a .ruby-version file
+          ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
