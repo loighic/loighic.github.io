@@ -4,6 +4,15 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
+
+# ---
+
+# This should be updated every year or two. 
+# Take the jekyll.yml from here: https://github.com/actions/starter-workflows/tree/main/pages
+# Change branches to ["main"]
+# Change 
+
+
 name: Deploy Jekyll site to Pages
 
 on:
@@ -29,7 +38,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
