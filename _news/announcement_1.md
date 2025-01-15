@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-25
+date: 2025-03-20
 inline: true
 ---
 
-"In defense of the bottom-up method." Spring Meeting of the Deep South Philosophy and Neuroscience Workgroup. Memphis, TN.
+"A program for finding forgetting." Mississippi Academy of Sciences Annual Meeting: HPS Division. Biloxi, MS.
