@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  articles about teaching
-date:   2022-08-14
+date:   2025-02-08
 description: 
 tags: 
 categories: 
@@ -10,6 +10,10 @@ categories:
 Since I've been teaching, I've occasionally posted articles about it that I like on the various sites that I've had. (Miss you, Google+ page!) So, anyway, here are some of them all in one place. 
 
 <hr style="opacity:0">
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.wsj.com/lifestyle/relationships/dont-try-to-rescue-your-kid-from-the-learning-pit-5214c409" data-iframely-url="//iframely.net/yHZFWa0?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.cnn.com/2024/10/08/health/school-phone-ban-student-perspective-wellness/index.html" data-iframely-url="//iframely.net/wqMyHYe?card=small&media=0"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.wired.com/2013/10/free-thinkers/" data-iframely-url="//iframely.net/A48sokJ?card=small"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
