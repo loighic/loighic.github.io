@@ -40,7 +40,7 @@ This video is part of an interview with Demis Hassabis, the co-founder and CEO o
 
 <hr style="opacity:0">
 
-<h5><b>Are colleges failing?</b></h5> 
+<h5><b><font color="blue">Are colleges failing?</font></b></h5> 
 Higher ed needs new lesson plans. A remarkable feature of American colleges is the lack of attention that most faculties pay to the growing body of research about how much students are learning and how they could be taught to learn more.
 Read the article on [archive.boston.com](http://archive.boston.com/news/globe/editorial_opinion/oped/articles/2005/12/18/are_colleges_failing/)
 
