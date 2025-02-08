@@ -46,7 +46,7 @@ Read the article on [archive.boston.com](http://archive.boston.com/news/globe/ed
 
 <hr style="opacity:0">
 
-<h5><b>The Shadow Scholar</b></h5>
+<h5><b><font color="blue">The Shadow Scholar</font></b></h5>
 
 <h5>The man who writes your students’ papers tells his story</h5>
 
