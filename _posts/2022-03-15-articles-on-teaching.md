@@ -7,7 +7,7 @@ tags:
 categories: 
 ---
 
-Since I've been teaching, I've occasionally posted articles about it that I like on the various sites that I've had. (Miss you, Google+ page!) So, anyway, here are some of them all in one place. 
+Since I've been teaching, I've occasionally posted articles about it on the various sites that I've had. (Miss you, Google+ page!) So, anyway, here are some of them all in one place. 
 
 
 
