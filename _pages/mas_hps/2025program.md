@@ -20,7 +20,7 @@ Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS
 
 ---
 
-**<font color="blue">8:50</font>** 		
+**<font color="blue">8:50-9:00</font>**<br>
 Gregory Johnson<br>
 Welcome, the 25th Anniversary of the HPS Division, and a tribute to Ken Curry
 
