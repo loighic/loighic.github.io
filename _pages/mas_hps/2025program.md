@@ -27,7 +27,7 @@ Welcome, the 25th Anniversary of the HPS Division, and a tribute to Ken Curry
 ---
 
 **<font color="blue">9:00-9:30</font>**<br>
-Paula Smithka, University of Southern Mississippi
+Paula Smithka, University of Southern Mississippi<br>
 **SPECIES PLURALISM AND THE LINGERING PROBLEMS OF TAXONOMIC CLASSIFICATION**
 
 ---
