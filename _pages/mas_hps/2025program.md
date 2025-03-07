@@ -17,27 +17,19 @@ Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS
 ---
 
 **THURSDAY, MARCH 21**<br>
-ROOM TC 229  UPDATE ROOM
+ROOM ...
 
 **<font color="blue">8:50</font>** 		
 Gregory Johnson<br>
 Welcome, the 25th Anniversary of the History & Philosophy of Science Division, and a tribute to Ken Curry
 
----
-**<font color="blue">9:30-10:00</font>**<br>
-Michael Zahorec, Florida State University<br>
-NATURAL KINDS: TOWARD A THIRD APPROACH
-
----
 
 **<font color="blue">9:00-9:30</font>**<br>
 Paula Smithka, University of Southern Mississippi<br>
-
 SPECIES PLURALISM AND THE LINGERING PROBLEMS OF TAXONOMIC CLASSIFICATION
 
 **<font color="blue">9:30-10:00</font>**<br>
 Armin Heydari, Harvard University<br>
-
 OBJECTS IN THE SPECTRAL PRESHEAF: FROM RADICAL TO STRUCTURES-FIRST ONTIC STRUCTURAL REALISM
 
 
@@ -52,57 +44,81 @@ A PROGRAM FOR FINDING FORGETTING
 
 **<font color="blue">10:45-11:15</font>**<br>
 Benjamin Aguda & Britt Aguda, University of New Orleans<br>
-
 THE SENSORY ONLOADING HYPOTHESIS
 
-**LUNCH: 11:45 – 1:00**
+**LUNCH: 11:45–1:00**
 
 **<font color="blue">1:00-1:30</font>**<br>
 John Bickle, Mississippi State University & University of Mississippi Medical Center<br>
-
 MORE ON “WHY IDIOSYNCRASY IN EXPLORATION MATTERS”
 
 **<font color="blue">1:30-2:00</font>**<br>
 Jiusi Guo, University of Illinois, Urbana-Champaign<br>
-
 IDEALIZATION AND THE NORMATIVITY OF SCIENCE
  
 **<font color="blue">2:00-2:15	
 Break
 
 **<font color="blue">2:15-2:45</font>**<br>
-Renee M. Clary, Mississippi State University & David Dockery, III, Mississippi State University<br>
+Renee M. Clary, Mississippi State University<br>
+David Dockery, III, Mississippi State University<br>
 THE EARLY DEVELOPMENT OF THE MISSISSIPPI GEOLOGICAL SURVEY
 
 **<font color="blue">2:45-3:15</font>**<br>
 Robert Waltzer, Belhaven University<br>
-DESIGN BEHIND THE DESIGN; EXPLORING THE DEPTHS OF MUSCLE
+DESIGN BEHIND THE DESIGN: EXPLORING THE DEPTHS OF MUSCLE
 
 
 ---
  
-**FRIDAY, March 1**<br>
-ROOM TC 229
+**FRIDAY, March 21**
+ROOM ...
 
 **<font color="blue">9:00-9:30</font>**<br>
-Gregory Johnson, Mississippi State University<br>
-
-IDENTITY AND AUTONOMY: AN EXAMINATION OF METHODOLOGICAL INDEPENDENCE
+Austin McGrath, Mississippi State University<br>
+THE ABSURDITY OF PANNORMISM
 
 **<font color="blue">9:30-10:00</font>**<br>
-Robert Waltzer, Belhaven University<br>
-
-THE AUTOMATIC NATURE OF THE CELL: REALITY OR ILLUSION
-
+Samuel Hage, Tulane University<br>
+RECOLLECTION AND THE POSSIBILITY OF SCIENTIFIC KNOWING IN PLATO’S MENO
 
 **<font color="blue">10:00-10:15</font>**<br>
 Break
 
-
 **<font color="blue">10:15-10:45</font>**<br>
-Emily Stanback, University of Southern Mississippi<br>
+Jeffrey Colgan, Tulane University<br> & David Ween, Tulane University<br> 
+LANGUAGE AND METHODOLOGICAL LIMITS IN WITTGENSTEIN AND HAYEK
 
-IMPERIAL MEDICINE AND THREE-FINGERED JACK MANSONG
+**<font color="blue">10:45-11:15</font>**<br>
+Ian Dunkle, University of Southern Mississippi<br>
+PREGNANCY, AGENCY, AND HEALTH
+
+**LUNCH: 11:45-1:00**
+
+**<font color="blue">1:00-1:30</font>**<br>
+Marie Bishop, University of Mississippi<br>
+THE PITFALLS OF PARADIGM ALLEGIANCE IN THE NUTRITION SCIENCES
+
+**<font color="blue">1:30-2:00</font>**<br>
+Kenneth Butler, University of Mississippi Medical Center & Gary Hamil, Belhaven University<br>
+ETHICAL CHALLENGES POSED BY THE PHARMACEUTICAL INDUSTRY POTENTIALLY INFLUENCING DIAGNOSIS AND TREATMENT RECOMMENDATIONS
+
+
+**<font color="blue">2:00-2:15</font>**<br>
+Break
+ 
+
+**<font color="blue">2:15-2:45</font>**<br>
+Lillion Hamil, Belhaven University<br> 
+Kenneth Butler, University of Mississippi Medical Center<br> 
+Gary Hamil, Belhaven University<br> 
+EXPLORING ETHICAL CONCERNS WHEN FAITH-BASED HEALING PRACTICES COLLIDE WITH MEDICINE
+
+**<font color="blue">2:45-3:15</font>**<br>
+Karleigh Butler, Mississippi College, Gary Hamil, Belhaven University, & Kenneth Butler, University of Mississippi Medical Center<br>
+BALANCING THE NEEDS OF ENDANGERED ANIMAL SPECIES AND HUMAN POPULATIONS: A BIOETHICAL PERSPECTIVE
+
+**<font color="blue">3:15-3:45</font>**<br>
+Business Meeting
 
 ---
-
