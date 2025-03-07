@@ -139,7 +139,7 @@ Marie Bishop, University of Mississippi<br>
 ---
 
 **<font color="blue">1:30-2:00</font>**<br>
-Kenneth Butler, University of Mississippi Medical Center<br> 
+Kenneth Butler, UMMC<br> 
 Gary Hamil, Belhaven University<br>
 **ETHICAL CHALLENGES POSED BY THE PHARMACEUTICAL INDUSTRY POTENTIALLY INFLUENCING DIAGNOSIS AND TREATMENT RECOMMENDATIONS**
 
@@ -152,7 +152,7 @@ Break
 
 **<font color="blue">2:15-2:45</font>**<br>
 Lillion Hamil, Belhaven University<br> 
-Kenneth Butler, University of Mississippi Medical Center<br> 
+Kenneth Butler, UMMC<br> 
 Gary Hamil, Belhaven University<br> 
 **EXPLORING ETHICAL CONCERNS WHEN FAITH-BASED HEALING PRACTICES COLLIDE WITH MEDICINE**
 
@@ -161,7 +161,7 @@ Gary Hamil, Belhaven University<br>
 **<font color="blue">2:45-3:15</font>**<br>
 Karleigh Butler, Mississippi College<br>
 Gary Hamil, Belhaven University<br> 
-Kenneth Butler, University of Mississippi Medical Center<br>
+Kenneth Butler, UMMC<br>
 **BALANCING THE NEEDS OF ENDANGERED ANIMAL SPECIES AND HUMAN POPULATIONS: A BIOETHICAL PERSPECTIVE**
 
 ---
