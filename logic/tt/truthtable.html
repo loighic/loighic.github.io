@@ -168,11 +168,10 @@ footer {
 
 <div id='location'><a href='https://loighic.net'>home</a></div>
 
-<div id='githublink'><a href='https://github.com/mrieppel/TruthTableGenerator'><img src='github.png' style="height:25px;"></a></div>
 
 <div id='title'>Truth Table Generator</div>
 
-<p>This page contains a program that will generate truth tables for formulas of truth-functional logic.  You can enter multiple formulas separated by commas to include more than one formula in a single table (e.g. to test for entailment).  Tables can be displayed in html (either the full table or the column under the main connective only) or in plain text. You can also select which symbols to use for the two truth values and the connectives.</p>
+<p>This page contains a program that will generate truth tables for formulas of truth-functional logic.  You can enter multiple formulas separated by commas to include more than one formula in a single table.  Tables can be displayed in html (either the full table or the column under the main connective only) or in plain text. You can also select which symbols to use for the two truth values and the connectives.</p>
 
 <div id="ttinput">
   <input type="text" id="in" size="40">
@@ -209,7 +208,7 @@ footer {
 
 
 
-<p><b>Symbols:</b> use the following keyboard symbols in your input for the various logical connectives:</p>
+<p><b>Symbols:</b> Use the following keyboard symbols in your input for the various logical connectives.</p>
 
 <table>
 <tr><td class="connective">~</td><td>for negation</td></tr>
@@ -218,12 +217,12 @@ footer {
 <tr><td class="connective">-&gt;</td><td>for the conditional</td></tr>
 <tr><td class="connective">&lt;-&gt;</td><td>for the biconditional</td></tr>
 <tr><td class="connective">#</td><td>for absurdity</td></tr>
-<tr><td class="connective">|</td><td>for NAND (aka the Sheffer Stroke)</td></tr>
+<tr><td class="connective">|</td><td>for NAND (the Sheffer Stroke)</td></tr>
 <tr><td class="connective">!</td><td>for NOR (Wittgenstein's Sheffer Stroke)</td></tr>
 </table>
 
 
-<p>Here are some <b>examples</b> of well-formed inputs the program will accept:</p>
+<p><b>Examples:</b> These are well-formed inputs that the program will accept.</p>
 
 <ul style="list-style-type:none;">
 <li style="margin: 0 0 4px 0;">~P</li>
@@ -237,14 +236,15 @@ footer {
 <p>As an alternative to determining if there is a line where the premises are true and the conclusion is false, validity can also be checked by converting a series of formulas to a conditional. For example, the formulas on the last line above become:</p>
 
 <ul style="list-style-type:none;">
-<li style="margin: 0 0 25px 0;">((P &lt;-&gt; (Q v S)) &amp; P) -&gt; (~Q -> S)</li>
+<li style="margin: 0 0 25px 0;">An argument is valid when (((P1 & P2) & ...) &rarr; C) is a tautology.</li>
+<li style="margin: 0 0 25px 0;">Two sentences, A and B, are equivalent when (A &LeftRightArrow; B) is a tautology.</li>
 </ul>
 
 <hr>
 
-<p>The source code for this webpage is available on <a href='https://github.com/mrieppel/TruthTableGenerator'>Github</a>.</p>
+<p>The source code for this webpage is available on <a href='https://github.com/mrieppel/TruthTableGenerator'>Github</a> <a href='https://github.com/mrieppel/TruthTableGenerator'><img src='github.png' style="height:25px;">.</p>
 
-<footer>&copy; 2010-2022 Michael Rieppel</footer>
+<footer>&copy; 2010 - <script>document.write(new Date().getFullYear())</script> Michael Rieppel</footer>
 
 </div>
 <!-- Close container div -->
