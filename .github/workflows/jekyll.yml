@@ -47,7 +47,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Install libmagickwand-dev
-        run:
+        run: |
           sudo apt-get update
           sudo apt-get install -y libmagickwand-dev
       - name: Setup Ruby
