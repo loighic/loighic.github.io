@@ -5,13 +5,13 @@ title: MEETING TIMES | GREG JOHNSON
 nav: false
 ---
 
-##### FALL 2025
+##### SPRING 2026
 
 I can meet on Webex or in my office on campus. This semester, these are the best times for me to meet with students:
 
->**Mondays and Wednesdays:** 9:30 am to 1:00 pm
+>**Mondays:** 9:30 am to 5:30 pm
 >
->**Tuesdays and Thursdays:** 9:30 pm to 5:30 pm
+>**Tuesdays and Thursdays:** 9:30 am to 11:30 am, 4:00 pm to 5:30 pm
 >
 >**Fridays and weekends:** Various times (probably). As long as I'm available, Webex meetings on the weekend aren't a problem. 
 
