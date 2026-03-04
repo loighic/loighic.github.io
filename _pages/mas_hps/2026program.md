@@ -83,11 +83,13 @@ Gregory Johnson, Mississippi State University<br>
 
 ---
 
-**<font color="blue">2:45-3:15</font>**<br>
-Kenneth Butler*, University of Mississippi Medical Center<br>
+**<font color="blue">2:45-3:15</font>**
+
+Kenneth Butler, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
-Gary Hamil, University of Mississippi Medical Center<br>
+Gary Hamil, University of Mississippi Medical Center
+
 **THE ILLUSION OF CONSCIOUSNESS IN AI SYSTEMS**
 
 ---
@@ -156,7 +158,7 @@ Kenneth Butler, University of Mississippi Medical Center<br>
 ---
 
 **<font color="blue">2:00-2:30</font>**<br>
-Kenneth Butler*, University of Mississippi Medical Center<br>
+Kenneth Butler, University of Mississippi Medical Center<br>
 Gary Hamil*, University of Mississippi Medical Center<br>
 **CHALLENGES WITH INFORMED CONSENT FOR BROAD INCLUSION AND LONGITUDINAL MEDICAL RECORDS RETRIEVAL**
 
