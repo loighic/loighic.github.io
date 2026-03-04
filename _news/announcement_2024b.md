@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-04-13
+date: 2026-03-19
 inline: true
 ---
 
-"Seeing the mind: Hacking, microscopes and calcium imaging." [Spring meeting of the Deep South Philosophy and Neuroscience Workgroup](https://deepsouthphilneuro.com/memphis-in-spring-ii-program/). Memphis, TN.
+"Why LLMs can't think like you." ()[Mississippi Academy of Sciences Annual Meeting: HPS Division]. Biloxi, MS.
