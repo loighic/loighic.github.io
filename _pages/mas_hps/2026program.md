@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /mas_hps/2025program/
+permalink: /mas_hps/2026program/
 title: MAS HPS 2026 Program
 nav: false
 ---
@@ -32,7 +32,7 @@ Kevin Morris, Tulane University<br>
 ---
 	
 **<font color="blue">9:00-9:30</font>**<br>
-Kali Killingsworth, Arizona State University and Barrett, The Honors College, Tempe, AZ<br>
+Kali Killingsworth, Arizona State University and Barrett: The Honors College<br>
 **HYPERDIMENSIONAL NEUTRAL MONISM AND THE PROTO-PANPSYCHIST STRUCTURAL SOLUTION**
 
 ---
@@ -60,7 +60,7 @@ Break
 ---
 
 **<font color="blue">10:50-11:50</font>**<br>
-INVITED KEYNOTE ADDRESS<br>
+**INVITED KEYNOTE ADDRESS**<br>
 John Bickle, Mississippi State University and University of Mississippi Medical Center<br>
 **THE STORY OF ‘THE STORIES OF NEUROPHILOSOPHY’**
 
@@ -72,7 +72,7 @@ Lunch
 ---
 
 **<font color="blue">1:45-2:15</font>**<br>
-Kelly Dinneen, Graduate School and University Center of the City University of New York<br>
+Kelly Dinneen, CUNY<br>
 **MAPPING CONSCIOUSNESS ACROSS SPECIES: AN EXPERIMENTAL INTERFACE DESIGN**
 
 ---
@@ -87,13 +87,13 @@ Gregory Johnson, Mississippi State University<br>
 Kenneth Butler*, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
-Gary Hamil, University of Mississippi Medical Center<br>
+Gary Hamil, University of Mississippi Medical Center
 **THE ILLUSION OF CONSCIOUSNESS IN AI SYSTEMS**
 
 ---
 
-POSTER PRESENTATION: 
-Silvia Boaventura (University of New Orleans<br>
+POSTER PRESENTATION<br> 
+Silvia Boaventura, University of New Orleans<br>
 **ONTOLOGICAL EVOLUTION: ARISTOTLE’S RELEVANCE IN MODERN SCIENCE**
 
 ---			   
@@ -101,19 +101,19 @@ Silvia Boaventura (University of New Orleans<br>
 FRIDAY, MARCH 20
 
 **<font color="blue">8:30-9:00</font>**<br>
-Paula Smithka (University of Southern Mississippi<br>
+Paula Smithka, University of Southern Mississippi<br>
 **HOMEORHETIC DYNAMIC KINDS: COMPLEMENT OR REPLACEMENT OF HOMEOSTATIC PROPERTY CLUSTER KINDS?**
 
 ---
 
 **<font color="blue">9:00-9:30</font>**<br>
-Benjamin Aguda (University of New Orleans<br>
+Benjamin Aguda, University of New Orleans<br>
 **THE CULTURAL-HISTORICAL LENS FOR HISTORICAL EPISTEMOLOGY**	
 
 ---
 
 **<font color="blue">9:30-10:00</font>**<br>
-Lucas Rader (Mississippi State University<br>
+Lucas Rader, Mississippi State University<br>
 THE RESILIENCE OF KANT’S TRANSCENDENTAL GEOMETRY**
 
 ---
@@ -124,7 +124,7 @@ Break
 ---
 
 **<font color="blue">10:15-10:45</font>**<br>
-Jiusi Guo (University of Illinois, Urbana-Champaign) <br>
+Jiusi Guo, University of Illinois, Urbana-Champaign<br>
 SELECTING HYPOTHESES FOR PHILOSOPHICAL INQUIRIES**
 
 ---
@@ -136,7 +136,7 @@ Lillian Sisson*, Ralph Didlake (University of Mississippi Medical Center<br>
 ---
 
 **<font color="blue">11:15-11:45</font>**<br>
-Daniel Stearman (Tulane University<br>
+Daniel Stearman, Tulane University<br>
 WALKING THROUGH THE DOORS OF PERCEPTION: GADAMER AND THE COMFORTING DELUSION OBJECTION**
 
 ---
@@ -147,13 +147,17 @@ Lunch
 ---
 
 **<font color="blue">1:30-2:00</font>**<br>
-Gary Hamil*, Michelle Tucci (University of Mississippi Medical Center), Hamed Benghuzzi (Jackson State University), Kenneth Butler (University of Mississippi Medical Center<br>
+Gary Hamil*, University of Mississippi Medical Center<br>
+Michelle Tucci, University of Mississippi Medical Center<br>
+Hamed Benghuzzi, Jackson State University<br>
+Kenneth Butler, University of Mississippi Medical Center
 **BALANCING AUTONOMY, COMPETENCY, AND SELF-DETERMINATION IN INDIVIDUALS WITH NEURODEGENERATIVE DISEASES
 
 ---
 
 **<font color="blue">2:00-2:30</font>**<br>
-Kenneth Butler*, Gary Hamil*, University of Mississippi Medical Center<br>
+Kenneth Butler*, University of Mississippi Medical Center<br>
+Gary Hamil*, University of Mississippi Medical Center<br>
 **CHALLENGES WITH INFORMED CONSENT FOR BROAD INCLUSION AND LONGITUDINAL MEDICAL RECORDS RETRIEVAL**
 
 ---
