@@ -88,17 +88,18 @@ Kenneth Butler*, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
 Gary Hamil, University of Mississippi Medical Center
+
 **THE ILLUSION OF CONSCIOUSNESS IN AI SYSTEMS**
 
 ---
 
-POSTER PRESENTATION<br> 
+**<font color="blue">POSTER PRESENTATION</font>**<br> 
 Silvia Boaventura, University of New Orleans<br>
 **ONTOLOGICAL EVOLUTION: ARISTOTLE’S RELEVANCE IN MODERN SCIENCE**
 
 ---			   
 
-FRIDAY, MARCH 20
+**FRIDAY, MARCH 20**: Hall D Room 12
 
 **<font color="blue">8:30-9:00</font>**<br>
 Paula Smithka, University of Southern Mississippi<br>
@@ -114,7 +115,7 @@ Benjamin Aguda, University of New Orleans<br>
 
 **<font color="blue">9:30-10:00</font>**<br>
 Lucas Rader, Mississippi State University<br>
-THE RESILIENCE OF KANT’S TRANSCENDENTAL GEOMETRY**
+**THE RESILIENCE OF KANT’S TRANSCENDENTAL GEOMETRY**
 
 ---
 
@@ -125,7 +126,7 @@ Break
 
 **<font color="blue">10:15-10:45</font>**<br>
 Jiusi Guo, University of Illinois, Urbana-Champaign<br>
-SELECTING HYPOTHESES FOR PHILOSOPHICAL INQUIRIES**
+**SELECTING HYPOTHESES FOR PHILOSOPHICAL INQUIRIES**
 
 ---
 
@@ -151,7 +152,8 @@ Gary Hamil*, University of Mississippi Medical Center<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Kenneth Butler, University of Mississippi Medical Center
-**BALANCING AUTONOMY, COMPETENCY, AND SELF-DETERMINATION IN INDIVIDUALS WITH NEURODEGENERATIVE DISEASES
+
+**BALANCING AUTONOMY, COMPETENCY, AND SELF-DETERMINATION IN INDIVIDUALS WITH NEURODEGENERATIVE DISEASES**
 
 ---
 
