@@ -5,7 +5,7 @@ title: MAS HPS 2026 Program
 nav: false
 ---
 
-March 19 - 20, 2025
+March 19 - 20, 2026
 
 Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS
 
