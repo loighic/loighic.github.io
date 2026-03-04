@@ -85,7 +85,7 @@ Gregory Johnson, Mississippi State University<br>
 
 **<font color="blue">2:45-3:15</font>**
 
-Kenneth Butler, University of Mississippi Medical Center<br>
+Kenneth Butler*, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
 Gary Hamil, University of Mississippi Medical Center
@@ -133,7 +133,7 @@ Jiusi Guo, University of Illinois, Urbana-Champaign<br>
 
 **<font color="blue">10:45-11:15</font>**<br>
 Lillian Sisson*, Ralph Didlake (University of Mississippi Medical Center<br>
-**TRACING THE ORIGINS OF MALARIA DIAGNOSTICS: A COMPREHENSIVE REVIEW OF AIMEE WILCOX’S SCIENTIFIC CONTRIBUTIONS
+**TRACING THE ORIGINS OF MALARIA DIAGNOSTICS: A COMPREHENSIVE REVIEW OF AIMEE WILCOX’S SCIENTIFIC CONTRIBUTIONS**
 
 ---
 
@@ -148,11 +148,13 @@ Lunch
 
 ---
 
-**<font color="blue">1:30-2:00</font>**<br>
+**<font color="blue">1:30-2:00</font>**
+
 Gary Hamil*, University of Mississippi Medical Center<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
-Kenneth Butler, University of Mississippi Medical Center<br>
+Kenneth Butler, University of Mississippi Medical Center
+
 **BALANCING AUTONOMY, COMPETENCY, AND SELF-DETERMINATION IN INDIVIDUALS WITH NEURODEGENERATIVE DISEASES**
 
 ---
