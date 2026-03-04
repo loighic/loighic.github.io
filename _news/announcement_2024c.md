@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-10-05
+date: 2026-03-27
 inline: true
 ---
 
-"A program for finding forgetting." [Philosophy and Neuroscience at the Gulf VII](http://deepsouthphilneuro.com/). Pensacola Beach, FL.
+"Why LLMs can't think like you." Midsouth Philosophy Conference. Memphis, TN.
