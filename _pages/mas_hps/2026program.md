@@ -87,8 +87,7 @@ Gregory Johnson, Mississippi State University<br>
 Kenneth Butler*, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
-Gary Hamil, University of Mississippi Medical Center
-
+Gary Hamil, University of Mississippi Medical Center<br>
 **THE ILLUSION OF CONSCIOUSNESS IN AI SYSTEMS**
 
 ---
@@ -138,7 +137,7 @@ Lillian Sisson*, Ralph Didlake (University of Mississippi Medical Center<br>
 
 **<font color="blue">11:15-11:45</font>**<br>
 Daniel Stearman, Tulane University<br>
-WALKING THROUGH THE DOORS OF PERCEPTION: GADAMER AND THE COMFORTING DELUSION OBJECTION**
+**WALKING THROUGH THE DOORS OF PERCEPTION: GADAMER AND THE COMFORTING DELUSION OBJECTION**
 
 ---
 
@@ -151,8 +150,7 @@ Lunch
 Gary Hamil*, University of Mississippi Medical Center<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
-Kenneth Butler, University of Mississippi Medical Center
-
+Kenneth Butler, University of Mississippi Medical Center<br>
 **BALANCING AUTONOMY, COMPETENCY, AND SELF-DETERMINATION IN INDIVIDUALS WITH NEURODEGENERATIVE DISEASES**
 
 ---
