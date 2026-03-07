@@ -61,7 +61,7 @@ Break
 
 **<font color="blue">10:50-11:50</font>**
 
-**<p style="text-align: center;"><font color="blue">INVITED KEYNOTE ADDRESS</font></p>**
+<p style="text-align: center;"><font color="blue">INVITED KEYNOTE ADDRESS</font></p>
 
 John Bickle, Mississippi State University and University of Mississippi Medical Center<br>
 **THE STORY OF ‘THE STORIES OF NEUROPHILOSOPHY’**
@@ -96,7 +96,7 @@ Gary Hamil, University of Mississippi Medical Center
 
 ---
 
-**<p style="text-align: center;"><font color="blue">POSTER PRESENTATION</font></p>**
+<p style="text-align: center;"><font color="blue">POSTER PRESENTATION</font></p>
 
 Silvia Boaventura, University of New Orleans<br>
 **ONTOLOGICAL EVOLUTION: ARISTOTLE’S RELEVANCE IN MODERN SCIENCE**
