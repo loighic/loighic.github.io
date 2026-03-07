@@ -2,9 +2,7 @@
 layout: page
 title: Setting utility values
 description: an interactive website for setting utility values
-redirect_from:
-	- /utility/
-	- https://utilit.netlify.app/
+permalink: /utility/
 img: assets/img/1.jpg
 importance: 5
 category:
@@ -13,6 +11,6 @@ category:
 
 Hey!
 
-<head>
-  <meta http-equiv='refresh' content='0; URL=https://utilit.netlify.app/'>
-</head>
+redirect_from:
+	- /utility/
+	- https://utilit.netlify.app/
