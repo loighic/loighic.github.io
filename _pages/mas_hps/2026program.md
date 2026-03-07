@@ -95,12 +95,14 @@ Gary Hamil, University of Mississippi Medical Center
 **THE ILLUSION OF CONSCIOUSNESS IN AI SYSTEMS**
 
 ---
+---
 
 <p style="text-align: center;"><font color="blue">POSTER PRESENTATION</font></p>
 
 Silvia Boaventura, University of New Orleans<br>
 **ONTOLOGICAL EVOLUTION: ARISTOTLE’S RELEVANCE IN MODERN SCIENCE**
 
+---
 ---			   
 
 **FRIDAY, MARCH 20**: Hall D Room 12
