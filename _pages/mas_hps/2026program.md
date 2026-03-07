@@ -7,10 +7,9 @@ nav: false
 
 <font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2025 Program</font>
 
+
 March 19 - 20, 2026<br>
-<br>
 Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS<br>
-<br>
 <small>updated 03/03/2026</small>
 
 ---
@@ -90,7 +89,8 @@ Gregory Johnson, Mississippi State University<br>
 Kenneth Butler*, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
-Gary Hamil, University of Mississippi Medical Center<br><br>
+Gary Hamil, University of Mississippi Medical Center
+
 **THE ILLUSION OF CONSCIOUSNESS IN AI SYSTEMS**
 
 ---
@@ -158,7 +158,8 @@ Lunch
 Gary Hamil*, University of Mississippi Medical Center<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
-Kenneth Butler, University of Mississippi Medical Center<br><br>
+Kenneth Butler, University of Mississippi Medical Center
+
 **BALANCING AUTONOMY, COMPETENCY, AND SELF-DETERMINATION IN INDIVIDUALS WITH NEURODEGENERATIVE DISEASES**
 
 ---
