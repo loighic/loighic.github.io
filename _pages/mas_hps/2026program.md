@@ -5,13 +5,12 @@ title: MAS HPS 2026 Program
 nav: false
 ---
 
-March 19 - 20, 2026
-
-Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS
-
-
 <font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2025 Program</font>
 
+March 19 - 20, 2026<br>
+<br>
+Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS<br>
+<br>
 <small>updated 03/03/2026</small>
 
 ---
@@ -22,6 +21,7 @@ Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS
 
 **<font color="blue">8:20-8:30</font>**<br>
 Gregory Johnson<br>
+WELCOME
 
 ---
 
@@ -137,7 +137,8 @@ Jiusi Guo, University of Illinois, Urbana-Champaign<br>
 ---
 
 **<font color="blue">10:45-11:15</font>**<br>
-Lillian Sisson*, Ralph Didlake (University of Mississippi Medical Center<br>
+Lillian Sisson*<br> 
+Ralph Didlake, University of Mississippi Medical Center<br><br>
 **TRACING THE ORIGINS OF MALARIA DIAGNOSTICS: A COMPREHENSIVE REVIEW OF AIMEE WILCOX’S SCIENTIFIC CONTRIBUTIONS**
 
 ---
