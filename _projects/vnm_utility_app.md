@@ -11,6 +11,3 @@ category:
 
 Hey!
 
-redirect_from:
-	- /utility/
-	- https://utilit.netlify.app/
