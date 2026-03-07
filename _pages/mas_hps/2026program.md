@@ -90,8 +90,7 @@ Gregory Johnson, Mississippi State University<br>
 Kenneth Butler*, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
-Gary Hamil, University of Mississippi Medical Center
-
+Gary Hamil, University of Mississippi Medical Center<br><br>
 **THE ILLUSION OF CONSCIOUSNESS IN AI SYSTEMS**
 
 ---
@@ -138,7 +137,7 @@ Jiusi Guo, University of Illinois, Urbana-Champaign<br>
 
 **<font color="blue">10:45-11:15</font>**<br>
 Lillian Sisson*<br> 
-Ralph Didlake, University of Mississippi Medical Center<br><br>
+Ralph Didlake, University of Mississippi Medical Center<br>
 **TRACING THE ORIGINS OF MALARIA DIAGNOSTICS: A COMPREHENSIVE REVIEW OF AIMEE WILCOX’S SCIENTIFIC CONTRIBUTIONS**
 
 ---
@@ -159,15 +158,14 @@ Lunch
 Gary Hamil*, University of Mississippi Medical Center<br>
 Michelle Tucci, University of Mississippi Medical Center<br>
 Hamed Benghuzzi, Jackson State University<br>
-Kenneth Butler, University of Mississippi Medical Center
-
+Kenneth Butler, University of Mississippi Medical Center<br><br>
 **BALANCING AUTONOMY, COMPETENCY, AND SELF-DETERMINATION IN INDIVIDUALS WITH NEURODEGENERATIVE DISEASES**
 
 ---
 
 **<font color="blue">2:00-2:30</font>**<br>
-Kenneth Butler, University of Mississippi Medical Center<br>
 Gary Hamil*, University of Mississippi Medical Center<br>
+Kenneth Butler, University of Mississippi Medical Center<br>
 **CHALLENGES WITH INFORMED CONSENT FOR BROAD INCLUSION AND LONGITUDINAL MEDICAL RECORDS RETRIEVAL**
 
 ---
