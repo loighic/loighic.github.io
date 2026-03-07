@@ -8,8 +8,8 @@ nav: false
 <font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2025 Program</font>
 
 
-March 19 - 20, 2026<br>
 Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS<br>
+March 19 - 20, 2026<br>
 <small>updated 03/07/2026</small>
 
 ---
