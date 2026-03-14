@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-03-01
+date: 2026-03-18
 inline: true
 ---
 
-"Identity and autonomy: An examination of methodological independence." [Mississippi Academy of Sciences Annual Meeting: HPS Division](https://loighic.net/mas_hps/2024program/). Hattiesburg, MS.
+"Trying to navigate a train wreck and a wave of technological innovation" [(slides)](https://loighic.net) Teaching with AI. Mississippi State University.
