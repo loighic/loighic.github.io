@@ -7,6 +7,3 @@ img: assets/img/1.jpg
 importance: 5
 category:
 ---
-
-
-
