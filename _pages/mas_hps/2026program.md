@@ -5,7 +5,7 @@ title: MAS HPS 2026 Program
 nav: false
 ---
 
-<font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2025 Program</font>
+<font color="green">Mississippi Academy of Sciences, History & Philosophy of Science 2026 Program</font>
 
 
 Mississippi Gulf Coast Coliseum and Convention Center, Biloxi, MS<br>
