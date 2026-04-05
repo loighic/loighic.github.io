@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-03-29
+date: 2025-04-16
 inline: true
 ---
 
-“Identity and Autonomy: An Examination of Methodological Independence.” Midsouth Philosophy Conference. Memphis, TN.
+"Why LLMs can't think like you." [Philosophy and AI](https://aiandphilosophy.org/). University of New Orleans.
