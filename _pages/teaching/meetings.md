@@ -9,7 +9,7 @@ nav: false
 
 I can meet on Webex or in my office on campus. This semester, these are the best times for me to meet with students:
 
->**Mondays:** 9:30 am to 5:30 pm
+>**Mondays and Wednesdays:** 9:30 am to 5:30 pm
 >
 >**Tuesdays and Thursdays:** 9:30 am to 11:30 am, 4:00 pm to 5:30 pm
 >
