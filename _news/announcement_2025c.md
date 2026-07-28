@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-05-01
+date: 2026-08-26
 inline: true
 ---
 
-"A program for finding forgetting." [SPAN](https://www.philandneuro.com/). St. Louis, MO.
+"A roadmap for the computational neuroscience skeptic." [Philosophy and Neuroscience at the Gulf IX](https://www.philandneuro.com/). Pensacola Beach, FL.
