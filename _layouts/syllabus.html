@@ -65,23 +65,23 @@
 
 
 
-	<div style="border-top: 1px solid var(--global-divider-color); padding: 1.5rem 0; line-height: 1.6;">
-	{% for author in page.authors %}
-		<div>
-		<a href="{{ author.url }}" style="color: var(--global-text-color); font-weight: bold; text-decoration: none;">{{ author.name }}</a>
-		</div>
-		{% if author.email %}
-		<div>
-        <a href="mailto:{{ author.email }}">{{ author.email }}</a>
-		</div>
-		{% endif %}
-	{% endfor %}
-	<div style="margin-top: 0.5rem;">{{ page.date | date: "%B %-d, %Y" }}</div>
-	</div>
-
-
-
       <d-article>
+        
+        <!-- NEW VERTICAL BYLINE -->
+        <div style="border-bottom: 1px solid var(--global-divider-color); padding-bottom: 1.5rem; margin-bottom: 1.5rem; font-size: 0.9em; display: flex; flex-direction: column; gap: 0.5rem;">
+          {% for author in page.authors %}
+            <div>
+              <a href="{{ author.url }}" style="color: var(--global-text-color); font-weight: bold; text-decoration: none;">{{ author.name }}</a>
+            </div>
+            {% if author.email %}
+              <div>
+                <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+              </div>
+            {% endif %}
+          {% endfor %}
+          <div>{{ page.date | date: "%B %-d, %Y" }}</div>
+        </div>
+        
         {% if page.toc %}
         <d-contents>
           <nav class="l-text figcaption">
