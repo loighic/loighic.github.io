@@ -63,7 +63,23 @@
         <p>{{ page.description }}</p>
       </d-title>
 
-      <d-byline></d-byline>
+
+
+	<div style="border-top: 1px solid var(--global-divider-color); padding: 1.5rem 0; line-height: 1.6;">
+	{% for author in page.authors %}
+		<div>
+		<a href="{{ author.url }}" style="color: var(--global-text-color); font-weight: bold; text-decoration: none;">{{ author.name }}</a>
+		</div>
+		{% if author.email %}
+		<div>
+        <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+		</div>
+		{% endif %}
+	{% endfor %}
+	<div style="margin-top: 0.5rem;">{{ page.date | date: "%B %-d, %Y" }}</div>
+	</div>
+
+
 
       <d-article>
         {% if page.toc %}
