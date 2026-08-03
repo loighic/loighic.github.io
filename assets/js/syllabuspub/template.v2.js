@@ -64,6 +64,7 @@
       this.affiliation = object.affiliation; // 'Google Brain'
       this.affiliationURL = object.affiliationURL; // 'https://g.co/brain'
       this.affiliations = object.affiliations || []; // new-style affiliations
+      this.email = object.email; // 'name@example.edu'
     }
 
     // 'Chris'
