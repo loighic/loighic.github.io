@@ -1,3 +1,13 @@
+// Force magenta underline on article links, overriding site-level a{} rules.
+(function() {
+    var style = document.createElement("style");
+    style.textContent = [
+        "d-article a { text-decoration: none !important; border-bottom: 1px solid #B509AC !important; }",
+        "d-article a:hover { text-decoration: none !important; border-bottom: 1px solid #B509AC !important; }"
+    ].join("\n");
+    document.head.appendChild(style);
+})();
+
 $(document).ready(function() {
     // Override styles of the footnotes.
     document.querySelectorAll("d-footnote").forEach(function(footnote) {
