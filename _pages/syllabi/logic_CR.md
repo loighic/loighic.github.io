@@ -49,9 +49,7 @@ This course is an introduction to formal logic. The focus of the course is learn
 
 But, beyond it’s direct applications, learning logic is an important part of a complete education. Amanda Ripley makes the point plainly in *The Smartest Kids in the World, and How They Got That Way*. Explaining the value of mastering “the language of logic,” she writes,
 
-> 
-It is a disciplined, organized way of thinking. There is a right answer; there are rules that must be followed. More than any other subject, [it] is rigor distilled. Mastering the language of logic helps to embed higher-order habits in [our] minds: the ability to reason, for example, to detect patterns and to make informed guesses. Those kinds of skills have rising value in a world in which information is cheap and messy. (p.70)
->
+> It is a disciplined, organized way of thinking. There is a right answer; there are rules that must be followed. More than any other subject, [it] is rigor distilled. Mastering the language of logic helps to embed higher-order habits in [our] minds: the ability to reason, for example, to detect patterns and to make informed guesses. Those kinds of skills have rising value in a world in which information is cheap and messy. (p.70)
 
 Thus, this course has a great deal of value, even if later you never need to reproduce any of the specific assignments---although some of you probably will.
 
