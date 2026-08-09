@@ -92,6 +92,8 @@ d-article {
 d-appendix {
   border-top-color: var(--global-divider-color) !important;
   color: var(--global-distill-app-color) !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
   h3, li, span {
     color: var(--global-distill-app-color) !important;
   }
