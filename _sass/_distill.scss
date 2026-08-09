@@ -31,6 +31,10 @@ d-article {
   b i {
     display: inline;
   }
+  blockquote {
+    border-left: 2.5px solid var(--global-theme-color);
+    padding: 0px 10px;
+  }
 
   d-contents {
     align-self: start;
