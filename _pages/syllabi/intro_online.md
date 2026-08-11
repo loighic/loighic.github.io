@@ -132,14 +132,14 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
 
 &emsp; quizzes: 15 percent<br>
-&emsp; homework assignments: 40 percent<br>
+&emsp; assignments: 40 percent<br>
 &emsp; two essays: 20 percent<br>
 &emsp; two tests: 25 percent<br>
 
 This is a full 3-credit course being offered during an 8-week term. Consequently, the
 amount of reading and assignments per week are what would normally be assigned every
 two weeks (in a full semester course). Most weeks, there will be 4 to 6 hours of reading, one
-or two quizzes, a written homework assignment for each reading, and a non-writing-focused
+or two quizzes, a written assignment for each reading, and a non-writing-focused
 assignment.
 
 Every due date is firm. Quizzes and homework assignments cannot be completed after
