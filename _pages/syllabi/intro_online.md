@@ -113,10 +113,10 @@ This is an overview of the schedule.
 | 			| November 9 test 1 and paper 1 due
 | 5 		| **Ethics**
 | 			| &ensp; Johnson, “What is ethics anyway?”
-| 6 & 7 	| **Living forever**
-| 			| &ensp; Cave, “Why you should not choose to live forever”
-| 7 & 8 	| **Personal identity**
-| 			| &ensp; Johnson, “What is a person?”
+| 6 & 7 	| `Living forever`
+| 			| &emsp; Cave, “Why you should not choose to live forever”
+| 7 & 8 	| `Personal identity`
+| 			| &emsp; Johnson, “What is a person?”
 | December 11 | test 2 and paper 2 due
 
 
