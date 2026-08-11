@@ -118,3 +118,15 @@ This is an overview of the schedule.
 | 7 & 8 	| Personal identity
 | 			| &ensp;Johnson, “What is a person?”
 | December 11 | test 2 and paper 2 due
+
+
+This calendar will have the exact schedule. Use the <big>+</big> in the lower right corner if you want to add it to your own Google Calendar.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&showPrint=0&showCalendars=0&showTitle=0&src=YmoxZGY0djIxMmhiMjE1b3ZlMW1lbXFwdGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%230b8043" style="border-width:0" width="100%" height="450" frameborder="0" scrolling="no"></iframe>
+
+|
+
+
+## Coursework and Grading
+
+Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
