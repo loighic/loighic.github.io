@@ -99,24 +99,24 @@ This is an overview of the schedule.
 
 | **Weeks**	| 
 |----		|----
-| 1			| **Arguments in philosophy**
-| 			| &ensp;Johnson, “An introduction to arguments”
+| 1			| <span style="color: green;">**Arguments in philosophy**</span>
+| 			| &emsp;Johnson, “Philosophy and reasoning”
 | 1 & 2 	| **The mind**
-| 			| &ensp; Johnson, “Beliefs and other mental states”
-| 			| &ensp; Johnson, “What is the mind and who has one?”
-|			| &ensp; Johnson, “..."
+| 			| &emsp; Johnson, “Beliefs and other mental states”
+| 			| &emsp; Johnson, “What is the mind and who has one?”
+|			| &emsp; Johnson, "Beyond dualism"
 | 3 		| **Free will**
-| 			| &ensp; Johnson, “Could I have taken the other road? Libertarianism versus Determinism”
-| 			| &ensp; Johnson, “Hard determinism, soft determinism, and moral responsibility”
+| 			| &emsp; Johnson, “Could I have taken the other road?”
+| 			| &emsp; Johnson, “Hard determinism, soft determinism, and moral responsibility”
 | 4 		| **Are we living in a computer simulation?**
-| 			| &ensp; Bostrom, “Why the probability that you are living in a matrix is quite high”
+| 			| &emsp; Bostrom, “Why the probability that you are living in a matrix is quite high”
 | 			| November 9 test 1 and paper 1 due
 | 5 		| **Ethics**
-| 			| &ensp; Johnson, “What is ethics anyway?”
+| 			| &emsp; Johnson, “What is ethics anyway?”
 | 6 & 7 	| `Living forever`
 | 			| &emsp; Cave, “Why you should not choose to live forever”
 | 7 & 8 	| `Personal identity`
-| 			| &emsp; Johnson, “What is a person?”
+| 			| &emsp; Johnson, “What does it take to be a person?”
 | December 11 | test 2 and paper 2 due
 
 
@@ -131,10 +131,10 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 
 Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
 
-&emsp; quizzes: 15 percent
-&emsp; homework assignments: 40 percent
-&emsp; two papers: 20 percent
-&emsp; two tests: 25 percent
+&emsp; quizzes: 15 percent<br>
+&emsp; homework assignments: 40 percent<br>
+&emsp; two papers: 20 percent<br>
+&emsp; two tests: 25 percent<br>
 
 This is a full 3-credit course being offered during an 8-week term. Consequently, the
 amount of reading and assignments per week are what would normally be assigned every
