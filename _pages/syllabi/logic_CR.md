@@ -122,6 +122,19 @@ Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 8
 &nbsp;&nbsp; assignments: 25 percent<br>
 &nbsp;&nbsp; four tests: 50 percent<br>
 
+
+- attendance and participation: 10 percent
+- quizzes: 15 percent
+- assignments: 25 percent
+- four tests: 50 percent
+
+a. attendance and participation: 10 percent
+b. quizzes: 15 percent
+c. assignments: 25 percent
+d. four tests: 50 percent
+
+
+
 There will usually be three or four assignments (quizzes or assignments) due per week, some of of which will be done during the class meetings. Each student’s lowest quiz grade and lowest homework grade will be dropped.
 
 
