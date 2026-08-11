@@ -38,14 +38,14 @@ Resources: [provost.msstate.edu/faculty-student-resources/university-syllabus](h
 
 ## Readings
 
-Some of the readings for this course are in a course pack that you have to get from Barnes & Noble. (It’s required and it's included in the Bulldog Bundle.) Other required readings will be posted on Canvas.
+Some of the readings for this course are in a course pack that you have to get from Barnes & Noble. The course pack is required, and it's included in the Bulldog Bundle. Other required readings will be posted on Canvas.
 
 
 ## Course Description
 
 ### General Introduction
 
-Before taking a philosophy course, most people are unfamiliar with the subject. So, by way of introduction, here is an excerpt from a lecture on Plato’s dialogue the Apology by the philosopher Steven Smith,
+Before taking a philosophy course, most people are unfamiliar with the subject. So, by way of introduction, here is an excerpt from a lecture on Plato’s dialogue the *Apology* by the philosopher Steven Smith,
 
 > Philosophy cannot rest content with mere belief. Philosophy grows out of the passionate desire—the restless and intransigent desire—to replace opinion with knowledge, to replace belief with true principles. For philosophy, it is not enough to hold a belief on faith; one must be able to give reasons or arguments for one’s beliefs. . . . The citizen may accept certain beliefs on faith because he or she
 is attached to a particular political order or regime, or because this or that is what we have been brought up to believe; the philosopher, on the other hand, seeks to judge in terms of true standards, in the light of what is true always and everywhere. As a quest for knowledge, there is a necessary and inevitable tension between philosophy and belief. (2012, p. 28)
@@ -59,7 +59,7 @@ These are real questions, not philosophical exercises. And even if we really nee
 
 ### Online
 
-This is an online course, and it is not designed to be too similar to a classroom course. Instead of lectures being the central feature of the course, you will be working independently on the readings. I am available and will be in contact with you, and you should email me as often as you find useful. But think of this course as a very structured independent study (that is, structured by the instructor for you) rather than as a standard classroom course. See also the additional information about the course in the first module in Canvas.
+This is an online course, and it is not designed to be too similar to a classroom course. Instead of lectures being the central feature of the course, you will be working independently on the readings. I am available and will be in contact with you, and you should email me or meet with me as often as you find useful. But think of this course as a very structured independent study (that is, structured by the instructor for you) rather than as a standard classroom course. See also the additional information about the course in the first module in Canvas.
 
 
 ## Learning Objectives
@@ -88,7 +88,7 @@ The following rules are in place and strictly enforced to prevent students from 
 
 > **(b)** If, for some reason, you feel that it is important to use some other resource, a reference that will allow me to easily locate the resource must be provided.
 
-> **(c)** As long as you are using the assigned readings, you don’t need to provide references at the end of your written assignments. You do, however, have to cite all of the content to which you refer with a page locator—for example, (col. 2, p. 486).
+> **(c)** As long as you are using the assigned readings, you don’t need to provide references at the end of your written assignments. You do, however, have to cite all of the content to which you refer with a page locator—for example: (col. 2, p. 486).
 
 Read [this explanation](https://loighic.net/blog/2025/ai/) about why using generative A.I. is not allowed in this course, and please ask me if you have any further questions about what constitutes academic misconduct. I am happy to answer any questions about what is and is not allowed. But ask me before you do something questionable.
 
