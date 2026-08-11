@@ -84,11 +84,11 @@ The best way to avoid anything that might be academic misconduct is to put yours
 
 The following rules are in place and strictly enforced to prevent students from using A.I. tools.
 
-**(a)** No resources other than those assigned or provided as optional should be used in this course.
+> **(a)** No resources other than those assigned or provided as optional should be used in this course.
 
-**(b)** If, for some reason, you feel that it is important to use some other resource, a reference that will allow me to easily locate the resource must be provided.
+> **(b)** If, for some reason, you feel that it is important to use some other resource, a reference that will allow me to easily locate the resource must be provided.
 
-**(c)** As long as you are using the assigned readings, you don’t need to provide references at the end of your written assignments. You do, however, have to cite all of the content to which you refer with a page locator—for example, (col. 2, p. 486).
+> **(c)** As long as you are using the assigned readings, you don’t need to provide references at the end of your written assignments. You do, however, have to cite all of the content to which you refer with a page locator—for example, (col. 2, p. 486).
 
 Read [this explanation](https://loighic.net/blog/2025/ai/) about why using generative A.I. is not allowed in this course, and please ask me if you have any further questions about what constitutes academic misconduct. I am happy to answer any questions about what is and is not allowed. But ask me before you do something questionable.
 
@@ -100,20 +100,21 @@ This is an overview of the schedule.
 | **Weeks**	| 
 |----		|----
 | 1			| Arguments in philosophy
-| 			| Johnson, “An introduction to arguments”
+| 			| &ensp;Johnson, “An introduction to arguments”
 | 1 & 2 	| The mind
-| 			| Johnson, “Beliefs and other mental states”
-| 			| Johnson, “What is the mind and who has one?”
+| 			| &ensp;Johnson, “Beliefs and other mental states”
+| 			| &ensp;Johnson, “What is the mind and who has one?”
+|			| ...
 | 3 		| Free will
-| 			| Johnson, “Could I have taken the other road? Libertarianism versus Determinism”
-| 			| Johnson, “Hard determinism, soft determinism, and moral responsibility”
+| 			| &ensp;Johnson, “Could I have taken the other road? Libertarianism versus Determinism”
+| 			| &ensp;Johnson, “Hard determinism, soft determinism, and moral responsibility”
 | 4 		| Are we living in a computer simulation?
-| 			| Bostrom, “Why the probability that you are living in a matrix is quite high”
+| 			| &ensp;Bostrom, “Why the probability that you are living in a matrix is quite high”
 | 			| November 9 test 1 and paper 1 due
 | 5 		| Ethics
-| 			| Johnson, “What is ethics anyway?”
+| 			| &ensp;Johnson, “What is ethics anyway?”
 | 6 & 7 	| Living forever
-| 			| Cave, “Why you should not choose to live forever”
+| 			| &ensp;Cave, “Why you should not choose to live forever”
 | 7 & 8 	| Personal identity
-| 			| Johnson, “What is a person?”
+| 			| &ensp;Johnson, “What is a person?”
 | December 11 | test 2 and paper 2 due
