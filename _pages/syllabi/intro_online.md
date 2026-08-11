@@ -99,24 +99,24 @@ This is an overview of the schedule.
 
 | **Weeks**	| 
 |----		|----
-| 1			| Arguments in philosophy
+| 1			| **Arguments in philosophy**
 | 			| &ensp;Johnson, “An introduction to arguments”
-| 1 & 2 	| The mind
-| 			| &ensp;Johnson, “Beliefs and other mental states”
-| 			| &ensp;Johnson, “What is the mind and who has one?”
-|			| ...
-| 3 		| Free will
-| 			| &ensp;Johnson, “Could I have taken the other road? Libertarianism versus Determinism”
-| 			| &ensp;Johnson, “Hard determinism, soft determinism, and moral responsibility”
-| 4 		| Are we living in a computer simulation?
-| 			| &ensp;Bostrom, “Why the probability that you are living in a matrix is quite high”
+| 1 & 2 	| **The mind**
+| 			| &ensp; Johnson, “Beliefs and other mental states”
+| 			| &ensp; Johnson, “What is the mind and who has one?”
+|			| &ensp; Johnson, “..."
+| 3 		| **Free will**
+| 			| &ensp; Johnson, “Could I have taken the other road? Libertarianism versus Determinism”
+| 			| &ensp; Johnson, “Hard determinism, soft determinism, and moral responsibility”
+| 4 		| **Are we living in a computer simulation?**
+| 			| &ensp; Bostrom, “Why the probability that you are living in a matrix is quite high”
 | 			| November 9 test 1 and paper 1 due
-| 5 		| Ethics
-| 			| &ensp;Johnson, “What is ethics anyway?”
-| 6 & 7 	| Living forever
-| 			| &ensp;Cave, “Why you should not choose to live forever”
-| 7 & 8 	| Personal identity
-| 			| &ensp;Johnson, “What is a person?”
+| 5 		| **Ethics**
+| 			| &ensp; Johnson, “What is ethics anyway?”
+| 6 & 7 	| **Living forever**
+| 			| &ensp; Cave, “Why you should not choose to live forever”
+| 7 & 8 	| **Personal identity**
+| 			| &ensp; Johnson, “What is a person?”
 | December 11 | test 2 and paper 2 due
 
 
@@ -130,3 +130,17 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 ## Coursework and Grading
 
 Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
+
+&emsp; quizzes: 15 percent
+&emsp; homework assignments: 40 percent
+&emsp; two papers: 20 percent
+&emsp; two tests: 25 percent
+
+This is a full 3-credit course being offered during an 8-week term. Consequently, the
+amount of reading and assignments per week are what would normally be assigned every
+two weeks (in a full semester course). Most weeks, there will be 4 to 6 hours of reading, one
+or two quizzes, a written homework assignment for each reading, and a non-writing-focused
+assignment.
+
+Every due date is firm. Quizzes and homework assignments cannot be completed after
+their due dates. Papers and the tests can be done late but they will be penalized.
