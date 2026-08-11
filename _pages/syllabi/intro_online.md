@@ -99,7 +99,7 @@ This is an overview of the schedule.
 
 | **Weeks**	| 
 |----		|----
-| 1			| <span style="color: green;">**Arguments in philosophy**</span>
+| 1			| **Arguments in philosophy**
 | 			| &emsp;Johnson, “Philosophy and reasoning”
 | 1 & 2 	| **The mind**
 | 			| &emsp; Johnson, “Beliefs and other mental states”
@@ -110,14 +110,14 @@ This is an overview of the schedule.
 | 			| &emsp; Johnson, “Hard determinism, soft determinism, and moral responsibility”
 | 4 		| **Are we living in a computer simulation?**
 | 			| &emsp; Bostrom, “Why the probability that you are living in a matrix is quite high”
-| Nov 9 	| test 1 and paper 1 due
+| Nov 8 	| test 1 and essay 1 due
 | 5 		| **Ethics**
 | 			| &emsp; Johnson, “What is ethics anyway?”
 | 6 & 7 	| **Living forever**
 | 			| &emsp; Cave, “Why you should not choose to live forever”
 | 7 & 8 	| **Personal identity**
 | 			| &emsp; Johnson, “What does it take to be a person?”
-| Dec 11 	| test 2 and paper 2 due
+| Dec 9 	| test 2 and essay 2 due
 
 
 This calendar will have the exact schedule. Use the <big>+</big> in the lower right corner if you want to add it to your own Google Calendar.
@@ -133,7 +133,7 @@ Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 8
 
 &emsp; quizzes: 15 percent<br>
 &emsp; homework assignments: 40 percent<br>
-&emsp; two papers: 20 percent<br>
+&emsp; two essays: 20 percent<br>
 &emsp; two tests: 25 percent<br>
 
 This is a full 3-credit course being offered during an 8-week term. Consequently, the
