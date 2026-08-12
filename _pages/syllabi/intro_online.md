@@ -100,23 +100,23 @@ This is an overview of the schedule.
 |----		|----
 | 1			| **<span class="color-3">Arguments in philosophy</span>**
 | 			| Johnson, “Philosophy and reasoning”
-| 1 & 2 	| <span class="color-3">The mind</span>
+| 1 & 2 	| **<span class="color-3">The mind</span>**
 | 			| Johnson, “Beliefs and other mental states”
 | 			| Johnson, “What is the mind and who has one?”
 |			| Johnson, "Beyond dualism"
-| 3 		| <span class="color-3">Free will</span>
+| 3 		| **<span class="color-3">Free will</span>**
 | 			| Johnson, “Could I have taken the other road?”
 | 			| Johnson, “Hard determinism, soft determinism, and moral responsibility”
 | 4 		| **<span class="color-3">Are we living in a computer simulation?</span>**
 | 			| Bostrom, “Why the probability that you are living in a matrix is quite high”
-| <span style="color:#7000CC">Nov 8</span> 	| span style="color:#7000CC"test 1 and essay 1 due</span>
+| **Nov 8** | **test 1 and essay 1 due**
 | 5 		| **<span class="color-3">Ethics</span>**
 | 			| Johnson, “What is ethics anyway?”
 | 6 & 7 	| **<span class="color-3">Living forever</span>**
 | 			| Cave, “Why you should not choose to live forever”
 | 8		 	| **<span class="color-3">Personal identity</span>**
 | 			| Johnson, “What does it take to be a person?”
-| Dec 9 	| test 2 and essay 2 due
+| **Dec 9**	| **test 2 and essay 2 due**
 
 
 This calendar will have the exact schedule. Use the <big>+</big> in the lower right corner if you want to add it to your own Google Calendar.
