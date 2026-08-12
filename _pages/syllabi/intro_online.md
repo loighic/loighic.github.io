@@ -98,23 +98,23 @@ This is an overview of the schedule.
 
 | **Weeks**	| 
 |----		|----
-| 1			| **<span style="color:#0000FF;">Arguments in philosophy</span>**
+| 1			| **<span style="color:#7000CC">Arguments in philosophy</span>**
 | 			| Johnson, “Philosophy and reasoning”
-| 1 & 2 	| <span style="color:#0000FF;">The mind</span>
+| 1 & 2 	| **<span style="color:#7000CC">The mind</span>**
 | 			| Johnson, “Beliefs and other mental states”
 | 			| Johnson, “What is the mind and who has one?”
 |			| Johnson, "Beyond dualism"
-| 3 		| **Free will**
+| 3 		| **<span style="color:#7000CC">Free will</span>**
 | 			| Johnson, “Could I have taken the other road?”
 | 			| Johnson, “Hard determinism, soft determinism, and moral responsibility”
-| 4 		| **Are we living in a computer simulation?**
+| 4 		| **<span style="color:#7000CC">Are we living in a computer simulation?</span>**
 | 			| Bostrom, “Why the probability that you are living in a matrix is quite high”
 | Nov 8 	| test 1 and essay 1 due
-| 5 		| **Ethics**
+| 5 		| **<span style="color:#7000CC">Ethics</span>**
 | 			| Johnson, “What is ethics anyway?”
-| 6 & 7 	| **Living forever**
+| 6 & 7 	| **<span style="color:#7000CC">Living forever</span>**
 | 			| Cave, “Why you should not choose to live forever”
-| 8		 	| **Personal identity**
+| 8		 	| **<span style="color:#7000CC">Personal identity</span>**
 | 			| Johnson, “What does it take to be a person?”
 | Dec 9 	| test 2 and essay 2 due
 
