@@ -98,23 +98,23 @@ This is an overview of the schedule.
 
 | **Weeks**	| 
 |----		|----
-| 1			| **<span style="color:#7000CC">Arguments in philosophy</span>**
+| 1			| **<span class="color-3">Arguments in philosophy</span>**
 | 			| Johnson, “Philosophy and reasoning”
-| 1 & 2 	| **<span style="color:#7000CC">The mind</span>**
+| 1 & 2 	| <span class="color-3">The mind</span>
 | 			| Johnson, “Beliefs and other mental states”
 | 			| Johnson, “What is the mind and who has one?”
 |			| Johnson, "Beyond dualism"
-| 3 		| **<span style="color:#7000CC">Free will</span>**
+| 3 		| <span class="color-3">Free will</span>
 | 			| Johnson, “Could I have taken the other road?”
 | 			| Johnson, “Hard determinism, soft determinism, and moral responsibility”
-| 4 		| **<span style="color:#7000CC">Are we living in a computer simulation?</span>**
+| 4 		| **<span class="color-3">Are we living in a computer simulation?</span>**
 | 			| Bostrom, “Why the probability that you are living in a matrix is quite high”
-| Nov 8 	| test 1 and essay 1 due
-| 5 		| **<span style="color:#7000CC">Ethics</span>**
+| <span style="color:#7000CC">Nov 8</span> 	| span style="color:#7000CC"test 1 and essay 1 due</span>
+| 5 		| **<span class="color-3">Ethics</span>**
 | 			| Johnson, “What is ethics anyway?”
-| 6 & 7 	| **<span style="color:#7000CC">Living forever</span>**
+| 6 & 7 	| **<span class="color-3">Living forever</span>**
 | 			| Cave, “Why you should not choose to live forever”
-| 8		 	| **<span style="color:#7000CC">Personal identity</span>**
+| 8		 	| **<span class="color-3">Personal identity</span>**
 | 			| Johnson, “What does it take to be a person?”
 | Dec 9 	| test 2 and essay 2 due
 
@@ -129,10 +129,10 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 
 Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
 
-&ensp; quizzes: 15 percent<br>
-&ensp; assignments: 40 percent<br>
-&ensp; two essays: 20 percent<br>
-&ensp; two tests: 25 percent<br>
+&emsp; quizzes: 15 percent<br>
+&emsp; assignments: 40 percent<br>
+&emsp; two essays: 20 percent<br>
+&emsp; two tests: 25 percent<br>
 
 This is a full 3-credit course being offered during an 8-week term. Consequently, the
 amount of reading and assignments per week are what would normally be assigned every
