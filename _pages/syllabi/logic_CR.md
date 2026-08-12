@@ -117,10 +117,10 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 
 Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
 
-&ensp; attendance and participation: 10 percent<br>
-&ensp; quizzes: 15 percent<br>
-&ensp; assignments: 25 percent<br>
-&ensp; four tests: 50 percent<br>
+&emsp; attendance and participation: 10 percent<br>
+&emsp; quizzes: 15 percent<br>
+&emsp; assignments: 25 percent<br>
+&emsp; four tests: 50 percent<br>
 
 
 There will usually be three or four assignments (quizzes or assignments) due per week, some of of which will be done during the class meetings. Each student’s lowest quiz grade and lowest homework grade will be dropped.
