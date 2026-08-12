@@ -20,8 +20,8 @@ toc:
   - name: Student Honor Code and Academic Misconduct
   - name: Schedule
   - name: Coursework and Grading
-
 ---
+
 
 ## Preliminaries
 
@@ -99,12 +99,12 @@ This is an overview of the schedule.
 
 | **Weeks**	| 
 |----		|----
-| 1			| **Arguments in philosophy**
-| 			| &emsp;Johnson, “Philosophy and reasoning”
+| 1			| **<span style="color: red;">Arguments in philosophy</span>**
+| 			| Johnson, “Philosophy and reasoning”
 | 1 & 2 	| **The mind**
-| 			| &emsp; Johnson, “Beliefs and other mental states”
-| 			| &emsp; Johnson, “What is the mind and who has one?”
-|			| &emsp; Johnson, "Beyond dualism"
+| 			| Johnson, “Beliefs and other mental states”
+| 			| Johnson, “What is the mind and who has one?”
+|			| Johnson, "Beyond dualism"
 | 3 		| **Free will**
 | 			| &emsp; Johnson, “Could I have taken the other road?”
 | 			| &emsp; Johnson, “Hard determinism, soft determinism, and moral responsibility”
@@ -115,7 +115,7 @@ This is an overview of the schedule.
 | 			| &emsp; Johnson, “What is ethics anyway?”
 | 6 & 7 	| **Living forever**
 | 			| &emsp; Cave, “Why you should not choose to live forever”
-| 7 & 8 	| **Personal identity**
+| 8		 	| **Personal identity**
 | 			| &emsp; Johnson, “What does it take to be a person?”
 | Dec 9 	| test 2 and essay 2 due
 
@@ -131,10 +131,10 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 
 Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
 
-&emsp; quizzes: 15 percent<br>
-&emsp; assignments: 40 percent<br>
-&emsp; two essays: 20 percent<br>
-&emsp; two tests: 25 percent<br>
+&ensp; quizzes: 15 percent<br>
+&ensp; assignments: 40 percent<br>
+&ensp; two essays: 20 percent<br>
+&ensp; two tests: 25 percent<br>
 
 This is a full 3-credit course being offered during an 8-week term. Consequently, the
 amount of reading and assignments per week are what would normally be assigned every
