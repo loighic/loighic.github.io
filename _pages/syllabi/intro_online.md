@@ -47,8 +47,7 @@ Some of the readings for this course are in a course pack that you have to get f
 
 Before taking a philosophy course, most people are unfamiliar with the subject. So, by way of introduction, here is an excerpt from a lecture on Plato’s dialogue the *Apology* by the philosopher Steven Smith,
 
-> Philosophy cannot rest content with mere belief. Philosophy grows out of the passionate desire—the restless and intransigent desire—to replace opinion with knowledge, to replace belief with true principles. For philosophy, it is not enough to hold a belief on faith; one must be able to give reasons or arguments for one’s beliefs. . . . The citizen may accept certain beliefs on faith because he or she
-is attached to a particular political order or regime, or because this or that is what we have been brought up to believe; the philosopher, on the other hand, seeks to judge in terms of true standards, in the light of what is true always and everywhere. As a quest for knowledge, there is a necessary and inevitable tension between philosophy and belief. (2012, p. 28)
+> Philosophy cannot rest content with mere belief. Philosophy grows out of the passionate desire&mdash;the restless and intransigent desire—to replace opinion with knowledge, to replace belief with true principles. For philosophy, it is not enough to hold a belief on faith; one must be able to give reasons or arguments for one’s beliefs. &hellip; The citizen may accept certain beliefs on faith because he or she is attached to a particular political order or regime, or because this or that is what we have been brought up to believe; the philosopher, on the other hand, seeks to judge in terms of true standards, in the light of what is true always and everywhere. As a quest for knowledge, there is a necessary and inevitable tension between philosophy and belief. (2012, p. 28)
 
 Philosophy is different than science, but only to a degree. Science investigates the world by collecting data and doing experiments. Philosophy, meanwhile, usually undertakes neither of these activities. But still, the philosopher seeks knowledge, and the tool for seeking knowledge in this domain is reason. Given some facts (perhaps uncovered by science), what follows? What is likely to be—or must be—true? We’ll see as we examine the following questions.
 
@@ -99,24 +98,24 @@ This is an overview of the schedule.
 
 | **Weeks**	| 
 |----		|----
-| 1			| **<span style="color: red;">Arguments in philosophy</span>**
+| 1			| **<span style="color:#0000FF;">Arguments in philosophy</span>**
 | 			| Johnson, “Philosophy and reasoning”
-| 1 & 2 	| **The mind**
+| 1 & 2 	| <span style="color:#0000FF;">The mind</span>
 | 			| Johnson, “Beliefs and other mental states”
 | 			| Johnson, “What is the mind and who has one?”
 |			| Johnson, "Beyond dualism"
 | 3 		| **Free will**
-| 			| &emsp; Johnson, “Could I have taken the other road?”
-| 			| &emsp; Johnson, “Hard determinism, soft determinism, and moral responsibility”
+| 			| Johnson, “Could I have taken the other road?”
+| 			| Johnson, “Hard determinism, soft determinism, and moral responsibility”
 | 4 		| **Are we living in a computer simulation?**
-| 			| &emsp; Bostrom, “Why the probability that you are living in a matrix is quite high”
+| 			| Bostrom, “Why the probability that you are living in a matrix is quite high”
 | Nov 8 	| test 1 and essay 1 due
 | 5 		| **Ethics**
-| 			| &emsp; Johnson, “What is ethics anyway?”
+| 			| Johnson, “What is ethics anyway?”
 | 6 & 7 	| **Living forever**
-| 			| &emsp; Cave, “Why you should not choose to live forever”
+| 			| Cave, “Why you should not choose to live forever”
 | 8		 	| **Personal identity**
-| 			| &emsp; Johnson, “What does it take to be a person?”
+| 			| Johnson, “What does it take to be a person?”
 | Dec 9 	| test 2 and essay 2 due
 
 
