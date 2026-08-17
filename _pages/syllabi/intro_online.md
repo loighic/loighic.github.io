@@ -125,6 +125,7 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 
 &emsp;
 
+
 ## Coursework and Grading
 
 Letter grades will be assigned using this scale: A is 90 – 100 percent, B is 80 – 89 percent, C is 70 – 79 percent, D is 60 – 69, F is below 60. The grades will be set based on this coursework and these percentages:
