@@ -123,7 +123,7 @@ This calendar will have the exact schedule. Use the <big>+</big> in the lower ri
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&showPrint=0&showCalendars=0&showTitle=0&src=YmoxZGY0djIxMmhiMjE1b3ZlMW1lbXFwdGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%230b8043&dates=20261001%2F20261031" style="border-width:0" width="100%" height="450" frameborder="0" scrolling="no"></iframe>
 
-|
+&emsp;
 
 ## Coursework and Grading
 
