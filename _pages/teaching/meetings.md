@@ -15,4 +15,4 @@ I can meet on Webex or in my office on campus. This semester, these are the best
 >
 >**Weekends:** Various times (probably). As long as I'm available, Webex meetings on the weekend aren't a problem. 
 
-If you want to meet, while keeping these times in mind, just let me know when would be a good time (or times) for you.
+All times are Central Time. If you want to meet, while keeping these times in mind, just let me know when would be a good time (or times) for you.
