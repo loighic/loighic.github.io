@@ -27,7 +27,9 @@ toc:
 
 Sending me a message online (by [email](mailto:gregory.johnson@msstate.edu) or through Canvas) is the best way to reach me, and I will usually respond within 24 hours. If you would like a more immediate response, you can try calling or sending a text message to 267-416-0292. But don’t leave a voicemail. I won’t get it.
 
-My availability is listed [here](https://loighic.net/teaching/meetings/). My office is on the first floor of George Hall.
+### Office hours
+
+My availability outside of the class meetings is [listed on this page](https://loighic.net/teaching/meetings/). My office is on the first floor of George Hall.
 
 
 ## Mississippi State University Syllabus
