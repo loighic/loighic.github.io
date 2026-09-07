@@ -11,7 +11,7 @@ I can meet on Webex or in my office on campus. This semester, these are the best
 
 >**Mondays and Wednesdays:** 9:30 am to 11:30 am
 >
->**Thursdays and Fridays:** 9:30 am to 5:30 pm
+>**Tuesdays, Thursdays and Fridays:** 9:30 am to 5:30 pm
 >
 >**Weekends:** Various times (probably). As long as I'm available, Webex meetings on the weekend aren't a problem. 
 
