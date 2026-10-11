@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /teaching/writing/
-title: Writing guidelines: A short list
+title: Writing guidelines
 nav: false
 ---
+
+## A short list
 
 
 (a) **Capitalize** words correctly. Words that obviously should be capitalized—e.g., the first word of a sentence, “I”—should always be capitalized. That’s easy; don’t mess it up. Words that are not proper nouns should not be capitalized. If you are not sure whether or not a particular word should be capitalized, check the reading and see how the author writes it.
