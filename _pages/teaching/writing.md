@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/writing
+permalink: /teaching/writing/
 title: Writing guidelines: A short list
 nav: false
 ---
