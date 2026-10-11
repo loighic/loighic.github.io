@@ -8,11 +8,9 @@ nav: false
 
 1. **Capitalize** words correctly. Words that obviously should be capitalized—e.g., the first word of a sentence, “I”—should always be capitalized. That’s easy; don’t mess it up. Words that are not proper nouns should not be capitalized. If you are not sure whether or not a particular word should be capitalized, check the reading and see how the author writes it.
 
-2. **Don’t plagiarize.** See this for guidance: https://plagiarism.iu.edu/overview/shouldDo.html.
+2. **Don’t plagiarize.** As a general rule, copying five or more consecutive words is plagiarism. But that’s just a guide. Copying eight words, and then changing one in the middle is still plagiarism. One way to avoid plagiarism is to read a passage (maybe more than once), and then, without looking at it, type up the ideas as you remember them. Check that what you have written is accurate, and fix as needed. The result will be in your own words.
 
-	As a general rule, copying five or more consecutive words is plagiarism. But that’s just a guide. Copying eight words, and then changing one in the middle is still plagiarism. One way to avoid plagiarism is to read a passage (maybe more than once), and then, without looking at it, type up the ideas as you remember them. Check that what you have written is accurate, and fix as needed. The result will be in your own words.
-
-	It is also a rule that you have to cite any idea that you take from someone else, even if you aren’t quoting. In this course, this is a good idea, not because I am concerned that you may be stealing someone’s ideas, but so that I can tell which part of the text you are referring to or explaining.
+	It is also a rule that you have to cite any idea that you take from someone else, even if you aren’t quoting. In this course, this is a good idea, not because I am concerned that you may be stealing someone’s ideas, but so that I can tell which part of the text you are referencing or explaining.
 
 3. In this course, the **quotations** that you use will be short—probably two sentences at the most. A quotation should not stand alone. It should be embedded in your own sentence. Also note the placement of the end quote (”) and the period in these examples.
 
@@ -37,7 +35,7 @@ nav: false
 
 6. There are numerous rules for using **commas**. Here are a few that you should know.
 
-	1. When a sentence has an *If …, then …* structure, put a comma before the *then*&mdash;although sometimes the then is omitted, in which case put the comma where the then would be. (And it’s *if …, then …*, not *if …, than …* .)
+	When a sentence has an *If …, then …* structure, put a comma before the *then*&mdash;although sometimes the then is omitted, in which case put the comma where the then would be. (And it’s *if …, then …*, not *if …, than …* .)
 
 	- If this line of thought is compelling, then we must identify ‘pain’ as a type of psychological state.
 
@@ -45,7 +43,7 @@ nav: false
 
 	- If we know anything about the nature of philosophy, we know that it is not an experimental discipline
 
-	2. Put a comma after an introductory word or phrase that begins a sentence. The most common words that begin these types of phrases are *after*, *although*, *as*, *because*, *if*, *since*, *when*, and *while*, but there are many others. Importantly, what comes after the comma should be a complete sentence.
+	Put a comma after an introductory word or phrase that begins a sentence. The most common words that begin these types of phrases are *after*, *although*, *as*, *because*, *if*, *since*, *when*, and *while*, but there are many others. Importantly, what comes after the comma should be a complete sentence.
 
 	- When the machine is left running alone, each of the lights is on one-quarter of the time.
 
@@ -57,7 +55,7 @@ nav: false
 
 	- To see this, let’s think about the so called lottery paradox.
 
-	3. Use a comma to separate independent clauses that are joined by a conjunction (*and*, *but*, *for*, *or*, *nor*, *yet*). An independent clause is a clause that could, by itself, be a complete sentence. That is, it contains a subject, verb, and direct object.
+	Use a comma to separate independent clauses that are joined by a conjunction (*and*, *but*, *for*, *or*, *nor*, *yet*). An independent clause is a clause that could, by itself, be a complete sentence. That is, it contains a subject, verb, and direct object.
 
 	- I have now taught philosophy on three continents, and it is astonishing how the same questions arise in such culturally disparate circumstances.
 
