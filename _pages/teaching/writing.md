@@ -28,56 +28,57 @@ nav: false
 
 	- It seems conceivable that “psychology could turn out to be like engineering,” as Dennett approvingly quotes from Minsky (p. 268).
 
+
 4. Create **paragraphs** correctly. A paragraph should be several sentences on one topic, theme, issue, or question. When you switch to a new topic, start a new paragraph. The actual length of a paragraph can vary, but, if you need a guide, most of your paragraphs should be about as long as the paragraphs that are in the readings.
 
 5. Don’t ask **rhetorical questions**. A rhetorical question is a question for which the person asking doesn’t expect an answer (the question is just a rhetorical [i.e., stylistic] flourish). For instance, if you’re driving down the highway and someone cuts you off, you might say, “What the heck is that guy thinking?” You don’t expect an answer, and what you really mean is something like “that person isn’t thinking and I don’t like it.” That’s one problem with rhetorical questions. The rhetorical question is not what the writer or speaker actually means. So just say what you want to say in regular, declarative sentences. 
 
-Also, asking rhetorical questions is a sign of laziness. Often, asking a rhetorical question is a lot quicker and easier than clearly explaining what you have in mind. But it’s best to avoid those kinds of shortcuts. (Note that rhetorical questions are different than regular questions. That is, questions for which the person asking is seeking an answer. Those are ok.)
+	Also, asking rhetorical questions is a sign of laziness. Often, asking a rhetorical question is a lot quicker and easier than clearly explaining what you have in mind. But it’s best to avoid those kinds of shortcuts. (Note that rhetorical questions are different than regular questions. That is, questions for which the person asking is seeking an answer. Those are ok.)
 
 6. There are numerous rules for using **commas**. Here are a few that you should know.
 
 	1. When a sentence has an *If …, then …* structure, put a comma before the *then*&mdash;although sometimes the then is omitted, in which case put the comma where the then would be. (And it’s *if …, then …*, not *if …, than …* .)
 
-		If this line of thought is compelling, then we must identify ‘pain’ as a type of psychological state.
+	- If this line of thought is compelling, then we must identify ‘pain’ as a type of psychological state.
 
-		If we consider the case of the eye, we can distinguish a wide variety of structures in a wide variety of organisms.
+	- If we consider the case of the eye, we can distinguish a wide variety of structures in a wide variety of organisms.
 
-		If we know anything about the nature of philosophy, we know that it is not an experimental discipline
+	- If we know anything about the nature of philosophy, we know that it is not an experimental discipline
 
 	2. Put a comma after an introductory word or phrase that begins a sentence. The most common words that begin these types of phrases are *after*, *although*, *as*, *because*, *if*, *since*, *when*, and *while*, but there are many others. Importantly, what comes after the comma should be a complete sentence.
 
-		When the machine is left running alone, each of the lights is on one-quarter of the time.
+	- When the machine is left running alone, each of the lights is on one-quarter of the time.
 
-		On the face of it, this looks like a straightforward case of multiple realization.
+	- On the face of it, this looks like a straightforward case of multiple realization.
 
-		Of course, we think we know what his last words were: “Et tu, Brute.”
+	- Of course, we think we know what his last words were: “Et tu, Brute.”
 
-		In the end, there is no particularly clear way to distinguish kinds of eyes.
+	- In the end, there is no particularly clear way to distinguish kinds of eyes.
 
-		To see this, let’s think about the so called lottery paradox.
+	- To see this, let’s think about the so called lottery paradox.
 
 	3. Use a comma to separate independent clauses that are joined by a conjunction (*and*, *but*, *for*, *or*, *nor*, *yet*). An independent clause is a clause that could, by itself, be a complete sentence. That is, it contains a subject, verb, and direct object.
 
-		I have now taught philosophy on three continents, and it is astonishing how the same questions arise in such culturally disparate circumstances.
+	- I have now taught philosophy on three continents, and it is astonishing how the same questions arise in such culturally disparate circumstances.
 
-		Octopus eyes are more similar to the eyes of fish than they are to the eyes of fruit flies, but in all these cases there are both structural and functional differences. 
+	- Octopus eyes are more similar to the eyes of fish than they are to the eyes of fruit flies, but in all these cases there are both structural and functional differences. 
 
-		All human societies have had knowledge and languages, yet only recently have most societies come to have science.
+	- All human societies have had knowledge and languages, yet only recently have most societies come to have science.
 
 	For this type of comma usage, make sure that the second clause has its own subject. Don’t separate a subject from its verb with a comma. For instance, a comma is not used in the first sentence, but one is needed in the second.
 
-		I drove to campus and went to the library.
+	- I drove to campus and went to the library.
 
-		I drove to campus, and I went to the library.
+	- I drove to campus, and I went to the library.
 
 	Don’t omit the conjunction (the *and*), and then join two independent clauses with a comma. These examples are wrong:
 
-		Mary Shelley’s works are entertaining, they are full of engaging ideas.
+	- Mary Shelley’s works are entertaining, they are full of engaging ideas.
 
-		Many knights have left their lives here, I shall soon have made an end of thee too.
+	- Many knights have left their lives here, I shall soon have made an end of thee too.
 
 	In both cases, there should be an and after the comma. When the conjunction is missing, the result is a comma-splice.
 
-7. For academic papers, the purpose of an **introductory paragraph** is to explain what the author will be doing in the paper, and, in some cases, to state the author’s position (i.e., his or her thesis statement). It’s not to “warm up” the reader, and it should never just be fluff. In this course, your first paragraph should just state, *In this paper, I am, first, going to do x. Then I am going to do y. And then z.* (Probably, the paragraph should just be three or four sentences.) 
+7. For academic papers, the purpose of an **introductory paragraph** is to explain what the author will be doing in the paper, and, in some cases, to state the author’s position (i.e., his or her thesis statement). It’s not to “warm up” the reader, and it should never just be fluff. In this course, your first paragraph should just state *In this paper, I am, first, going to do x. Then I am going to do y. And then z.* (Probably, the paragraph should just be three or four sentences.) 
 
 8. Re-read what you have written and check for **clarity and organization**. An academic paper is never finished after one draft. Every part of your paper (i.e., every sentence and paragraph) should be in the right place, and if it isn’t, it should be moved—and moving sentences or paragraphs also usually means that some re-writing will be required. Make sure that someone else (especially the intended reader) will be able to understand every sentence that you write. Clarity is often achieved by keeping sentences short and simple.
