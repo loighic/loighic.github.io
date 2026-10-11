@@ -10,7 +10,7 @@ nav: false
 
 2. **Don’t plagiarize.** As a general rule, copying five or more consecutive words is plagiarism. But that’s just a guide. Copying eight words, and then changing one in the middle is still plagiarism. One way to avoid plagiarism is to read a passage (maybe more than once), and then, without looking at it, type up the ideas as you remember them. Check that what you have written is accurate, and fix as needed. The result will be in your own words.
 
-	It is also a rule that you have to cite any idea that you take from someone else, even if you aren’t quoting. In this course, this is a good idea, not because I am concerned that you may be stealing someone’s ideas, but so that I can tell which part of the text you are referencing or explaining.
+	It is also a rule that you have to cite any idea that you take from someone else, even if you aren’t quoting. In this course, you should do that with the page number for where the idea can be found.
 
 3. In this course, the **quotations** that you use will be short—probably two sentences at the most. A quotation should not stand alone. It should be embedded in your own sentence. Also note the placement of the end quote (”) and the period in these examples.
 
@@ -30,9 +30,9 @@ nav: false
 
 4. Create **paragraphs** correctly. A paragraph should be several sentences on one topic, theme, issue, or question. When you switch to a new topic, start a new paragraph. The actual length of a paragraph can vary, but, if you need a guide, most of your paragraphs should be about as long as the paragraphs that are in the readings.
 
-5. Don’t ask **rhetorical questions**. A rhetorical question is a question for which the person asking doesn’t expect an answer (the question is just a rhetorical [i.e., stylistic] flourish). For instance, if you’re driving down the highway and someone cuts you off, you might say, “What the heck is that guy thinking?” You don’t expect an answer, and what you really mean is something like “that person isn’t thinking and I don’t like it.” That’s one problem with rhetorical questions. The rhetorical question is not what the writer or speaker actually means. So just say what you want to say in regular, declarative sentences. 
+5. Don’t ask **rhetorical questions**. A rhetorical question is a question for which the person asking doesn’t expect an answer. Instead of seeking an answer, the question is just a rhetorical (i.e., stylistic) flourish. For instance, if you’re driving down the highway and someone cuts you off, you might say, “What the heck is that guy thinking?” You don’t expect an answer, and what you really mean is something like “that person isn’t thinking and I don’t like it.” That’s one problem with rhetorical questions. The rhetorical question is not what the writer or speaker actually means. So just say what you want to say in regular, declarative sentences. 
 
-	Also, asking rhetorical questions is a sign of laziness. Often, asking a rhetorical question is a lot quicker and easier than clearly explaining what you have in mind. But it’s best to avoid those kinds of shortcuts. (Note that rhetorical questions are different than regular questions. That is, questions for which the person asking is seeking an answer. Those are ok.)
+	Also, asking rhetorical questions is a sign of laziness. Often, asking a rhetorical question is a lot quicker and easier than clearly explaining what you have in mind. But it’s best to avoid those kinds of shortcuts. (Note that rhetorical questions are different than regular questions. That is, questions for which the person asking is seeking an answer. Those are ok,  those are ok, although they are not that common in academic papers, and they usually entail the writer also answering the question.)
 
 6. There are numerous rules for using **commas**. Here are a few that you should know.
 
