@@ -9,7 +9,7 @@ category: teaching		# To be used, this category term has to be added to the teac
 
 [reading actively: underlining and writing in the margins](/teaching/reading/)
 
-[two-page writing guidelines](/assets/pdf/22/writing_guidelines.pdf)
+[a short list of writing guidelines](/teaching/writing/) [PDF](/assets/pdf/22/writing_guidelines.pdf)
 
 [the writing center cheat sheet](/assets/pdf/22/wc--cheat_sheet.pdf) (and for MSU students: [https://loighic.net/teaching/wc/](https://loighic.net/teaching/wc/))
 
