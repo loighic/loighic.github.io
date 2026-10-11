@@ -22,12 +22,10 @@ nav: false
 
 	- Feller writes: “All possible definitions of probability fall short of the actual practice” (p. 19).
 
-	Since it will generally be obvious where the quotation is from, only the page number is needed as a citation. 
+	Since it will generally be obvious where the quotation is from, only the page number is needed as a citation. If the quote is in the middle of your sentence and a comma comes after it, put the comma inside the end quote and put the page number at the end of the sentence.
 
 	- <p>It seems conceivable that “psychology could turn out to be like engineering,” as Dennett approvingly quotes from Minsky (p. 268).</p>
 	
-	
-	<p>As is illustrated in the last example, if the quote is in the middle of your sentence and a comma comes after it, put the comma inside the end quote and put the page number at the end of the sentence.</p>
 
 4. Create **paragraphs** correctly. A paragraph should be several sentences on one topic, theme, issue, or question. When you switch to a new topic, start a new paragraph. The actual length of your paragraphs can (and will) vary, but, if you need a guide, most of your paragraphs should be about as long as the paragraphs that are in the readings.
 
