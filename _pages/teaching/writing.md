@@ -26,7 +26,6 @@ nav: false
 
 	- It seems conceivable that “psychology could turn out to be like engineering,” as Dennett approvingly quotes from Minsky (p. 268).
 	
-<!-- -->
 	
 	As is illustrated in the last example, if the quote is in the middle of your sentence and a comma comes after it, put the comma inside the end quote and put the page number at the end of the sentence.
 
