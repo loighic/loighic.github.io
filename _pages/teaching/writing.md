@@ -16,21 +16,23 @@ nav: false
 
 3. In this course, the **quotations** that you use will be short—probably two sentences at the most. A quotation should not stand alone. It should be embedded in your own sentence. Also note the placement of the end quote (”) and the period in these examples.
 
-		- Reilly and Wulfeck conclude that “children with focal brain injury demonstrate remarkable development of language despite early delays” (p. 164).
+	- Reilly and Wulfeck conclude that “children with focal brain injury demonstrate remarkable development of language despite early delays” (p. 164).
 
-		- As Darwin said, without natural selection, we leave “the coadaptations of organic beings to each other and to their physical conditions of life, untouched and unexplained” (p. 4).
+	- As Darwin said, without natural selection, we leave “the coadaptations of organic beings to each other and to their physical conditions of life, untouched and unexplained” (p. 4).
 
-		- Wimsatt contended, “the proper model for the mind-body problem is interlevel reduction” (p. 215).
+	- Wimsatt contended, “the proper model for the mind-body problem is interlevel reduction” (p. 215).
 
-		- Feller writes: “All possible definitions of probability fall short of the actual practice” (p. 19).
+	- Feller writes: “All possible definitions of probability fall short of the actual practice” (p. 19).
 
 	Since it will generally be obvious where the quotation is from, only the page number is needed as a citation. If the quote is in the middle of your sentence and a comma comes after it, put the comma inside the end quote and put the page number at the end of the sentence.
 
-		- It seems conceivable that “psychology could turn out to be like engineering,” as Dennett approvingly quotes from Minsky (p. 268).
+	- It seems conceivable that “psychology could turn out to be like engineering,” as Dennett approvingly quotes from Minsky (p. 268).
 
 4. Create **paragraphs** correctly. A paragraph should be several sentences on one topic, theme, issue, or question. When you switch to a new topic, start a new paragraph. The actual length of a paragraph can vary, but, if you need a guide, most of your paragraphs should be about as long as the paragraphs that are in the readings.
 
-5. Don’t ask **rhetorical questions**. A rhetorical question is a question for which the person asking doesn’t expect an answer (the question is just a rhetorical [i.e., stylistic] flourish). For instance, if you’re driving down the highway and someone cuts you off, you might say, “What the heck is that guy thinking?” You don’t expect an answer, and what you really mean is something like “that person isn’t thinking and I don’t like it.” That’s one problem with rhetorical questions. The rhetorical question is not what the writer or speaker actually means. So just say what you want to say in regular, declarative sentences. Also, asking rhetorical questions is a sign of laziness. Often, asking a rhetorical question is a lot quicker and easier than clearly explaining what you have in mind. But it’s best to avoid those kinds of shortcuts. (Note that rhetorical questions are different than regular questions. That is, questions for which the person asking is seeking an answer. Those are ok.)
+5. Don’t ask **rhetorical questions**. A rhetorical question is a question for which the person asking doesn’t expect an answer (the question is just a rhetorical [i.e., stylistic] flourish). For instance, if you’re driving down the highway and someone cuts you off, you might say, “What the heck is that guy thinking?” You don’t expect an answer, and what you really mean is something like “that person isn’t thinking and I don’t like it.” That’s one problem with rhetorical questions. The rhetorical question is not what the writer or speaker actually means. So just say what you want to say in regular, declarative sentences. 
+
+Also, asking rhetorical questions is a sign of laziness. Often, asking a rhetorical question is a lot quicker and easier than clearly explaining what you have in mind. But it’s best to avoid those kinds of shortcuts. (Note that rhetorical questions are different than regular questions. That is, questions for which the person asking is seeking an answer. Those are ok.)
 
 6. There are numerous rules for using **commas**. Here are a few that you should know.
 
