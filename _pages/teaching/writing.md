@@ -1,33 +1,32 @@
 ---
 layout: page
 permalink: /teaching/writing/
-title: Writing guidelines
+title: A short list of writing guidelines
 nav: false
 ---
-
-### A short list
 
 
 1. **Capitalize** words correctly. Words that obviously should be capitalized—e.g., the first word of a sentence, “I”—should always be capitalized. That’s easy; don’t mess it up. Words that are not proper nouns should not be capitalized. If you are not sure whether or not a particular word should be capitalized, check the reading and see how the author writes it.
 
 2. **Don’t plagiarize.** See this for guidance: https://plagiarism.iu.edu/overview/shouldDo.html.
 
-As a general rule, copying five or more consecutive words is plagiarism. But that’s just a guide. Copying eight words, and then changing one in the middle is still plagiarism. One way to avoid plagiarism is to read a passage (maybe more than once), and then, without looking at it, type up the ideas as you remember them. Check that what you have written is accurate, and fix as needed. The result will be in your own words.
-It is also a rule that you have to cite any idea that you take from someone else, even if you aren’t quoting. In this course, this is a good idea, not because I am concerned that you may be stealing someone’s ideas, but so that I can tell which part of the text you are referring to or explaining.
+	As a general rule, copying five or more consecutive words is plagiarism. But that’s just a guide. Copying eight words, and then changing one in the middle is still plagiarism. One way to avoid plagiarism is to read a passage (maybe more than once), and then, without looking at it, type up the ideas as you remember them. Check that what you have written is accurate, and fix as needed. The result will be in your own words.
+
+	It is also a rule that you have to cite any idea that you take from someone else, even if you aren’t quoting. In this course, this is a good idea, not because I am concerned that you may be stealing someone’s ideas, but so that I can tell which part of the text you are referring to or explaining.
 
 3. In this course, the **quotations** that you use will be short—probably two sentences at the most. A quotation should not stand alone. It should be embedded in your own sentence. Also note the placement of the end quote (”) and the period in these examples.
 
-	Reilly and Wulfeck conclude that “children with focal brain injury demonstrate remarkable development of language despite early delays” (p. 164).
+		- Reilly and Wulfeck conclude that “children with focal brain injury demonstrate remarkable development of language despite early delays” (p. 164).
 
-	As Darwin said, without natural selection, we leave “the coadaptations of organic beings to each other and to their physical conditions of life, untouched and unexplained” (p. 4).
+		- As Darwin said, without natural selection, we leave “the coadaptations of organic beings to each other and to their physical conditions of life, untouched and unexplained” (p. 4).
 
-	Wimsatt contended, “the proper model for the mind-body problem is interlevel reduction” (p. 215).
+		- Wimsatt contended, “the proper model for the mind-body problem is interlevel reduction” (p. 215).
 
-	Feller writes: “All possible definitions of probability fall short of the actual practice” (p. 19).
+		- Feller writes: “All possible definitions of probability fall short of the actual practice” (p. 19).
 
-Since it will generally be obvious where the quotation is from, only the page number is needed as a citation. If the quote is in the middle of your sentence and a comma comes after it, put the comma inside the end quote and put the page number at the end of the sentence.
+	Since it will generally be obvious where the quotation is from, only the page number is needed as a citation. If the quote is in the middle of your sentence and a comma comes after it, put the comma inside the end quote and put the page number at the end of the sentence.
 
-	It seems conceivable that “psychology could turn out to be like engineering,” as Dennett approvingly quotes from Minsky (p. 268).
+		- It seems conceivable that “psychology could turn out to be like engineering,” as Dennett approvingly quotes from Minsky (p. 268).
 
 4. Create **paragraphs** correctly. A paragraph should be several sentences on one topic, theme, issue, or question. When you switch to a new topic, start a new paragraph. The actual length of a paragraph can vary, but, if you need a guide, most of your paragraphs should be about as long as the paragraphs that are in the readings.
 
